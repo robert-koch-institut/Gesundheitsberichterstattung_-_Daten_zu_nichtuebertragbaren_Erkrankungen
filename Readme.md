@@ -308,11 +308,11 @@ Die Erfassung des Grades der sozialen Unterstützung wird mittels der etablierte
 
 GEDA 2009, GEDA 2010, GEDA 2012, GEDA 2014/2015-EHIS, GEDA 2019/2020-EHIS, GEDA 2022, GEDA 2023
 
-1. „Wie viele Menschen stehen Ihnen so nahe, dass Sie sich auf sie verlassen können, wenn Sie ernste persönliche Probleme haben?“
+* „Wie viele Menschen stehen Ihnen so nahe, dass Sie sich auf sie verlassen können, wenn Sie ernste persönliche Probleme haben?“
 	+ Antwortmöglichkeiten: „Keine“ (1), „1 bis 2“ (2), „3 bis 5“ (3), „6 oder mehr“ (4)
-2. „Wie viel Anteilnahme und Interesse zeigen andere Menschen an dem, was Sie tun?“
+* „Wie viel Anteilnahme und Interesse zeigen andere Menschen an dem, was Sie tun?“
 	+ Antwortmöglichkeiten: „Sehr viel Anteilnahme und Interesse“ (5), „Viel Anteilnahme und Interesse“ (4), „Weder viel noch wenig“ (3), „Wenig Anteilnahme und Interesse“ (2), „Keine Anteilnahme und Interesse“ (1)
-3. „Wie einfach ist es für Sie, praktische Hilfe von Nachbarn zu erhalten, wenn Sie diese benötigen?“
+* „Wie einfach ist es für Sie, praktische Hilfe von Nachbarn zu erhalten, wenn Sie diese benötigen?“
 	+ Antwortmöglichkeiten: „Sehr einfach“ (5), „Einfach“ (4), „Möglich“ (3), „Schwierig“ (2), „Sehr schwierig“ (1)
  
  Anhand der Antworten wird ein Summenscore gebildet (Range: 3 – 14): „Geringe soziale Unterstützung“ wird bei Punktwerten 3 – 8, „mittlere soziale Unterstützung“ bei Punktwerten 9 – 11 und „starke soziale Unterstützung“ bei Punktwerten 12 – 14 angenommen.
