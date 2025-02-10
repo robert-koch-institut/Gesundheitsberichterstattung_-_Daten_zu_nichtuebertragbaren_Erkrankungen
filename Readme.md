@@ -80,20 +80,20 @@ Bestimmte Verhaltensweisen können Einfluss darauf nehmen, wie wahrscheinlich Me
 
 | Indikator | Indikator_ID | Datenstand | Website |
 |-----------|--------------|------------|:-------:|
-| [Soziale Unterstützung (ab 18 Jahre)](#indikator-soziale-unterst%C3%BCtzung-ab-18-jahre) | `1010301` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/soziale-unterstuetzung) |
-| [Bewegungsverhalten (ab 18 Jahre)](#indikator-bewegungsverhalten-ab-18-jahre) | `1020101` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/bewegungsverhalten) |
-| [Sitzen (ab 18 Jahre)](#indikator-sitzen-ab-18-jahre) | `1020102` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/sitzen) |
-| [Aktive Mobilität (ab 18 Jahre)](#indikator-aktive-mobilit%C3%A4t-ab-18-jahre) | `1020103` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/aktive-mobilitaet) |
-| [Adipositas und Übergewicht (ab 18 Jahre)](#indikator-adipositas-und-%C3%BCbergewicht-ab-18-jahre) | `1020201` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/adipositas-und-uebergewicht) |
-| [Fleischkonsum (ab 18 Jahre)](#indikator-fleischkonsum-ab-18-jahre) | `1020301` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/fleischkonsum) |
-| [Obst- und Gemüsekonsum (ab 18 Jahre)](#indikator-obst--und-gem%C3%BCsekonsum-ab-18-jahre) | `1020302` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/obst-und-gemuesekonsum) |
-| [Zuckerhaltige Erfrischungsgetränke (ab 18 Jahre)](#indikator-zuckerhaltige-erfrischungsgetr%C3%A4nke-ab-18-jahre) | `1020303` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/zuckerhaltige-erfrischungsgetraenke) |
-| [Alkohol: Riskanter Konsum (ab 18 Jahre)](#indikator-alkohol-riskanter-konsum-ab-18-jahre) | `1020401` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/riskanter-alkoholkonsum) |
-| [Rauschtrinken (ab 18 Jahre)](#indikator-rauschtrinken-ab-18-jahre) | `1020402` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/rauschtrinken) |
-| [Rauchen (ab 18 Jahre)](#indikator-rauchen-ab-18-jahre) | `1020501` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/rauchen) |
-| [Passivrauchbelastung (ab 18 Jahre)](#indikator-passivrauchbelastung-ab-18-jahre) | `1020502` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/passivrauchbelastung) |
-| [Diabetes: 10-Jahres-Risiko (18 – 79 Jahre)](#indikator-diabetes-10-jahres-risiko-18--79-jahre) | `1030101` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/diabetes-risiko) |
-| [Herz-Kreislauf-Erkrankung: 10-Jahres-Risiko (18 – 79 Jahre)](#indikator-herz-kreislauf-erkrankung-10-jahres-risiko-18--79-jahre) | `1030102` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/hke-risiko) |
+| [Soziale Unterstützung (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-soziale-unterst%C3%BCtzung-ab-18-jahre) | `1010301` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/soziale-unterstuetzung) |
+| [Bewegungsverhalten (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-bewegungsverhalten-ab-18-jahre) | `1020101` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/bewegungsverhalten) |
+| [Sitzen (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-sitzen-ab-18-jahre) | `1020102` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/sitzen) |
+| [Aktive Mobilität (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-aktive-mobilit%C3%A4t-ab-18-jahre) | `1020103` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/aktive-mobilitaet) |
+| [Adipositas und Übergewicht (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-adipositas-und-%C3%BCbergewicht-ab-18-jahre) | `1020201` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/adipositas-und-uebergewicht) |
+| [Fleischkonsum (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-fleischkonsum-ab-18-jahre) | `1020301` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/fleischkonsum) |
+| [Obst- und Gemüsekonsum (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-obst--und-gem%C3%BCsekonsum-ab-18-jahre) | `1020302` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/obst-und-gemuesekonsum) |
+| [Zuckerhaltige Erfrischungsgetränke (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-zuckerhaltige-erfrischungsgetr%C3%A4nke-ab-18-jahre) | `1020303` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/zuckerhaltige-erfrischungsgetraenke) |
+| [Alkohol: Riskanter Konsum (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-alkohol-riskanter-konsum-ab-18-jahre) | `1020401` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/riskanter-alkoholkonsum) |
+| [Rauschtrinken (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-rauschtrinken-ab-18-jahre) | `1020402` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/rauschtrinken) |
+| [Rauchen (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-rauchen-ab-18-jahre) | `1020501` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/rauchen) |
+| [Passivrauchbelastung (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-passivrauchbelastung-ab-18-jahre) | `1020502` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/passivrauchbelastung) |
+| [Diabetes: 10-Jahres-Risiko (18 – 79 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-diabetes-10-jahres-risiko-18--79-jahre) | `1030101` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/diabetes-risiko) |
+| [Herz-Kreislauf-Erkrankung: 10-Jahres-Risiko (18 – 79 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-herz-kreislauf-erkrankung-10-jahres-risiko-18--79-jahre) | `1030102` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/hke-risiko) |
 
 
 ### Gesundheitszustand
@@ -102,40 +102,40 @@ Die Gesundheit der Bevölkerung kann anhand unterschiedlicher Themen beschrieben
 
 | Indikator | Indikator_ID | Datenstand | Website |
 |-----------|--------------|------------|:-------:|
-| [Selbsteingeschätzte allgemeine Gesundheit (ab 18 Jahre)](#indikator-selbsteingesch%C3%A4tzte-allgemeine-gesundheit-ab-18-jahre) | `2010101` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/selbsteingeschaetzte-allgemeine-gesundheit) |
-| [Selbsteingeschätzte psychische Gesundheit (ab 18 Jahre)](#indikator-selbsteingesch%C3%A4tzte-psychische-gesundheit-ab-18-jahre) | `2010102` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/selbsteingeschaetzte-psychische-gesundheit) |
-| [Koronare Herzkrankheit: Prävalenz (ab 18 Jahre)](#indikator-koronare-herzkrankheit-pr%C3%A4valenz-ab-18-jahre) | `2020101` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/khk-praevalenz) |
-| [Koronare Herzkrankheit: Sterblichkeit](#indikator-koronare-herzkrankheit-sterblichkeit) | `2020102` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/khk-sterblichkeit) |
-| [Schlaganfall: Prävalenz (ab 18 Jahre)](#indikator-schlaganfall-pr%C3%A4valenz-ab-18-jahre) | `2020103` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/schlaganfall-praevalenz) |
-| [Schlaganfall: Sterblichkeit](#indikator-schlaganfall-sterblichkeit) | `2020104` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/schlaganfall-sterblichkeit) |
-| [Diabetes Typ 1: Inzidenz (0 – 17 Jahre)](#indikator-diabetes-typ-1-inzidenz-0--17-jahre) | `2020201` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/t1d-inzidenz-unter-18) |
-| [Diabetes Typ 2: Inzidenz (11 – 17 Jahre)](#indikator-diabetes-typ-2-inzidenz-11--17-jahre) | `2020202` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/t2d-inzidenz-unter-18) |
-| [Diabetes Typ 1: Prävalenz (0 – 17 Jahre)](#indikator-diabetes-typ-1-pr%C3%A4valenz-0--17-jahre) | `2020203` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/t1d-praevalenz-unter-18) |
-| [Diabetes Typ 2: Prävalenz (11 – 17 Jahre)](#indikator-diabetes-typ-2-pr%C3%A4valenz-11--17-jahre) | `2020204` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/t2d-praevalenz-unter-18) |
-| [Diabetes mellitus: Prävalenz (ab 18 Jahre)](#indikator-diabetes-mellitus-pr%C3%A4valenz-ab-18-jahre) | `2020206` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/diabetes-praevalenz) |
-| [Diabetes mellitus: Sterblichkeit](#indikator-diabetes-mellitus-sterblichkeit) | `2020207` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/diabetes-sterblichkeit) |
-| [Gestationsdiabetes mellitus: Prävalenz](#indikator-gestationsdiabetes-mellitus-pr%C3%A4valenz) | `2020208` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/gestationsdiabetes) |
-| [Brustkrebs: Inzidenz](#indikator-brustkrebs-inzidenz) | `2020301` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/brustkrebs-inzidenz) |
-| [Brustkrebs: Sterblichkeit](#indikator-brustkrebs-sterblichkeit) | `2020302` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/brustkrebs-sterblichkeit) |
-| [Darmkrebs: Inzidenz](#indikator-darmkrebs-inzidenz) | `2020303` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/darmkrebs-inzidenz) |
-| [Darmkrebs: Sterblichkeit](#indikator-darmkrebs-sterblichkeit) | `2020304` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/darmkrebs-sterblichkeit) |
-| [COPD: Prävalenz (ab 45 Jahre)](#indikator-copd-pr%C3%A4valenz-ab-45-jahre) | `2020401` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/copd-praevalenz) |
-| [Asthma: Prävalenz (ab 18 Jahre)](#indikator-asthma-pr%C3%A4valenz-ab-18-jahre) | `2020403` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/asthma-praevalenz) |
-| [Arthrose: Prävalenz (ab 18 Jahre)](#indikator-arthrose-pr%C3%A4valenz-ab-18-jahre) | `2020501` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/arthrose-praevalenz) |
-| [Unfallverletzungen (ab 18 Jahre)](#indikator-unfallverletzungen-ab-18-jahre) | `2030101` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/unfallverletzungen) |
-| [Stürze (ab 65 Jahre)](#indikator-st%C3%BCrze-ab-65-jahre) | `2030102` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/stuerze) |
-| [Psychische Störungen: Administrative Prävalenz (ab 18 Jahre)](#indikator-psychische-st%C3%B6rungen-administrative-pr%C3%A4valenz-ab-18-jahre) | `2040101` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/psychische-stoerungen-admin-praevalenz) |
-| [Depression: Administrative Prävalenz (ab 18 Jahre)](#indikator-depression-administrative-pr%C3%A4valenz-ab-18-jahre) | `2040201` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/depression-admin-praevalenz) |
-| [Depressive Symptomatik: Prävalenz (ab 18 Jahre)](#indikator-depressive-symptomatik-pr%C3%A4valenz-ab-18-jahre) | `2040202` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/depressive-symptomatik) |
-| [Angststörungen: Administrative Prävalenz (ab 18 Jahre)](#indikator-angstst%C3%B6rungen-administrative-pr%C3%A4valenz-ab-18-jahre) | `2040301` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/angststoerungen-admin-praevalenz) |
-| [Angstsymptome: Prävalenz (ab 18 Jahre)](#indikator-angstsymptome-pr%C3%A4valenz-ab-18-jahre) | `2040302` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/angstsymptome) |
-| [Sterblichkeit](#indikator-sterblichkeit) | `2050101` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/sterblichkeit) |
-| [Lebenserwartung](#indikator-lebenserwartung) | `2050103` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/lebenserwartung) |
-| [Körperliche Einschränkungen (ab 18 Jahre)](#indikator-k%C3%B6rperliche-einschr%C3%A4nkungen-ab-18-jahre) | `2050301` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/koerperliche-einschraenkungen) |
-| [Kognitive Einschränkungen (ab 18 Jahre)](#indikator-kognitive-einschr%C3%A4nkungen-ab-18-jahre) | `2050302` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/kognitive-einschraenkungen) |
-| [Einschränkungen bei Alltagsaktivitäten (ab 18 Jahre)](#indikator-einschr%C3%A4nkungen-bei-alltagsaktivit%C3%A4ten-ab-18-jahre) | `2050303` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/gali) |
-| [Einschränkungen in instrumentellen Aktivitäten des täglichen Lebens (ab 65 Jahre)](#indikator-einschr%C3%A4nkungen-in-instrumentellen-aktivit%C3%A4ten-des-t%C3%A4glichen-lebens-ab-65-jahre) | `2050304` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/iadl) |
-| [Chronisches Kranksein (ab 18 Jahre)](#indikator-chronisches-kranksein-ab-18-jahre) | `2050305` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/chronisches-kranksein) |
+| [Selbsteingeschätzte allgemeine Gesundheit (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-selbsteingesch%C3%A4tzte-allgemeine-gesundheit-ab-18-jahre) | `2010101` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/selbsteingeschaetzte-allgemeine-gesundheit) |
+| [Selbsteingeschätzte psychische Gesundheit (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-selbsteingesch%C3%A4tzte-psychische-gesundheit-ab-18-jahre) | `2010102` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/selbsteingeschaetzte-psychische-gesundheit) |
+| [Koronare Herzkrankheit: Prävalenz (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-koronare-herzkrankheit-pr%C3%A4valenz-ab-18-jahre) | `2020101` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/khk-praevalenz) |
+| [Koronare Herzkrankheit: Sterblichkeit](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-koronare-herzkrankheit-sterblichkeit) | `2020102` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/khk-sterblichkeit) |
+| [Schlaganfall: Prävalenz (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-schlaganfall-pr%C3%A4valenz-ab-18-jahre) | `2020103` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/schlaganfall-praevalenz) |
+| [Schlaganfall: Sterblichkeit](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-schlaganfall-sterblichkeit) | `2020104` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/schlaganfall-sterblichkeit) |
+| [Diabetes Typ 1: Inzidenz (0 – 17 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-diabetes-typ-1-inzidenz-0--17-jahre) | `2020201` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/t1d-inzidenz-unter-18) |
+| [Diabetes Typ 2: Inzidenz (11 – 17 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-diabetes-typ-2-inzidenz-11--17-jahre) | `2020202` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/t2d-inzidenz-unter-18) |
+| [Diabetes Typ 1: Prävalenz (0 – 17 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-diabetes-typ-1-pr%C3%A4valenz-0--17-jahre) | `2020203` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/t1d-praevalenz-unter-18) |
+| [Diabetes Typ 2: Prävalenz (11 – 17 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-diabetes-typ-2-pr%C3%A4valenz-11--17-jahre) | `2020204` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/t2d-praevalenz-unter-18) |
+| [Diabetes mellitus: Prävalenz (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-diabetes-mellitus-pr%C3%A4valenz-ab-18-jahre) | `2020206` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/diabetes-praevalenz) |
+| [Diabetes mellitus: Sterblichkeit](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-diabetes-mellitus-sterblichkeit) | `2020207` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/diabetes-sterblichkeit) |
+| [Gestationsdiabetes mellitus: Prävalenz](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-gestationsdiabetes-mellitus-pr%C3%A4valenz) | `2020208` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/gestationsdiabetes) |
+| [Brustkrebs: Inzidenz](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-brustkrebs-inzidenz) | `2020301` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/brustkrebs-inzidenz) |
+| [Brustkrebs: Sterblichkeit](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-brustkrebs-sterblichkeit) | `2020302` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/brustkrebs-sterblichkeit) |
+| [Darmkrebs: Inzidenz](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-darmkrebs-inzidenz) | `2020303` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/darmkrebs-inzidenz) |
+| [Darmkrebs: Sterblichkeit](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-darmkrebs-sterblichkeit) | `2020304` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/darmkrebs-sterblichkeit) |
+| [COPD: Prävalenz (ab 45 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-copd-pr%C3%A4valenz-ab-45-jahre) | `2020401` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/copd-praevalenz) |
+| [Asthma: Prävalenz (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-asthma-pr%C3%A4valenz-ab-18-jahre) | `2020403` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/asthma-praevalenz) |
+| [Arthrose: Prävalenz (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-arthrose-pr%C3%A4valenz-ab-18-jahre) | `2020501` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/arthrose-praevalenz) |
+| [Unfallverletzungen (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-unfallverletzungen-ab-18-jahre) | `2030101` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/unfallverletzungen) |
+| [Stürze (ab 65 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-st%C3%BCrze-ab-65-jahre) | `2030102` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/stuerze) |
+| [Psychische Störungen: Administrative Prävalenz (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-psychische-st%C3%B6rungen-administrative-pr%C3%A4valenz-ab-18-jahre) | `2040101` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/psychische-stoerungen-admin-praevalenz) |
+| [Depression: Administrative Prävalenz (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-depression-administrative-pr%C3%A4valenz-ab-18-jahre) | `2040201` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/depression-admin-praevalenz) |
+| [Depressive Symptomatik: Prävalenz (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-depressive-symptomatik-pr%C3%A4valenz-ab-18-jahre) | `2040202` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/depressive-symptomatik) |
+| [Angststörungen: Administrative Prävalenz (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-angstst%C3%B6rungen-administrative-pr%C3%A4valenz-ab-18-jahre) | `2040301` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/angststoerungen-admin-praevalenz) |
+| [Angstsymptome: Prävalenz (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-angstsymptome-pr%C3%A4valenz-ab-18-jahre) | `2040302` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/angstsymptome) |
+| [Sterblichkeit](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-sterblichkeit) | `2050101` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/sterblichkeit) |
+| [Lebenserwartung](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-lebenserwartung) | `2050103` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/lebenserwartung) |
+| [Körperliche Einschränkungen (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-k%C3%B6rperliche-einschr%C3%A4nkungen-ab-18-jahre) | `2050301` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/koerperliche-einschraenkungen) |
+| [Kognitive Einschränkungen (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-kognitive-einschr%C3%A4nkungen-ab-18-jahre) | `2050302` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/kognitive-einschraenkungen) |
+| [Einschränkungen bei Alltagsaktivitäten (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-einschr%C3%A4nkungen-bei-alltagsaktivit%C3%A4ten-ab-18-jahre) | `2050303` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/gali) |
+| [Einschränkungen in instrumentellen Aktivitäten des täglichen Lebens (ab 65 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-einschr%C3%A4nkungen-in-instrumentellen-aktivit%C3%A4ten-des-t%C3%A4glichen-lebens-ab-65-jahre) | `2050304` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/iadl) |
+| [Chronisches Kranksein (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-chronisches-kranksein-ab-18-jahre) | `2050305` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/chronisches-kranksein) |
 
 
 ### Gesundheitsförderung, Prävention und Versorgung
@@ -144,15 +144,15 @@ Im Bereich Gesundheitsförderung und Prävention werden die Inanspruchnahme von 
 
 | Indikator | Indikator_ID | Datenstand | Website |
 |-----------|--------------|------------|:-------:|
-| [Zahnvorsorgeuntersuchungen (ab 18 Jahre)](#indikator-zahnvorsorgeuntersuchungen-ab-18-jahre) | `3010101` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/zahnvorsorge) |
-| [Influenza: Impfquote (ab 60 Jahre)](#indikator-influenza-impfquote-ab-60-jahre) | `3010102` | 17.&nbsp;Dezember&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/influenzaimpfung) |
-| [Darmkrebsfrüherkennung (ab 50/55 Jahre)](#indikator-darmkrebsfr%C3%BCherkennung-ab-5055-jahre) | `3010103` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/darmkrebsfrueherkennung) |
-| [Inanspruchnahme allgemeinärztlicher Leistungen (ab 18 Jahre)](#indikator-inanspruchnahme-allgemein%C3%A4rztlicher-leistungen-ab-18-jahre) | `3020101` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/allgemeinaerztliche-versorgung) |
-| [Inanspruchnahme fachärztlicher Leistungen (ab 18 Jahre)](#indikator-inanspruchnahme-fach%C3%A4rztlicher-leistungen-ab-18-jahre) | `3020102` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/fachaerztliche-versorgung) |
-| [Inanspruchnahme von Krankenhausversorgung (ab 18 Jahre)](#indikator-inanspruchnahme-von-krankenhausversorgung-ab-18-jahre) | `3020201` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/krankenhausversorgung) |
-| [Pflegeleistungen](#indikator-pflegeleistungen) | `3020301` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/pflegeleistungen) |
-| [Diabetesbedingte Amputationen (ab 15 Jahre)](#indikator-diabetesbedingte-amputationen-ab-15-jahre) | `3020401` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/diabetes-amputationen) |
-| [Diabetes: Ambulant-sensitive Krankenhausfälle (ab 15 Jahre)](#indikator-diabetes-ambulant-sensitive-krankenhausf%C3%A4lle-ab-15-jahre) | `3020402` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/diabetes-krankenhausfaelle) |
+| [Zahnvorsorgeuntersuchungen (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-zahnvorsorgeuntersuchungen-ab-18-jahre) | `3010101` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/zahnvorsorge) |
+| [Influenza: Impfquote (ab 60 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-influenza-impfquote-ab-60-jahre) | `3010102` | 17.&nbsp;Dezember&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/influenzaimpfung) |
+| [Darmkrebsfrüherkennung (ab 50/55 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-darmkrebsfr%C3%BCherkennung-ab-5055-jahre) | `3010103` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/darmkrebsfrueherkennung) |
+| [Inanspruchnahme allgemeinärztlicher Leistungen (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-inanspruchnahme-allgemein%C3%A4rztlicher-leistungen-ab-18-jahre) | `3020101` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/allgemeinaerztliche-versorgung) |
+| [Inanspruchnahme fachärztlicher Leistungen (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-inanspruchnahme-fach%C3%A4rztlicher-leistungen-ab-18-jahre) | `3020102` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/fachaerztliche-versorgung) |
+| [Inanspruchnahme von Krankenhausversorgung (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-inanspruchnahme-von-krankenhausversorgung-ab-18-jahre) | `3020201` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/krankenhausversorgung) |
+| [Pflegeleistungen](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-pflegeleistungen) | `3020301` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/pflegeleistungen) |
+| [Diabetesbedingte Amputationen (ab 15 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-diabetesbedingte-amputationen-ab-15-jahre) | `3020401` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/diabetes-amputationen) |
+| [Diabetes: Ambulant-sensitive Krankenhausfälle (ab 15 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-diabetes-ambulant-sensitive-krankenhausf%C3%A4lle-ab-15-jahre) | `3020402` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/diabetes-krankenhausfaelle) |
 
 
 ### Rahmenbedingungen
@@ -161,14 +161,14 @@ Neben den individuellen Verhaltensweisen beeinflussen auch die vorliegenden Rahm
 
 | Indikator | Indikator_ID | Datenstand | Website |
 |-----------|--------------|------------|:-------:|
-| [Tabakkontrolle](#indikator-tabakkontrolle) | `4010101` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/tabakkontrolle) |
-| [Lebensmittelbesteuerung](#indikator-lebensmittelbesteuerung) | `4010102` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/lebensmittelbesteuerung) |
-| [Präventionsausgaben](#indikator-pr%C3%A4ventionsausgaben) | `4010103` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/praeventionsausgaben) |
-| [Verbraucherpreisindex](#indikator-verbraucherpreisindex) | `4020101` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/verbraucherpreisindex) |
-| [Armutsrisikoquote](#indikator-armutsrisikoquote) | `4020102` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/armutsrisikoquote) |
-| [Arbeitslosenquote (15 – 64 Jahre)](#indikator-arbeitslosenquote-15--64-jahre) | `4020103` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/arbeitslosenquote) |
-| [Hochschulbildung (ab 25 Jahre)](#indikator-hochschulbildung-ab-25-jahre) | `4020104` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/hochschulbildung) |
-| [Verkehrsmittelnutzung](#indikator-verkehrsmittelnutzung) | `4030101` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/verkehrsmittelnutzung) |
+| [Tabakkontrolle](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-tabakkontrolle) | `4010101` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/tabakkontrolle) |
+| [Lebensmittelbesteuerung](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-lebensmittelbesteuerung) | `4010102` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/lebensmittelbesteuerung) |
+| [Präventionsausgaben](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-pr%C3%A4ventionsausgaben) | `4010103` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/praeventionsausgaben) |
+| [Verbraucherpreisindex](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-verbraucherpreisindex) | `4020101` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/verbraucherpreisindex) |
+| [Armutsrisikoquote](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-armutsrisikoquote) | `4020102` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/armutsrisikoquote) |
+| [Arbeitslosenquote (15 – 64 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-arbeitslosenquote-15--64-jahre) | `4020103` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/arbeitslosenquote) |
+| [Hochschulbildung (ab 25 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-hochschulbildung-ab-25-jahre) | `4020104` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/hochschulbildung) |
+| [Verkehrsmittelnutzung](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-verkehrsmittelnutzung) | `4030101` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/verkehrsmittelnutzung) |
 
 
 ## Aufbau und Inhalt des Datensatzes  
@@ -210,7 +210,7 @@ Die Datei [GBE_Indikatoren_nichtuebertragbarer_Erkrankungen.tsv](https://github.
 | Geschlecht_Name               | string  | Werte: `Gesamt`, `Weiblich`, `Männlich`<br>Fehlende Werte: `NA`                                                                                  | Textliche Bezeichnung des Geschlechts. Enthält `NA`, wenn der Indikator nicht auf Geschlecht bezogen ist.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Alter_ID                      | string  | Werte: `00+`, `11-13`, `14-17`, `15-24`, `15-29`, `15-59`, `18-24`, …<br>Fehlende Werte: `NA`                                                    | Altersgruppen in Jahren in der Form "von-bis", z.B. `30-39`= 30-39 Jahre, oder in der Form "von+", z.B. `75+` = >=75 Jahre. Der Wert `00+` beinhaltet alle Altersgruppen. Enthält `NA`, wenn der Indikator nicht altersbezogen ist.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Alter_Name                    | string  | Werte: `Alle Altersgruppen`, `11-13 Jahre`, `14-17 Jahre`, `15-24 Jahre`, `15-29 Jahre`, `15-59 Jahre`, `18-24 Jahre`, …<br>Fehlende Werte: `NA` | Textliche Bezeichnung der Altersgruppe. Enthält `NA`, wenn der Indikator nicht altersbezogen ist.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Region_ID                     | string  | Werte: `00`, `01`, `02`, `03`, `04`, `05`, `06`, …                                                                                               | Land, Bundesland bzw. Region: `00` = Deutschland, `01`-`16` = Bundesländer, `21`-`25` = Zusammenfassung der Bundesländer in fünf Regionen (siehe [Regionalcodes](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/edit/main/Readme.md#regionalcodes)), `AT`-`UA` = europäische Länder nach ISO 3166-1-ALPHA-2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Region_ID                     | string  | Werte: `00`, `01`, `02`, `03`, `04`, `05`, `06`, …                                                                                               | Land, Bundesland bzw. Region: `00` = Deutschland, `01`-`16` = Bundesländer, `21`-`25` = Zusammenfassung der Bundesländer in fünf Regionen (siehe [Regionalcodes](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#regionalcodes)), `AT`-`UA` = europäische Länder nach ISO 3166-1-ALPHA-2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | Region_Name                   | string  | Werte: `Baden-Württemberg`, `Bayern`, `Belgien`, `Berlin`, `Bosnien und Herzegowina`, `Brandenburg`, `Bremen`, …                                 | Textliche Bezeichnung der Region                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Bildung_Casmin_ID             | integer | Werte: `0` - `3`<br>Fehlende Werte: `NA`                                                                                                         | Bildungsstatus anhand des CASMIN-Indexes ([Brauns et al. 2003](https://doi.org/10.1007/978-1-4419-9186-7_11)). Dieser verwendet Angaben zu schulischer und beruflicher Bildung und ermöglicht die Einteilung des Bildungsstatus in `1` = niedrig, `2` = mittel und `3` = hoch. Die Ausprägung `0` = Gesamt beinhaltet alle Bildungsgruppen. Enthält `NA`, wenn der Indikator nicht nach Bildung stratifiziert wurde.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Bildung_Casmin_Name           | string  | Werte: `Gesamt`, `niedrig`, `mittel`, `hoch`<br>Fehlende Werte: `NA`                                                                             | Textliche Bezeichnung der Bildung. Enthält `NA`, wenn der Indikator nicht nach Bildung stratifiziert wurde.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -378,7 +378,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * [EHIS: European Health Interview Survey](https://ec.europa.eu/eurostat/de/web/microdata/european-health-interview-survey "Externer Link&nbsp;zur Webseite:  Mikrodaten - Europäische Gesundheitsumfrage (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Bewegungsverhalten (ab 18 Jahre)'
 
@@ -456,7 +456,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * [EHIS: European Health Interview Survey](https://ec.europa.eu/eurostat/de/web/microdata/european-health-interview-survey "Externer Link&nbsp;zur Webseite:  Mikrodaten - Europäische Gesundheitsumfrage (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Sitzen (ab 18 Jahre)'
 
@@ -511,7 +511,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * **Regionale Unterschiede**: Statistisch signifikante Unterschiede zwischen den Bundesländern und dem Bundesdurchschnitt wurden mittels Chi-Quadrat-Test unter Adjustierung für multiples Testen ermittelt. Dabei wurden die einzelnen Bundesländer im Vergleich zu den jeweils verbleibenden Bundesländern (zusammengefasst) getestet. Die Einteilung in der Karte erfolgt anhand von fünf äquidistanten Kategorien.
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Aktive Mobilität (ab 18 Jahre)'
 
@@ -579,7 +579,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * [EHIS: European Health Interview Survey](https://ec.europa.eu/eurostat/de/web/microdata/european-health-interview-survey "Externer Link&nbsp;zur Webseite:  Mikrodaten - Europäische Gesundheitsumfrage (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Adipositas und Übergewicht (ab 18 Jahre)'
 
@@ -636,7 +636,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * **Regionale Unterschiede**: Statistisch signifikante Unterschiede zwischen den Bundesländern und dem Bundesdurchschnitt wurden mittels Chi-Quadrat-Test unter Adjustierung für multiples Testen ermittelt. Dabei wurden die einzelnen Bundesländer im Vergleich zu den jeweils verbleibenden Bundesländern (zusammengefasst) getestet. Die Einteilung in der Karte erfolgt anhand von fünf äquidistanten Kategorien.
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Fleischkonsum (ab 18 Jahre)'
 
@@ -689,7 +689,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * **Konfidenzintervalle**: Die zufallsbedingte Variabilität der Ergebnisse kann den 95 %-Konfidenzintervallen in den Tabellen und Abbildungen entnommen werden. Die Konfidenzintervalle wurden mit der Logit-Methode berechnet. Dabei wurde die Streuung der Gewichtungsfaktoren berücksichtigt.
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Obst- und Gemüsekonsum (ab 18 Jahre)'
 
@@ -745,7 +745,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * **Regionale Unterschiede**: Statistisch signifikante Unterschiede zwischen den Bundesländern und dem Bundesdurchschnitt wurden mittels Chi-Quadrat-Test unter Adjustierung für multiples Testen ermittelt. Dabei wurden die einzelnen Bundesländer im Vergleich zu den jeweils verbleibenden Bundesländern (zusammengefasst) getestet. Die Einteilung in der Karte erfolgt anhand von fünf äquidistanten Kategorien.
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Zuckerhaltige Erfrischungsgetränke (ab 18 Jahre)'
 
@@ -800,7 +800,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * **Regionale Unterschiede**: Statistisch signifikante Unterschiede zwischen den Bundesländern und dem Bundesdurchschnitt wurden mittels Chi-Quadrat-Test unter Adjustierung für multiples Testen ermittelt. Dabei wurden die einzelnen Bundesländer im Vergleich zu den jeweils verbleibenden Bundesländern (zusammengefasst) getestet. Die Einteilung in der Karte erfolgt anhand von fünf äquidistanten Kategorien.
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Alkohol: Riskanter Konsum (ab 18 Jahre)'
 
@@ -856,7 +856,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * **Regionale Unterschiede**: Statistisch signifikante Unterschiede zwischen den Bundesländern und dem Bundesdurchschnitt wurden mittels Chi-Quadrat-Test unter Adjustierung für multiples Testen ermittelt. Dabei wurden die einzelnen Bundesländer im Vergleich zu den jeweils verbleibenden Bundesländern (zusammengefasst) getestet. Die Einteilung in der Karte erfolgt anhand von fünf äquidistanten Kategorien.
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Rauschtrinken (ab 18 Jahre)'
 
@@ -911,7 +911,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * **Regionale Unterschiede**: Statistisch signifikante Unterschiede zwischen den Bundesländern und dem Bundesdurchschnitt wurden mittels Chi-Quadrat-Test unter Adjustierung für multiples Testen ermittelt. Dabei wurden die einzelnen Bundesländer im Vergleich zu den jeweils verbleibenden Bundesländern (zusammengefasst) getestet. Die Einteilung in der Karte erfolgt anhand von fünf äquidistanten Kategorien.
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Rauchen (ab 18 Jahre)'
 
@@ -968,7 +968,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * **Regionale Unterschiede**: Statistisch signifikante Unterschiede zwischen den Bundesländern und dem Bundesdurchschnitt wurden mittels Chi-Quadrat-Test unter Adjustierung für multiples Testen ermittelt. Dabei wurden die einzelnen Bundesländer im Vergleich zu den jeweils verbleibenden Bundesländern (zusammengefasst) getestet. Die Einteilung in der Karte erfolgt anhand von fünf äquidistanten Kategorien.
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Passivrauchbelastung (ab 18 Jahre)'
 
@@ -1023,7 +1023,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * **Regionale Unterschiede**: Statistisch signifikante Unterschiede zwischen den Regionen und dem Bundesdurchschnitt wurden mittels Chi-Quadrat-Test unter Adjustierung für multiples Testen ermittelt. Dabei wurden die einzelnen Regionenn im Vergleich zu den jeweils verbleibenden Regionen (zusammengefasst) getestet. Die Einteilung in der Karte erfolgt anhand von fünf äquidistanten Kategorien.
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Diabetes: 10-Jahres-Risiko (18 – 79 Jahre)'
 
@@ -1091,7 +1091,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * [Krankheitswissen und Informationsbedarfe – Diabetes mellitus 2017](https://doi.org/10.17886/RKI-GBE-2018-062 "Externer Link&nbsp;zur Publikation: Erste Ergebnisse der Studie „Krankheitswissen und Informationsbedarfe – Diabetes mellitus (2017) (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Herz-Kreislauf-Erkrankung: 10-Jahres-Risiko (18 – 79 Jahre)'
 
@@ -1157,7 +1157,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * [DIfE: Deutscher Herz-Kreislauf-Erkrankungs-Risiko-Test](https://www.dife.de/news/herz-kreislauf-erkrankungs-risiko-test/ "Externer Link&nbsp;zur Webseite des DIfE: Herz-Kreislauf-Erkrankungs-Risiko-Test (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Selbsteingeschätzte allgemeine Gesundheit (ab 18 Jahre)'
 
@@ -1259,7 +1259,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * [GSTel03: Telefonischer Gesundheitssurvey 2003](https://doi.org/10.1007/s00103-005-1159-6 "Externer Link&nbsp;zur Webseite: Der telefonische Gesundheitssurvey 2003 als Instrument der Gesundheitsberichterstattung des Bundes (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Selbsteingeschätzte psychische Gesundheit (ab 18 Jahre)'
 
@@ -1318,7 +1318,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * **Regionale Unterschiede**: Statistisch signifikante Unterschiede zwischen den Bundesländern und dem Bundesdurchschnitt wurden mittels Chi-Quadrat-Test unter Adjustierung für multiples Testen ermittelt. Dabei wurden die einzelnen Bundesländer im Vergleich zu den jeweils verbleibenden Bundesländern (zusammengefasst) getestet. Die Einteilung in der Karte erfolgt anhand von fünf äquidistanten Kategorien.
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Koronare Herzkrankheit: Prävalenz (ab 18 Jahre)'
 
@@ -1406,7 +1406,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * [GSTel03: Telefonischer Gesundheitssurvey 2003](https://doi.org/10.1007/s00103-005-1159-6 "Externer Link&nbsp;zur Webseite: Der telefonische Gesundheitssurvey 2003 als Instrument der Gesundheitsberichterstattung des Bundes (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Koronare Herzkrankheit: Sterblichkeit'
 
@@ -1448,7 +1448,7 @@ In der unikausalen Todesursachenstatistik wird für jeden Todesfall das zum Tode
 * [Daten zur KHK-Sterblichkeit im IS-GBE](https://www.gbe-bund.de/gbe/i?i=6:55529 "Externer Link&nbsp;zur Webseite: Gesundheitsberichterstattung des Bundes - Tabelle: Sterbefälle, Sterbeziffern (ab 1998) mit Filterung KHK I20-I25 (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Schlaganfall: Prävalenz (ab 18 Jahre)'
 
@@ -1534,7 +1534,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * [GSTel03: Telefonischer Gesundheitssurvey 2003](https://doi.org/10.1007/s00103-005-1159-6 "Externer Link&nbsp;zur Webseite: Der telefonische Gesundheitssurvey 2003 als Instrument der Gesundheitsberichterstattung des Bundes (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Schlaganfall: Sterblichkeit'
 
@@ -1576,7 +1576,7 @@ In der unikausalen Todesursachenstatistik wird für jeden Todesfall das zum Tode
 * [Daten zur Sterblichkeit an Zerebrovaskulären Erkrankungen im IS-GBE](https://www.gbe-bund.de/gbe/i?i=6:55526 "Externer Link&nbsp;zur Webseite: Gesundheitsberichterstattung des Bundes - Tabelle: Sterbefälle, Sterbeziffern (ab 1998) mit Filterung Zerebrovaskuläre Krankheiten I60-I69 (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Diabetes Typ 1: Inzidenz (0 – 17 Jahre)'
 
@@ -1616,7 +1616,7 @@ Die Diabetesregister stellen von freiwillig teilnehmenden Praxen beziehungsweise
 * [DPV-Register](https://buster.zibmt.uni-ulm.de/projekte/DPV/ "Externer Link&nbsp;zur Webseite: Diabetes-Patienten-Verlaufsdokumentation (DPV) (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Diabetes Typ 2: Inzidenz (11 – 17 Jahre)'
 
@@ -1656,7 +1656,7 @@ Die Diabetesregister stellen von freiwillig teilnehmenden Praxen beziehungsweise
 * [DPV-Register](https://buster.zibmt.uni-ulm.de/projekte/DPV/ "Externer Link&nbsp;zur Webseite: Diabetes-Patienten-Verlaufsdokumentation (DPV) (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Diabetes Typ 1: Prävalenz (0 – 17 Jahre)'
 
@@ -1696,7 +1696,7 @@ Die Diabetesregister stellen von freiwillig teilnehmenden Praxen beziehungsweise
 * [DPV-Register](https://buster.zibmt.uni-ulm.de/projekte/DPV/ "Externer Link&nbsp;zur Webseite: Diabetes-Patienten-Verlaufsdokumentation (DPV) (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Diabetes Typ 2: Prävalenz (11 – 17 Jahre)'
 
@@ -1736,7 +1736,7 @@ Die Diabetesregister stellen von freiwillig teilnehmenden Praxen beziehungsweise
 * [DPV-Register](https://buster.zibmt.uni-ulm.de/projekte/DPV/ "Externer Link&nbsp;zur Webseite: Diabetes-Patienten-Verlaufsdokumentation (DPV) (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Diabetes mellitus: Prävalenz (ab 18 Jahre)'
 
@@ -1823,7 +1823,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * [GSTel03: Telefonischer Gesundheitssurvey 2003](https://doi.org/10.1007/s00103-005-1159-6 "Externer Link&nbsp;zur Webseite: Der telefonische Gesundheitssurvey 2003 als Instrument der Gesundheitsberichterstattung des Bundes (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Diabetes mellitus: Sterblichkeit'
 
@@ -1865,7 +1865,7 @@ In der unikausalen Todesursachenstatistik wird für jeden Todesfall das zum Tode
 * [Daten zur Diabetes-Sterblichkeit im IS-GBE](https://www.gbe-bund.de/gbe/i?i=6:55523 "Externer Link&nbsp;zur Webseite: Gesundheitsberichterstattung des Bundes - Tabelle: Sterbefälle, Sterbeziffern (ab 1998) mit Filterung Diabetes E10-E14 (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Gestationsdiabetes mellitus: Prävalenz'
 
@@ -1902,7 +1902,7 @@ Der Datensatz enthält ausschließlich Informationen zu Klinikgeburten, da die D
 * Qualitätssicherung Perinatalmedizin: [https://iqtig.org/qs-verfahren/peri/](https://iqtig.org/qs-verfahren/peri/ "Externer Link&nbsp;zur Webseite des IQTIG: Perinatalmedizin (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Brustkrebs: Inzidenz'
 
@@ -1939,7 +1939,7 @@ Für Bundesländer, in denen für bestimmte Zeiträume noch keine oder nur unvol
 * [Zentrum für Krebsregisterdaten – www.krebsdaten.de](https://www.krebsdaten.de/ "Externer Link&nbsp;zur Webseite des Zentrums für Krebsregisterdaten (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Brustkrebs: Sterblichkeit'
 
@@ -1982,7 +1982,7 @@ In der unikausalen Todesursachenstatistik wird für jeden Todesfall das zum Tode
 * [Daten zur Brustkrebs-Sterblichkeit im IS-GBE](https://www.gbe-bund.de/gbe/i?i=6:55524 "Externer Link&nbsp;zur Webseite: Gesundheitsberichterstattung des Bundes - Tabelle: Sterbefälle, Sterbeziffern (ab 1998) mit Filterung Brustkrebs C50 (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Darmkrebs: Inzidenz'
 
@@ -2019,7 +2019,7 @@ Für Bundesländer, in denen für bestimmte Zeiträume noch keine oder nur unvol
 * [Zentrum für Krebsregisterdaten – www.krebsdaten.de](https://www.krebsdaten.de/ "Externer Link&nbsp;zur Webseite des Zentrums für Krebsregisterdaten (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Darmkrebs: Sterblichkeit'
 
@@ -2062,7 +2062,7 @@ In der unikausalen Todesursachenstatistik wird für jeden Todesfall das zum Tode
 * [Daten zur Darmkrebs-Sterblichkeit im IS-GBE](https://www.gbe-bund.de/gbe/i?i=6:55525 "Externer Link&nbsp;zur Webseite: Gesundheitsberichterstattung des Bundes - Tabelle: Sterbefälle, Sterbeziffern (ab 1998) mit Filterung Darmkrebs C18-C20 (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'COPD: Prävalenz (ab 45 Jahre)'
 
@@ -2127,7 +2127,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * [EHIS: European Health Interview Survey](https://ec.europa.eu/eurostat/de/web/microdata/european-health-interview-survey "Externer Link&nbsp;zur Webseite:  Mikrodaten - Europäische Gesundheitsumfrage (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Asthma: Prävalenz (ab 18 Jahre)'
 
@@ -2210,7 +2210,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * [EHIS: European Health Interview Survey](https://ec.europa.eu/eurostat/de/web/microdata/european-health-interview-survey "Externer Link&nbsp;zur Webseite:  Mikrodaten - Europäische Gesundheitsumfrage (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Arthrose: Prävalenz (ab 18 Jahre)'
 
@@ -2265,7 +2265,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * **Regionale Unterschiede**: Statistisch signifikante Unterschiede zwischen den Bundesländern und dem Bundesdurchschnitt wurden mittels Chi-Quadrat-Test unter Adjustierung für multiples Testen ermittelt. Dabei wurden die einzelnen Bundesländer im Vergleich zu den jeweils verbleibenden Bundesländern (zusammengefasst) getestet. Die Einteilung in der Karte erfolgt anhand von fünf äquidistanten Kategorien.
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Unfallverletzungen (ab 18 Jahre)'
 
@@ -2326,7 +2326,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * **Regionale Unterschiede**: Statistisch signifikante Unterschiede zwischen den Bundesländern und dem Bundesdurchschnitt wurden mittels Chi-Quadrat-Test unter Adjustierung für multiples Testen ermittelt. Dabei wurden die einzelnen Bundesländer im Vergleich zu den jeweils verbleibenden Bundesländern (zusammengefasst) getestet. Die Einteilung in der Karte erfolgt anhand von fünf äquidistanten Kategorien.
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Stürze (ab 65 Jahre)'
 
@@ -2386,7 +2386,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * [EHIS: European Health Interview Survey](https://ec.europa.eu/eurostat/de/web/microdata/european-health-interview-survey "Externer Link&nbsp;zur Webseite:  Mikrodaten - Europäische Gesundheitsumfrage (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Psychische Störungen: Administrative Prävalenz (ab 18 Jahre)'
 
@@ -2425,7 +2425,7 @@ Der Datensatz enthält Diagnosen aus der ambulanten vertragsärztlichen und vert
 * **Altersstandardisierung**: Mit der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/i?i=1000:55515 "Externer Link&nbsp;zur Webseite: Gesundheitsberichterstattung des Bundes - Tabelle: Standardbevölkerungen - Europastandardbevölkerung 2013 (Öffnet&nbsp;neues&nbsp;Fenster)") als Bezugspopulation erfolgte eine Standardisierung nach Alter und Geschlecht unter Verwendung von 18 – 19 Jahre sowie anschließend von 5-Jahres-Altersgruppen ab 20 – 24 Jahre bis 85 – 89 Jahre sowie ≥ 90 Jahre.
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Depression: Administrative Prävalenz (ab 18 Jahre)'
 
@@ -2464,7 +2464,7 @@ Der Datensatz enthält Diagnosen aus der ambulanten vertragsärztlichen und vert
 * **Altersstandardisierung**: Mit der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/i?i=1000:55515 "Externer Link&nbsp;zur Webseite: Gesundheitsberichterstattung des Bundes - Tabelle: Standardbevölkerungen - Europastandardbevölkerung 2013 (Öffnet&nbsp;neues&nbsp;Fenster)") als Bezugspopulation erfolgte eine Standardisierung nach Alter und Geschlecht unter Verwendung von 18 – 19 Jahre sowie anschließend von 5-Jahres-Altersgruppen ab 20 – 24 Jahre bis 85 – 89 Jahre sowie ≥ 90 Jahre.
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Depressive Symptomatik: Prävalenz (ab 18 Jahre)'
 
@@ -2542,7 +2542,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * [Mental Health Surveillance: MHS-Dashboard](https://public.data.rki.de/t/public/views/hf-MHS_Dashboard/Dashboard "Externer Link&nbsp;zur Webseite: Mental Health Surveillance: MHS-Dashboard (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Angststörungen: Administrative Prävalenz (ab 18 Jahre)'
 
@@ -2581,7 +2581,7 @@ Der Datensatz enthält Diagnosen aus der ambulanten vertragsärztlichen und vert
 * **Altersstandardisierung**: Mit der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/i?i=1000:55515 "Externer Link&nbsp;zur Webseite: Gesundheitsberichterstattung des Bundes - Tabelle: Standardbevölkerungen - Europastandardbevölkerung 2013 (Öffnet&nbsp;neues&nbsp;Fenster)") als Bezugspopulation erfolgte eine Standardisierung nach Alter und Geschlecht unter Verwendung von 18 – 19 Jahre sowie anschließend von 5-Jahres-Altersgruppen ab 20 – 24 Jahre bis 85 – 89 Jahre sowie ≥ 90 Jahre.
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Angstsymptome: Prävalenz (ab 18 Jahre)'
 
@@ -2644,7 +2644,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * **Regionale Unterschiede**: Statistisch signifikante Unterschiede zwischen den Regionen und dem Bundesdurchschnitt wurden mittels Chi-Quadrat-Test unter Adjustierung für multiples Testen ermittelt. Dabei wurden die einzelnen Regionen im Vergleich zu den jeweils verbleibenden Regionen (zusammengefasst) getestet. Die Einteilung in der Karte erfolgt anhand von fünf äquidistanten Kategorien.
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Sterblichkeit'
 
@@ -2684,7 +2684,7 @@ Die Statistik der Sterbefälle ist eine Vollerhebung mit Auskunftspflicht. Sie u
 * **Berechnungen**: Für die Berechnung der Sterberaten insgesamt sowie nach Geschlecht, Altersgruppen und Bundesland wurde die Durchschnittsbevölkerung als Bezugspopulation verwendet ([Destatis 2024](https://www.gbe-bund.de/gbe/i?i=6:55518 "Externer Link&nbsp;zur Webseite: Gesundheitsberichterstattung des Bundes - Tabelle: Sterbefälle, Sterbeziffern (ab 1998) (Öffnet&nbsp;neues&nbsp;Fenster)")). Für die Auswertung nach GISD wurde der Bevölkerungsdurchschnitt eines Jahres (Mittelwert der Bevölkerung zum 31.12. des Vorjahres und des dargestellten Jahres) verwendet und die Berechnung erfolgte im [Forschungsdatenzentrum](https://www.forschungsdatenzentrum.de/de/gesundheit/todesursachen "Externer Link&nbsp;Webseite zum FDZ: Bevölkerung: Todesursachenstatistik (Öffnet&nbsp;neues&nbsp;Fenster)") der Statistischen Ämter des Bundes und der Länder ([Todesursachenstatistik 2003](https://doi.org/10.21242/23211.2003.00.00.1.1.0 "Externer Link&nbsp;Webseite zum FDZ: Bevölkerung: Todesursachen Stand: 2003 (Öffnet&nbsp;neues&nbsp;Fenster)") - [Todesursachenstatistik 2021](https://doi.org/10.21242/23211.2021.00.00.1.1.0 "Externer Link&nbsp;Webseite zum FDZ: Bevölkerung: Todesursachen Stand: 2021 (Öffnet&nbsp;neues&nbsp;Fenster)")).
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Lebenserwartung'
 
@@ -2723,7 +2723,7 @@ Die Statistik der Sterbefälle ist eine Vollerhebung mit Auskunftspflicht. Sie u
 * **Berechnungen**: Die Berechnung der Lebenserwartung erfolgt mittels Periodensterbetafeln, welche die Sterblichkeitsverhältnisse in einer Bevölkerung unabhängig von deren Größe und Altersstruktur quantifizieren. In die Berechnung gehen Sterbe- und Überlebensraten eines jeden Altersjahres ein ([Destatis 2024](https://www.destatis.de/DE/Methoden/Qualitaet/Qualitaetsberichte/Bevoelkerung/sterbefaelle.pdf?__blob=publicationFile "Externer Link&nbsp;zur Webseite von Destatis: Qualitätsbericht zur Statistik der Sterbefälle (Öffnet&nbsp;neues&nbsp;Fenster)")). Die verwendeten Daten für Deutschland insgesamt sowie für die Bundesländer stammen vom Statistischen Bundesamt ([Destatis 2024](https://www.gbe-bund.de/gbe/i?i=524:55528 "Externer Link&nbsp;zur Webseite: Gesundheitsberichterstattung des Bundes - Tabelle: Lebenserwartung ab Geburt (Öffnet&nbsp;neues&nbsp;Fenster)")). Die Berechnung der Lebenserwartung basiert auf einem Zeitraum von drei aufeinanderfolgenden Kalenderjahren, zuletzt 2020 bis 2022. Die Lebenserwartung für die Landkreise und kreisfreien Städte sowie die Quintile der sozioökonomischen Deprivation erfolgte am [Forschungsdatenzentrum](https://www.forschungsdatenzentrum.de/de/gesundheit/todesursachen "Externer Link&nbsp;Webseite zum FDZ: Bevölkerung: Todesursachenstatistik (Öffnet&nbsp;neues&nbsp;Fenster)") von Destatis und basiert auf Einzeljahren, zuletzt für das Jahr 2021 ([Todesursachenstatistik 2003](https://doi.org/10.21242/23211.2003.00.00.1.1.0 "Externer Link&nbsp;Webseite zum FDZ: Bevölkerung: Todesursachen Stand: 2003 (Öffnet&nbsp;neues&nbsp;Fenster)") - [Todesursachenstatistik 2021](https://doi.org/10.21242/23211.2021.00.00.1.1.0 "Externer Link&nbsp;Webseite zum FDZ: Bevölkerung: Todesursachen Stand: 2021 (Öffnet&nbsp;neues&nbsp;Fenster)")).
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Körperliche Einschränkungen (ab 18 Jahre)'
 
@@ -2792,7 +2792,7 @@ Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärz
 * [EHIS: European Health Interview Survey](https://ec.europa.eu/eurostat/de/web/microdata/european-health-interview-survey "Externer Link&nbsp;zur Webseite:  Mikrodaten - Europäische Gesundheitsumfrage (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Kognitive Einschränkungen (ab 18 Jahre)'
 
@@ -2847,7 +2847,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * **Konfidenzintervalle**: Die zufallsbedingte Variabilität der Ergebnisse kann den 95 %-Konfidenzintervallen in den Tabellen und Abbildungen entnommen werden. Die Konfidenzintervalle wurden mit der Logit-Methode berechnet. Dabei wurde die Streuung der Gewichtungsfaktoren berücksichtigt.
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Einschränkungen bei Alltagsaktivitäten (ab 18 Jahre)'
 
@@ -2911,7 +2911,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * [EHIS: European Health Interview Survey](https://ec.europa.eu/eurostat/de/web/microdata/european-health-interview-survey "Externer Link&nbsp;zur Webseite:  Mikrodaten - Europäische Gesundheitsumfrage (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Einschränkungen in instrumentellen Aktivitäten des täglichen Lebens (ab 65 Jahre)'
 
@@ -2992,7 +2992,7 @@ Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärz
 * [EHIS: European Health Interview Survey](https://ec.europa.eu/eurostat/de/web/microdata/european-health-interview-survey "Externer Link&nbsp;zur Webseite:  Mikrodaten - Europäische Gesundheitsumfrage (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Chronisches Kranksein (ab 18 Jahre)'
 
@@ -3058,7 +3058,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * [EHIS: European Health Interview Survey](https://ec.europa.eu/eurostat/de/web/microdata/european-health-interview-survey "Externer Link&nbsp;zur Webseite:  Mikrodaten - Europäische Gesundheitsumfrage (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Zahnvorsorgeuntersuchungen (ab 18 Jahre)'
 
@@ -3127,7 +3127,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * [GEDA: Gesundheit in Deutschland aktuell](https://www.rki.de/geda "Externer Link&nbsp;zur Webseite: GEDA: Gesundheit in Deutschland aktuell (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Influenza: Impfquote (ab 60 Jahre)'
 
@@ -3164,7 +3164,7 @@ Der Datensatz enthält ausschließlich Abrechnungsdaten der ambulanten vertrags�
 * [Webseite der KV-Impfsurveillance](https://www.rki.de/DE/Themen/Infektionskrankheiten/Impfen/Impfquoten/KV-Impfsurveillance/kvis_inhalt.html "Externer Link&nbsp;zur Webseite des RKI: KV-Impfsurveillance: Auswertung von Abrechnungsdaten der Kassenärztlichen Vereinigungen (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Darmkrebsfrüherkennung (ab 50/55 Jahre)'
 
@@ -3219,7 +3219,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * **Regionale Unterschiede**: Statistisch signifikante Unterschiede zwischen den Bundesländern und dem Bundesdurchschnitt wurden mittels Chi-Quadrat-Test unter Adjustierung für multiples Testen ermittelt. Dabei wurden die einzelnen Bundesländer im Vergleich zu den jeweils verbleibenden Bundesländern (zusammengefasst) getestet. Die Einteilung in der Karte erfolgt anhand von fünf äquidistanten Kategorien.
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Inanspruchnahme allgemeinärztlicher Leistungen (ab 18 Jahre)'
 
@@ -3286,7 +3286,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * [EHIS: European Health Interview Survey](https://ec.europa.eu/eurostat/de/web/microdata/european-health-interview-survey "Externer Link&nbsp;zur Webseite:  Mikrodaten - Europäische Gesundheitsumfrage (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Inanspruchnahme fachärztlicher Leistungen (ab 18 Jahre)'
 
@@ -3353,7 +3353,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * [EHIS: European Health Interview Survey](https://ec.europa.eu/eurostat/de/web/microdata/european-health-interview-survey "Externer Link&nbsp;zur Webseite:  Mikrodaten - Europäische Gesundheitsumfrage (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Inanspruchnahme von Krankenhausversorgung (ab 18 Jahre)'
 
@@ -3433,7 +3433,7 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 * [EHIS: European Health Interview Survey](https://ec.europa.eu/eurostat/de/web/microdata/european-health-interview-survey "Externer Link&nbsp;zur Webseite:  Mikrodaten - Europäische Gesundheitsumfrage (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Pflegeleistungen'
 
@@ -3472,7 +3472,7 @@ Die Voraussetzung für den Erhalt von Leistungen der Pflegeversicherung ist, das
 * [Statistische Ämter des Bundes und der Länder: Pflegestatistik](https://www.statistischebibliothek.de/mir/receive/DESerie_mods_00000940 "Externer Link&nbsp;zur Webseite der statistischen Ämter: Pflegestatistik / Deutschlandergebnisse : Pflege im Rahmen der Pflegeversicherung (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Diabetesbedingte Amputationen (ab 15 Jahre)'
 
@@ -3509,7 +3509,7 @@ Die fallpauschalenbezogene Krankenhausstatistik (DRG-Statistik) beinhaltet Infor
 * **Altersstandardisierung:** Mit der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/i?i=1000:55515 "Externer Link&nbsp;zur Webseite: Gesundheitsberichterstattung des Bundes - Tabelle: Standardbevölkerungen - Europastandardbevölkerung 2013 (Öffnet&nbsp;neues&nbsp;Fenster)") als Bezugspopulation erfolgte eine Altersstandardisierung unter Verwendung von 5-Jahres-Altersgruppen beginnend bei 15 – 19 Jahre bis 80 – 84 Jahre sowie ≥ 85 Jahre.
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Diabetes: Ambulant-sensitive Krankenhausfälle (ab 15 Jahre)'
 
@@ -3546,7 +3546,7 @@ Die fallpauschalenbezogene Krankenhausstatistik (DRG-Statistik) beinhaltet Infor
 * **Altersstandardisierung**: Mit der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/i?i=1000:55515 "Externer Link&nbsp;zur Webseite: Gesundheitsberichterstattung des Bundes - Tabelle: Standardbevölkerungen - Europastandardbevölkerung 2013 (Öffnet&nbsp;neues&nbsp;Fenster)") als Bezugspopulation erfolgte eine Altersstandardisierung unter Verwendung von 5-Jahres-Altersgruppen beginnend bei 15 – 19 Jahre bis 80 – 84 Jahre sowie ≥ 85 Jahre.
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Tabakkontrolle'
 
@@ -3586,7 +3586,7 @@ Die Tabakkontrollskala ist ein Bewertungsinstrument zur Evaluation der Tabakkont
 * [Tabakkontrollskala](https://www.tobaccocontrolscale.org/ "Externer Link&nbsp;Zur Webseite: https://www.tobaccocontrolscale.org/ (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Lebensmittelbesteuerung'
 
@@ -3622,7 +3622,7 @@ Das Umsatzsteuergesetz bietet Informationen zu der in Deutschland erhobenen Umsa
 * [Zweites Corona-Steuerhilfegesetz 2020](https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*%5B@attr_id=%27bgbl120s1512.pdf%27%5D#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl120s1512.pdf%27%5D__1728630880395 "Externer Link&nbsp;zur Webseite: Bundesgesetzblatt: Zweites Corona-Steuerhilfegesetz (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Präventionsausgaben'
 
@@ -3656,7 +3656,7 @@ Die Berechnung der Gesundheitsausgaben erfolgt auf Basis von 35 Datenquellen. Da
 * [Destatis - Gesundheitsausgaben](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Gesundheitsausgaben/_inhalt.html "Externer Link&nbsp;zur Webseite: Destatis - Gesundheitsausgaben (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Verbraucherpreisindex'
 
@@ -3691,7 +3691,7 @@ Der Verbraucherpreisindex wird jährlich mit Bezug zu einem festgelegten Basisja
 * [Verbraucherpreisindex](https://www.destatis.de/DE/Themen/Wirtschaft/Preise/Verbraucherpreisindex/Methoden/Erlaeuterungen/verbraucherpreisindex.html "Externer Link&nbsp;zur Webseite: Destatis - Verbraucherpreisindex (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Armutsrisikoquote'
 
@@ -3729,7 +3729,7 @@ Die regionalen Unterschiede im Einkommensniveau werden nicht berücksichtigt. Ei
 * [Destatis – Einkommen und Lebensbedingungen, Armutsgefährdung](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Einkommen-Konsum-Lebensbedingungen/Lebensbedingungen-Armutsgefaehrdung/_inhalt.html "Externer Link&nbsp;zur Webseite: Destatis – Einkommen und Lebensbedingungen, Armutsgefährdung (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Arbeitslosenquote (15 – 64 Jahre)'
 
@@ -3768,7 +3768,7 @@ Aufgrund der Neukonzeption des Mikrozensus im Jahr 2020 sind Vergleiche mit Vorj
 * [Mikrozensus](http://www.mikrozensus.de "Externer Link&nbsp;zur Webseite der statistischen Ämter: Informationen zum Mikrozensus (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Hochschulbildung (ab 25 Jahre)'
 
@@ -3806,7 +3806,7 @@ Aufgrund einer Neugestaltung des Mikrozensus sind die Ergebnisse ab dem Erhebung
 * [Destatis – Bildungsstand](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bildung-Forschung-Kultur/Bildungsstand/_inhalt.html "Externer Link&nbsp;zur Webseite von Destatis: Bildungsstand (Öffnet&nbsp;neues&nbsp;Fenster)")
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
 ### Indikator 'Verkehrsmittelnutzung'
 
@@ -3847,4 +3847,4 @@ Die veröffentlichten Tabellen geben alle Anteile ohne Nachkommastelle an. Dadur
 * **Gewichtung**: Um repräsentative Ergebnisse für die Grundgesamtheit zu erhalten, wurden Gewichtungsfaktoren (z.&nbsp;B. Alter, Geschlecht, Haushaltsgröße, Bildung) verwendet. Die Gewichte sind fallzahlnormiert. Des Weiteren wurden zur Hochrechnung auf die gesamtdeutsche Bevölkerung Hochrechnungsfaktoren verwendet. Weitere Informationen sind im Nutzerhandbuch MiD zusammengefasst ([Nobis et al. 2018](https://www.mobilitaet-in-deutschland.de/archive/pdf/MiD2017_Nutzerhandbuch.pdf "Externer Link&nbsp;zur Publikation: Mobilität in Deutschland − Nutzerhandbuch (Öffnet&nbsp;neues&nbsp;Fenster)")).
 
 
-<br>[→ Zur Übersicht über alle Indikatoren](#indikatoren)<br><br><br>
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
