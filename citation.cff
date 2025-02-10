@@ -15,7 +15,7 @@ abstract: >-
   (https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases)),
   wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychischen
   Störungen sowie deren Einflussfaktoren. 
-date-released: '2025-01-22'
+date-released: '2025-02-10'
 keywords:
   - Adipositas
   - Aktivitäten des täglichen Lebens
@@ -201,6 +201,6 @@ url: >-
   https://robert-koch-institut.github.io/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen
 license: CC-BY-4.0
 doi: 10.5281/zenodo.13736663
-version: '2025-01-22T15:55:45+01:00'
+version: '2025-02-10T16:55:45+01:00'
 authors:
   - name: Robert Koch-Institut

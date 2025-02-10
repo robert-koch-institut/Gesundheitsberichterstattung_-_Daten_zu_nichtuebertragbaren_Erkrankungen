@@ -213,8 +213,8 @@
     "Open Data",
     "Germany"
   ],
-  "publication_date": "2025-01-22",
-  "version": "2025-01-22",
+  "publication_date": "2025-02-10",
+  "version": "2025-02-10",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
@@ -227,10 +227,10 @@
   "subjects": [],
   "dates": [
     {
-      "start": "2025-01-22T15:55:45+01:00",
-      "end": "2025-01-22T15:55:45+01:00",
-      "type": "Collected",
-      "description": "Date when the Dataset was created"
+      "start": "2025-02-10T16:55:45+01:00",
+      "end": "2025-02-10T16:55:45+01:00",
+      "type": "Created",
+      "description": "Date when the published data was created"
     }
   ],
   "related_identifiers": [
