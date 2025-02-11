@@ -15,4 +15,4 @@ jobs:
           OPENCODE_TOKEN: ${{ secrets.OPENCODE_TOKEN }}
           GROUP_ID: 2781
           ACCESS_USER: RKIOpenData
-          ZENODOJSON_PATH: Metadaten/zenodo.json
+          ZENODOJSON_PATH: Metadaten/zenodo-invenio.json
