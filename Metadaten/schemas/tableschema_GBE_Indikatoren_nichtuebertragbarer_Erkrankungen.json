@@ -225,7 +225,7 @@
     {
       "name": "Region_ID",
       "type": "string",
-      "description": "Land, Bundesland bzw. Region: `00` = Deutschland, `01`-`16` = Bundesländer, `21`-`25` = Zusammenfassung der Bundesländer in fünf Regionen (siehe [Regionalcodes](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/edit/main/Readme.md#regionalcodes)), `AT`-`UA` = europäische Länder nach ISO 3166-1-ALPHA-2",
+      "description": "Land, Bundesland bzw. Region: `00` = Deutschland, `01`-`16` = Bundesländer, `21`-`25` = Zusammenfassung der Bundesländer in fünf Regionen (siehe [Regionalcodes](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#regionalcodes)), `AT`-`UA` = europäische Länder nach ISO 3166-1-ALPHA-2",
       "constraints": {
         "required": true,
         "enum": [
