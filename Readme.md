@@ -10,7 +10,7 @@ Nordufer 20
 **Beitragende**   
 Ramona Scheufele&sup1;, [Lukas Reitzle](https://orcid.org/0000-0001-7095-6567)&sup1;, [Laura Krause](https://orcid.org/0000-0003-2268-0142)&sup1; und [Annett Klingner](https://orcid.org/0009-0008-7780-1937)&sup1;  
 
-&emsp;&emsp;&sup1; [Robert Koch-Institut | Fachgebiet 24 Gesundheitsberichterstattung](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt2/FG24/fg24_node.html)  
+&emsp;&emsp;&sup1; [Robert Koch-Institut | Fachgebiet 24 Gesundheitsberichterstattung](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-2/FG24/fg24-gesundheitsberichterstattung-node.html)  
 
 
 ---  
