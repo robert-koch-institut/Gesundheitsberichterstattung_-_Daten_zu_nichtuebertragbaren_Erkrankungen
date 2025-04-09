@@ -10,7 +10,7 @@ Nordufer 20
 **Beitragende**   
 Ramona Scheufele&sup1;, [Lukas Reitzle](https://orcid.org/0000-0001-7095-6567)&sup1;, [Laura Krause](https://orcid.org/0000-0003-2268-0142)&sup1; und [Annett Klingner](https://orcid.org/0009-0008-7780-1937)&sup1;  
 
-&emsp;&emsp;&sup1; [Robert Koch-Institut | Fachgebiet 24 Gesundheitsberichterstattung](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt2/FG24/fg24_node.html)  
+&emsp;&emsp;&sup1; [Robert Koch-Institut | Fachgebiet 24 Gesundheitsberichterstattung](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-2/FG24/fg24-gesundheitsberichterstattung-node.html)  
 
 
 ---  
@@ -283,6 +283,22 @@ In der zenodo.json ist neben dem Publikationsdatum (`"publication_date"`) auch d
   ],
 ```    
 
+
+Zusätzlich beschreiben wir tabellarische Daten mithilfe des [Data Package Standards](https://datapackage.org/).
+Ein Data Package ist eine strukturierte Sammlung von Daten und zugehörigen Metadaten, die den Austausch und die Wiederverwendung von Daten erleichtert. Es besteht aus einer datapackage.json-Datei, die zentrale Informationen wie die enthaltenen Ressourcen, ihre Formate und Schema-Definitionen beschreibt.
+
+Der Data Package Standard wird von der [Open Knowledge Foundation](https://okfn.org/) bereitgestellt und ist ein offenes Format, das eine einfache, maschinenlesbare Beschreibung von Datensätzen ermöglicht.
+
+Die Liste der in diesem Repository enthaltenen Daten ist in folgender Datei hinterlegt:
+
+> [datapackage.json](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/tree/main/datapackage.json)
+
+Für tabellarische Daten definieren wir zusätzlich ein [Table Schema](https://datapackage.org/standard/table-schema/), das die Struktur der Tabellen beschreibt, einschließlich Spaltennamen, Datentypen und Validierungsregeln. Diese Schema-Dateien finden sich unter:
+
+> [Metadaten/schemas/](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/tree/main/Metadaten/schemas) 
+
+
+
 ## Hinweise zur Nachnutzung der Daten  
 
 Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/), [OpenCoDE](https://gitlab.opencode.de) und [Edoc.rki.de](http://Edoc.rki.de/) bereitgestellt:  
@@ -294,7 +310,7 @@ Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [Git
  
 ### Lizenz  
 
-Der Datensatz "Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen" ist lizenziert unter  der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
+Der Datensatz "Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
 
 Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede Person hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/LIZENZ) Datei des Datensatzes.  
 <!-- FOOTER_END -->
