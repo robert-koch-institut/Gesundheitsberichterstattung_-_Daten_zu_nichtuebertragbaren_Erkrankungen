@@ -532,6 +532,15 @@
       }
     },
     {
+      "name": "Anmerkung",
+      "type": "string",
+      "description": "Hinweise für die Verwendung und Interpretation der Daten",
+      "missingValues": [
+        "NA"
+      ],
+      "example": "2024: Änderung der Erhebungsmethode"
+    },
+    {
       "name": "Datenstand",
       "type": "date",
       "description": "Datum im ISO-Format, an dem der Indikator zuletzt aktualisiert wurde",
