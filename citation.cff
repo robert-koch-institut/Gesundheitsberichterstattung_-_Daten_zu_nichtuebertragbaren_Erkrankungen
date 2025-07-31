@@ -15,8 +15,28 @@ abstract: >-
   (https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases)),
   wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychischen
   Störungen sowie deren Einflussfaktoren. 
-date-released: '2025-02-10'
+date-released: '2025-07-31'
 keywords:
+  - Bevölkerungsgesundheit
+  - Chronische Krankheit
+  - Diabetes mellitus
+  - Diät, Lebensmittel und Ernährung
+  - Gesundheitsverhalten
+  - Gesundheitsversorgung
+  - Gesundheitszustand
+  - Herz-Kreislauf-Krankheiten
+  - Körpergewicht
+  - Krebs
+  - Nichtübertragbare Krankheiten
+  - Psychische Störungen
+  - Rauchen
+  - Soziale Gesundheitsdeterminanten
+  - Todesursache
+  - Öffentliche Berichterstattung über Gesundheitsdaten
+  - RKI
+  - Deutschland
+  - Public Health
+  - Open Data
   - Adipositas
   - Aktivitäten des täglichen Lebens
   - Alkoholkonsum
@@ -29,16 +49,12 @@ keywords:
   - Asthma
   - Atemwegskrankheiten
   - Ausbildungsstand
-  - Bevölkerungsgesundheit
   - Bewegungsarme Lebensweise
   - Brustkrebs
   - Chronisch obstruktive Lungenerkrankung
-  - Chronische Krankheit
   - Depression
   - Depressive Störung
-  - Diabetes mellitus
   - Diabeteskomplikationen
-  - Diät, Lebensmittel und Ernährung
   - Erziehung und Ausbildung
   - Fleisch
   - Früchte
@@ -48,13 +64,9 @@ keywords:
   - Gesundheitsausgaben
   - Gesundheitsförderung
   - Gesundheitspolitik
-  - Gesundheitsverhalten
-  - Gesundheitsversorgung
-  - Gesundheitszustand
   - Gesundheitszustandsindikatoren
   - Grippevakzine
   - Hauspflegedienste
-  - Herz-Kreislauf-Krankheiten
   - Impfung
   - Kognitive Dysfunktion
   - Kolorektale Tumoren
@@ -62,7 +74,6 @@ keywords:
   - Krankenhauseinweisung
   - Krankenpflegewesen
   - Krankheiten des Bewegungsapparates
-  - Körpergewicht
   - Körperliches Training
   - Langzeitbehandlung
   - Lebenserwartung
@@ -70,25 +81,20 @@ keywords:
   - Medizinische Grundversorgung
   - Mortalität
   - Nahrungsaufnahmeverhalten
-  - Nichtübertragbare Krankheiten
   - Osteoarthrose
   - Primärprävention
-  - Psychische Störungen
   - Qualität des Gesundheitswesens
-  - Rauchen
   - Rauschtrinken
   - Risikofaktoren
   - Risikofaktoren für Herzkrankheiten
   - Schlaganfall
   - Sekundärprävention
   - Soziale Faktoren
-  - Soziale Gesundheitsdeterminanten
   - Soziale Unterstützung
   - Soziales Umfeld
   - Sozialökonomische Faktoren
   - Steuern
   - Tabak rauchen
-  - Todesursache
   - Tumoren
   - Umwelthygiene
   - Unfallbedingte Stürze
@@ -98,13 +104,10 @@ keywords:
   - Wohnung
   - Zahnmedizinische Versorgung
   - Zuckergesüßte Getränke
-  - Öffentliche Berichterstattung über Gesundheitsdaten
   - Öffentliches Gesundheitswesen
   - Ökonomie
   - Übergewicht
-  - RKI
   - Offene Daten
-  - Deutschland
   - Accidents
   - Activities of Daily Living
   - Alcohol Drinking
@@ -170,7 +173,6 @@ keywords:
   - Poverty
   - Primary Health Care
   - Primary Prevention
-  - Public Health
   - Public Health Surveillance
   - Public Reporting of Healthcare Data
   - Pulmonary Disease, Chronic Obstructive
@@ -194,13 +196,16 @@ keywords:
   - Unemployment
   - Vaccination
   - Vegetables
-  - Open Data
   - Germany
+  - Cancer
+  - Neoplasm
+  - Krebserkrankungen
 message: Cite me!
 url: >-
   https://robert-koch-institut.github.io/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen
 license: CC-BY-4.0
-doi: 10.5281/zenodo.13736663
-version: '2025-02-10T16:55:45+01:00'
+doi: 10.5281/zenodo.15535365
+version: '2025-07-31T16:15:45+02:00'
 authors:
   - name: Robert Koch-Institut
+    email: info@rki.de

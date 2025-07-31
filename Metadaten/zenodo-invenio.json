@@ -1,1 +1,689 @@
-{"title":"Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen","description":"<p>Die Gesundheitsberichterstattung (GBE) des RKI informiert regelmäßig über die gesundheitliche Situation der Bevölkerung in Deutschland. Das Themenspektrum ist vielfältig und reicht von Gesundheitszustand und Einflussfaktoren auf die Gesundheit über Gesundheitsförderung, Prävention und gesundheitliche Versorgung bis hin zu den  damit verbundenen Kosten.</p>\n<p>Der Fokus des vorliegenden Datensatzes liegt auf Indikatoren zu nichtübertragbaren Erkrankungen (noncommunicable diseases, <a href=\"https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases\">NCD</a>), wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychischen Störungen sowie deren Einflussfaktoren.</p>\n","resource_type":{"id":"dataset"},"publication_date":"2025-02-10","creators":[{"person_or_org":{"type":"organizational","name":"Robert Koch-Institut"}}],"contributors":[{"person_or_org":{"type":"personal","family_name":"Scheufele","given_name":"Ramona"},"affiliations":[{"name":"Robert Koch-Institut","id":"01k5qnb77"}],"role":{"id":"datamanager"}},{"person_or_org":{"type":"personal","family_name":"Reitzle","given_name":"Lukas","identifiers":[{"scheme":"orcid","identifier":"0000-0001-7095-6567"}]},"affiliations":[{"name":"Robert Koch-Institut","id":"01k5qnb77"}],"role":{"id":"datacurator"}},{"person_or_org":{"type":"personal","family_name":"Krause","given_name":"Laura","identifiers":[{"scheme":"orcid","identifier":"0000-0003-2268-0142"}]},"affiliations":[{"name":"Robert Koch-Institut","id":"01k5qnb77"}],"role":{"id":"datacurator"}},{"person_or_org":{"type":"personal","family_name":"Klingner","given_name":"Annett","identifiers":[{"scheme":"orcid","identifier":"0009-0008-7780-1937"}]},"affiliations":[{"name":"Robert Koch-Institut","id":"01k5qnb77"}],"role":{"id":"researcher"}}],"publisher":"Zenodo","version":"2025-02-10","dates":[{"date":"2025-02-10T16:55:45+01:00","type":{"id":"created"},"description":"Date when the dataset was created"}],"languages":[{"id":"deu"}],"related_identifiers":[{"scheme":"url","relation_type":{"id":"issupplementto"},"identifier":"https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen","resource_type":{"id":"dataset"}},{"scheme":"url","relation_type":{"id":"isdocumentedby"},"identifier":"https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md","resource_type":{"id":"publication-datapaper"}},{"scheme":"url","relation_type":{"id":"isdocumentedby"},"identifier":"https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/[Dokumentation]_Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen.pdf","resource_type":{"id":"publication-datapaper"}}],"rights":[{"id":"cc-by-4.0"}],"subjects":[{"subject":"Adipositas"},{"subject":"Aktivitäten des täglichen Lebens"},{"subject":"Alkoholkonsum"},{"subject":"Ambulante Behandlung"},{"subject":"Amputation"},{"subject":"Angst"},{"subject":"Angststörungen"},{"subject":"Arbeitslosigkeit"},{"subject":"Armut"},{"subject":"Asthma"},{"subject":"Atemwegskrankheiten"},{"subject":"Ausbildungsstand"},{"subject":"Bevölkerungsgesundheit"},{"subject":"Bewegungsarme Lebensweise"},{"subject":"Brustkrebs"},{"subject":"Chronisch obstruktive Lungenerkrankung"},{"subject":"Chronische Krankheit"},{"subject":"Depression"},{"subject":"Depressive Störung"},{"subject":"Diabetes mellitus"},{"subject":"Diabeteskomplikationen"},{"subject":"Diät, Lebensmittel und Ernährung"},{"subject":"Erziehung und Ausbildung"},{"subject":"Fleisch"},{"subject":"Früchte"},{"subject":"Früherkennung von Krebs"},{"subject":"Gedächtnisstörungen"},{"subject":"Gemüse"},{"subject":"Gesundheitsausgaben"},{"subject":"Gesundheitsförderung"},{"subject":"Gesundheitspolitik"},{"subject":"Gesundheitsverhalten"},{"subject":"Gesundheitsversorgung"},{"subject":"Gesundheitszustand"},{"subject":"Gesundheitszustandsindikatoren"},{"subject":"Grippevakzine"},{"subject":"Hauspflegedienste"},{"subject":"Herz-Kreislauf-Krankheiten"},{"subject":"Impfung"},{"subject":"Kognitive Dysfunktion"},{"subject":"Kolorektale Tumoren"},{"subject":"Koronararterienerkrankung"},{"subject":"Krankenhauseinweisung"},{"subject":"Krankenpflegewesen"},{"subject":"Krankheiten des Bewegungsapparates"},{"subject":"Körpergewicht"},{"subject":"Körperliches Training"},{"subject":"Langzeitbehandlung"},{"subject":"Lebenserwartung"},{"subject":"Lungenkrankheiten, obstruktive"},{"subject":"Medizinische Grundversorgung"},{"subject":"Mortalität"},{"subject":"Nahrungsaufnahmeverhalten"},{"subject":"Nichtübertragbare Krankheiten"},{"subject":"Osteoarthrose"},{"subject":"Primärprävention"},{"subject":"Psychische Störungen"},{"subject":"Qualität des Gesundheitswesens"},{"subject":"Rauchen"},{"subject":"Rauschtrinken"},{"subject":"Risikofaktoren"},{"subject":"Risikofaktoren für Herzkrankheiten"},{"subject":"Schlaganfall"},{"subject":"Sekundärprävention"},{"subject":"Soziale Faktoren"},{"subject":"Soziale Gesundheitsdeterminanten"},{"subject":"Soziale Unterstützung"},{"subject":"Soziales Umfeld"},{"subject":"Sozialökonomische Faktoren"},{"subject":"Steuern"},{"subject":"Tabak rauchen"},{"subject":"Todesursache"},{"subject":"Tumoren"},{"subject":"Umwelthygiene"},{"subject":"Unfallbedingte Stürze"},{"subject":"Unfälle"},{"subject":"Verhalten bei Gesundheitsrisiken"},{"subject":"Verschmutzung mit Tabakrauch"},{"subject":"Wohnung"},{"subject":"Zahnmedizinische Versorgung"},{"subject":"Zuckergesüßte Getränke"},{"subject":"Öffentliche Berichterstattung über Gesundheitsdaten"},{"subject":"Öffentliches Gesundheitswesen"},{"subject":"Ökonomie"},{"subject":"Übergewicht"},{"subject":"RKI"},{"subject":"Offene Daten"},{"subject":"Deutschland"},{"subject":"Accidents"},{"subject":"Activities of Daily Living"},{"subject":"Alcohol Drinking"},{"subject":"Ambulatory Care"},{"subject":"Amputation"},{"subject":"Anxiety"},{"subject":"Anxiety Disorders"},{"subject":"Asthma"},{"subject":"Binge Drinking"},{"subject":"Body Weight"},{"subject":"Breast Neoplasms"},{"subject":"Cardiovascular Diseases"},{"subject":"Cause of Death"},{"subject":"Chronic Disease"},{"subject":"Cognitive Dysfunction"},{"subject":"Colorectal Neoplasms"},{"subject":"Consumer Price Index"},{"subject":"Coronary Artery Disease"},{"subject":"Delivery of Health Care"},{"subject":"Dental Care"},{"subject":"Depression"},{"subject":"Depressive Disorder"},{"subject":"Diabetes Complications"},{"subject":"Diabetes Mellitus"},{"subject":"Diet, Food, and Nutrition"},{"subject":"Dietary Behavior"},{"subject":"Early Detection of Cancer"},{"subject":"Education"},{"subject":"Educational status"},{"subject":"Environmental Health"},{"subject":"Falls"},{"subject":"Fruit"},{"subject":"Gestational Diabetes Mellitus"},{"subject":"Health Behavior"},{"subject":"Health Expenditures"},{"subject":"Health Inequalities"},{"subject":"Health Policy"},{"subject":"Health Promotion"},{"subject":"Health Risk Behaviors"},{"subject":"Health Status"},{"subject":"Health Status Indicators"},{"subject":"Heart Disease Risk Factors"},{"subject":"Home Care Services"},{"subject":"Hospitalization"},{"subject":"Housing"},{"subject":"Influenza Vaccines"},{"subject":"Life Expectancy"},{"subject":"Long-Term Care"},{"subject":"Meat"},{"subject":"Memory Disorders"},{"subject":"Mental Disorders"},{"subject":"Mortality"},{"subject":"Musculoskeletal Diseases"},{"subject":"Neoplasms"},{"subject":"Noncommunicable diseases"},{"subject":"Nursing"},{"subject":"Obesity"},{"subject":"Obstructive Lung Disease"},{"subject":"Osteoarthritis"},{"subject":"Overweight"},{"subject":"Physical Activity"},{"subject":"Population Health"},{"subject":"Poverty"},{"subject":"Primary Health Care"},{"subject":"Primary Prevention"},{"subject":"Public Health"},{"subject":"Public Health Surveillance"},{"subject":"Public Reporting of Healthcare Data"},{"subject":"Pulmonary Disease, Chronic Obstructive"},{"subject":"Quality of Health Care"},{"subject":"Respiratory Tract Diseases"},{"subject":"Risk Factors"},{"subject":"Secondary Prevention"},{"subject":"Secondhand Smoke"},{"subject":"Sedentary Behavior"},{"subject":"Smoking"},{"subject":"Social Determinants of Health"},{"subject":"Social Environment"},{"subject":"Social Factors"},{"subject":"Social Support"},{"subject":"Socioeconomic Factors"},{"subject":"Stroke"},{"subject":"Sugar-Sweetened Beverages"},{"subject":"Taxes"},{"subject":"Tobacco Control"},{"subject":"Tobacco Smoking"},{"subject":"Unemployment"},{"subject":"Vaccination"},{"subject":"Vegetables"},{"subject":"Open Data"},{"subject":"Germany"}],"custom_fields":{"legacy:communities":["robertkochinstitut"]}}
+{
+  "title": "Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen",
+  "description": "<p>Die Gesundheitsberichterstattung (GBE) des RKI informiert regelmäßig über die gesundheitliche Situation der Bevölkerung in Deutschland. Das Themenspektrum ist vielfältig und reicht von Gesundheitszustand und Einflussfaktoren auf die Gesundheit über Gesundheitsförderung, Prävention und gesundheitliche Versorgung bis hin zu den  damit verbundenen Kosten.</p>\n<p>Der Fokus des vorliegenden Datensatzes liegt auf Indikatoren zu nichtübertragbaren Erkrankungen (noncommunicable diseases, <a href=\"https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases\">NCD</a>), wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychischen Störungen sowie deren Einflussfaktoren.</p>\n",
+  "resource_type": {
+    "id": "dataset"
+  },
+  "publication_date": "2025-07-31",
+  "creators": [
+    {
+      "person_or_org": {
+        "type": "organizational",
+        "name": "Robert Koch-Institut"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Scheufele",
+        "given_name": "Ramona"
+      },
+      "affiliations": [
+        {
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
+        }
+      ],
+      "role": {
+        "id": "datamanager"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Reitzle",
+        "given_name": "Lukas",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0001-7095-6567"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
+        }
+      ],
+      "role": {
+        "id": "datacurator"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Krause",
+        "given_name": "Laura",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0003-2268-0142"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
+        }
+      ],
+      "role": {
+        "id": "datacurator"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Klingner",
+        "given_name": "Annett",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0009-0008-7780-1937"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
+        }
+      ],
+      "role": {
+        "id": "researcher"
+      }
+    }
+  ],
+  "publisher": "Zenodo",
+  "version": "2025-07-31",
+  "dates": [
+    {
+      "date": "2025-07-31T16:15:45+02:00",
+      "type": {
+        "id": "created"
+      },
+      "description": "Date when the dataset was created"
+    }
+  ],
+  "languages": [
+    {
+      "id": "deu"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "relation_type": {
+        "id": "issupplementto"
+      },
+      "identifier": "https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen",
+      "resource_type": {
+        "id": "dataset"
+      }
+    }
+  ],
+  "rights": [
+    {
+      "id": "cc-by-4.0"
+    }
+  ],
+  "subjects": [
+    {
+      "subject": "Bevölkerungsgesundheit"
+    },
+    {
+      "subject": "Chronische Krankheit"
+    },
+    {
+      "subject": "Diabetes mellitus"
+    },
+    {
+      "subject": "Diät, Lebensmittel und Ernährung"
+    },
+    {
+      "subject": "Gesundheitsverhalten"
+    },
+    {
+      "subject": "Gesundheitsversorgung"
+    },
+    {
+      "subject": "Gesundheitszustand"
+    },
+    {
+      "subject": "Herz-Kreislauf-Krankheiten"
+    },
+    {
+      "subject": "Körpergewicht"
+    },
+    {
+      "subject": "Krebs"
+    },
+    {
+      "subject": "Nichtübertragbare Krankheiten"
+    },
+    {
+      "subject": "Psychische Störungen"
+    },
+    {
+      "subject": "Rauchen"
+    },
+    {
+      "subject": "Soziale Gesundheitsdeterminanten"
+    },
+    {
+      "subject": "Todesursache"
+    },
+    {
+      "subject": "Öffentliche Berichterstattung über Gesundheitsdaten"
+    },
+    {
+      "subject": "RKI"
+    },
+    {
+      "subject": "Deutschland"
+    },
+    {
+      "subject": "Public Health"
+    },
+    {
+      "subject": "Open Data"
+    },
+    {
+      "subject": "Adipositas"
+    },
+    {
+      "subject": "Aktivitäten des täglichen Lebens"
+    },
+    {
+      "subject": "Alkoholkonsum"
+    },
+    {
+      "subject": "Ambulante Behandlung"
+    },
+    {
+      "subject": "Amputation"
+    },
+    {
+      "subject": "Angst"
+    },
+    {
+      "subject": "Angststörungen"
+    },
+    {
+      "subject": "Arbeitslosigkeit"
+    },
+    {
+      "subject": "Armut"
+    },
+    {
+      "subject": "Asthma"
+    },
+    {
+      "subject": "Atemwegskrankheiten"
+    },
+    {
+      "subject": "Ausbildungsstand"
+    },
+    {
+      "subject": "Bewegungsarme Lebensweise"
+    },
+    {
+      "subject": "Brustkrebs"
+    },
+    {
+      "subject": "Chronisch obstruktive Lungenerkrankung"
+    },
+    {
+      "subject": "Depression"
+    },
+    {
+      "subject": "Depressive Störung"
+    },
+    {
+      "subject": "Diabeteskomplikationen"
+    },
+    {
+      "subject": "Erziehung und Ausbildung"
+    },
+    {
+      "subject": "Fleisch"
+    },
+    {
+      "subject": "Früchte"
+    },
+    {
+      "subject": "Früherkennung von Krebs"
+    },
+    {
+      "subject": "Gedächtnisstörungen"
+    },
+    {
+      "subject": "Gemüse"
+    },
+    {
+      "subject": "Gesundheitsausgaben"
+    },
+    {
+      "subject": "Gesundheitsförderung"
+    },
+    {
+      "subject": "Gesundheitspolitik"
+    },
+    {
+      "subject": "Gesundheitszustandsindikatoren"
+    },
+    {
+      "subject": "Grippevakzine"
+    },
+    {
+      "subject": "Hauspflegedienste"
+    },
+    {
+      "subject": "Impfung"
+    },
+    {
+      "subject": "Kognitive Dysfunktion"
+    },
+    {
+      "subject": "Kolorektale Tumoren"
+    },
+    {
+      "subject": "Koronararterienerkrankung"
+    },
+    {
+      "subject": "Krankenhauseinweisung"
+    },
+    {
+      "subject": "Krankenpflegewesen"
+    },
+    {
+      "subject": "Krankheiten des Bewegungsapparates"
+    },
+    {
+      "subject": "Körperliches Training"
+    },
+    {
+      "subject": "Langzeitbehandlung"
+    },
+    {
+      "subject": "Lebenserwartung"
+    },
+    {
+      "subject": "Lungenkrankheiten, obstruktive"
+    },
+    {
+      "subject": "Medizinische Grundversorgung"
+    },
+    {
+      "subject": "Mortalität"
+    },
+    {
+      "subject": "Nahrungsaufnahmeverhalten"
+    },
+    {
+      "subject": "Osteoarthrose"
+    },
+    {
+      "subject": "Primärprävention"
+    },
+    {
+      "subject": "Qualität des Gesundheitswesens"
+    },
+    {
+      "subject": "Rauschtrinken"
+    },
+    {
+      "subject": "Risikofaktoren"
+    },
+    {
+      "subject": "Risikofaktoren für Herzkrankheiten"
+    },
+    {
+      "subject": "Schlaganfall"
+    },
+    {
+      "subject": "Sekundärprävention"
+    },
+    {
+      "subject": "Soziale Faktoren"
+    },
+    {
+      "subject": "Soziale Unterstützung"
+    },
+    {
+      "subject": "Soziales Umfeld"
+    },
+    {
+      "subject": "Sozialökonomische Faktoren"
+    },
+    {
+      "subject": "Steuern"
+    },
+    {
+      "subject": "Tabak rauchen"
+    },
+    {
+      "subject": "Tumoren"
+    },
+    {
+      "subject": "Umwelthygiene"
+    },
+    {
+      "subject": "Unfallbedingte Stürze"
+    },
+    {
+      "subject": "Unfälle"
+    },
+    {
+      "subject": "Verhalten bei Gesundheitsrisiken"
+    },
+    {
+      "subject": "Verschmutzung mit Tabakrauch"
+    },
+    {
+      "subject": "Wohnung"
+    },
+    {
+      "subject": "Zahnmedizinische Versorgung"
+    },
+    {
+      "subject": "Zuckergesüßte Getränke"
+    },
+    {
+      "subject": "Öffentliches Gesundheitswesen"
+    },
+    {
+      "subject": "Ökonomie"
+    },
+    {
+      "subject": "Übergewicht"
+    },
+    {
+      "subject": "Offene Daten"
+    },
+    {
+      "subject": "Accidents"
+    },
+    {
+      "subject": "Activities of Daily Living"
+    },
+    {
+      "subject": "Alcohol Drinking"
+    },
+    {
+      "subject": "Ambulatory Care"
+    },
+    {
+      "subject": "Amputation"
+    },
+    {
+      "subject": "Anxiety"
+    },
+    {
+      "subject": "Anxiety Disorders"
+    },
+    {
+      "subject": "Asthma"
+    },
+    {
+      "subject": "Binge Drinking"
+    },
+    {
+      "subject": "Body Weight"
+    },
+    {
+      "subject": "Breast Neoplasms"
+    },
+    {
+      "subject": "Cardiovascular Diseases"
+    },
+    {
+      "subject": "Cause of Death"
+    },
+    {
+      "subject": "Chronic Disease"
+    },
+    {
+      "subject": "Cognitive Dysfunction"
+    },
+    {
+      "subject": "Colorectal Neoplasms"
+    },
+    {
+      "subject": "Consumer Price Index"
+    },
+    {
+      "subject": "Coronary Artery Disease"
+    },
+    {
+      "subject": "Delivery of Health Care"
+    },
+    {
+      "subject": "Dental Care"
+    },
+    {
+      "subject": "Depression"
+    },
+    {
+      "subject": "Depressive Disorder"
+    },
+    {
+      "subject": "Diabetes Complications"
+    },
+    {
+      "subject": "Diabetes Mellitus"
+    },
+    {
+      "subject": "Diet, Food, and Nutrition"
+    },
+    {
+      "subject": "Dietary Behavior"
+    },
+    {
+      "subject": "Early Detection of Cancer"
+    },
+    {
+      "subject": "Education"
+    },
+    {
+      "subject": "Educational status"
+    },
+    {
+      "subject": "Environmental Health"
+    },
+    {
+      "subject": "Falls"
+    },
+    {
+      "subject": "Fruit"
+    },
+    {
+      "subject": "Gestational Diabetes Mellitus"
+    },
+    {
+      "subject": "Health Behavior"
+    },
+    {
+      "subject": "Health Expenditures"
+    },
+    {
+      "subject": "Health Inequalities"
+    },
+    {
+      "subject": "Health Policy"
+    },
+    {
+      "subject": "Health Promotion"
+    },
+    {
+      "subject": "Health Risk Behaviors"
+    },
+    {
+      "subject": "Health Status"
+    },
+    {
+      "subject": "Health Status Indicators"
+    },
+    {
+      "subject": "Heart Disease Risk Factors"
+    },
+    {
+      "subject": "Home Care Services"
+    },
+    {
+      "subject": "Hospitalization"
+    },
+    {
+      "subject": "Housing"
+    },
+    {
+      "subject": "Influenza Vaccines"
+    },
+    {
+      "subject": "Life Expectancy"
+    },
+    {
+      "subject": "Long-Term Care"
+    },
+    {
+      "subject": "Meat"
+    },
+    {
+      "subject": "Memory Disorders"
+    },
+    {
+      "subject": "Mental Disorders"
+    },
+    {
+      "subject": "Mortality"
+    },
+    {
+      "subject": "Musculoskeletal Diseases"
+    },
+    {
+      "subject": "Neoplasms"
+    },
+    {
+      "subject": "Noncommunicable diseases"
+    },
+    {
+      "subject": "Nursing"
+    },
+    {
+      "subject": "Obesity"
+    },
+    {
+      "subject": "Obstructive Lung Disease"
+    },
+    {
+      "subject": "Osteoarthritis"
+    },
+    {
+      "subject": "Overweight"
+    },
+    {
+      "subject": "Physical Activity"
+    },
+    {
+      "subject": "Population Health"
+    },
+    {
+      "subject": "Poverty"
+    },
+    {
+      "subject": "Primary Health Care"
+    },
+    {
+      "subject": "Primary Prevention"
+    },
+    {
+      "subject": "Public Health Surveillance"
+    },
+    {
+      "subject": "Public Reporting of Healthcare Data"
+    },
+    {
+      "subject": "Pulmonary Disease, Chronic Obstructive"
+    },
+    {
+      "subject": "Quality of Health Care"
+    },
+    {
+      "subject": "Respiratory Tract Diseases"
+    },
+    {
+      "subject": "Risk Factors"
+    },
+    {
+      "subject": "Secondary Prevention"
+    },
+    {
+      "subject": "Secondhand Smoke"
+    },
+    {
+      "subject": "Sedentary Behavior"
+    },
+    {
+      "subject": "Smoking"
+    },
+    {
+      "subject": "Social Determinants of Health"
+    },
+    {
+      "subject": "Social Environment"
+    },
+    {
+      "subject": "Social Factors"
+    },
+    {
+      "subject": "Social Support"
+    },
+    {
+      "subject": "Socioeconomic Factors"
+    },
+    {
+      "subject": "Stroke"
+    },
+    {
+      "subject": "Sugar-Sweetened Beverages"
+    },
+    {
+      "subject": "Taxes"
+    },
+    {
+      "subject": "Tobacco Control"
+    },
+    {
+      "subject": "Tobacco Smoking"
+    },
+    {
+      "subject": "Unemployment"
+    },
+    {
+      "subject": "Vaccination"
+    },
+    {
+      "subject": "Vegetables"
+    },
+    {
+      "subject": "Germany"
+    },
+    {
+      "subject": "Cancer"
+    },
+    {
+      "subject": "Neoplasm"
+    },
+    {
+      "subject": "Krebserkrankungen"
+    }
+  ],
+  "custom_fields": {
+    "legacy:communities": [
+      "robertkochinstitut"
+    ]
+  }
+}

@@ -20,7 +20,7 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.13736663",
+        "identifier": "10.5281/zenodo.15535365",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
@@ -36,6 +36,83 @@
       "dataSource": "Automatically uploaded: Other"
     },
     "keywords": [
+      {
+        "label": "Bevölkerungsgesundheit",
+        "code": "http://id.nlm.nih.gov/mesh/D000075485"
+      },
+      {
+        "label": "Chronische Krankheit",
+        "code": "http://id.nlm.nih.gov/mesh/D002908"
+      },
+      {
+        "label": "Diabetes mellitus",
+        "code": "http://id.nlm.nih.gov/mesh/D003920"
+      },
+      {
+        "label": "Diät, Lebensmittel und Ernährung",
+        "code": "http://id.nlm.nih.gov/mesh/D000066888"
+      },
+      {
+        "label": "Gesundheitsverhalten",
+        "code": "http://id.nlm.nih.gov/mesh/D015438"
+      },
+      {
+        "label": "Gesundheitsversorgung",
+        "code": "http://id.nlm.nih.gov/mesh/D003695"
+      },
+      {
+        "label": "Gesundheitszustand",
+        "code": "http://id.nlm.nih.gov/mesh/D006304"
+      },
+      {
+        "label": "Herz-Kreislauf-Krankheiten",
+        "code": "http://id.nlm.nih.gov/mesh/D002318"
+      },
+      {
+        "label": "Körpergewicht",
+        "code": "http://id.nlm.nih.gov/mesh/D001835"
+      },
+      {
+        "label": "Krebs",
+        "code": "http://id.nlm.nih.gov/mesh/D009369"
+      },
+      {
+        "label": "Nichtübertragbare Krankheiten",
+        "code": "http://id.nlm.nih.gov/mesh/D000073296"
+      },
+      {
+        "label": "Psychische Störungen",
+        "code": "http://id.nlm.nih.gov/mesh/D001523"
+      },
+      {
+        "label": "Rauchen",
+        "code": "http://id.nlm.nih.gov/mesh/D012907"
+      },
+      {
+        "label": "Soziale Gesundheitsdeterminanten",
+        "code": "http://id.nlm.nih.gov/mesh/D064890"
+      },
+      {
+        "label": "Todesursache",
+        "code": "http://id.nlm.nih.gov/mesh/D002423"
+      },
+      {
+        "label": "Öffentliche Berichterstattung über Gesundheitsdaten",
+        "code": "http://id.nlm.nih.gov/mesh/D000079204"
+      },
+      {
+        "label": "RKI"
+      },
+      {
+        "label": "Deutschland"
+      },
+      {
+        "label": "Public Health",
+        "code": "http://id.nlm.nih.gov/mesh/D011634"
+      },
+      {
+        "label": "Open Data"
+      },
       {
         "label": "Adipositas",
         "code": "http://id.nlm.nih.gov/mesh/D009765"
@@ -85,10 +162,6 @@
         "code": "http://id.nlm.nih.gov/mesh/D004522"
       },
       {
-        "label": "Bevölkerungsgesundheit",
-        "code": "http://id.nlm.nih.gov/mesh/D000075485"
-      },
-      {
         "label": "Bewegungsarme Lebensweise",
         "code": "http://id.nlm.nih.gov/mesh/D057185"
       },
@@ -101,10 +174,6 @@
         "code": "http://id.nlm.nih.gov/mesh/D029424"
       },
       {
-        "label": "Chronische Krankheit",
-        "code": "http://id.nlm.nih.gov/mesh/D002908"
-      },
-      {
         "label": "Depression",
         "code": "http://id.nlm.nih.gov/mesh/D003863"
       },
@@ -113,16 +182,8 @@
         "code": "http://id.nlm.nih.gov/mesh/D003866"
       },
       {
-        "label": "Diabetes mellitus",
-        "code": "http://id.nlm.nih.gov/mesh/D003920"
-      },
-      {
         "label": "Diabeteskomplikationen",
         "code": "http://id.nlm.nih.gov/mesh/D048909"
-      },
-      {
-        "label": "Diät, Lebensmittel und Ernährung",
-        "code": "http://id.nlm.nih.gov/mesh/D000066888"
       },
       {
         "label": "Erziehung und Ausbildung",
@@ -161,18 +222,6 @@
         "code": "http://id.nlm.nih.gov/mesh/D006291"
       },
       {
-        "label": "Gesundheitsverhalten",
-        "code": "http://id.nlm.nih.gov/mesh/D015438"
-      },
-      {
-        "label": "Gesundheitsversorgung",
-        "code": "http://id.nlm.nih.gov/mesh/D003695"
-      },
-      {
-        "label": "Gesundheitszustand",
-        "code": "http://id.nlm.nih.gov/mesh/D006304"
-      },
-      {
         "label": "Gesundheitszustandsindikatoren",
         "code": "http://id.nlm.nih.gov/mesh/D006305"
       },
@@ -183,10 +232,6 @@
       {
         "label": "Hauspflegedienste",
         "code": "http://id.nlm.nih.gov/mesh/D006699"
-      },
-      {
-        "label": "Herz-Kreislauf-Krankheiten",
-        "code": "http://id.nlm.nih.gov/mesh/D002318"
       },
       {
         "label": "Impfung",
@@ -217,10 +262,6 @@
         "code": "http://id.nlm.nih.gov/mesh/D009140"
       },
       {
-        "label": "Körpergewicht",
-        "code": "http://id.nlm.nih.gov/mesh/D001835"
-      },
-      {
         "label": "Körperliches Training",
         "code": "http://id.nlm.nih.gov/mesh/D015444"
       },
@@ -249,10 +290,6 @@
         "code": "http://id.nlm.nih.gov/mesh/D005247"
       },
       {
-        "label": "Nichtübertragbare Krankheiten",
-        "code": "http://id.nlm.nih.gov/mesh/D000073296"
-      },
-      {
         "label": "Osteoarthrose",
         "code": "http://id.nlm.nih.gov/mesh/D010003"
       },
@@ -261,16 +298,8 @@
         "code": "http://id.nlm.nih.gov/mesh/D011322"
       },
       {
-        "label": "Psychische Störungen",
-        "code": "http://id.nlm.nih.gov/mesh/D001523"
-      },
-      {
         "label": "Qualität des Gesundheitswesens",
         "code": "http://id.nlm.nih.gov/mesh/D011787"
-      },
-      {
-        "label": "Rauchen",
-        "code": "http://id.nlm.nih.gov/mesh/D012907"
       },
       {
         "label": "Rauschtrinken",
@@ -297,10 +326,6 @@
         "code": "http://id.nlm.nih.gov/mesh/D000083663"
       },
       {
-        "label": "Soziale Gesundheitsdeterminanten",
-        "code": "http://id.nlm.nih.gov/mesh/D064890"
-      },
-      {
         "label": "Soziale Unterstützung",
         "code": "http://id.nlm.nih.gov/mesh/D012944"
       },
@@ -319,10 +344,6 @@
       {
         "label": "Tabak rauchen",
         "code": "http://id.nlm.nih.gov/mesh/D000073869"
-      },
-      {
-        "label": "Todesursache",
-        "code": "http://id.nlm.nih.gov/mesh/D002423"
       },
       {
         "label": "Tumoren",
@@ -361,10 +382,6 @@
         "code": "http://id.nlm.nih.gov/mesh/D000080845"
       },
       {
-        "label": "Öffentliche Berichterstattung über Gesundheitsdaten",
-        "code": "http://id.nlm.nih.gov/mesh/D000079204"
-      },
-      {
         "label": "Öffentliches Gesundheitswesen",
         "code": "http://id.nlm.nih.gov/mesh/D011634"
       },
@@ -377,13 +394,7 @@
         "code": "http://id.nlm.nih.gov/mesh/D050177"
       },
       {
-        "label": "RKI"
-      },
-      {
         "label": "Offene Daten"
-      },
-      {
-        "label": "Deutschland"
       },
       {
         "label": "Accidents",
@@ -646,10 +657,6 @@
         "code": "http://id.nlm.nih.gov/mesh/D011322"
       },
       {
-        "label": "Public Health",
-        "code": "http://id.nlm.nih.gov/mesh/D011634"
-      },
-      {
         "label": "Public Health Surveillance",
         "code": "http://id.nlm.nih.gov/mesh/D062486"
       },
@@ -742,10 +749,19 @@
         "code": "http://id.nlm.nih.gov/mesh/D014675"
       },
       {
-        "label": "Open Data"
+        "label": "Germany"
       },
       {
-        "label": "Germany"
+        "label": "Cancer",
+        "code": "http://id.nlm.nih.gov/mesh/D009369"
+      },
+      {
+        "label": "Neoplasm",
+        "code": "http://id.nlm.nih.gov/mesh/D009369"
+      },
+      {
+        "label": "Krebserkrankungen",
+        "code": "http://id.nlm.nih.gov/mesh/D009369"
       }
     ],
     "languages": [
@@ -761,18 +777,36 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2025-02-10"
+      "version": "2025-07-31"
     },
     "webpage": "https://robert-koch-institut.github.io/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen",
     "contributors": [
       {
         "affiliations": [
           {
-            "name": "Robert Koch-Institut"
+            "name": "Robert Koch-Institut",
             "identifiers": [
               {
-                "identifier":"01k5qnb77",
-                 "scheme":"ROR"
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
+          }
+        ],
+        "nameType": "Organisational",
+        "organisational": {
+          "name": "Robert Koch-Institut",
+          "type": "Creator/Author"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
               }
             ]
           }
@@ -790,8 +824,8 @@
             "name": "Robert Koch-Institut",
             "identifiers": [
               {
-                "identifier":"01k5qnb77",
-                 "scheme":"ROR"
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
               }
             ]
           }
@@ -815,8 +849,8 @@
             "name": "Robert Koch-Institut",
             "identifiers": [
               {
-                "identifier":"01k5qnb77",
-                 "scheme":"ROR"
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
               }
             ]
           }
@@ -840,8 +874,8 @@
             "name": "Robert Koch-Institut",
             "identifiers": [
               {
-                "identifier":"01k5qnb77",
-                 "scheme":"ROR"
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
               }
             ]
           }
@@ -857,24 +891,6 @@
               "scheme": "ORCID"
             }
           ]
-        }
-      },
-      {
-        "affiliations": [
-          {
-            "name": "Robert Koch-Institut",
-            "identifiers": [
-              {
-                "identifier":"01k5qnb77",
-                 "scheme":"ROR"
-              }
-            ]
-          }
-        ],
-        "nameType": "Organisational",
-        "organisational": {
-          "name": "Robert Koch-Institut",
-          "type": "Creator/Author"
         }
       }
     ],

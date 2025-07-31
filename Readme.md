@@ -18,7 +18,7 @@ Ramona Scheufele&sup1;, [Lukas Reitzle](https://orcid.org/0000-0001-7095-6567)&s
 <br> 
 
 **Zitieren**  
-Robert Koch-Institut. (2025). Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.13736663](https://doi.org/10.5281/zenodo.13736663)
+Robert Koch-Institut. (2025). Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.15535365](https://doi.org/10.5281/zenodo.15535365)
 
 
 
@@ -3980,7 +3980,7 @@ Psychisches Wohlbefinden setzt sich aus den folgenden drei Komponenten zusammen 
 * *Persönliches Gelingen* (eudaimonisches Wohlbefinden; SWEMWBS Fragen 4, 5 und 7; Mittelwert 4,0 von 5) und
 * *Zwischenmenschliche Beziehungen* (soziales Wohlbefinden; beinhaltet SWEMWBS Fragen 2 und 6; Mittelwert 3,7 von 5).
 
-Daten zu den Komponenten werden nicht dargestellt. Sie sind enthalten im Datensatz [„Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen“](https://doi.org/10.5281/zenodo.13736663 "Externer Link&nbsp;zur Webseite von Gesundheitsberichterstattung – Daten zu nichtübertragbaren Erkrankungen’ (German only)").
+Daten zu den Komponenten werden nicht dargestellt. Sie sind enthalten im Datensatz [„Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen“](https://doi.org/10.5281/zenodo.15535365 "Externer Link&nbsp;zur Webseite von Gesundheitsberichterstattung – Daten zu nichtübertragbaren Erkrankungen’ (German only)").
 
 #### Bezugspopulation
 
