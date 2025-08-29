@@ -1,14 +1,16 @@
 <!-- HEADER_START: {"lang": "de"} -->
 
 
-Datensatzdokumentation  
-# Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen  
- 
-[**Robert Koch-Institut | RKI**](https://rki.de)  
-Nordufer 20  
-13353 Berlin  
+Dokumentation  
+# Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen
 
-<br>
+<br> 
+<br> 
+<br> 
+
+[**Robert Koch-Institut**](https://www.rki.de/)
+
+<br> 
 
 **Beitragende**   
 Ramona Scheufele&sup1;, [Lukas Reitzle](https://orcid.org/0000-0001-7095-6567)&sup1;, [Laura Krause](https://orcid.org/0000-0003-2268-0142)&sup1;, & [Annett Klingner](https://orcid.org/0009-0008-7780-1937)&sup1;
@@ -20,7 +22,24 @@ Ramona Scheufele&sup1;, [Lukas Reitzle](https://orcid.org/0000-0001-7095-6567)&s
 **Zitieren**  
 Robert Koch-Institut. (2025). Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.15535365](https://doi.org/10.5281/zenodo.15535365)
 
+<br>
 
+
+**Zusammenfassung**    
+Im Datensatz "Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen" des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 66 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel „Gesundheit in Deutschland“ und die Studie „Gesundheit in Deutschland aktuell“ (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten.
+
+<br>
+
+**Inhaltsverzeichnis** 
+<!-- TOC_START: {"heading_depth": 2} -->
+  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)
+  - [Indikatoren](#indikatoren)
+  - [Aufbau und Inhalt des Datensatzes](#aufbau-und-inhalt-des-datensatzes)
+  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)
+  - [Appendix](#appendix)
+<!-- TOC_END -->
+
+<br>
 
 <!-- HEADER_END -->
 
@@ -1117,7 +1136,8 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 * **Beschreibung und Stratifizierung**: Für den Indikator werden die Kennzahlen für Gesamt sowie nach Geschlecht, Alter, Bundesland und Bildung ausgewiesen. In der Studie Krankheitswissen und Informationsbedarfe – Diabetes mellitus 2017 wurden die Teilnehmenden gefragt, ob sie männlich oder weiblich sind. Seit GEDA 2019/2020-EHIS werden das Geburtsgeschlecht und die geschlechtliche Identität erhoben ([Pöge et al. 2022](https://doi.org/10.25646/9957 "Externer Link&nbsp;zur Publikation: Erhebung geschlechtlicher Diversität in der Studie GEDA 2019/2020-EHIS – Ziele, Vorgehen und Erfahrungen")). In den Analysen nach Geschlecht werden Personen ausgewiesen, die sich als weiblich oder männlich identifizieren. Genderdiverse Menschen, die sich diesen Kategorien nicht zuordnen, werden aufgrund der geringen Fallzahl in den Analysen nach Geschlecht nicht gesondert ausgewiesen. Der Bildungsstatus wird anhand des CASMIN-Indexes bestimmt ([Brauns et al. 2003](https://link.springer.com/chapter/10.1007/978-1-4419-9186-7_11 "Externer Link&nbsp;zum Buchbeitrag: The CASMIN educational classification in international comparative research")). Dieser verwendet Angaben zu schulischer und beruflicher Bildung und ermöglicht die Einteilung in eine niedrige, mittlere und hohe Bildungsgruppe.
 * **Umgang mit unsicheren Werten**: Voraussetzung für die stratifizierte Darstellung eines Indikators ist, dass die Fallzahl in der Gruppe mindestens 5 beträgt und die statistische Unsicherheit in der Schätzung der Kennziffer als akzeptabel angesehen wird (Konfidenzintervall schmaler als 25 Prozentpunkte und Variationskoeffizient ≤ 33,5 %). Letzteres bedeutet, dass die untere Grenze des Konfidenzintervalls mindestens die Hälfte des Schätzers betragen muss. Sind diese Kriterien nicht erfüllt, werden die Werte nicht berichtet („zu wenige Daten“). Berichtet, jedoch als unsicher markiert, werden Werte, die auf weniger als 10 Fällen basieren, deren Konfidenzintervall breiter als 20 Prozentpunkte ist oder wenn die Untergrenze weniger als ⅔ des Schätzers beträgt (Variationskoeffizient ≤ 16,6 %). Aufgrund der Unsicherheit sollten diese Werte mit Vorsicht interpretiert werden.
-* **Gewichtung**: 31.12.2016 (Krankheitswissen und Informationsbedarfe – Diabetes mellitus 2017) und 31.12.2020 (GEDA 2022) verwendet. Die Informationen zu Haushalten und zur Bildungsverteilung wurden dem Mikrozensus 2016 (Krankheitswissen und Informationsbedarfe – Diabetes mellitus 2017) und 2018 (GEDA 2022) entnommen. Die Bildungsgruppen wurden auf Basis der ISCED-Klassifikation bestimmt ([Schroedter et al. 2006](https://www.ssoar.info/ssoar/bitstream/handle/document/26239/ssoar-2006-schroedter_et_al-die_umsetzung_der_bildungsskala_isced-1997.pdf?sequence=1 "Externer Link&nbsp;zur Publikation: Die Umsetzung der Bildungsskala ISCED-1997 für die Volkszählung 1970, die Mikrozensus-Zusatzerhebung 1971 und die Mikrozensen 1976-2004 (Version 1). Juni 2006, ZUMA-Methodenberichte 2006/08"), beginnend mit GEDA 2014/2015-EHIS: [UNESCO 2012](https://uis.unesco.org/sites/default/files/documents/international-standard-classification-of-education-isced-2011-en.pdf "Externer Link&nbsp;zum Bericht: International Standard Classification of Education 2011")).
+* **Gewichtung**:
+* 31.12.2016 (Krankheitswissen und Informationsbedarfe – Diabetes mellitus 2017) und 31.12.2020 (GEDA 2022) verwendet. Die Informationen zu Haushalten und zur Bildungsverteilung wurden dem Mikrozensus 2016 (Krankheitswissen und Informationsbedarfe – Diabetes mellitus 2017) und 2018 (GEDA 2022) entnommen. Die Bildungsgruppen wurden auf Basis der ISCED-Klassifikation bestimmt ([Schroedter et al. 2006](https://www.ssoar.info/ssoar/bitstream/handle/document/26239/ssoar-2006-schroedter_et_al-die_umsetzung_der_bildungsskala_isced-1997.pdf?sequence=1 "Externer Link&nbsp;zur Publikation: Die Umsetzung der Bildungsskala ISCED-1997 für die Volkszählung 1970, die Mikrozensus-Zusatzerhebung 1971 und die Mikrozensen 1976-2004 (Version 1). Juni 2006, ZUMA-Methodenberichte 2006/08"), beginnend mit GEDA 2014/2015-EHIS: [UNESCO 2012](https://uis.unesco.org/sites/default/files/documents/international-standard-classification-of-education-isced-2011-en.pdf "Externer Link&nbsp;zum Bericht: International Standard Classification of Education 2011")).
 * **Alters- und Geschlechtsstandardisierung**: Die Ergebnisse werden in zwei Versionen gezeigt: auf das jeweilige Erhebungsjahr gewichtet, wie oben beschrieben (‚beobachtet’), sowie standardisiert nach Alter und Geschlecht entsprechend der [europäische Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/i?i=1000:55515 "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Standardbevölkerungen - Europastandardbevölkerung 2013") (‚altersstandardisiert‘). Für Darstellungen nach Bildungsgruppe wurde die Standardisierung innerhalb der jeweiligen Bildungsgruppe durchgeführt. Die ‚beobachteten‘ Ergebnisse bilden die tatsächliche Alters- und Geschlechtsverteilung innerhalb der Erhebungsjahre und Bildungsgruppen ab. Sie sind damit zum Beispiel zur Analyse von Fragen des Versorgungsbedarfs und dessen Veränderung über die Zeit geeignet. Bei den ‚altersstandardisierten‘ Ergebnissen sind die Erhebungsjahre und Bildungsgruppen hinsichtlich Alter und Geschlecht vergleichbar. Dies erleichtert das Aufzeigen von Unterschieden, die sich nicht allein durch Alter und Geschlecht erklären lassen.
 * **Konfidenzintervalle**: Die zufallsbedingte Variabilität der Ergebnisse kann den 95 %-Konfidenzintervallen in den Tabellen und Abbildungen entnommen werden. Die Konfidenzintervalle wurden mit der Logit-Methode berechnet. Dabei wurde die Streuung der Gewichtungsfaktoren berücksichtigt.
 
@@ -3980,7 +4000,7 @@ Psychisches Wohlbefinden setzt sich aus den folgenden drei Komponenten zusammen 
 * *Persönliches Gelingen* (eudaimonisches Wohlbefinden; SWEMWBS Fragen 4, 5 und 7; Mittelwert 4,0 von 5) und
 * *Zwischenmenschliche Beziehungen* (soziales Wohlbefinden; beinhaltet SWEMWBS Fragen 2 und 6; Mittelwert 3,7 von 5).
 
-Daten zu den Komponenten werden nicht dargestellt. Sie sind enthalten im Datensatz [„Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen“](https://doi.org/10.5281/zenodo.15535365 "Externer Link&nbsp;zur Webseite von Gesundheitsberichterstattung – Daten zu nichtübertragbaren Erkrankungen’ (German only)").
+Daten zu den Komponenten werden nicht dargestellt. Sie sind enthalten im Datensatz [„Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen“](https://doi.org/10.5281/zenodo.13736663 "Externer Link&nbsp;zur Webseite von Gesundheitsberichterstattung – Daten zu nichtübertragbaren Erkrankungen’ (German only)").
 
 #### Bezugspopulation
 
