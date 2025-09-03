@@ -1,14 +1,16 @@
 <!-- HEADER_START: {"lang": "de"} -->
 
 
-Datensatzdokumentation  
-# Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen  
- 
-[**Robert Koch-Institut | RKI**](https://rki.de)  
-Nordufer 20  
-13353 Berlin  
+Dokumentation  
+# Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen
 
-<br>
+<br> 
+<br> 
+<br> 
+
+[**Robert Koch-Institut**](https://www.rki.de/)
+
+<br> 
 
 **Beitragende**   
 Ramona Scheufele&sup1;, [Lukas Reitzle](https://orcid.org/0000-0001-7095-6567)&sup1;, [Laura Krause](https://orcid.org/0000-0003-2268-0142)&sup1;, & [Annett Klingner](https://orcid.org/0009-0008-7780-1937)&sup1;
@@ -20,7 +22,24 @@ Ramona Scheufele&sup1;, [Lukas Reitzle](https://orcid.org/0000-0001-7095-6567)&s
 **Zitieren**  
 Robert Koch-Institut. (2025). Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.15535365](https://doi.org/10.5281/zenodo.15535365)
 
+<br>
 
+
+**Zusammenfassung**    
+Im Datensatz "Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen" des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 66 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel „Gesundheit in Deutschland“ und die Studie „Gesundheit in Deutschland aktuell“ (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten.
+
+<br>
+
+**Inhaltsverzeichnis** 
+<!-- TOC_START: {"heading_depth": 2} -->
+  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)
+  - [Indikatoren](#indikatoren)
+  - [Aufbau und Inhalt des Datensatzes](#aufbau-und-inhalt-des-datensatzes)
+  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)
+  - [Appendix](#appendix)
+<!-- TOC_END -->
+
+<br>
 
 <!-- HEADER_END -->
 
@@ -3980,7 +3999,7 @@ Psychisches Wohlbefinden setzt sich aus den folgenden drei Komponenten zusammen 
 * *Persönliches Gelingen* (eudaimonisches Wohlbefinden; SWEMWBS Fragen 4, 5 und 7; Mittelwert 4,0 von 5) und
 * *Zwischenmenschliche Beziehungen* (soziales Wohlbefinden; beinhaltet SWEMWBS Fragen 2 und 6; Mittelwert 3,7 von 5).
 
-Daten zu den Komponenten werden nicht dargestellt. Sie sind enthalten im Datensatz [„Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen“](https://doi.org/10.5281/zenodo.15535365 "Externer Link&nbsp;zur Webseite von Gesundheitsberichterstattung – Daten zu nichtübertragbaren Erkrankungen’ (German only)").
+Daten zu den Komponenten werden nicht dargestellt. Sie sind enthalten im Datensatz [„Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen“](https://doi.org/10.5281/zenodo.13736663 "Externer Link&nbsp;zur Webseite von Gesundheitsberichterstattung – Daten zu nichtübertragbaren Erkrankungen’ (German only)").
 
 #### Bezugspopulation
 
