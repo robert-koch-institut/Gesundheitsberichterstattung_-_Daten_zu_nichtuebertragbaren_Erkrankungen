@@ -10,9 +10,9 @@
                   dcatde:contributorID <http://dcat-ap.de/def/contributors/robertKochInstitut> ;
                   dcatde:maintainer [ a foaf:Agent ; foaf:mbox "opendata@rki.de" ; foaf:name "Robert Koch-Institut | Open Data Team"] ;
                   dcatde:contributor [ a foaf:Organization; foaf:name "Robert Koch-Institut" ];
-                  dct:description "<p>Die Gesundheitsberichterstattung (GBE) des RKI informiert regelmäßig über die gesundheitliche Situation der Bevölkerung in Deutschland. Das Themenspektrum ist vielfältig und reicht von Gesundheitszustand und Einflussfaktoren auf die Gesundheit über Gesundheitsförderung, Prävention und gesundheitliche Versorgung bis hin zu den  damit verbundenen Kosten.</p><p>Der Fokus des vorliegenden Datensatzes liegt auf Indikatoren zu nichtübertragbaren Erkrankungen (noncommunicable diseases, <a href=\"https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases\">NCD</a>), wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychischen Störungen sowie deren Einflussfaktoren.</p>" ;
-                  dct:issued "2025-07-31T16:15:38+02:00"^^xsd:dateTime ;
-                  dct:modified "2025-07-31T16:15:45+02:00"^^xsd:dateTime ;
+                  dct:description "<p>Im Datensatz &quot;Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen&quot; des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 66 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel „Gesundheit in Deutschland“ und die Studie „Gesundheit in Deutschland aktuell“ (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten.</p>" ;
+                  dct:issued "2025-09-30T10:29:46+02:00"^^xsd:dateTime ;
+                  dct:modified "2025-09-30T10:29:53+02:00"^^xsd:dateTime ;
                   dct:publisher [ a foaf:Organization ;
                       foaf:mbox "opendata@rki.de" ;
                       foaf:name "Robert Koch Institut"
@@ -34,35 +34,35 @@
                   dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0>;
                   dcat:distribution [
                     a dcat:Distribution ;
-                    dcatde:licenseAttributionByText "Robert Koch-Institut (2025): Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen, Berlin: Zenodo. DOI:10.5281/zenodo.15535365" ;
+                    dcatde:licenseAttributionByText "Robert Koch-Institut (2025): Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen, Berlin: Zenodo. DOI:10.5281/zenodo.17153533" ;
                     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
                     dct:description "GitHub ist eine soziales Netzwerk und Plattform, die es ermöglicht, Code-Repositories und Datensätze zu hosten, zu verwalten und zu teilen. Es bietet eine Vielzahl von Funktionen wie Versionskontrolle, Fehlerverfolgung, Zusammenarbeit und Teammanagement. GitHub ist eine der bekanntesten und am häufigsten verwendeten Plattformen für die gemeinsame Entwicklung von Software und Code, insbesondere für Open-Source-Projekte.";
                     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
                     dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
                     dct:title "Github - Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen" ;
                     dcat:accessURL <https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen>;
-                    dct:modified "2025-07-31T16:15:38+02:00"^^xsd:dateTime;
+                    dct:modified "2025-09-30T10:29:46+02:00"^^xsd:dateTime;
                   ],
                   [
                     a dcat:Distribution ;
-                    dcatde:licenseAttributionByText "Robert Koch-Institut (2025): Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen, Berlin: Zenodo. DOI:10.5281/zenodo.15535365" ;
+                    dcatde:licenseAttributionByText "Robert Koch-Institut (2025): Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen, Berlin: Zenodo. DOI:10.5281/zenodo.17153533" ;
                     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
                     dct:description "Zenodo ist eine europäische Plattform, die es Forschern, Wissenschaftlern und anderen Personen ermöglicht, Forschungsdaten, Publikationen, Präsentationen und andere wissenschaftliche Inhalte kostenlos zu teilen und zu veröffentlichen. Eine der Hauptstärken von Zenodo ist die Bereitstellung der Daten nach den FAIR Prinzipien, Daten sind langzeitarchiviert und wissenschaftlich zitierbar, um den Datenaustausch und die Zusammenarbeit zwischen Forschern zu erleichtern.";
                     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
                     dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
                     dct:title "Zenodo - Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen" ;
                     dcat:accessURL <https://zenodo.org/record/13736663>;
-                    dct:modified "2025-07-31T16:15:38+02:00"^^xsd:dateTime;
+                    dct:modified "2025-09-30T10:29:46+02:00"^^xsd:dateTime;
                   ],
                   [
                     a dcat:Distribution ;
                     dct:title "[Dokumentation] Gesundheitsberichterstattung_-_Daten_zu_nichtübertragbaren_Erkrankungen.pdf" ;
-                    dcatde:licenseAttributionByText "Robert Koch-Institut (2025): Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen, Berlin: Zenodo. DOI:10.5281/zenodo.15535365" ;
+                    dcatde:licenseAttributionByText "Robert Koch-Institut (2025): Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen, Berlin: Zenodo. DOI:10.5281/zenodo.17153533" ;
                     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
                     dct:description "Die Datensatzdokumentation enthält Informationen und Hinweise zum Entstehungskontext, dem Aufbau und der Nachnutzung der im Datensatz 'Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen' bereitgestellten Daten" ;
                     dct:format <http://publications.europa.eu/resource/authority/file-type/PDF> ;
                     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
                     dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
                     dcat:accessURL <https://zenodo.org/record/13736663/files/%5BDokumentation%5D_Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen.pdf>;
-                    dct:modified "2025-07-31T16:15:38+02:00"^^xsd:dateTime;
+                    dct:modified "2025-09-30T10:29:46+02:00"^^xsd:dateTime;
                   ].

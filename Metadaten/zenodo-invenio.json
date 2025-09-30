@@ -1,10 +1,10 @@
 {
   "title": "Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen",
-  "description": "<p>Die Gesundheitsberichterstattung (GBE) des RKI informiert regelmäßig über die gesundheitliche Situation der Bevölkerung in Deutschland. Das Themenspektrum ist vielfältig und reicht von Gesundheitszustand und Einflussfaktoren auf die Gesundheit über Gesundheitsförderung, Prävention und gesundheitliche Versorgung bis hin zu den  damit verbundenen Kosten.</p>\n<p>Der Fokus des vorliegenden Datensatzes liegt auf Indikatoren zu nichtübertragbaren Erkrankungen (noncommunicable diseases, <a href=\"https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases\">NCD</a>), wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychischen Störungen sowie deren Einflussfaktoren.</p>\n",
+  "description": "<p>Im Datensatz &quot;Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen&quot; des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 66 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel „Gesundheit in Deutschland“ und die Studie „Gesundheit in Deutschland aktuell“ (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten.</p>\n",
   "resource_type": {
     "id": "dataset"
   },
-  "publication_date": "2025-07-31",
+  "publication_date": "2025-09-30",
   "creators": [
     {
       "person_or_org": {
@@ -98,10 +98,10 @@
     }
   ],
   "publisher": "Zenodo",
-  "version": "2025-07-31",
+  "version": "2025-09-30",
   "dates": [
     {
-      "date": "2025-07-31T16:15:45+02:00",
+      "date": "2025-09-30T10:29:53+02:00",
       "type": {
         "id": "created"
       },
