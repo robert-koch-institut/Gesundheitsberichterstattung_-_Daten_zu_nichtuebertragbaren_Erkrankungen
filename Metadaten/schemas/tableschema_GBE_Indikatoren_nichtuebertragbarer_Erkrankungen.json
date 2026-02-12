@@ -251,6 +251,8 @@
           "23",
           "24",
           "25",
+          "31",
+          "32",
           "AT",
           "BA",
           "BE",
@@ -332,6 +334,7 @@
           "Nordrhein-Westfalen",
           "Nordwest",
           "Norwegen",
+          "Ost",
           "Polen",
           "Portugal",
           "Rheinland-Pfalz",
@@ -354,6 +357,7 @@
           "Ukraine",
           "Ungarn",
           "Vereinigtes Königreich",
+          "West",
           "Zypern",
           "Österreich"
         ]
