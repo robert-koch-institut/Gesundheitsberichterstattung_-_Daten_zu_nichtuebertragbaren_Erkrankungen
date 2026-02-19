@@ -25,11 +25,11 @@ Ramona Scheufele&sup1;, [Lukas Reitzle](https://orcid.org/0000-0001-7095-6567)&s
 Robert Koch-Institut. (2026). Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.18465908](https://doi.org/10.5281/zenodo.18465908)
 <!-- CITATION_END -->
 
+
 <br>
 
-
 **Zusammenfassung**    
-Im Datensatz "Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen" des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 69 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel „Gesundheit in Deutschland“ und die Studie „Gesundheit in Deutschland aktuell“ (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten.
+Im Datensatz "Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen" des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 66 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel "Gesundheit in Deutschland" und die Studie "Gesundheit in Deutschland aktuell" (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten.
 
 <br>
 
@@ -77,7 +77,7 @@ Eines der Kernelemente der Webseite ist die interaktive Visualisierung von Indik
 #### Datenquellen
 Für die Darstellung der Indikatoren werden unterschiedliche Datenquellen genutzt. Dabei soll für jeden Indikator die bestmögliche Datenquelle verwendet werden. Bei der Auswahl der Datenquelle wird darauf geachtet, dass diese möglichst repräsentativ für die Bevölkerung ist, zeitnah zur Verfügung steht und die jeweilige Kennzahl verlässlich abbildet.
 
-Ein großer Teil der Indikatoren wird auf Basis von Primärdaten aus Gesundheitsstudien des RKI abgebildet. Hierbei wurden bis 2023 insbesondere Daten der Studie [Gesundheit in Deutschland aktuell](https://www.rki.de/geda) (GEDA) verwendet. Anfang 2024 startete das RKI die Studienreihe [Gesundheit in Deutschland](https://www.rki.de/panel) (Panel), die von nun an kontinuierlich Daten u.a. für die Indikatoren des Webportals der GBE erhebt. Darüber hinaus wurden für einige Indikatoren Daten der amtlichen Statistik (z. B. Todesursachenstatistik, Krankenhausstatistik), Routinedaten der gesetzlichen Krankenversicherung oder Daten aus Registern verwendet. Die detaillierte Beschreibung der Datenquellen ist in der Methodik der jeweiligen Indikatoren (siehe [Appendix](#Appendix)) zu finden.
+Ein großer Teil der Indikatoren wird auf Basis von Primärdaten aus Gesundheitsstudien des RKI abgebildet. Hierbei wurden bis 2023 insbesondere Daten der Studie [Gesundheit in Deutschland aktuell](https://www.rki.de/geda) (GEDA) verwendet. Anfang 2024 startete das RKI die Studienreihe [Gesundheit in Deutschland](https://www.rki.de/panel) (Panel), die von nun an kontinuierlich Daten u.a. für die Indikatoren des Webportals der GBE erhebt. Darüber hinaus wurden für einige Indikatoren Daten der amtlichen Statistik (z. B. Todesursachenstatistik, Krankenhausstatistik), Routinedaten der gesetzlichen Krankenversicherung oder Daten aus Registern verwendet. Die detaillierte Beschreibung der Datenquellen ist in der Methodik der jeweiligen Indikatoren (siehe [Appendix](#appendix)) zu finden.
 
 
 #### Datenaufbereitung und Analyse
@@ -88,7 +88,7 @@ Die Berechnung der Indikatoren erfolgt stratifiziert nach Berichtsjahr, Geschlec
 
 Für die Datenaufbereitung der Sekundärdaten wurde die Statistik-Software *R (Version 4.3.0)* und das Package *tidyverse (2.0.0)* verwendet. Die Auswertung von Befragungsdaten des RKI (zum Beispiel Daten aus der Studie [Gesundheit in Deutschland](https://www.rki.de/panel)) inklusive der Altersstandardisierung erfolgte mit dem Package *srvyr (1.2.0)*. 
 
-Die genaue Beschreibung der Definition, Operationalisierung und Berechnung ist in der Methodik des jeweiligen Indikators (siehe [Appendix](#Appendix)) beschrieben.
+Die genaue Beschreibung der Definition, Operationalisierung und Berechnung ist in der Methodik des jeweiligen Indikators (siehe [Appendix](#appendix)) beschrieben.
 
 #### Limitationen und Einordnung des Datensatzes
 
@@ -227,11 +227,11 @@ Neben den individuellen Verhaltensweisen beeinflussen auch die vorliegenden Rahm
 
 Der Datensatz enthält die aggregierten und ausgewerteten Daten der Gesundheitsberichterstattung des RKI zu nichtübertragbaren Erkrankungen. Im Datensatz enthalten sind:
 
-* [Daten der Gesundheitsberichterstattung](#Daten-zu-nicht-übertragbaren-Erkrankungen) zu nichtübertragbaren Erkrankungen 
+* [Daten der Gesundheitsberichterstattung](#daten-zu-nicht-übertragbaren-erkrankungen) zu nichtübertragbaren Erkrankungen 
 * Datensatzdokumentation in deutscher Sprache
 * Datenschema im [Data Package Standard](https://datapackage.org/)
-* [Metadaten der Publikation](#Metadaten)
-* Lizenz-Dateien mit der [Nutzungslizenz des Datensatzes](#Lizenz) auf Deutsch und Englisch
+* [Metadaten der Publikation](#metadaten)
+* Lizenz-Dateien mit der [Nutzungslizenz des Datensatzes](#lizenz) auf Deutsch und Englisch
 
 ### Daten zu nichtübertragbaren Erkrankungen
 
@@ -310,8 +310,6 @@ Die Daten sind im Datensatz als Tab-separierte Datei (TSV) enthalten. Der verwen
 
 <!-- FOOTER_START: {"lang": "de"} -->
 
-
-
 ### Metadaten  
 
 Zur Erhöhung der Auffindbarkeit sind die bereitgestellten Daten mit Metadaten beschrieben. Über GitHub Actions werden Metadaten an die entsprechenden Plattformen verteilt. Für jede Plattform existiert eine spezifische Metadatendatei, diese sind im Metadatenordner hinterlegt:  
@@ -361,7 +359,7 @@ Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [Git
 - [https://edoc.rki.de/](https://edoc.rki.de/) 
 
 
- 
+
 ### Lizenz  
 
 Der Datensatz "Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
@@ -370,8 +368,8 @@ Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung 
 <!-- FOOTER_END -->
 
 
-
 <!-- CUSTOM_MARKDOWN_START: {"id": "appendix"} -->
+
 ## Appendix
 
 
