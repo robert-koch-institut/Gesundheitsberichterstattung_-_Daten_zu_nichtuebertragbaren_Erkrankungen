@@ -1342,7 +1342,7 @@ Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert 
 * RKI-Panel 2024:
 	+ webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe mit vier Fragebogenmodulen (A&nbsp;–&nbsp;D), N&nbsp;=&nbsp;47.676 (relevante Teilstichprobe Fragebogen A: n = 27.199)
 	+ gültige Werte für den Indikator: n = 27.084
-	+ [Datensatzversion v3](https://edoc.rki.de/bitstream/handle/176904/13068/Frageboegen-2024-1.pdf?sequence=1&isAllowed=y "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
+	+ [Datensatzversion v3](https://edoc.rki.de/handle/176904/13068.2 "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
 
 #### Datenqualität
 
@@ -1482,7 +1482,7 @@ Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert K
 * RKI-Panel 2024:
 	+ webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe mit vier Fragebogenmodulen (A – D), N =&nbsp; 47.676 (relevante Teilstichprobe aus Fragebogen C: n = 27.102)
 	+ gültige Werte für den Indikator: n = 26.712
-	+ [Datensatzversion v3](https://edoc.rki.de/bitstream/handle/176904/13068/Frageboegen-2024-1.pdf?sequence=1&isAllowed=y "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
+	+ [Datensatzversion v3](https://edoc.rki.de/handle/176904/13068.2 "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
 
 #### Weiterführende Links
 
@@ -1993,7 +1993,7 @@ Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert 
 	+ gültige Werte für den Indikator: n&nbsp;=&nbsp;15.670
 * RKI-Panel 2024:
 	+ webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe mit vier Fragebogenmodulen (A&nbsp;–&nbsp;D), N&nbsp;=&nbsp;47.676 (relevante Teilstichprobe Fragebogen A: n = 27.199)
-	+ [Datensatzversion v3](https://edoc.rki.de/bitstream/handle/176904/13068/Frageboegen-2024-1.pdf?sequence=1&isAllowed=y "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
+	+ [Datensatzversion v3](https://edoc.rki.de/handle/176904/13068.2 "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
 
 #### Datenqualität
 
@@ -3111,7 +3111,7 @@ Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert 
 * RKI-Panel 2024:
 	+ webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe mit vier Fragebogenmodulen (A&nbsp;–&nbsp;D), N&nbsp;=&nbsp;47.676 (relevante Teilstichprobe Fragebogen A: n = 27.199)
 	+ gültige Werte für den Indikator: n = 27.095
-	+ [Datensatzversion v3](https://edoc.rki.de/bitstream/handle/176904/13068/Frageboegen-2024-1.pdf?sequence=1&isAllowed=y "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
+	+ [Datensatzversion v3](https://edoc.rki.de/handle/176904/13068.2 "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
 
 #### Weiterführende Links
 
@@ -3239,7 +3239,7 @@ Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert 
 * RKI-Panel 2024:
 	+ webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe mit vier Fragebogenmodulen (A&nbsp;–&nbsp;D), N&nbsp;=&nbsp;47.676 (relevante Teilstichprobe Fragebogen A: n = 27.199)
 	+ gültige Werte für den Indikator: n = 26.795
-	+ [Datensatzversion v3](https://edoc.rki.de/bitstream/handle/176904/13068/Frageboegen-2024-1.pdf?sequence=1&isAllowed=y "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
+	+ [Datensatzversion v3](https://edoc.rki.de/handle/176904/13068.2 "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
 
 #### Datenqualität
 
@@ -3394,7 +3394,7 @@ Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert 
 * RKI-Panel 2024:
 	+ webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe mit vier Fragebogenmodulen (A&nbsp;–&nbsp;D), N&nbsp;=&nbsp;47.676 (relevante Teilstichprobe Fragebogen A: n = 27.199)
 	+ gültige Werte für den Indikator: n = 27.087
-	+ [Datensatzversion v3](https://edoc.rki.de/bitstream/handle/176904/13068/Frageboegen-2024-1.pdf?sequence=1&isAllowed=y "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
+	+ [Datensatzversion v3](https://edoc.rki.de/handle/176904/13068.2 "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
 
 #### Datenqualität
 
