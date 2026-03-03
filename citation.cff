@@ -7,16 +7,16 @@ abstract: >-
   umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland
   bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen
   (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische
-  Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 66
+  Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 69
   interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen
   beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden
   und nach verschiedenen soziodemografischen Kriterien ausgewertet werden.
   Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel
-  das Panel „Gesundheit in Deutschland“ und die Studie „Gesundheit in
-  Deutschland aktuell“ (GEDA), sowie auch amtliche Statistiken. Ziel des
-  Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und
-  gesundheitspolitische Entscheidungen zu bieten.
-date-released: '2025-09-30'
+  das Panel &quot;Gesundheit in Deutschland&quot; und die Studie
+  &quot;Gesundheit in Deutschland aktuell&quot; (GEDA), sowie auch amtliche
+  Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für
+  Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten.
+date-released: '2026-03-03'
 keywords:
   - Bevölkerungsgesundheit
   - Chronische Krankheit
@@ -25,6 +25,7 @@ keywords:
   - Gesundheitsverhalten
   - Gesundheitsversorgung
   - Gesundheitszustand
+  - Gesundheitsberichterstattung
   - Herz-Kreislauf-Krankheiten
   - Körpergewicht
   - Krebs
@@ -35,9 +36,8 @@ keywords:
   - Todesursache
   - Öffentliche Berichterstattung über Gesundheitsdaten
   - RKI
-  - Deutschland
-  - Public Health
   - Open Data
+  - Public Health
   - Adipositas
   - Aktivitäten des täglichen Lebens
   - Alkoholkonsum
@@ -48,15 +48,23 @@ keywords:
   - Arbeitslosigkeit
   - Armut
   - Asthma
+  - Deutschland
   - Atemwegskrankheiten
   - Ausbildungsstand
   - Bewegungsarme Lebensweise
+  - Krebserkrankungen
   - Brustkrebs
+  - Mobility Limitation
   - Chronisch obstruktive Lungenerkrankung
+  - Mobilitätseinschränkung
   - Depression
+  - Healthy Aging
   - Depressive Störung
+  - Gesundes Altern
   - Diabeteskomplikationen
+  - Social Deprivation
   - Erziehung und Ausbildung
+  - Soziale Deprivation
   - Fleisch
   - Früchte
   - Früherkennung von Krebs
@@ -142,9 +150,10 @@ keywords:
   - Falls
   - Fruit
   - Gestational Diabetes Mellitus
+  - Schwangerschaftsdiabetes
   - Health Behavior
   - Health Expenditures
-  - Health Inequalities
+  - Health Inequities
   - Health Policy
   - Health Promotion
   - Health Risk Behaviors
@@ -201,12 +210,18 @@ keywords:
   - Cancer
   - Neoplasm
   - Krebserkrankungen
+  - Mobility Limitation
+  - Mobilitätseinschränkung
+  - Healthy Aging
+  - Gesundes Altern
+  - Social Deprivation
+  - Soziale Deprivation
 message: Cite me!
 url: >-
   https://robert-koch-institut.github.io/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen
 license: CC-BY-4.0
-doi: 10.5281/zenodo.17153533
-version: '2025-09-30T10:29:53+02:00'
+doi: 10.5281/zenodo.18465908
+version: '2026-03-03T14:09:42+01:00'
 authors:
   - name: Robert Koch-Institut
     email: info@rki.de

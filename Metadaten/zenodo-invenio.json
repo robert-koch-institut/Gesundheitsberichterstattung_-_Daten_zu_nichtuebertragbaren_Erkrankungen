@@ -1,10 +1,10 @@
 {
   "title": "Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen",
-  "description": "<p>Im Datensatz &quot;Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen&quot; des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 66 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel „Gesundheit in Deutschland“ und die Studie „Gesundheit in Deutschland aktuell“ (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten.</p>\n",
+  "description": "<p>Im Datensatz &quot;Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen&quot; des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 69 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel &quot;Gesundheit in Deutschland&quot; und die Studie &quot;Gesundheit in Deutschland aktuell&quot; (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten.</p>\n",
   "resource_type": {
     "id": "dataset"
   },
-  "publication_date": "2025-09-30",
+  "publication_date": "2026-03-03",
   "creators": [
     {
       "person_or_org": {
@@ -98,10 +98,10 @@
     }
   ],
   "publisher": "Zenodo",
-  "version": "2025-09-30",
+  "version": "2026-03-03",
   "dates": [
     {
-      "date": "2025-09-30T10:29:53+02:00",
+      "date": "2026-03-03T14:09:42+01:00",
       "type": {
         "id": "created"
       },
@@ -153,6 +153,9 @@
       "subject": "Gesundheitszustand"
     },
     {
+      "subject": "Gesundheitsberichterstattung"
+    },
+    {
       "subject": "Herz-Kreislauf-Krankheiten"
     },
     {
@@ -183,13 +186,10 @@
       "subject": "RKI"
     },
     {
-      "subject": "Deutschland"
+      "subject": "Open Data"
     },
     {
       "subject": "Public Health"
-    },
-    {
-      "subject": "Open Data"
     },
     {
       "subject": "Adipositas"
@@ -222,6 +222,9 @@
       "subject": "Asthma"
     },
     {
+      "subject": "Deutschland"
+    },
+    {
       "subject": "Atemwegskrankheiten"
     },
     {
@@ -231,22 +234,43 @@
       "subject": "Bewegungsarme Lebensweise"
     },
     {
+      "subject": "Krebserkrankungen"
+    },
+    {
       "subject": "Brustkrebs"
+    },
+    {
+      "subject": "Mobility Limitation"
     },
     {
       "subject": "Chronisch obstruktive Lungenerkrankung"
     },
     {
+      "subject": "Mobilitätseinschränkung"
+    },
+    {
       "subject": "Depression"
+    },
+    {
+      "subject": "Healthy Aging"
     },
     {
       "subject": "Depressive Störung"
     },
     {
+      "subject": "Gesundes Altern"
+    },
+    {
       "subject": "Diabeteskomplikationen"
     },
     {
+      "subject": "Social Deprivation"
+    },
+    {
       "subject": "Erziehung und Ausbildung"
+    },
+    {
+      "subject": "Soziale Deprivation"
     },
     {
       "subject": "Fleisch"
@@ -504,13 +528,16 @@
       "subject": "Gestational Diabetes Mellitus"
     },
     {
+      "subject": "Schwangerschaftsdiabetes"
+    },
+    {
       "subject": "Health Behavior"
     },
     {
       "subject": "Health Expenditures"
     },
     {
-      "subject": "Health Inequalities"
+      "subject": "Health Inequities"
     },
     {
       "subject": "Health Policy"
@@ -679,6 +706,24 @@
     },
     {
       "subject": "Krebserkrankungen"
+    },
+    {
+      "subject": "Mobility Limitation"
+    },
+    {
+      "subject": "Mobilitätseinschränkung"
+    },
+    {
+      "subject": "Healthy Aging"
+    },
+    {
+      "subject": "Gesundes Altern"
+    },
+    {
+      "subject": "Social Deprivation"
+    },
+    {
+      "subject": "Soziale Deprivation"
     }
   ],
   "custom_fields": {

@@ -9,7 +9,7 @@
     "descriptions": [
       {
         "language": "DE (German)",
-        "text": "Im Datensatz \"Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen\" des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 66 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel „Gesundheit in Deutschland“ und die Studie „Gesundheit in Deutschland aktuell“ (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten."
+        "text": "Im Datensatz \"Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen\" des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 69 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel \"Gesundheit in Deutschland\" und die Studie \"Gesundheit in Deutschland aktuell\" (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten."
       }
     ],
     "titles": [
@@ -20,7 +20,7 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.17153533",
+        "identifier": "10.5281/zenodo.18465908",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
@@ -65,6 +65,10 @@
         "code": "http://id.nlm.nih.gov/mesh/D006304"
       },
       {
+        "label": "Gesundheitsberichterstattung",
+        "code": "http://id.nlm.nih.gov/mesh/D062486"
+      },
+      {
         "label": "Herz-Kreislauf-Krankheiten",
         "code": "http://id.nlm.nih.gov/mesh/D002318"
       },
@@ -104,14 +108,11 @@
         "label": "RKI"
       },
       {
-        "label": "Deutschland"
+        "label": "Open Data"
       },
       {
         "label": "Public Health",
         "code": "http://id.nlm.nih.gov/mesh/D011634"
-      },
-      {
-        "label": "Open Data"
       },
       {
         "label": "Adipositas",
@@ -154,6 +155,10 @@
         "code": "http://id.nlm.nih.gov/mesh/D001249"
       },
       {
+        "label": "Deutschland",
+        "code": "http://id.nlm.nih.gov/mesh/D005858"
+      },
+      {
         "label": "Atemwegskrankheiten",
         "code": "http://id.nlm.nih.gov/mesh/D012140"
       },
@@ -166,28 +171,56 @@
         "code": "http://id.nlm.nih.gov/mesh/D057185"
       },
       {
+        "label": "Krebserkrankungen",
+        "code": "http://id.nlm.nih.gov/mesh/D009369"
+      },
+      {
         "label": "Brustkrebs",
         "code": "http://id.nlm.nih.gov/mesh/D001943"
+      },
+      {
+        "label": "Mobility Limitation",
+        "code": "http://id.nlm.nih.gov/mesh/D051346"
       },
       {
         "label": "Chronisch obstruktive Lungenerkrankung",
         "code": "http://id.nlm.nih.gov/mesh/D029424"
       },
       {
+        "label": "Mobilitätseinschränkung",
+        "code": "http://id.nlm.nih.gov/mesh/D051346"
+      },
+      {
         "label": "Depression",
         "code": "http://id.nlm.nih.gov/mesh/D003863"
+      },
+      {
+        "label": "Healthy Aging",
+        "code": "http://id.nlm.nih.gov/mesh/D000073656"
       },
       {
         "label": "Depressive Störung",
         "code": "http://id.nlm.nih.gov/mesh/D003866"
       },
       {
+        "label": "Gesundes Altern",
+        "code": "http://id.nlm.nih.gov/mesh/D000073656"
+      },
+      {
         "label": "Diabeteskomplikationen",
         "code": "http://id.nlm.nih.gov/mesh/D048909"
       },
       {
+        "label": "Social Deprivation",
+        "code": "http://id.nlm.nih.gov/mesh/D000091489"
+      },
+      {
         "label": "Erziehung und Ausbildung",
         "code": "http://id.nlm.nih.gov/mesh/D004493"
+      },
+      {
+        "label": "Soziale Deprivation",
+        "code": "http://id.nlm.nih.gov/mesh/D000091489"
       },
       {
         "label": "Fleisch",
@@ -529,6 +562,10 @@
         "code": "http://id.nlm.nih.gov/mesh/D016640"
       },
       {
+        "label": "Schwangerschaftsdiabetes",
+        "code": "http://id.nlm.nih.gov/mesh/D016640"
+      },
+      {
         "label": "Health Behavior",
         "code": "http://id.nlm.nih.gov/mesh/D015438"
       },
@@ -537,7 +574,7 @@
         "code": "http://id.nlm.nih.gov/mesh/D005102"
       },
       {
-        "label": "Health Inequalities",
+        "label": "Health Inequities",
         "code": "http://id.nlm.nih.gov/mesh/D000091682"
       },
       {
@@ -749,7 +786,8 @@
         "code": "http://id.nlm.nih.gov/mesh/D014675"
       },
       {
-        "label": "Germany"
+        "label": "Germany",
+        "code": "http://id.nlm.nih.gov/mesh/D005858"
       },
       {
         "label": "Cancer",
@@ -762,6 +800,30 @@
       {
         "label": "Krebserkrankungen",
         "code": "http://id.nlm.nih.gov/mesh/D009369"
+      },
+      {
+        "label": "Mobility Limitation",
+        "code": "http://id.nlm.nih.gov/mesh/D051346"
+      },
+      {
+        "label": "Mobilitätseinschränkung",
+        "code": "http://id.nlm.nih.gov/mesh/D051346"
+      },
+      {
+        "label": "Healthy Aging",
+        "code": "http://id.nlm.nih.gov/mesh/D000073656"
+      },
+      {
+        "label": "Gesundes Altern",
+        "code": "http://id.nlm.nih.gov/mesh/D000073656"
+      },
+      {
+        "label": "Social Deprivation",
+        "code": "http://id.nlm.nih.gov/mesh/D000091489"
+      },
+      {
+        "label": "Soziale Deprivation",
+        "code": "http://id.nlm.nih.gov/mesh/D000091489"
       }
     ],
     "languages": [
@@ -777,7 +839,7 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2025-09-30"
+      "version": "2026-03-03"
     },
     "webpage": "https://robert-koch-institut.github.io/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen",
     "contributors": [
