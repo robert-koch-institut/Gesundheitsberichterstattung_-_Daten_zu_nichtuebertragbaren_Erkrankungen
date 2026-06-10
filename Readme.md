@@ -14,22 +14,22 @@ Dokumentation
 <br> 
 
 **Beitragende**   
-Ramona Scheufele&sup1;, [Lukas Reitzle](https://orcid.org/0000-0001-7095-6567)&sup1;, [Laura Krause](https://orcid.org/0000-0003-2268-0142)&sup1;, & [Annett Klingner](https://orcid.org/0009-0008-7780-1937)&sup1;
+Ramona Scheufele&sup1;, [Lukas Reitzle](https://orcid.org/0000-0001-7095-6567)&sup1;, [Laura Krause](https://orcid.org/0000-0003-2268-0142)&sup1;, [Annett Klingner](https://orcid.org/0009-0008-7780-1937)&sup1;, & [Michael Lange](https://orcid.org/0009-0008-8932-7566)&sup1;
 
 &emsp;&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de/) | [Fachgebiet 24](https://www.rki.de/fg24)
 
 <br> 
 
 **Zitieren**  
-<!-- CITATION_START: {"citation_style": "apa"} -->
-Robert Koch-Institut. (2026). Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.18465908](https://doi.org/10.5281/zenodo.18465908)
+<!-- CITATION_START: {"citation_style": "apa", "markdown_style": "plain"} -->
+Robert Koch-Institut. (2026). Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.20393248](https://doi.org/10.5281/zenodo.20393248)
 <!-- CITATION_END -->
 
 
 <br>
 
 **Zusammenfassung**    
-Im Datensatz "Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen" des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 69 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel "Gesundheit in Deutschland" und die Studie "Gesundheit in Deutschland aktuell" (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten.
+Im Datensatz "Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen" des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 78 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel "Gesundheit in Deutschland" und die Studie "Gesundheit in Deutschland aktuell" (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten.
 
 <br>
 
@@ -63,13 +63,13 @@ Die Veröffentlichung der Daten, die Kuration sowie das Qualitätsmanagement der
 
 ### Entstehungskontext  
 
-Die Gesundheitsberichterstattung am RKI hat zum Ziel, verlässliche Informationen zur gesundheitlichen Lage der Bevölkerung in Deutschland regelmäßig verschiedenen Zielgruppen bereitzustellen ([Ziese et al. 2020]( https://doi.org/10.1007/s00103-020-03195-8)). Zum einen weisen die Informationen auf gesundheitliche Problemlagen und Handlungsbedarfe hin. Zum anderen unterstützen die Informationen bei der Entwicklung von Präventionsmaßnahmen und deren Evaluation.
+Die GBE am RKI hat zum Ziel, verlässliche Informationen zur gesundheitlichen Lage der Bevölkerung in Deutschland regelmäßig verschiedenen Zielgruppen bereitzustellen ([Ziese et al. 2020]( https://doi.org/10.1007/s00103-020-03195-8)). Zum einen weisen die Informationen auf gesundheitliche Problemlagen und Handlungsbedarfe hin. Zum anderen unterstützen die Informationen bei der Entwicklung von Präventionsmaßnahmen und deren Evaluation.
 
-Im Rahmen der Entwicklung einer [NCD-Surveillance](https://www.rki.de/DE/Themen/Nichtuebertragbare-Krankheiten/Studien-und-Surveillance/NCD-Surveillance_inhalt.html) am RKI werden das Krankheitsgeschehen wichtiger körperlicher Erkrankungen und psychischer Störungen abgebildet. Neben der Häufigkeit der Erkrankungen und Störungen werden auch die Einflussfaktoren, insbesondere das Gesundheitsverhalten und soziale Determinanten, sowie die gesundheitliche Versorgung und die Krankheitsfolgen beleuchtet. Die NCD-Surveillance führt bestehende Surveillance-Projekte am RKI (Diabetes-Surveillance, Mental-Health-Surveillance, Burden of Disease und AdiMon) zusammen. Der Gesundheitsberichterstattung kommt dabei die Aufgabe der kontinuierlichen und zeitnahen Berichterstattung zu.
+Im Rahmen der Entwicklung einer [NCD-Surveillance](https://www.rki.de/DE/Themen/Nichtuebertragbare-Krankheiten/Studien-und-Surveillance/NCD-Surveillance_inhalt.html) am RKI werden das Krankheitsgeschehen wichtiger körperlicher Erkrankungen und psychischer Störungen abgebildet. Neben der Häufigkeit der Erkrankungen und Störungen werden auch die Einflussfaktoren, insbesondere das Gesundheitsverhalten und soziale Determinanten, sowie die gesundheitliche Versorgung und die Krankheitsfolgen beleuchtet. Die NCD-Surveillance führt bestehende Surveillance-Projekte am RKI (Diabetes-Surveillance, Mental-Health-Surveillance, Burden of Disease und AdiMon) zusammen. Der GBE kommt dabei die Aufgabe der kontinuierlichen und zeitnahen Berichterstattung zu.
 
-Die Webseite der Gesundheitsberichterstattung ([www.gbe.rki.de](https://www.gbe.rki.de)) gibt Nutzerinnen und Nutzern einen einfachen und transparenten Zugang sowohl zu den Ergebnissen der NCD-Surveillance als auch zu weiteren Produkten der Gesundheitsberichterstattung sowie zu weiterführenden Publikationen. Der inhaltliche Fokus liegt dabei zunächst auf den nichtübertragbaren Erkrankungen und deren Einflussfaktoren.
+Die Webseite der GBE ([www.gbe.rki.de](https://www.gbe.rki.de)) gibt Nutzerinnen und Nutzern einen einfachen und transparenten Zugang sowohl zu den Ergebnissen der NCD-Surveillance als auch zu weiteren Produkten der GBE sowie zu weiterführenden Publikationen. Der inhaltliche Fokus liegt dabei zunächst auf den nichtübertragbaren Erkrankungen und deren Einflussfaktoren.
 
-Eines der Kernelemente der Webseite ist die interaktive Visualisierung von Indikatoren. Indikatoren sind epidemiologische Kennzahlen und bilden beispielsweise die Häufigkeit bestimmter Erkrankungen (z. B. *Darmkrebs: Inzidenz* oder *Diabetes mellitus: Prävalenz*) oder Verhaltensweisen (z. B. *Fleischkonsum* oder *Rauschtrinken*) in der Bevölkerung ab. Neben einer hohen Relevanz für Public Health sollen die Indikatoren eindeutig definiert und messbar, über die Zeit vergleichbar, potenziell durch gesundheitspolitische Maßnahmen beinflussbar und auf Basis einer verlässlichen Datenquelle wiederkehrend abbildbar sein. Insgesamt werden auf der Webseite aktuell 69 Indikatoren in interaktiven Grafiken dargestellt, die Ergebnisse textlich beschrieben und in einem Fazit eingeordnet. Die Indikatoren wurden in Zusammenarbeit mit der NCD-Surveillance ausgewählt und beschränken sich zunächst auf die erwachsene Bevölkerung.
+Eines der Kernelemente der Webseite ist die interaktive Visualisierung von Indikatoren. Indikatoren sind epidemiologische Kennzahlen und bilden beispielsweise die Häufigkeit bestimmter Erkrankungen (z. B. *Darmkrebs: Inzidenz* oder *Diabetes mellitus: Prävalenz*) oder Verhaltensweisen (z. B. *Fleischkonsum* oder *Rauschtrinken*) in der Bevölkerung ab. Neben einer hohen Relevanz für Public Health sollen die Indikatoren eindeutig definiert und messbar, über die Zeit vergleichbar, potenziell durch gesundheitspolitische Maßnahmen beinflussbar und auf Basis einer verlässlichen Datenquelle wiederkehrend abbildbar sein. Insgesamt werden auf der Webseite aktuell 78 Indikatoren in interaktiven Grafiken dargestellt, die Ergebnisse textlich beschrieben und in einem Fazit eingeordnet. Die Indikatoren wurden in Zusammenarbeit mit der NCD-Surveillance ausgewählt und beschränken sich zunächst auf die erwachsene Bevölkerung.
 
 
 ### Daten und Datenaufbereitung
@@ -77,12 +77,12 @@ Eines der Kernelemente der Webseite ist die interaktive Visualisierung von Indik
 #### Datenquellen
 Für die Darstellung der Indikatoren werden unterschiedliche Datenquellen genutzt. Dabei soll für jeden Indikator die bestmögliche Datenquelle verwendet werden. Bei der Auswahl der Datenquelle wird darauf geachtet, dass diese möglichst repräsentativ für die Bevölkerung ist, zeitnah zur Verfügung steht und die jeweilige Kennzahl verlässlich abbildet.
 
-Ein großer Teil der Indikatoren wird auf Basis von Primärdaten aus Gesundheitsstudien des RKI abgebildet. Hierbei wurden bis 2023 insbesondere Daten der Studie [Gesundheit in Deutschland aktuell](https://www.rki.de/geda) (GEDA) verwendet. Anfang 2024 startete am RKI die Studienreihe [Gesundheit in Deutschland](https://www.rki.de/panel) (RKI-Panel), die von nun an kontinuierlich Daten u.a. für die Indikatoren des Webportals der GBE erhebt. Darüber hinaus wurden für einige Indikatoren Daten der amtlichen Statistik (z. B. Todesursachenstatistik, Krankenhausstatistik), Routinedaten der gesetzlichen Krankenversicherung oder Daten aus Registern verwendet. Die detaillierte Beschreibung der Datenquellen ist in der Methodik der jeweiligen Indikatoren (siehe [Appendix](#appendix)) zu finden.
+Ein großer Teil der Indikatoren wird auf Basis von Primärdaten aus Gesundheitsstudien des RKI abgebildet. Hierbei wurden bis 2023 insbesondere Daten der Studie [Gesundheit in Deutschland aktuell](https://www.rki.de/geda) (GEDA) verwendet. Anfang 2024 startete am RKI die Studienreihe [Gesundheit in Deutschland](https://www.rki.de/panel) (RKI-Panel), die von nun an kontinuierlich Daten u. a. für die Indikatoren des Webportals der GBE erhebt. Darüber hinaus wurden für einige Indikatoren Daten der amtlichen Statistik (z. B. Todesursachenstatistik, Krankenhausstatistik), Routinedaten der gesetzlichen Krankenversicherung oder Daten aus Registern verwendet. Die detaillierte Beschreibung der Datenquellen ist in der Methodik der jeweiligen Indikatoren (siehe [Appendix](#appendix)) zu finden.
 
 
 #### Datenaufbereitung und Analyse
 
-Jeder Indikator bildet eine spezifische epidemiologische Kennzahl zu einem spezifischen Thema ab. Zumeist handelt es sich um Prävalenzen, das heißt die Kennzahl bildet den Anteil der Personen mit einer bestimmten Eigenschaft zu einem Zeitpunkt oder innerhalb eines spezifischen Zeitraums ab. Ein Beispiel hierfür ist der Indikator *Obst- und Gemüsekonsum*, der den Anteil von Personen ab 18 Jahren in der Bevölkerung widergibt, die täglich Obst und Gemüse verzehren. Weiterhin werden auch Inzidenzen (Neuerkrankungsraten) oder andere epidemiologische Maßzahlen verwendet. 
+Jeder Indikator bildet eine spezifische epidemiologische Kennzahl zu einem spezifischen Thema ab. Zumeist handelt es sich um Prävalenzen, d. h. die Kennzahl bildet den Anteil der Personen mit einer bestimmten Eigenschaft zu einem Zeitpunkt oder innerhalb eines spezifischen Zeitraums ab. Ein Beispiel hierfür ist der Indikator *Obst- und Gemüsekonsum*, der den Anteil von Personen ab 18 Jahren in der Bevölkerung widergibt, die täglich Obst und Gemüse verzehren. Weiterhin werden auch Inzidenzen (Neuerkrankungsraten) oder andere epidemiologische Maßzahlen verwendet. 
 
 Die Berechnung der Indikatoren erfolgt stratifiziert nach Berichtsjahr, Geschlecht, Altersgruppe, Bundesland oder Region. Zusätzlich erfolgt, wenn möglich, eine Stratifizierung nach Bildung basierend auf Individualdaten oder nach regionaler sozioökonomischer Deprivation, wenn die Informationen zur Bildung auf individueller Ebene nicht vorliegen. In Abhängigkeit der Datenquelle sind Besonderheiten bei der Berechnung der Indikatoren zu beachten. So findet bei Auswertung der GEDA-Daten beispielsweise eine Gewichtung statt.
 
@@ -101,14 +101,13 @@ Auf die spezifischen Limitationen der einzelnen Indikatoren wird in der Beschrei
 
 Der inhaltliche Fokus liegt zunächst auf den nichtübertragbaren Erkrankungen und deren Einflussfaktoren. Die Webseite ist thematisch in drei Ebenen gegliedert und die Indikatoren sind jeweils einem Thema auf Ebene 3 zugeordnet:
 -	Ebene 1 umfasst die vier übergeordneten Themenbereiche „Einflussfaktoren auf die Gesundheit“, „Gesundheitszustand“, „Gesundheitsförderung, Prävention und Versorgung“ und „Rahmenbedingungen“
--	Ebene 2 beinhaltet konkrete Themengruppen wie „Gesundheitsverhalten“, „Soziale Einflussfaktoren“ oder „Körperliche Erkrankungen“
+-	Ebene 2 beinhaltet konkrete Themengruppen wie „Gesundheits- und Risikoverhalten“, „Soziale Einflussfaktoren“ oder „Körperliche Erkrankungen“
 -	Ebene 3 entspricht spezifischen Themen, wie „Alkoholkonsum“, „Diabetes mellitus“ oder „Ambulante Versorgung“. Auf dieser Ebene werden Informationen in Form von Indikatoren, Berichten und Fachartikeln angeboten sowie auf weitere Angebote zum Thema verlinkt. 
 
 
 ### Einflussfaktoren auf die Gesundheit
 
-Bestimmte Verhaltensweisen können Einfluss darauf nehmen, wie wahrscheinlich Menschen gesund bleiben oder krank werden. Dazu gehören eine gesunde Ernährung, ausreichend Bewegung, der Verzicht auf Tabak- und Alkoholkonsum sowie das Einhalten eines gesunden Körpergewichts. Der Einfluss sozialer Ressourcen und Risiken auf die Gesundheit sowie Lebenserwartung wird durch epidemiologische Studien regelmäßig bestätigt. Menschen mit niedriger Bildung oder niedrigem Einkommen sind vermehrt von chronischen Krankheiten, Funktionseinschränkungen, Unfallverletzungen sowie Behinderungen betroffen.
-
+Bestimmte Verhaltensweisen können Einfluss darauf nehmen, wie wahrscheinlich Menschen gesund bleiben oder krank werden. Dazu gehören eine gesunde Ernährung, ausreichend Bewegung sowie der Verzicht auf Tabak- und Alkoholkonsum. Der Einfluss sozialer Ressourcen und Risiken auf die Gesundheit sowie Lebenserwartung wird durch epidemiologische Studien regelmäßig bestätigt. Menschen mit niedriger Bildung oder niedrigem Einkommen sind vermehrt von chronischen Krankheiten, Funktionseinschränkungen, Unfallverletzungen sowie Behinderungen betroffen.
 
 <!-- CUSTOM_MARKDOWN_START: {"id": "Indikatorentabelle_Einflussfaktoren_auf_die_Gesundheit"} -->
 | Indikator | Indikator_ID | Datenstand | Website |
@@ -117,7 +116,6 @@ Bestimmte Verhaltensweisen können Einfluss darauf nehmen, wie wahrscheinlich Me
 | [Bewegungsverhalten (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-bewegungsverhalten-ab-18-jahre) | `1020101` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/bewegungsverhalten) |
 | [Sitzen (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-sitzen-ab-18-jahre) | `1020102` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/sitzen) |
 | [Aktive Mobilität (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-aktive-mobilität-ab-18-jahre) | `1020103` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/aktive-mobilitaet) |
-| [Adipositas und Übergewicht (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-adipositas-und-übergewicht-ab-18-jahre) | `1020201` | 20.&nbsp;November&nbsp;2024 | [&#x1F30F;](https://www.gbe.rki.de/adipositas-und-uebergewicht) |
 | [Fleischkonsum (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-fleischkonsum-ab-18-jahre) | `1020301` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/fleischkonsum) |
 | [Obst- und Gemüsekonsum (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-obst--und-gemüsekonsum-ab-18-jahre) | `1020302` | 20.&nbsp;November&nbsp;2024 | [&#x1F30F;](https://www.gbe.rki.de/obst-und-gemuesekonsum) |
 | [Zuckerhaltige Erfrischungsgetränke (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-zuckerhaltige-erfrischungsgetränke-ab-18-jahre) | `1020303` | 20.&nbsp;November&nbsp;2024 | [&#x1F30F;](https://www.gbe.rki.de/zuckerhaltige-erfrischungsgetraenke) |
@@ -125,8 +123,8 @@ Bestimmte Verhaltensweisen können Einfluss darauf nehmen, wie wahrscheinlich Me
 | [Rauschtrinken (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-rauschtrinken-ab-18-jahre) | `1020402` | 20.&nbsp;November&nbsp;2024 | [&#x1F30F;](https://www.gbe.rki.de/rauschtrinken) |
 | [Rauchen (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-rauchen-ab-18-jahre) | `1020501` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/rauchen) |
 | [Passivrauchbelastung (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-passivrauchbelastung-ab-18-jahre) | `1020502` | 20.&nbsp;November&nbsp;2024 | [&#x1F30F;](https://www.gbe.rki.de/passivrauchbelastung) |
-| [Diabetes: 10-Jahres-Risiko (18 – 79 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-diabetes-10-jahres-risiko-18--79-jahre) | `1030101` | 30.&nbsp;Januar&nbsp;2026 | [&#x1F30F;](https://www.gbe.rki.de/diabetes-risiko) |
-| [Herz-Kreislauf-Erkrankung: 10-Jahres-Risiko (18 – 79 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-herz-kreislauf-erkrankung-10-jahres-risiko-18--79-jahre) | `1030102` | 20.&nbsp;November&nbsp;2024 | [&#x1F30F;](https://www.gbe.rki.de/hke-risiko) |
+| [Allgemeine Gesundheitskompetenz (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-allgemeine-gesundheitskompetenz-ab-18-jahre) | `1040101` | 19.&nbsp;Mai&nbsp;2026 | [&#x1F30E;](https://www.gbe.rki.de/allgemeine-gesundheitskompetenz) |
+| [Wahrgenommener Stress (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-wahrgenommener-stress-ab-18-jahre) | `1050101` | 19.&nbsp;Mai&nbsp;2026 | [&#x1F30D;](https://www.gbe.rki.de/wahrgenommener-stress) |
 
 
 <!-- CUSTOM_MARKDOWN_END -->
@@ -134,7 +132,7 @@ Bestimmte Verhaltensweisen können Einfluss darauf nehmen, wie wahrscheinlich Me
 
 ### Gesundheitszustand
 
-Die Gesundheit der Bevölkerung kann anhand unterschiedlicher Themen beschrieben werden. Maßgeblich sind die Häufigkeit von körperlichen Erkrankungen wie koronare Herzkrankheit oder Diabetes mellitus, psychischen Störungen wie Depression und von Unfällen und Verletzungen wie Stürzen. Zur Bewertung des Gesundheitszustands der Bevölkerung werden zusätzlich die subjektiv wahrgenommene Gesundheit und Krankheitsfolgen betrachtet. Letztere umfassen Funktionseinschränkungen sowie auch die Lebenserwartung und Sterblichkeit.
+Die Gesundheit der Bevölkerung kann anhand unterschiedlicher Themen beschrieben werden. Maßgeblich sind die Häufigkeit von körperlichen Erkrankungen wie koronare Herzkrankheit oder Diabetes mellitus, psychischen Störungen wie Depression und von Unfällen und Verletzungen wie Stürzen. Zur Bewertung des Gesundheitszustands der Bevölkerung werden zusätzlich die subjektiv wahrgenommene Gesundheit, krankheitsnahe Risikofaktoren und Symptome sowie Krankheitsfolgen betrachtet. Letztere umfassen Funktionseinschränkungen sowie auch die Lebenserwartung und Sterblichkeit.
 
 <!-- CUSTOM_MARKDOWN_START: {"id": "Indikatorentabelle_Gesundheitszustand"} -->
 | Indikator | Indikator_ID | Datenstand | Website |
@@ -146,6 +144,8 @@ Die Gesundheit der Bevölkerung kann anhand unterschiedlicher Themen beschrieben
 | [Koronare Herzkrankheit: Sterblichkeit](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-koronare-herzkrankheit-sterblichkeit) | `2020102` | 17.&nbsp;Dezember&nbsp;2025 | [&#x1F30E;](https://www.gbe.rki.de/khk-sterblichkeit) |
 | [Schlaganfall: Prävalenz (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-schlaganfall-prävalenz-ab-18-jahre) | `2020103` | 20.&nbsp;November&nbsp;2024 | [&#x1F30F;](https://www.gbe.rki.de/schlaganfall-praevalenz) |
 | [Schlaganfall: Sterblichkeit](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-schlaganfall-sterblichkeit) | `2020104` | 17.&nbsp;Dezember&nbsp;2025 | [&#x1F30D;](https://www.gbe.rki.de/schlaganfall-sterblichkeit) |
+| [Schlaganfall: DALY](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-schlaganfall-daly) | `2020105` | 19.&nbsp;Mai&nbsp;2026 | [&#x1F30D;](https://www.gbe.rki.de/schlaganfall-daly) |
+| [Koronare Herzkrankheit: DALY](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-koronare-herzkrankheit-daly) | `2020106` | 19.&nbsp;Mai&nbsp;2026 | [&#x1F30D;](https://www.gbe.rki.de/khk-daly) |
 | [Diabetes Typ 1: Inzidenz (0 – 17 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-diabetes-typ-1-inzidenz-0--17-jahre) | `2020201` | 20.&nbsp;November&nbsp;2024 | [&#x1F30F;](https://www.gbe.rki.de/t1d-inzidenz-unter-18) |
 | [Diabetes Typ 2: Inzidenz (11 – 17 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-diabetes-typ-2-inzidenz-11--17-jahre) | `2020202` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/t2d-inzidenz-unter-18) |
 | [Diabetes Typ 1: Prävalenz (0 – 17 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-diabetes-typ-1-prävalenz-0--17-jahre) | `2020203` | 20.&nbsp;November&nbsp;2024 | [&#x1F30F;](https://www.gbe.rki.de/t1d-praevalenz-unter-18) |
@@ -153,14 +153,18 @@ Die Gesundheit der Bevölkerung kann anhand unterschiedlicher Themen beschrieben
 | [Diabetes mellitus: Prävalenz (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-diabetes-mellitus-prävalenz-ab-18-jahre) | `2020206` | 2.&nbsp;Juli&nbsp;2025 | [&#x1F30D;](https://www.gbe.rki.de/diabetes-praevalenz) |
 | [Diabetes mellitus: Sterblichkeit](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-diabetes-mellitus-sterblichkeit) | `2020207` | 17.&nbsp;Dezember&nbsp;2025 | [&#x1F30F;](https://www.gbe.rki.de/diabetes-sterblichkeit) |
 | [Gestationsdiabetes mellitus: Prävalenz](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-gestationsdiabetes-mellitus-prävalenz) | `2020208` | 30.&nbsp;September&nbsp;2025 | [&#x1F30F;](https://www.gbe.rki.de/gestationsdiabetes) |
+| [Diabetes mellitus: DALY](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-diabetes-mellitus-daly) | `2020209` | 19.&nbsp;Mai&nbsp;2026 | [&#x1F30F;](https://www.gbe.rki.de/diabetes-daly) |
 | [Brustkrebs: Inzidenz](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-brustkrebs-inzidenz) | `2020301` | 5.&nbsp;Dezember&nbsp;2025 | [&#x1F30E;](https://www.gbe.rki.de/brustkrebs-inzidenz) |
 | [Brustkrebs: Sterblichkeit](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-brustkrebs-sterblichkeit) | `2020302` | 30.&nbsp;Januar&nbsp;2026 | [&#x1F30D;](https://www.gbe.rki.de/brustkrebs-sterblichkeit) |
 | [Darmkrebs: Inzidenz](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-darmkrebs-inzidenz) | `2020303` | 5.&nbsp;Dezember&nbsp;2025 | [&#x1F30E;](https://www.gbe.rki.de/darmkrebs-inzidenz) |
 | [Darmkrebs: Sterblichkeit](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-darmkrebs-sterblichkeit) | `2020304` | 30.&nbsp;Januar&nbsp;2026 | [&#x1F30E;](https://www.gbe.rki.de/darmkrebs-sterblichkeit) |
+| [Krebs: Sterblichkeit](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-krebs-sterblichkeit) | `2020305` | 19.&nbsp;Mai&nbsp;2026 | [&#x1F30F;](https://www.gbe.rki.de/krebs-sterblichkeit) |
+| [Lungenkrebs: Inzidenz](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-lungenkrebs-inzidenz) | `2020306` | 19.&nbsp;Mai&nbsp;2026 | [&#x1F30E;](https://www.gbe.rki.de/lungenkrebs-inzidenz) |
 | [COPD: Prävalenz (ab 45 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-copd-prävalenz-ab-45-jahre) | `2020401` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/copd-praevalenz) |
+| [COPD: Sterblichkeit](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-copd-sterblichkeit) | `2020402` | 19.&nbsp;Mai&nbsp;2026 | [&#x1F30D;](https://www.gbe.rki.de/copd-sterblichkeit) |
 | [Asthma: Prävalenz (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-asthma-prävalenz-ab-18-jahre) | `2020403` | 20.&nbsp;November&nbsp;2024 | [&#x1F30F;](https://www.gbe.rki.de/asthma-praevalenz) |
 | [Arthrose: Prävalenz (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-arthrose-prävalenz-ab-18-jahre) | `2020501` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/arthrose-praevalenz) |
-| [Unfallverletzungen (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-unfallverletzungen-ab-18-jahre) | `2030101` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/unfallverletzungen) |
+| [Unfallverletzungen (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-unfallverletzungen-ab-18-jahre) | `2030101` | 20.&nbsp;Mai&nbsp;2026 | [&#x1F30E;](https://www.gbe.rki.de/unfallverletzungen) |
 | [Stürze (ab 65 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-stürze-ab-65-jahre) | `2030102` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/stuerze) |
 | [Psychische Störungen: Administrative Prävalenz (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-psychische-störungen-administrative-prävalenz-ab-18-jahre) | `2040101` | 5.&nbsp;Dezember&nbsp;2025 | [&#x1F30E;](https://www.gbe.rki.de/psychische-stoerungen-admin-praevalenz) |
 | [Depression: Administrative Prävalenz (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-depression-administrative-prävalenz-ab-18-jahre) | `2040201` | 5.&nbsp;Dezember&nbsp;2025 | [&#x1F30E;](https://www.gbe.rki.de/depression-admin-praevalenz) |
@@ -177,6 +181,10 @@ Die Gesundheit der Bevölkerung kann anhand unterschiedlicher Themen beschrieben
 | [Einschränkungen bei Alltagsaktivitäten (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-einschränkungen-bei-alltagsaktivitäten-ab-18-jahre) | `2050303` | 2.&nbsp;Juli&nbsp;2025 | [&#x1F30F;](https://www.gbe.rki.de/gali) |
 | [Einschränkungen in instrumentellen Aktivitäten des täglichen Lebens (ab 65 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-einschränkungen-in-instrumentellen-aktivitäten-des-täglichen-lebens-ab-65-jahre) | `2050304` | 20.&nbsp;November&nbsp;2024 | [&#x1F30D;](https://www.gbe.rki.de/iadl) |
 | [Chronisches Kranksein (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-chronisches-kranksein-ab-18-jahre) | `2050305` | 2.&nbsp;Juli&nbsp;2025 | [&#x1F30E;](https://www.gbe.rki.de/chronisches-kranksein) |
+| [Diabetes: 10-Jahres-Risiko (18 – 79 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-diabetes-10-jahres-risiko-18--79-jahre) | `2060101` | 30.&nbsp;Januar&nbsp;2026 | [&#x1F30D;](https://www.gbe.rki.de/diabetes-risiko) |
+| [Herz-Kreislauf-Erkrankung: 10-Jahres-Risiko (18 – 79 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-herz-kreislauf-erkrankung-10-jahres-risiko-18--79-jahre) | `2060102` | 20.&nbsp;November&nbsp;2024 | [&#x1F30E;](https://www.gbe.rki.de/hke-risiko) |
+| [Adipositas und Übergewicht (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-adipositas-und-übergewicht-ab-18-jahre) | `2060201` | 20.&nbsp;November&nbsp;2024 | [&#x1F30F;](https://www.gbe.rki.de/adipositas-und-uebergewicht) |
+| [Bluthochdruck: Prävalenz (ab 18 Jahre)](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikator-bluthochdruck-prävalenz-ab-18-jahre) | `2060202` | 19.&nbsp;Mai&nbsp;2026 | [&#x1F30E;](https://www.gbe.rki.de/bluthochdruck-praevalenz) |
 
 
 <!-- CUSTOM_MARKDOWN_END -->
@@ -205,7 +213,7 @@ Im Bereich Gesundheitsförderung und Prävention werden die Inanspruchnahme von 
 
 ### Rahmenbedingungen
 
-Neben den individuellen Verhaltensweisen beeinflussen auch die vorliegenden Rahmenbedingungen die Gesundheit der Bevölkerung. So haben gesellschaftliche und politische Rahmenbedingungen, wie beispielsweise die Lebensmittelbesteuerung oder die Tabakkontrollmaßnahmen, Einfluss auf das Ernährungsverhalten beziehungsweise den Tabakkonsum. Weiterhin wirken sich Umweltbedingungen wie die Infrastruktur auf das Verhalten der Menschen aus und bestimmen beispielsweise die Verkehrsmittelnutzung.
+Neben den individuellen Verhaltensweisen beeinflussen auch die vorliegenden Rahmenbedingungen die Gesundheit der Bevölkerung. So haben gesellschaftliche und politische Rahmenbedingungen, wie beispielsweise die Lebensmittelbesteuerung oder die Tabakkontrollmaßnahmen, Einfluss auf das Ernährungsverhalten bzw. den Tabakkonsum. Weiterhin wirken sich Umweltbedingungen wie die Infrastruktur auf das Verhalten der Menschen aus und bestimmen beispielsweise die Verkehrsmittelnutzung.
 
 <!-- CUSTOM_MARKDOWN_START: {"id": "Indikatorentabelle_Rahmenbedingungen"} -->
 | Indikator | Indikator_ID | Datenstand | Website |
@@ -225,7 +233,7 @@ Neben den individuellen Verhaltensweisen beeinflussen auch die vorliegenden Rahm
 
 ## Aufbau und Inhalt des Datensatzes  
 
-Der Datensatz enthält die aggregierten und ausgewerteten Daten der Gesundheitsberichterstattung des RKI zu nichtübertragbaren Erkrankungen. Im Datensatz enthalten sind:
+Der Datensatz enthält die aggregierten und ausgewerteten Daten der GBE des RKI zu nichtübertragbaren Erkrankungen. Im Datensatz enthalten sind:
 
 * [Daten der Gesundheitsberichterstattung](#daten-zu-nicht-übertragbaren-erkrankungen) zu nichtübertragbaren Erkrankungen 
 * Datensatzdokumentation in deutscher Sprache
@@ -263,7 +271,7 @@ Die Datei [GBE_Indikatoren_nichtuebertragbarer_Erkrankungen.tsv](https://github.
 | Geschlecht_Name                   | string  | Werte:<br>`Gesamt`, `Weiblich`, `Männlich`<br>Fehlende Werte:<br>`NA`                                                                                  | Textliche Bezeichnung des Geschlechts. Enthält `NA`, wenn der Indikator nicht auf Geschlecht bezogen ist.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Alter_ID                          | string  | Werte:<br>`00+`, `11-13`, `14-17`, `15-24`, `15-29`, `15-59`, `18-24`, …<br>Fehlende Werte:<br>`NA`                                                    | Altersgruppen in Jahren in der Form "von-bis", z.B. `30-39`= 30-39 Jahre, oder in der Form "von+", z.B. `75+` = >=75 Jahre. Der Wert `00+` beinhaltet alle Altersgruppen. Enthält `NA`, wenn der Indikator nicht altersbezogen ist.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Alter_Name                        | string  | Werte:<br>`Alle Altersgruppen`, `11-13 Jahre`, `14-17 Jahre`, `15-24 Jahre`, `15-29 Jahre`, `15-59 Jahre`, `18-24 Jahre`, …<br>Fehlende Werte:<br>`NA` | Textliche Bezeichnung der Altersgruppe. Enthält `NA`, wenn der Indikator nicht altersbezogen ist.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Region_ID                         | string  | Werte:<br>`00`, `01`, `02`, `03`, `04`, `05`, `06`, …                                                                                                  | Land, Bundesland bzw. Region: `00` = Deutschland, `01`-`16` = Bundesländer, `21`-`25` = Zusammenfassung der Bundesländer in fünf Regionen (siehe [Regionalcodes](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#regionalcodes)), `AT`-`UA` = europäische Länder nach ISO 3166-1-ALPHA-2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Region_ID                         | string  | Werte:<br>`00`, `01`, `02`, `03`, `04`, `05`, `06`, …                                                                                                  | Land, Bundesland bzw. Region: `00` = Deutschland, `01`-`16` = Bundesländer, `21`-`25` = Zusammenfassung der Bundesländer in fünf Regionen und `31`-`32` =  in West/Ost (siehe [Regionalcodes](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#regionalcodes)), `AT`-`UA` = europäische Länder nach ISO 3166-1-ALPHA-2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | Region_Name                       | string  | Werte:<br>`Baden-Württemberg`, `Bayern`, `Belgien`, `Berlin`, `Bosnien und Herzegowina`, `Brandenburg`, `Bremen`, …                                    | Textliche Bezeichnung der Region                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Bildung_Casmin_ID                 | integer | Werte:<br>`0` - `3`<br>Fehlende Werte:<br>`NA`                                                                                                         | Bildungsstatus anhand des CASMIN-Indexes ([Brauns et al. 2003](https://doi.org/10.1007/978-1-4419-9186-7_11)). Dieser verwendet Angaben zu schulischer und beruflicher Bildung und ermöglicht die Einteilung des Bildungsstatus in `1` = niedrig, `2` = mittel und `3` = hoch. Die Ausprägung `0` = Gesamt beinhaltet alle Bildungsgruppen. Enthält `NA`, wenn der Indikator nicht nach Bildung stratifiziert wurde.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Bildung_Casmin_Name               | string  | Werte:<br>`Gesamt`, `niedrig`, `mittel`, `hoch`<br>Fehlende Werte:<br>`NA`                                                                             | Textliche Bezeichnung der Bildung. Enthält `NA`, wenn der Indikator nicht nach Bildung stratifiziert wurde.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -402,11 +410,11 @@ Die Erfassung des Grades der sozialen Unterstützung wird mittels der etablierte
 GEDA 2009, GEDA 2010, GEDA 2012, GEDA 2014/2015-EHIS, GEDA 2019/2020-EHIS, GEDA 2022, GEDA 2023
 
 * „Wie viele Menschen stehen Ihnen so nahe, dass Sie sich auf sie verlassen können, wenn Sie ernste persönliche Probleme haben?“
-	+ Antwortmöglichkeiten: „Keine“&nbsp;(1), „1 bis 2“&nbsp;(2), „3 bis 5“&nbsp;(3), „6 oder mehr“&nbsp;(4)
+  + Antwortmöglichkeiten: „Keine“&nbsp;(1), „1 bis 2“&nbsp;(2), „3 bis 5“&nbsp;(3), „6 oder mehr“&nbsp;(4)
 * „Wie viel Anteilnahme und Interesse zeigen andere Menschen an dem, was Sie tun?“
-	+ Antwortmöglichkeiten: „Sehr viel Anteilnahme und Interesse“&nbsp;(5), „Viel Anteilnahme und Interesse“&nbsp;(4), „Weder viel noch wenig“&nbsp;(3), „Wenig Anteilnahme und Interesse“&nbsp;(2), „Keine Anteilnahme und Interesse“&nbsp;(1)
+  + Antwortmöglichkeiten: „Sehr viel Anteilnahme und Interesse“&nbsp;(5), „Viel Anteilnahme und Interesse“&nbsp;(4), „Weder viel noch wenig“&nbsp;(3), „Wenig Anteilnahme und Interesse“&nbsp;(2), „Keine Anteilnahme und Interesse“&nbsp;(1)
 * „Wie einfach ist es für Sie, praktische Hilfe von Nachbarn zu erhalten, wenn Sie diese benötigen?“
-	+ Antwortmöglichkeiten: „Sehr einfach“&nbsp;(5), „Einfach“&nbsp;(4), „Möglich“&nbsp;(3), „Schwierig“&nbsp;(2), „Sehr schwierig“&nbsp;(1)
+  + Antwortmöglichkeiten: „Sehr einfach“&nbsp;(5), „Einfach“&nbsp;(4), „Möglich“&nbsp;(3), „Schwierig“&nbsp;(2), „Sehr schwierig“&nbsp;(1)
 
 Anhand der Antworten wird ein Summenscore gebildet (Range: 3&nbsp;–&nbsp;14): „Geringe soziale Unterstützung“ wird bei Punktwerten 3&nbsp;–&nbsp;8, „mittlere soziale Unterstützung“ bei Punktwerten 9&nbsp;–&nbsp;11 und „starke soziale Unterstützung“ bei Punktwerten 12&nbsp;–&nbsp;14 angenommen.
 
@@ -419,32 +427,32 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert Koch-Instituts:
 
 * GEDA 2009:
-	+ telefonische Befragungen mit Festnetz, N = 21.262
-	+ gültige Werte für den Indikator: n = 20.418
+  + telefonische Befragungen mit Festnetz, N = 21.262
+  + gültige Werte für den Indikator: n = 20.418
 
 * GEDA 2010:
-	+ telefonische Befragungen mit Festnetz, N = 22.050
-	+ gültige Werte für den Indikator: n = 21.420
+  + telefonische Befragungen mit Festnetz, N = 22.050
+  + gültige Werte für den Indikator: n = 21.420
 
 * GEDA 2012:
-	+ telefonische Befragungen mit Festnetz, N = 19.294
-	+ gültige Werte für den Indikator: n = 18.651
+  + telefonische Befragungen mit Festnetz, N = 19.294
+  + gültige Werte für den Indikator: n = 18.651
 
 * GEDA 2014/2015-EHIS:
-	+ webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
-	+ gültige Werte für den Indikator: n = 23.617
+  + webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
+  + gültige Werte für den Indikator: n = 23.617
 
 * GEDA 2019/2020-EHIS:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
-	+ gültige Werte für den Indikator: n = 21.863
+  + telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
+  + gültige Werte für den Indikator: n = 21.863
 
 * GEDA 2022:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen, N = 33.149
-	+ gültige Werte für den Indikator &nbsp;aus Welle 1 bis 10, Basismodul: n = 31.918
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen, N = 33.149
+  + gültige Werte für den Indikator &nbsp;aus Welle 1 bis 10, Basismodul: n = 31.918
 
 * GEDA 2023:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 11 bis 22 mit einem Basismodul und bis zu vier Fragebogenmodulen; N = 30.002
-	+ gültige Werte für den Indikator Welle 11 bis 13, Basismodul und Welle 14 bis 21, Modul 2 und 3: n&nbsp;=&nbsp;28.959
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 11 bis 22 mit einem Basismodul und bis zu vier Fragebogenmodulen; N = 30.002
+  + gültige Werte für den Indikator Welle 11 bis 13, Basismodul und Welle 14 bis 21, Modul 2 und 3: n&nbsp;=&nbsp;28.959
 
 #### Datenqualität
 
@@ -473,7 +481,7 @@ Indikator_ID: `1020101`
 Stand: 20. November 2024  
 Link: [https://www.gbe.rki.de/bewegungsverhalten](https://www.gbe.rki.de/bewegungsverhalten)
 
-Regelmäßige Bewegung, auch körperliche Aktivität genannt, spielt eine wichtige Rolle bei der Prävention und Behandlung nichtübertragbarer Erkrankungen wie Herz-Kreislauf-Erkrankungen, Typ-2-Diabetes, Brust- und Darmkrebs. Zudem wirkt sich regelmäßige Bewegung positiv auf die psychische Gesundheit aus und kann dazu beitragen, die Entstehung von [Übergewicht](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Koerpergewicht/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)") zu verhindern. Die aktuellen Bewegungsempfehlungen der Weltgesundheitsorganisation (WHO) sowie die nationalen Empfehlungen für Bewegung und Bewegungsförderung beinhalten für Erwachsene zwei Aspekte ([WHO 2020](https://iris.who.int/bitstream/handle/10665/337001/9789240014886-eng.pdf?sequence=1;%20BZgA%202017,%20https://shop.bzga.de/pdf/60640103.pdf "Externer Link&nbsp;zur Publikation: Guidelines on Physical Activity and Sedentary Behaviour")): Zum einem wird empfohlen, mindestens 150 Minuten in der Woche mit einer mittleren bis hohen Intensität körperlich aktiv zu sein (Ausdaueraspekt). Zum anderen wird empfohlen, an mindestens zwei Tagen der Woche Übungen zur Kräftigung der Muskulatur durchzuführen (Muskelkräftigungsaspekt). Die empfohlene Bewegung kann in unterschiedlichen Lebensbereichen ausgeübt werden, beispielsweise in Form von gezieltem Sporttreiben in der Freizeit oder durch Zurücklegen von alltäglichen Wegstrecken mit dem Fahrrad.
+Regelmäßige Bewegung, auch körperliche Aktivität genannt, spielt eine wichtige Rolle bei der Prävention und Behandlung nichtübertragbarer Erkrankungen wie Herz-Kreislauf-Erkrankungen, Typ-2-Diabetes, Brust- und Darmkrebs. Zudem wirkt sich regelmäßige Bewegung positiv auf die psychische Gesundheit aus und kann dazu beitragen, die Entstehung von [Übergewicht](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KrankheitsnaheRisikofaktorenUndSymptome/KrankheitsnaheRisikofaktoren/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)") zu verhindern. Die aktuellen Bewegungsempfehlungen der Weltgesundheitsorganisation (WHO) sowie die nationalen Empfehlungen für Bewegung und Bewegungsförderung beinhalten für Erwachsene zwei Aspekte ([WHO 2020](https://iris.who.int/bitstream/handle/10665/337001/9789240014886-eng.pdf?sequence=1;%20BZgA%202017,%20https://shop.bzga.de/pdf/60640103.pdf "Externer Link&nbsp;zur Publikation: Guidelines on Physical Activity and Sedentary Behaviour")): Zum einem wird empfohlen, mindestens 150 Minuten in der Woche mit einer mittleren bis hohen Intensität körperlich aktiv zu sein (Ausdaueraspekt). Zum anderen wird empfohlen, an mindestens zwei Tagen der Woche Übungen zur Kräftigung der Muskulatur durchzuführen (Muskelkräftigungsaspekt). Die empfohlene Bewegung kann in unterschiedlichen Lebensbereichen ausgeübt werden, beispielsweise in Form von gezieltem Sporttreiben in der Freizeit oder durch Zurücklegen von alltäglichen Wegstrecken mit dem Fahrrad.
 
 #### Definition
 
@@ -488,27 +496,27 @@ GEDA 2019/2020-EHIS:
 Erfassung der körperlichen Aktivität in der Freizeit:
 
 * „An wie vielen Tagen in einer typischen Woche üben Sie mindestens 10 Minuten ohne Unterbrechung Sport, Fitness oder körperliche Aktivität in der Freizeit aus?“
-	+ Anzahl der Tage pro Woche
-	+ Nie oder seltener als 1 Tag pro Woche
+  + Anzahl der Tage pro Woche
+  + Nie oder seltener als 1 Tag pro Woche
 * „Wie viel Zeit verbringen Sie insgesamt in einer typischen Woche mit Sport, Fitness oder körperlicher Aktivität in der Freizeit?“
-	+ Angabe in Minuten bzw. Stunden
+  + Angabe in Minuten bzw. Stunden
 
 Erfassung des Fahrradfahrens zur Fortbewegung:
 
 * „An wie vielen Tagen in einer typischen Woche fahren Sie mindestens 10 Minuten ohne Unterbrechung mit dem Fahrrad, um von Ort zu Ort zu gelangen?“
-	+ Anzahl der Tage pro Woche/Nie oder seltener als 1 Tag pro Woche
+  + Anzahl der Tage pro Woche/Nie oder seltener als 1 Tag pro Woche
 * „Wie lange fahren Sie an einem typischen Tag mit dem Fahrrad, um von Ort zu Ort zu gelangen?“
-	+ „10 – 29 Minuten pro Tag“
-	+ „30 – 59 Minuten pro Tag“
-	+ „1 Stunde bis unter 2 Stunden pro Tag“
-	+ „2 Stunden bis unter 3 Stunden pro Tag“
-	+ „3 Stunden pro Tag und mehr“
+  + „10 – 29 Minuten pro Tag“
+  + „30 – 59 Minuten pro Tag“
+  + „1 Stunde bis unter 2 Stunden pro Tag“
+  + „2 Stunden bis unter 3 Stunden pro Tag“
+  + „3 Stunden pro Tag und mehr“
 
 Erfassung der Muskelkräftigung:
 
 * „An wie vielen Tagen in einer typischen Woche üben Sie körperliche Aktivitäten aus, die speziell für den Aufbau oder die Kräftigung der Muskulatur gedacht sind? Zum Beispiel: Krafttraining oder Kräftigungsübungen mit Gewichten, Thera-Band, eigenem Körpergewicht, Kniebeugen, Liegestützen oder Sit-ups. Geben Sie hier alle Aktivitäten dieser Art an, selbst wenn Sie sie vorher bereits mit einbezogen haben.“
-	+ Anzahl der Tage pro Woche
-	+ Nie oder seltener als 1 Tag pro Woche
+  + Anzahl der Tage pro Woche
+  + Nie oder seltener als 1 Tag pro Woche
 
 Über die Angabe der Tage pro Woche sowie die Zeit pro Tag wird die Dauer pro Woche berechnet, in der körperliche Aktivität in der Freizeit sowie Radfahren zur Fortbewegung ausgeübt wird. Zudem wird die Häufigkeit von Übungen zur Muskelkräftigung erfragt.
 
@@ -521,8 +529,8 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert Koch-Instituts:
 
 * GEDA 2019/2020-EHIS:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
-	+ gültige Werte für den Indikator zum Bewegungsverhalten (Ausdaueraktivität und Muskelkräftigung): n&nbsp;=&nbsp;22.389, zur Ausdaueraktivität: n&nbsp;=&nbsp;22.443, zur Muskelkräftigung: n&nbsp;=&nbsp;22.632
+  + telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
+  + gültige Werte für den Indikator zum Bewegungsverhalten (Ausdaueraktivität und Muskelkräftigung): n&nbsp;=&nbsp;22.389, zur Ausdaueraktivität: n&nbsp;=&nbsp;22.443, zur Muskelkräftigung: n&nbsp;=&nbsp;22.632
 
 #### Datenqualität
 
@@ -576,8 +584,8 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert Koch-Instituts:
 
 * GEDA 2019/2020-EHIS:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
-	+ gültige Werte für den Indikator: n = 22.560
+  + telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
+  + gültige Werte für den Indikator: n = 22.560
 
 #### Datenqualität
 
@@ -619,21 +627,21 @@ Die Erfassung der aktiven Mobilität basiert auf Selbstangaben der Befragten:
 GEDA 2019/2020-EHIS:
 
 * „An wie vielen Tagen in einer typischen Woche gehen Sie mindestens 10 Minuten ohne Unterbrechung zu Fuß, um von Ort zu Ort zu gelangen?“
-	+ Anzahl der Tage pro Woche/Nie oder seltener als 1 Tag pro Woche
+  + Anzahl der Tage pro Woche/Nie oder seltener als 1 Tag pro Woche
 * „Wie lange gehen Sie an einem typischen Tag zu Fuß, um von Ort zu Ort zu gelangen?“
-	+ „10 – 29 Minuten pro Tag“
-	+ „30 – 59 Minuten pro Tag“
-	+ „1 Stunde bis unter 2 Stunden pro Tag“
-	+ „2 Stunden bis unter 3 Stunden pro Tag“
-	+ „3 Stunden pro Tag und mehr“
+  + „10 – 29 Minuten pro Tag“
+  + „30 – 59 Minuten pro Tag“
+  + „1 Stunde bis unter 2 Stunden pro Tag“
+  + „2 Stunden bis unter 3 Stunden pro Tag“
+  + „3 Stunden pro Tag und mehr“
 * „An wie vielen Tagen in einer typischen Woche fahren Sie mindestens 10 Minuten ohne Unterbrechung mit dem Fahrrad, um von Ort zu Ort zu gelangen?“
-	+ Anzahl der Tage pro Woche/Nie oder seltener als 1 Tag pro Woche
+  + Anzahl der Tage pro Woche/Nie oder seltener als 1 Tag pro Woche
 * „Wie lange fahren Sie an einem typischen Tag mit dem Fahrrad, um von Ort zu Ort zu gelangen?“
-	+ „10 – 29 Minuten pro Tag“
-	+ „30 – 59 Minuten pro Tag“
-	+ „1 Stunde bis unter 2 Stunden pro Tag“
-	+ „2 Stunden bis unter 3 Stunden pro Tag“
-	+ „3 Stunden pro Tag und mehr“
+  + „10 – 29 Minuten pro Tag“
+  + „30 – 59 Minuten pro Tag“
+  + „1 Stunde bis unter 2 Stunden pro Tag“
+  + „2 Stunden bis unter 3 Stunden pro Tag“
+  + „3 Stunden pro Tag und mehr“
 
 #### Bezugspopulation
 
@@ -644,8 +652,8 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert Koch-Instituts:
 
 * GEDA 2019/2020-EHIS:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
-	+ gültige Werte für den Indikator zu Fuß von Ort zu Ort: n = 22.455, Fahrradfahren von Ort zu Ort: n = 22.609
+  + telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
+  + gültige Werte für den Indikator zu Fuß von Ort zu Ort: n = 22.455, Fahrradfahren von Ort zu Ort: n = 22.609
 
 #### Datenqualität
 
@@ -664,63 +672,6 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 * [GEDA: Gesundheit in Deutschland aktuell](https://www.rki.de/geda "Externer Link&nbsp;zur Webseite des RKI: GEDA: Gesundheit in Deutschland aktuell")
 * [EHIS: European Health Interview Survey](https://ec.europa.eu/eurostat/de/web/microdata/european-health-interview-survey "Externer Link&nbsp;zur Webseite von Eurostat:  Mikrodaten - Europäische Gesundheitsumfrage")
-
-
-<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
-
-### Indikator 'Adipositas und Übergewicht (ab 18 Jahre)'
-
-Indikator_ID: `1020201`  
-Stand: 20. November 2024  
-Link: [https://www.gbe.rki.de/adipositas-und-uebergewicht](https://www.gbe.rki.de/adipositas-und-uebergewicht)
-
-Übergewicht stellt ein über das Normalmaß hinausgehendes Körpergewicht bei einer gegebenen Körpergröße dar. Starkes Übergewicht wird als Adipositas bezeichnet und von der Weltgesundheitsorganisation (WHO) als eigenständige Krankheit eingestuft ([WHO 2000](https://iris.who.int/handle/10665/42330 "Externer Link&nbsp;zur Webseite der WHO: Obesity: preventing and managing the global epidemic: report of a WHO consultation")). Eine Adipositas ist ein zentraler Risikofaktor für die Entstehung von nichtübertragbaren chronischen Erkrankungen, wie zum Beispiel Typ-2-Diabetes, Herz-Kreislauf-Erkrankungen, Muskel- und Gelenkerkrankungen sowie verschiedenen Krebserkrankungen, und geht mit einem höheren Risiko, frühzeitig zu versterben einher.
-
-Adipositas und die Folgeerkrankungen sind ein bedeutendes Public-Health-Problem und stellen eine große wirtschaftliche Herausforderung dar. Laut Berechnungen der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD) wird Deutschland zwischen 2020 und 2050 rund 11 % der Gesundheitsausgaben für die Behandlung von Erkrankungen, die im Zusammenhang mit Adipositas stehen, ausgeben ([OECD 2019](https://doi.org/10.1787/67450d67-en "Externer Link&nbsp;zur Publikation: OECD Health Policy Studies")).
-
-#### Definition
-
-Der Indikator *Übergewicht* (einschließlich Adipositas) ist definiert als der Anteil der Erwachsenen mit einem Body Mass Index (BMI) von ≥&nbsp;25,0&nbsp;kg/m2, eine *Adipositas* liegt bei einem BMI von ≥&nbsp;30,0&nbsp;kg/m2 vor.
-
-#### Operationalisierung
-
-Die Erfassung von Körpergröße und Körpergewicht basiert auf Selbstangaben der Befragten:
-
-GEDA 2019/2020-EHIS:
-
-* „Wie groß sind Sie, wenn Sie keine Schuhe tragen? Bitte geben Sie Ihre Körpergröße in cm an.“
-* „Wie viel wiegen Sie, wenn Sie keine Kleidung und Schuhe tragen? Bitte geben Sie Ihr Körpergewicht in kg an. Interviewerhinweis: Schwangere Frauen geben bitte ihr Gewicht vor der Schwangerschaft an.“
-* Der BMI wird aus dem Verhältnis des Körpergewichts einer Person zum Quadrat der Körpergröße (kg/m2) berechnet.
-
-#### Bezugspopulation
-
-Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschland.
-
-#### Datenquelle und Fallzahl
-
-Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert Koch-Instituts:
-
-* GEDA 2019/2020-EHIS:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
-	+ gültige Werte für den Indikator: n = 22.414
-
-#### Datenqualität
-
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
-
-#### Weiterführende Links
-
-* [GEDA: Gesundheit in Deutschland aktuell](https://www.rki.de/geda "Externer Link&nbsp;zur Webseite des RKI: GEDA: Gesundheit in Deutschland aktuell")
-* [EHIS: European Health Interview Survey](https://ec.europa.eu/eurostat/de/web/microdata/european-health-interview-survey "Externer Link&nbsp;zur Webseite von Eurostat:  Mikrodaten - Europäische Gesundheitsumfrage")
-
-#### Berechnung
-
-* **Beschreibung und Stratifizierung**: Für den Indikator werden die Kennzahlen für Gesamt sowie nach Geschlecht, Alter, Bundesland und Bildung ausgewiesen. In GEDA 2019/2020-EHIS werden das Geburtsgeschlecht und die geschlechtliche Identität erhoben ([Pöge et al. 2022](https://doi.org/10.25646/9957 "Externer Link&nbsp;zur Publikation: Erhebung geschlechtlicher Diversität in der Studie GEDA 2019/2020-EHIS – Ziele, Vorgehen und Erfahrungen")). In den Analysen nach Geschlecht werden Personen ausgewiesen, die sich als weiblich oder männlich identifizieren. Genderdiverse Menschen, die sich diesen Kategorien nicht zuordnen, werden aufgrund der geringen Fallzahl in den Analysen nach Geschlecht nicht gesondert ausgewiesen. Die Darstellung nach Bundesland basiert auf dem Wohnort der Befragten. Der Bildungsstatus wird anhand des CASMIN-Indexes bestimmt ([Brauns et al. 2003](https://link.springer.com/chapter/10.1007/978-1-4419-9186-7_11 "Externer Link&nbsp;zum Buchbeitrag: The CASMIN educational classification in international comparative research")). Dieser verwendet Angaben zu schulischer und beruflicher Bildung und ermöglicht die Einteilung in eine niedrige, mittlere und hohe Bildungsgruppe.
-* **Umgang mit unsicheren Werten**: Voraussetzung für die stratifizierte Darstellung eines Indikators ist, dass die Fallzahl in der Gruppe mindestens 5 beträgt und die statistische Unsicherheit in der Schätzung der Kennziffer als akzeptabel angesehen wird (Konfidenzintervall schmaler als 25 Prozentpunkte und Variationskoeffizient ≤ 33,5 %). Letzteres bedeutet, dass die untere Grenze des Konfidenzintervalls mindestens die Hälfte des Schätzers betragen muss. Sind diese Kriterien nicht erfüllt, werden die Werte nicht berichtet („zu wenige Daten“). Berichtet, jedoch als unsicher markiert, werden Werte, die auf weniger als 10 Fällen basieren, deren Konfidenzintervall breiter als 20 Prozentpunkte ist oder wenn die Untergrenze weniger als ⅔ des Schätzers beträgt (Variationskoeffizient ≤ 16,6 %). Aufgrund der Unsicherheit sollten diese Werte mit Vorsicht interpretiert werden.
-* **Gewichtung**: Um Abweichungen der Surveys von der zugrundeliegenden Bezugspopulation durch unterschiedliche Teilnahmebereitschaft oder das Stichprobendesign zu korrigieren, wurde bei den Berechnungen in jedem Survey ein Gewichtungsfaktor verwendet. Diese Gewichtungen passen die Surveys an die Bevölkerungsstruktur Deutschlands hinsichtlich Geschlecht, Alter, Bundesland und Bildung an. Beginnend mit GEDA 2014/2015-EHIS wurde zusätzlich die regionale Siedlungsstruktur (Kreis- oder Gemeindetyp) berücksichtigt. Dabei wurden die Daten des Statistischen Bundesamts zum Stichtag 31.12.2019 (GEDA 2019/2020-EHIS) verwendet. Die Informationen zu Haushalten und zur Bildungsverteilung wurden dem Mikrozensus 2017 (GEDA 2019/2020-EHIS) entnommen. Die Bildungsgruppen wurden auf Basis der ISCED-Klassifikation bestimmt ([Schroedter et al. 2006](https://www.ssoar.info/ssoar/bitstream/handle/document/26239/ssoar-2006-schroedter_et_al-die_umsetzung_der_bildungsskala_isced-1997.pdf?sequence=1 "Externer Link&nbsp;zur Publikation: Die Umsetzung der Bildungsskala ISCED-1997 für die Volkszählung 1970, die Mikrozensus-Zusatzerhebung 1971 und die Mikrozensen 1976-2004 (Version 1)"), beginnend mit GEDA 2014/2015-EHIS: [UNESCO 2012](https://unesdoc.unesco.org/ark:/48223/pf0000219109 "Externer Link&nbsp;zur Publikation: International Standard Classification of Education 2011")).
-* **Alters- und Geschlechtsstandardisierung**: Die Ergebnisse werden in zwei Versionen gezeigt: auf das jeweilige Erhebungsjahr gewichtet, wie oben beschrieben (‚beobachtet’), sowie standardisiert nach Alter und Geschlecht entsprechend der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/isgbe.i?i=1000:55515 "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Standardbevölkerungen - Europastandardbevölkerung 2013") (‚altersstandardisiert‘). Für Darstellungen nach Bundesland oder Bildungsgruppe wurde die Standardisierung innerhalb des jeweiligen Bundeslands beziehungsweise der jeweiligen Bildungsgruppe durchgeführt. Die ‚beobachteten‘ Ergebnisse bilden die tatsächliche Alters- und Geschlechtsverteilung innerhalb der Erhebungsjahre, Bundesländer beziehungsweise Bildungsgruppen ab. Sie sind damit zum Beispiel zur Analyse von Fragen des Versorgungsbedarfs und dessen Veränderung über die Zeit geeignet. Bei den ‚altersstandardisierten‘ Ergebnissen sind die Erhebungsjahre, Bundesländer beziehungsweise Bildungsgruppen hinsichtlich Alter und Geschlecht vergleichbar. Dies erleichtert das Aufzeigen von Unterschieden, die sich nicht allein durch Alter und Geschlecht erklären lassen.
-* **Konfidenzintervalle**: Die zufallsbedingte Variabilität der Ergebnisse kann den 95 %-Konfidenzintervallen in den Tabellen und Abbildungen entnommen werden. Die Konfidenzintervalle wurden mit der Logit-Methode berechnet. Dabei wurde die Streuung der Gewichtungsfaktoren berücksichtigt.
-* **Regionale Unterschiede**: Statistisch signifikante Unterschiede zwischen den Bundesländern und dem Bundesdurchschnitt wurden mittels Chi-Quadrat-Test unter Adjustierung für multiples Testen ermittelt. Jedes Bundesland wurde im Vergleich zu den übrigen Bundesländern (zusammengefasst) getestet. Die Einteilung in der Karte erfolgt anhand von fünf äquidistanten Kategorien.
 
 
 <br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
@@ -756,8 +707,8 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert Koch-Instituts:
 
 * GEDA 2022:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen; N = 33.149 (relevante Teilstichprobe Welle 4 bis 10, Modul 2 und Welle 4 bis 7, Modul 4: n = 8.974)
-	+ gültige Werte für den Indikator: n = 8.963
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen; N = 33.149 (relevante Teilstichprobe Welle 4 bis 10, Modul 2 und Welle 4 bis 7, Modul 4: n = 8.974)
+  + gültige Werte für den Indikator: n = 8.963
 
 #### Datenqualität
 
@@ -784,7 +735,7 @@ Indikator_ID: `1020302`
 Stand: 20. November 2024  
 Link: [https://www.gbe.rki.de/obst-und-gemuesekonsum](https://www.gbe.rki.de/obst-und-gemuesekonsum)
 
-Obst und Gemüse sind wichtige Bestandteile einer nachhaltigen und gesunden Ernährung. Sie sind wichtige Quellen für Vitamine, Mineralstoffe, Spurenelemente, Ballaststoffe und sekundäre Pflanzenstoffe. Bei verhältnismäßig geringem Energiegehalt haben sie eine gute sättigende Wirkung und können so helfen, [Übergewicht](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Koerpergewicht/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)") zu vermeiden. Ein hoher Obst- und Gemüsekonsum hat eine positive Wirkung auf die Gesundheit und kann das Risiko für Herz-Kreislauf-Erkrankungen, verschiedene Krebsarten sowie eine frühzeitige Sterblichkeit verringern ([Aune et al. 2017](https://academic.oup.com/ije/article/46/3/1029/3039477 "Externer Link&nbsp;zur Webseite der IEA: Fruit and vegetable intake and the risk of cardiovascular disease, total cancer and all-cause mortality - a systematic review and dose-response meta-analysis of prospective studies")). Obst und Gemüse sollten täglich in ausreichenden Mengen gegessen werden. Die Deutsche Gesellschaft für Ernährung (DGE) empfiehlt insgesamt mindestens fünf Portionen am Tag. Dies entspricht bei Erwachsenen etwa 550 g Obst und Gemüse.
+Obst und Gemüse sind wichtige Bestandteile einer nachhaltigen und gesunden Ernährung. Sie sind wichtige Quellen für Vitamine, Mineralstoffe, Spurenelemente, Ballaststoffe und sekundäre Pflanzenstoffe. Bei verhältnismäßig geringem Energiegehalt haben sie eine gute sättigende Wirkung und können so helfen, [Übergewicht](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KrankheitsnaheRisikofaktorenUndSymptome/KrankheitsnaheRisikofaktoren/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)") zu vermeiden. Ein hoher Obst- und Gemüsekonsum hat eine positive Wirkung auf die Gesundheit und kann das Risiko für Herz-Kreislauf-Erkrankungen, verschiedene Krebsarten sowie eine frühzeitige Sterblichkeit verringern ([Aune et al. 2017](https://academic.oup.com/ije/article/46/3/1029/3039477 "Externer Link&nbsp;zur Webseite der IEA: Fruit and vegetable intake and the risk of cardiovascular disease, total cancer and all-cause mortality - a systematic review and dose-response meta-analysis of prospective studies")). Obst und Gemüse sollten täglich in ausreichenden Mengen gegessen werden. Die Deutsche Gesellschaft für Ernährung (DGE) empfiehlt insgesamt mindestens fünf Portionen am Tag. Dies entspricht bei Erwachsenen etwa 550 g Obst und Gemüse.
 
 #### Definition
 
@@ -810,8 +761,8 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert Koch-Instituts:
 
 * GEDA 2019/2020-EHIS:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
-	+ gültige Werte für den Indikator: n = 22.677
+  + telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
+  + gültige Werte für den Indikator: n = 22.677
 
 #### Datenqualität
 
@@ -840,7 +791,7 @@ Indikator_ID: `1020303`
 Stand: 20. November 2024  
 Link: [https://www.gbe.rki.de/zuckerhaltige-erfrischungsgetraenke](https://www.gbe.rki.de/zuckerhaltige-erfrischungsgetraenke)
 
-Zuckerhaltige Erfrischungsgetränke haben eine geringe Sättigungswirkung, obwohl sie gleichzeitig zu einer hohen Zuckeraufnahme führen. Wird der Flüssigkeitsbedarf häufig über solche Getränke gedeckt, kann dies langfristig [Übergewicht und Adipositas](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Koerpergewicht/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)") sowie Erkrankungen wie Typ-2-Diabetes begünstigen ([Hu 2013](https://onlinelibrary.wiley.com/doi/10.1111/obr.12040 "Externer Link&nbsp;zur Publikation: Resolved: there is sufficient scientific evidence that decreasing sugar-sweetened beverage consumption will reduce the prevalence of obesity and obesity-related diseases")). Der Konsum zuckerhaltiger Erfrischungsgetränke wirkt sich zudem auf die Mundgesundheit aus: Der enthaltene Zucker wird in der Mundhöhle durch Bakterien gespalten, wodurch Säuren entstehen, die den Zahnschmelz angreifen und Karies verursachen. Dieser Effekt wird zusätzlich durch die in zuckerhaltigen Erfrischungsgetränken häufig enthaltenen Säuren begünstigt. Die Weltgesundheitsorganisation (WHO) empfiehlt allen Altersgruppen, nicht mehr als 10 % der Energiezufuhr am Tag über freie Zucker aufzunehmen. Freier Zucker sind alle Mono- und Disaccharide, die Lebensmitteln zugesetzt werden, sowie Zucker, der von Natur aus in Honig, Sirup und Fruchtsäften enthalten ist ([WHO 2015](https://www.who.int/publications/i/item/9789241549028 "Externer Link&nbsp;zur Publikation: Guideline: sugars intake for adults and children")).
+Zuckerhaltige Erfrischungsgetränke haben eine geringe Sättigungswirkung, obwohl sie gleichzeitig zu einer hohen Zuckeraufnahme führen. Wird der Flüssigkeitsbedarf häufig über solche Getränke gedeckt, kann dies langfristig [Übergewicht und Adipositas](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KrankheitsnaheRisikofaktorenUndSymptome/KrankheitsnaheRisikofaktoren/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)") sowie Erkrankungen wie Typ-2-Diabetes begünstigen ([Hu 2013](https://onlinelibrary.wiley.com/doi/10.1111/obr.12040 "Externer Link&nbsp;zur Publikation: Resolved: there is sufficient scientific evidence that decreasing sugar-sweetened beverage consumption will reduce the prevalence of obesity and obesity-related diseases")). Der Konsum zuckerhaltiger Erfrischungsgetränke wirkt sich zudem auf die Mundgesundheit aus: Der enthaltene Zucker wird in der Mundhöhle durch Bakterien gespalten, wodurch Säuren entstehen, die den Zahnschmelz angreifen und Karies verursachen. Dieser Effekt wird zusätzlich durch die in zuckerhaltigen Erfrischungsgetränken häufig enthaltenen Säuren begünstigt. Die Weltgesundheitsorganisation (WHO) empfiehlt allen Altersgruppen, nicht mehr als 10 % der Energiezufuhr am Tag über freie Zucker aufzunehmen. Freier Zucker sind alle Mono- und Disaccharide, die Lebensmitteln zugesetzt werden, sowie Zucker, der von Natur aus in Honig, Sirup und Fruchtsäften enthalten ist ([WHO 2015](https://www.who.int/publications/i/item/9789241549028 "Externer Link&nbsp;zur Publikation: Guideline: sugars intake for adults and children")).
 
 #### Definition
 
@@ -865,8 +816,8 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert Koch-Instituts:
 
 * GEDA 2019/2020-EHIS:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
-	+ gültige Werte für den Indikator: n = 22.693
+  + telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
+  + gültige Werte für den Indikator: n = 22.693
 
 #### Datenqualität
 
@@ -921,8 +872,8 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert Koch-Instituts:
 
 * GEDA 2019/2020-EHIS:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
-	+ gültige Werte für den Indikator: n = 22.392
+  + telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
+  + gültige Werte für den Indikator: n = 22.392
 
 #### Datenqualität
 
@@ -976,8 +927,8 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert Koch-Instituts:
 
 * GEDA 2019/2020-EHIS:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
-	+ gültige Werte für den Indikator: n = 22.461
+  + telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
+  + gültige Werte für den Indikator: n = 22.461
 
 #### Datenqualität
 
@@ -1033,8 +984,8 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert Koch-Instituts:
 
 * GEDA 2019/2020-EHIS:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
-	+ gültige Werte für den Indikator: n = 22.699
+  + telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
+  + gültige Werte für den Indikator: n = 22.699
 
 #### Datenqualität
 
@@ -1088,8 +1039,8 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert Koch-Instituts:
 
 * GEDA 2019/2020-EHIS:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
-	+ gültige Werte für den Indikator: n = 17.823
+  + telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
+  + gültige Werte für den Indikator: n = 17.823
 
 #### Datenqualität
 
@@ -1112,144 +1063,151 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 <br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
-### Indikator 'Diabetes: 10-Jahres-Risiko (18 – 79 Jahre)'
+### Indikator 'Allgemeine Gesundheitskompetenz (ab 18 Jahre)'
 
-Indikator_ID: `1030101`  
-Stand: 30. Januar 2026  
-Link: [https://www.gbe.rki.de/diabetes-risiko](https://www.gbe.rki.de/diabetes-risiko)
+Indikator_ID: `1040101`  
+Stand: 19. Mai 2026  
+Link: [https://www.gbe.rki.de/allgemeine-gesundheitskompetenz](https://www.gbe.rki.de/allgemeine-gesundheitskompetenz)
 
-Über 90&nbsp;% der Personen mit einem Diabetes mellitus (Zuckerkrankheit) in Deutschland sind von einem Typ-2-Diabetes betroffen ([Reitzle et al. 2023](https://doi.org/10.1055/a-1791-0918 "Externer Link&nbsp;zur Publikation: Algorithmus zur Unterscheidung von Diabetes mellitus Typ 1 und Typ 2 bei der Analyse von Routinedaten")). Zu den Risikofaktoren für Typ-2-Diabetes zählen neben dem Alter und einer familiären Krankheitshäufung auch beeinflussbare Faktoren wie beispielsweise [Übergewicht](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Koerpergewicht/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)") und körperliche Inaktivität. Das individuelle Risiko, in den nächsten zehn Jahren an einem Typ-2-Diabetes zu erkranken (absolutes 10-Jahres-Diabetesrisiko in Prozent), kann mit dem Deutschen Diabetes-Risiko-Test (DRT) bei Personen ohne bisherige Diabetesdiagnose bestimmt werden ([Schiborn et al. 2022](https://doi.org/10.3238/arztebl.m2022.0268 "Externer Link&nbsp;zur Publikation: German Diabetes Risk Score for the Determination of the Individual Type 2 Diabetes Risk - 10-year prediction and external validations")). Der Test fasst hierzu die Informationen zu verschiedenen Risikofaktoren des Typ-2-Diabetes zusammen. Die nicht-klinische Testversion beruht allein auf erfragten Informationen.
+Gesundheitskompetenz umfasst Fähigkeiten, Motivation und Wissen, um Gesundheitsinformationen zu finden, zu verstehen, zu bewerten und anzuwenden sowie daraufhin gesundheitsrelevante Entscheidungen zu treffen ([Sørensen et al. 2012](https://doi.org/10.1186/1471-2458-12-80 "Externer Link&nbsp;zur Publikation: Health literacy and public health: A systematic review and integration of definitions and models")). Sie ist nicht als individuelle Fähigkeit zu verstehen, sondern beschreibt, wie gut die Fähigkeiten von Individuen mit den Anforderungen in der Gesundheitsversorgung oder im Alltag zusammenpassen. So hängt beispielsweise die Fähigkeit, qualitätsgesicherte Gesundheitsinformationen zu finden und zu verstehen, auch von deren Auffindbarkeit und Darstellung im Internet ab. Ebenso ist die Umsetzung ärztlicher Empfehlungen von der Qualität der ärztlichen Kommunikation abhängig ([WHO 2013](https://www.who.int/europe/publications/i/item/9789289000154 "Externer Link&nbsp;zur Publikation: Health literacy: the solid facts")). Niedrige Gesundheitskompetenz ist häufig mit schlechterem Gesundheitszustand, ungünstigerem Gesundheitsverhalten und mit Problemen bei der Inanspruchnahme von Gesundheitsleistungen assoziiert ([WHO 2013](https://www.who.int/europe/publications/i/item/9789289000154 "Externer Link&nbsp;zur Publikation: Health literacy: the solid facts"), [Jordan et al. 2025](https://doi.org/10.1007/s00103-025-04016-6 "Externer Link&nbsp;zur Publikation: Gesundheitskompetenz und Gesundheitsverhalten – Einblicke in ein sich ausdifferenzierendes Forschungs- und Handlungsfeld für Public Health")). Die allgemeine Gesundheitskompetenz gibt über die selbsteingeschätzten Schwierigkeiten im Umgang mit Gesundheitsinformationen in verschiedenen Kontexten und Themenbereichen Auskunft ([Jordan et al. 2023](https://doi.org/10.17623/BZGA:Q4-i065-3.0 "Externer Link&nbsp;zur Publikation: Gesundheitskompetenz / Health Literacy")).
 
 #### Definition
 
-Der Indikator *Diabetes: 10-Jahres-Risiko* ist definiert als geometrischer Mittelwert des absoluten Risikos in der Bevölkerung ohne einen bereits bekannten Diabetes, innerhalb der nächsten 10 Jahre an einem Typ-2-Diabetes zu erkranken, geschätzt durch den DRT und angegeben in Prozent (%).
+Der Indikator *Allgemeine Gesundheitskompetenz* ist definiert als Anteil der Erwachsenen mit geringer allgemeiner Gesundheitskompetenz (niedrig und eher niedrig) bzw. hoher allgemeiner Gesundheitskompetenz (hoch und eher hoch).
 
 #### Operationalisierung
 
-Die Erfassung der einzelnen Komponenten des DRT basiert auf Selbstangaben der Befragten. Die Berechnung der DRT-Punkte beruht auf folgenden Ausprägungen der DRT-Komponenten ([DIfE – Deutscher Diabetes-Risiko-Test](https://www.dife.de/news/diabetes-risiko-test/ "Externer Link&nbsp;zur Webseite: Deutscher Diabetes-Risiko-Test")):
+Die Erfassung der allgemeinen Gesundheitskompetenz basiert auf Selbstangaben der Befragten zu den 12 Items des „Health Literacy Survey 2019-12-item short form Questionnaire“ (HLS19-Q12). Der HLS19-Q12 wurde im Rahmen der „HLS19 – The International Health Literacy Population Survey 2019 – 2021“ des M-POHL-Netzwerks („WHO Action Network on Measuring Population and Organizational Health Literacy”) entwickelt ([Pelikan et al. 2022](https://doi.org/10.3390/ijerph192114129 "Externer Link&nbsp;zur Publikation: Measuring Comprehensive, General Health Literacy in the General Adult Population: The Development and Validation of the HLS19-Q12 Instrument in Seventeen Countries"), [M-POHL 2023](https://m-pohl.net/sites/m-pohl.net/files/2024-03/Factsheet_p%20HLS19-Q12.pdf "Externer Link&nbsp;zur Publikation:&nbsp;The HLS19-Q12 Instrument formeasuring General Health Literacy")).
 
-Krankheitswissen und Informationsbedarfe – Diabetes mellitus 2017, GEDA 2022 und RKI-Panel 2024
+RKI-Panel 2024
 
-* Alter (<&nbsp;35, 35 – 39, 40 – 44, 45 – 49, 50 – 54, 55 – 59, 60 – 64, 65 – 69, 70 – 74, ≥&nbsp;75 Jahre)
-* Körpergröße (<&nbsp;152, 152 – 159, 160 – 167, 168 – 175, 176 – 183, 184 – 191, ≥&nbsp;192 cm)
-* Taillenumfang (<&nbsp;75, 75-79, 80 – 84, 85 – 89, 90 – 94, 95 – 99, 100 – 104, 105 – 109, 110&nbsp;–&nbsp;114, 115&nbsp;–&nbsp;119, ≥&nbsp;120 cm), der berechnet wurde basierend auf Selbstangaben zu Körpergewicht (kg), Körpergröße (cm), Alter (Jahre) und Geschlecht ([Heidemann et al. 2019](https://doi.org/10.1136/bmjdrc-2019-000680 "Externer Link&nbsp;zur Publikation: Perceived diabetes risk and related determinants in individuals with high actual diabetes risk: results from a nationwide population-based survey"))
-* Rauchen (aktuell <&nbsp;20 oder ≥&nbsp;20 Zigaretten/Tag, ehemals <&nbsp;20 oder ≥&nbsp;20 Zigaretten/Tag, nie)
-* Körperliche Aktivität in der Freizeit (<&nbsp;5 vs. ≥&nbsp;5 h/Woche)
-* Verzehr von Vollkornbrot/Müsli (0, 1, 2, 3, 4, >&nbsp;4 Scheiben bzw. Portionen/Tag)
-* Verzehr von rotem Fleisch (nie oder selten, 1 – 2-mal/Woche, 3 – 4-mal/Woche, 5 – 6-mal/Woche, täglich, mehrmals täglich)
-* Kaffeekonsum (0 – 1, 2 – 5, >&nbsp;5 Tassen/Tag)
-* Diagnose Hypertonie (ja/nein)
-* Diabetes bei leiblichen Eltern (nein oder nicht bekannt, ja: ein Elternteil, ja: beide Elternteile)
-* Diabetes bei mindestens einem leiblichen Geschwisterkind (nein oder nicht bekannt, ja)
+„Auf einer Skala von sehr einfach bis sehr schwierig, wie einfach ist es Ihrer Meinung nach…
 
-Die Summe der DRT-Punkte wird zur Berechnung des absoluten 10-Jahres-Risiko für einen Typ-2-Diabetes in Prozent (%) herangezogen ([Schiborn et al. 2022](https://doi.org/10.3238/arztebl.m2022.0268 "Externer Link&nbsp;zur Publikation: German Diabetes Risk Score for the Determination of the Individual Type 2 Diabetes Risk - 10-year prediction and external validations")).
+* ... herauszufinden, wo Sie professionelle Hilfe erhalten, wenn Sie krank sind (z. B. bei einer Ärztin oder einem Arzt, einer Pflegekraft, in der Apotheke oder bei einer Psychologin oder einem Psychologen)?“
+* ... Informationen darüber zu verstehen, was im Fall eines medizinischen Notfalls zu tun ist?“
+* ... Vor- und Nachteile von verschiedenen Behandlungsmöglichkeiten zu beurteilen?“
+* ... den Empfehlungen Ihrer Ärztin oder Ihres Arztes bzw. einer Apothekerin oder einem Apotheker zu folgen?“
+* ... Informationen darüber zu finden, wie man mit psychischen Problemen umgeht (z. B. Stress, Depression oder Angstzustände)?“
+* ... Informationen über empfohlene Vorsorgeuntersuchungen zu verstehen (z. B. Darmkrebsfrüherkennung, Blutzuckertest)?“
+* ... zu beurteilen, ob Informationen über ungesunde Lebensgewohnheiten wie Rauchen, Bewegungsmangel oder übermäßiger Alkoholkonsum vertrauenswürdig sind?“
+* ... aufgrund von Informationen aus den Medien zu entscheiden, wie Sie sich vor Krankheiten schützen können (z. B. Zeitungen, Fernsehen oder Internet)?“
+* ... Informationen über gesunde Lebensweisen zu finden, wie ausreichend Bewegung oder gesunde Ernährung?“
+* ... Gesundheitsratschläge von Familienmitgliedern oder Freundinnen/Freunden zu verstehen?“
+* ... zu beurteilen, wie Ihre Wohngegend Ihre Gesundheit und Ihr Wohlbefinden beeinflussen kann?“
+* ... Entscheidungen zu treffen, die Ihre Gesundheit und Ihr Wohlbefinden verbessern?“
+
+Antwortmöglichkeiten waren jeweils „sehr schwierig“ (Wert 1), „schwierig“ (Wert 2), „einfach“ (Wert 3) und „sehr einfach“ (Wert 4)
+
+* Die numerischen Werte der 12 Antworten werden summiert und auf eine Skala von 0 – 100 transformiert (Gesamtindex, Typ P), vorausgesetzt, dass für eine Person mindestens 10 von 12 gültigen Antworten vorliegen.
+* Auf Grundlage des Gesamtindex (Typ P) können anhand festgelegter Grenzwerte vier verschiedene Gesundheitskompetenzniveaus unterschieden werden:
+  + Hoch: > 83,33
+  + Eher hoch: > 66,67 bis ≤ 83,33
+  + Eher niedrig: > 50 bis ≤ 66,67
+  + Niedrig: ≤ 50
+
+* Diese neutralen Labels unterscheiden sich von denen, die von M-POHL verwendet werden.
+* Der Indikator geringe allgemeine Gesundheitskompetenz umfasst Personen mit niedriger und eher niedriger allgemeiner Gesundheitskompetenz.
+* Der Indikator hohe allgemeine Gesundheitskompetenz umfasst Personen mit eher hoher und hoher allgemeiner Gesundheitskompetenz.
 
 #### Bezugspopulation
 
-Deutschsprachige Wohnbevölkerung in Privathaushalten von 18 bis 79 Jahren ohne bekannten Diabetes in Deutschland.
+Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschland.
 
 #### Datenquelle und Fallzahl
 
-Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert Koch-Instituts (RKI):
-
-* Krankheitswissen und Informationsbedarfe – Diabetes mellitus 2017:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 2.127 18- bis 79-Jährige ohne bisherige Diabetesdiagnose
-	+ gültige Werte für den Indikator: n = 2.066
-
-* GEDA 2022:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen; N = 33.149 (relevante Teilstichprobe Welle 4 bis 10, Modul 2, n = 4.524 18- bis 79-Jährige ohne bisherige Diabetesdiagnose)
-	+ gültige Werte für den Indikator: n = 4.405
+Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert Koch-Instituts.
 
 * RKI-Panel 2024:
-	+ webbasierte und schriftliche Befragungen auf Basis einer Einwohnermeldeamtsstichprobe mit vier Fragebogenmodulen (A – D), N = 47.676 (relevante Teilstichprobe Fragebogen A „Selbstberichteter Gesundheitszustand und Versorgungsbedarfe“: n = 27.199)
-	+ gültige Werte für den Indikator: n = 24.088
+  + webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe mit vier Fragebogenmodulen (A&nbsp;–&nbsp;D), N&nbsp;= 41.376 (relevante Teilstichprobe Fragebogen B: n&nbsp;=&nbsp;27.147)
+  + gültige Werte für den Indikator: n&nbsp;=&nbsp;26.877
+  + [Datensatzversion v5](https://doi.org/10.25646/12202.2 "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
 
 #### Datenqualität
 
 Die Befragungssurveys des RKI liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Die Daten beruhen auf zufälligen Stichproben aus der Bevölkerung, was die Aussagekraft der Ergebnisse deutlich erhöht. Wie bei allen bevölkerungsbezogenen Studien ist jedoch davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Andererseits könnten Personen mit einem starken Interesse an Gesundheitsthemen überrepräsentiert sein. Diese Effekte werden teilweise durch die unten beschriebenen Gewichtungsverfahren ausgeglichen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
 
-Für das RKI-Panel beruhen die Stichproben auf Einwohnermeldeamtsstichproben anstelle von Telefonstichproben. Zudem wechselte der Erhebungsmodus von Telefoninterview zu webbasiertem oder schriftlichem Fragebogen. Der veränderte Stichprobenzugang führte zu einer höheren Beteiligung von Personen aus der niedrigen Bildungsgruppe und Personen mit gesundheitlichen Einschränkungen. Der Wechsel zu einem schriftlichen Fragebogen verbessert in der Regel die Datenqualität, da es am Telefon schwierig ist, komplexe Fragen zu beantworten, und müsste die Effekte sozialer Erwünschtheit verringern, sodass bei sensiblen Fragen mit offeneren Antworten gerechnet werden kann. Zeitvergleiche der Ergebnisse zwischen dem RKI-Panel mit anderen GEDA-Erhebungen sollten daher vorsichtig interpretiert werden.
-
 #### Berechnung
 
-* **Beschreibung und Stratifizierung**: Für den Indikator werden die Kennzahlen für Gesamt sowie nach Geschlecht, Alter, Bundesland und Bildung ausgewiesen. In der Studie Krankheitswissen und Informationsbedarfe – Diabetes mellitus 2017 wurden die Teilnehmenden gefragt, ob sie männlich oder weiblich sind. Seit GEDA 2019/2020-EHIS werden das Geburtsgeschlecht und die geschlechtliche Identität erhoben ([Pöge et al. 2022](https://doi.org/10.25646/9957 "Externer Link&nbsp;zur Publikation: Erhebung geschlechtlicher Diversität in der Studie GEDA 2019/2020-EHIS – Ziele, Vorgehen und Erfahrungen")). In den Analysen nach Geschlecht werden Personen ausgewiesen, die sich als weiblich oder männlich identifizieren. Genderdiverse Menschen, die sich diesen Kategorien nicht zuordnen, werden aufgrund der geringen Fallzahl in den Analysen nach Geschlecht nicht gesondert ausgewiesen. Die Darstellung nach Bundesland basiert auf dem Wohnort der Befragten. Der Bildungsstatus wird anhand des CASMIN-Indexes bestimmt ([Brauns et al. 2003](https://link.springer.com/chapter/10.1007/978-1-4419-9186-7_11 "Externer Link&nbsp;zum Buchbeitrag: The CASMIN educational classification in international comparative research")). Dieser verwendet Angaben zu schulischer und beruflicher Bildung und ermöglicht die Einteilung in eine niedrige, mittlere und hohe Bildungsgruppe.
+* **Beschreibung und Stratifizierung**: Für den Indikator werden die Kennzahlen für Gesamt sowie nach Geschlecht, Alter, Bundesland und Bildung ausgewiesen. Im RKI-Panel werden das Geburtsgeschlecht und die geschlechtliche Identität erhoben ([Pöge et al. 2022](https://doi.org/10.25646/9957 "Externer Link&nbsp;zur Publikation: Erhebung geschlechtlicher Diversität in der Studie GEDA 2019/2020-EHIS – Ziele, Vorgehen und Erfahrungen")). In den Analysen nach Geschlecht werden Personen ausgewiesen, die sich als weiblich oder männlich identifizieren. Genderdiverse Menschen, die sich diesen Kategorien nicht zuordnen, werden aufgrund der geringen Fallzahl nicht gesondert ausgewiesen. Die Darstellung nach Bundesland basiert auf dem Wohnort der Befragten. Der Bildungsstatus wird anhand des CASMIN-Indexes bestimmt ([Brauns et al. 2003](https://link.springer.com/chapter/10.1007/978-1-4419-9186-7_11 "Externer Link&nbsp;zum Buchbeitrag: The CASMIN educational classification in international comparative research")). Dieser verwendet Angaben zu schulischer und beruflicher Bildung und ermöglicht die Einteilung in eine niedrige, mittlere und hohe Bildungsgruppe.
 * **Umgang mit unsicheren Werten**: Voraussetzung für die stratifizierte Darstellung eines Indikators ist, dass die Fallzahl in der Gruppe mindestens 5 beträgt und die statistische Unsicherheit in der Schätzung der Kennziffer als akzeptabel angesehen wird (Konfidenzintervall schmaler als 25 Prozentpunkte und Variationskoeffizient ≤ 33,5 %). Letzteres bedeutet, dass die untere Grenze des Konfidenzintervalls mindestens die Hälfte des Schätzers betragen muss. Sind diese Kriterien nicht erfüllt, werden die Werte nicht berichtet („zu wenige Daten“). Berichtet, jedoch als unsicher markiert, werden Werte, die auf weniger als 10 Fällen basieren, deren Konfidenzintervall breiter als 20 Prozentpunkte ist oder wenn die Untergrenze weniger als ⅔ des Schätzers beträgt (Variationskoeffizient ≤ 16,6 %). Aufgrund der Unsicherheit sollten diese Werte mit Vorsicht interpretiert werden.
-* **Gewichtung**: Um Abweichungen der Surveys von der zugrundeliegenden Bezugspopulation durch unterschiedliche Teilnahmebereitschaft oder das Stichprobendesign zu korrigieren, wurde bei den Berechnungen in jedem Survey ein Gewichtungsfaktor verwendet. Diese Gewichtungen passen die Surveys an die Bevölkerungsstruktur Deutschlands hinsichtlich Geschlecht, Alter, Bundesland und Bildung an. Im RKI-Panel 2024 enthielt die Gewichtung auch eine Anpassung für Ein-Personen- vs. Mehr-Personen-Haushalte. Außerdem wurde ein Korrekturfaktor auf Basis der Angaben in der Rekrutierungsstudie für das RKI-Panel 2024 berücksichtigt, der die Nicht-Teilnahme an einzelnen Teilwellen bei der wiederholten Befragung im RKI-Panel ausgleicht. Dabei wurden die Daten des Statistischen Bundesamts zum Stichtag 31.12.2016 (Krankheitswissen und Informationsbedarfe – Diabetes mellitus 2017), 31.12.2020 (GEDA 2022) und 31.12.2023 (RKI-Panel 2024) verwendet. Die Informationen zu Haushalten und zur Bildungsverteilung wurden dem Mikrozensus 2016 (Krankheitswissen und Informationsbedarfe – Diabetes mellitus 2017), 2018 (GEDA 2022) und 2021 (RKI-Panel 2024) entnommen. Die Bildungsgruppen wurden auf Basis der ISCED-Klassifikation bestimmt ([Schroedter et al. 2006](https://www.ssoar.info/ssoar/bitstream/handle/document/26239/ssoar-2006-schroedter_et_al-die_umsetzung_der_bildungsskala_isced-1997.pdf?sequence=1 "Externer Link&nbsp;zur Publikation: Die Umsetzung der Bildungsskala ISCED-1997 für die Volkszählung 1970, die Mikrozensus-Zusatzerhebung 1971 und die Mikrozensen 1976-2004 (Version 1)"), [UNESCO 2012)](https://unesdoc.unesco.org/ark:/48223/pf0000219109 "Externer Link&nbsp;zur Publikation: International Standard Classification of Education 2011"). Im RKI-Panel 2024 wurde die Bildung entsprechend dem CASMIN-Index klassifiziert ([Brauns et al. 2003](https://link.springer.com/chapter/10.1007/978-1-4419-9186-7_11 "Externer Link&nbsp;zum Buchbeitrag: The CASMIN educational classification in international comparative research")).
-* **Alters- und Geschlechtsstandardisierung**: Die Ergebnisse werden in zwei Versionen gezeigt: auf das jeweilige Erhebungsjahr gewichtet, wie oben beschrieben (‚beobachtet’), sowie standardisiert nach Alter und Geschlecht entsprechend der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/isgbe.i?i=1000:55515 "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Standardbevölkerungen - Europastandardbevölkerung 2013") (‚altersstandardisiert‘). Für Darstellungen nach Bundesland oder Bildungsgruppe wurde die Standardisierung innerhalb des jeweiligen Bundeslandes bzw. der jeweiligen Bildungsgruppe durchgeführt. Die ‚beobachteten‘ Ergebnisse bilden die tatsächliche Alters- und Geschlechtsverteilung innerhalb der Erhebungsjahre und Bildungsgruppen ab. Sie sind damit zum Beispiel zur Analyse von Fragen des Versorgungsbedarfs und dessen Veränderung über die Zeit geeignet. Bei den ‚altersstandardisierten‘ Ergebnissen sind die Erhebungsjahre, Bundesländer bzw. Bildungsgruppen hinsichtlich Alter und Geschlecht vergleichbar. Dies erleichtert das Aufzeigen von Unterschieden, die sich nicht allein durch Alter und Geschlecht erklären lassen.
+* **Gewichtung**: Um Abweichungen des Surveys von der zugrundeliegenden Bezugspopulation durch unterschiedliche Teilnahmebereitschaft oder das Stichprobendesign zu korrigieren, wurde bei den Berechnungen ein Gewichtungsfaktor verwendet. Diese Gewichtung passt den Survey an die Bevölkerungsstruktur Deutschlands hinsichtlich Geschlecht, Alter, Bundesland, Bildung, regionale Siedlungsstruktur (Kreis- oder Gemeindetyp) sowie Ein-Personen- vs. Mehr-Personen-Haushalte an. Außerdem wurde ein Korrekturfaktor auf Basis der Angaben in der Rekrutierungsstudie für das RKI-Panel 2024 berücksichtigt, der die Nicht-Teilnahme an einzelnen Teilwellen bei der wiederholten Befragung im RKI-Panel ausgleicht. Es wurden die Daten des Statistischen Bundesamts zum Stichtag 31.12.2023 (RKI-Panel 2024) verwendet. Die Informationen zu Haushalten und zur Bildungsverteilung wurden dem Mikrozensus 2021 (RKI-Panel 2024) entnommen. Die Bildung wurde entsprechend dem CASMIN-Index klassifiziert ([Brauns et al. 2003](https://link.springer.com/chapter/10.1007/978-1-4419-9186-7_11 "Externer Link&nbsp;zum Buchbeitrag: The CASMIN educational classification in international comparative research")).
+* **Alters- und Geschlechtsstandardisierung**: Die Ergebnisse werden in zwei Versionen gezeigt: auf das jeweilige Erhebungsjahr gewichtet, wie oben beschrieben (‚beobachtet’), sowie standardisiert nach Alter und Geschlecht entsprechend der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/isgbe.i?i=1000:55515 "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Standardbevölkerungen - Europastandardbevölkerung 2013") (‚altersstandardisiert‘). Für Darstellungen nach Bundesland oder Bildungsgruppe wurde die Standardisierung innerhalb des jeweiligen Bundeslands beziehungsweise der jeweiligen Bildungsgruppe durchgeführt. Die ‚beobachteten‘ Ergebnisse bilden die tatsächliche Alters- und Geschlechtsverteilung innerhalb der Erhebungsjahre, Bundesländer beziehungsweise Bildungsgruppen ab. Sie sind damit zum Beispiel zur Analyse von Fragen des Versorgungsbedarfs und dessen Veränderung über die Zeit geeignet. Bei den ‚altersstandardisierten‘ Ergebnissen sind die Erhebungsjahre, Bundesländer beziehungsweise Bildungsgruppen hinsichtlich Alter und Geschlecht vergleichbar. Dies erleichtert das Aufzeigen von Unterschieden, die sich nicht allein durch Alter und Geschlecht erklären lassen.
 * **Konfidenzintervalle**: Die zufallsbedingte Variabilität der Ergebnisse kann den 95 %-Konfidenzintervallen in den Tabellen und Abbildungen entnommen werden. Die Konfidenzintervalle wurden mit der Logit-Methode berechnet. Dabei wurde die Streuung der Gewichtungsfaktoren berücksichtigt.
 * **Regionale Unterschiede**: Statistisch signifikante Unterschiede zwischen den Bundesländern und dem Bundesdurchschnitt wurden mittels Chi-Quadrat-Test unter Adjustierung für multiples Testen ermittelt. Jedes Bundesland wurde im Vergleich zu den übrigen Bundesländern (zusammengefasst) getestet. Die Einteilung in der Karte erfolgt anhand von fünf äquidistanten Kategorien.
 
 #### Weiterführende Links
 
-* [RKI-Panel „Gesundheit in Deutschland“](https://www.rki.de/DE/Themen/Forschung-und-Forschungsdaten/Sentinels-Surveillance-Panel/Panel/panel-gesundheit-in-deutschland-node.html "Externer Link&nbsp;zur Webseite des RKI-Panels „Gesundheit in Deutschland“")
-* [GEDA: Gesundheit in Deutschland aktuell](https://www.rki.de/geda "Externer Link&nbsp;zur Webseite des RKI: GEDA: Gesundheit in Deutschland aktuell")
-* [Krankheitswissen und Informationsbedarfe – Diabetes mellitus 2017](https://doi.org/10.17886/RKI-GBE-2018-062 "Externer Link&nbsp;zur Publikation: Erste Ergebnisse der Studie „Krankheitswissen und Informationsbedarfe – Diabetes mellitus (2017)")
+* [RKI-Panel „Gesundheit in Deutschland"](https://www.rki.de/DE/Themen/Forschung-und-Forschungsdaten/Sentinels-Surveillance-Panel/Panel/panel-gesundheit-in-deutschland-node.html "Externer Link&nbsp;zur Webseite des RKI-Panels „Gesundheit in Deutschland“")
+* [Instrument HLS19-Q12 beantragen](https://m-pohl.net/HLS19Instruments "Externer Link&nbsp;zur Webseite:&nbsp;Using the HLS19 instruments")
 
 
 <br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
-### Indikator 'Herz-Kreislauf-Erkrankung: 10-Jahres-Risiko (18 – 79 Jahre)'
+### Indikator 'Wahrgenommener Stress (ab 18 Jahre)'
 
-Indikator_ID: `1030102`  
-Stand: 20. November 2024  
-Link: [https://www.gbe.rki.de/hke-risiko](https://www.gbe.rki.de/hke-risiko)
+Indikator_ID: `1050101`  
+Stand: 19. Mai 2026  
+Link: [https://www.gbe.rki.de/wahrgenommener-stress](https://www.gbe.rki.de/wahrgenommener-stress)
 
-Herz-Kreislauf-Erkrankungen sind verschiedene Erkrankungen des Herzens und der Blutgefäße. Bei gestörter Durchblutung des Herzens oder des Gehirns kann ein Herzinfarkt beziehungsweise ein Schlaganfall auftreten. Zahlreiche Faktoren beeinflussen das Risiko für Herz-Kreislauf-Erkrankungen, darunter das Alter oder die Ernährung. Das individuelle Risiko, in den nächsten 10 Jahren erstmals an einem Herzinfarkt oder Schlaganfall zu erkranken (absolutes 10-Jahres-Herz-Kreislauf-Erkrankungs-Risiko in Prozent), kann mit dem Herz-Kreislauf-Erkrankungs-Risiko-Test bei Personen ohne bekannten Herzinfarkt oder Schlaganfall bestimmt werden ([Schiborn et al. 2021](https://doi.org/10.1038/s41598-021-99103-4 "Externer Link&nbsp;zur Publikation: A newly developed and externally validated non-clinical score accurately predicts 10-year cardiovascular disease risk in the general adult population"), [DIfE 2024](https://www.dife.de/news/herz-kreislauf-erkrankungs-risiko-test/ "Externer Link&nbsp;zur Webseite des DIfE: Herz-Kreislauf-Erkrankungs-Risiko-Test")). Der Test fasst hierzu die Informationen zu verschiedenen Risikofaktoren für Herz-Kreislauf-Erkrankungen zusammen. Die nicht-klinische Testversion beruht allein auf erfragten Informationen.
+Stress entsteht nach dem transaktionalen Stressmodell, wenn Anforderungen einer Situation als bedeutsam wahrgenommen und gleichzeitig die eigenen Bewältigungsressourcen als unzureichend bewertet werden ([Lazarus und Folkman 1984](https://books.google.de/books/about/Stress_Appraisal_and_Coping.html?hl=de&id=i-ySQQuUpr8C&redir_esc=y "Externer Link&nbsp;zur Publikation: Stress, Appraisal, and Coping")). Merkmale der sozialen Lage wie Geschlecht, Alter oder die sozioökonomische Position spielen eine zentrale Rolle, da diese sowohl Art und Ausmaß der Stressbelastung als auch die Verfügbarkeit von Ressourcen zu deren Bewältigung beeinflussen ([Carr und Umberson 2013](https://sites.bu.edu/deborahcarr/files/2020/09/Carr-Umberson_HSP-2013.pdf "Externer Link&nbsp;zur Publikation: The Social Psychology of Stress, Health, and Coping")).
+
+Stress ist ein wichtiger Risikofaktor für die Gesundheit. Vor allem chronischer, also länger andauernder, Stress gilt als besonders schädlich, da er die Anfälligkeit für Krankheiten erhöht und deren Verlauf negativ beeinflusst. Entsprechend steht Stress mit einer Vielzahl von körperlichen Erkrankungen und psychischen Störungen, wie [Herz-Kreislauf-Erkrankungen](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/HerzKreislaufErkrankungen/herzkreislauferkrankungen_node.html "Herz-Kreislauf-Erkrankungen"), [Krebs](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/Krebs/krebs_node.html "Krebserkrankungen"), [Depression](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/PsychischeStoerungen/Depression/depression_node.html "Depression") und HIV/AIDS in direktem oder indirektem Zusammenhang ([Cohen et al. 2007](https://doi.org/10.1001/jama.298.14.1685 "Externer Link&nbsp;zur Publikation: Psychological Stress and Disease")).
 
 #### Definition
 
-Der Indikator *Herz-Kreislauf-Erkrankung: 10-Jahres-Risiko* ist definiert als geometrischer Mittelwert des absoluten Risikos in der Bevölkerung ohne einen bereits bekannten Herzinfarkt oder Schlaganfall, in den nächsten 10 Jahren an einem Herzinfarkt oder Schlaganfall zu erkranken, geschätzt durch den Deutschen Herz-Kreislauf-Erkrankungs-Risiko-Test und angegeben in Prozent (%).
+Der Indikator *Wahrgenommener Stress* ist definiert als der Anteil der Erwachsenen mit erhöhter Stressbelastung im letzten Monat.
 
 #### Operationalisierung
 
-Die Erfassung der Komponenten des Tests für das erstmalige Auftreten von Herzinfarkt oder Schlaganfall basiert auf Selbstangaben der Befragten. Die Berechnung der Punkte beruht auf folgenden Ausprägungen der Herz-Kreislauf-Erkrankungs-Risiko-Test-Komponenten:
+Die Erfassung von wahrgenommenem Stress basiert auf Selbstangaben der Befragten und wird mit dem validierten Kurz-Inventar der Perceived Stress Scale (PSS, [Cohen et al. 1983](https://doi.org/10.2307/2136404 "Externer Link&nbsp;zur Publikation: A Global Measure of Perceived Stress")), der PSS-2x2 ([Schäfer et al. 2023](https://doi.org/10.3389/fpsyt.2023.1195986 "Externer Link&nbsp;zur Publikation: The Perceived Stress Scale 2&2: a two-factorial German short version of the Perceived Stress Scale")), erfasst. Die PSS-2x2 besteht aus vier Fragen, welche sich auf den vergangenen Monat beziehen:
 
-GEDA 2022:
+RKI-Panel 2024
 
-* Alter (<&nbsp;35, 35 – 39, 40 – 44, 45 – 49, 50 – 54, 55 – 59, 60 – 64, 65 – 69, 70 – 74, ≥&nbsp;75 Jahre)
-* Geschlecht (weiblich, männlich)
-* Taillenumfang (< 75, 75 – 79, 80 – 84, 85 – 89, 90 – 94, 95 – 99, 100 – 104, 105 – 109, 110 – 114, 115 – 119, ≥ 120 cm), der berechnet wurde basierend auf Selbstangaben zu Körpergewicht (kg), Körpergröße (cm), Alter (Jahre) und Geschlecht ([Heidemann et al. 2019](https://doi.org/10.1136/bmjdrc-2019-000680 "Externer Link&nbsp;zur Publikation: Perceived diabetes risk and related determinants in individuals with high actual diabetes risk: results from a nationwide population-based survey"))
-* Rauchen (aktuell <&nbsp;20 oder ≥&nbsp;20 Zigaretten/Tag, ehemals <&nbsp;20 oder ≥&nbsp;20 Zigaretten/Tag, nie)
-* Hypertoniediagnose (ja, nein)
-* Diabetesdiagnose (ja, nein)
-* Herz-Kreislauf-Erkrankung bei leiblichen Eltern (nein oder nicht bekannt, ja – ein Elternteil, ja – beide Elternteile)
-* Herz-Kreislauf-Erkrankung bei mindestens einem leiblichen Geschwisterkind (nein oder nicht bekannt, ja)
-* Verzehr von Vollkornbrot/Müsli (0, 1, 2, 3, 4, >&nbsp;4 Scheiben bzw. Portionen/Tag)
-* Verzehr von rotem Fleisch (nie oder selten, 1 – 2 mal/Woche, 3 – 4 mal/Woche, 5 – 6 mal/Woche, täglich, mehrmals täglich)
-* Kaffeekonsum (0 – 1, 2 – 5, >&nbsp;5 Tassen/Tag)
-* Konsum zuckerhaltiger Erfrischungsgetränke (nie oder nicht täglich, 1-2, 3, 4, >&nbsp;4 Gläser/Tag)
-* Verzehr von Pflanzenöl (0 – 0,5, >&nbsp;0,5-1, >&nbsp;1-2, >&nbsp;2 Esslöffel/Tag)
+„Bitte geben Sie nun für jede Frage an, wie oft Sie in entsprechender Art und Weise während des vergangenen Monats gedacht oder gefühlt haben.“
 
-Die Summe der Punkte wird zur Berechnung des absoluten 10-Jahres-Herz-Kreislauf-Erkrankungs-Risikos in Prozent herangezogen ([Schiborn et al. 2021](https://doi.org/10.1038/s41598-021-99103-4 "Externer Link&nbsp;zur Publikation: A newly developed and externally validated non-clinical score accurately predicts 10-year cardiovascular disease risk in the general adult population")).
+* „Wie oft waren Sie im letzten Monat zuversichtlich, dass Sie fähig sind, ihre persönlichen Probleme zu bewältigen?“
+* „Wie oft hatten Sie im letzten Monat das Gefühl, dass sich die Dinge zu Ihren Gunsten entwickeln?“
+* „Wie oft waren Sie im letzten Monat aufgewühlt, weil etwas unerwartet passiert ist?“
+* „Wie oft haben Sie sich im letzten Monat über Dinge geärgert, über die Sie keine Kontrolle hatten?“
+
+Die Antwortoptionen waren jeweils „nie“, „fast nie“, „manchmal“, „ziemlich oft“ und „sehr oft“.
+
+Der Indikator zum wahrgenommenen Stress setzt sich aus den folgenden zwei Dimensionen zusammen:
+
+* *Wahrgenommene Selbstwirksamkeit* (Fragen 1 und 2, Antwortkategorien umgekehrt kodiert, damit alle Fragen in die gleiche Richtung auswertbar, Wertebereich 0&nbsp;–&nbsp;8)
+* *Wahrgenommene Hilflosigkeit* (Fragen 3 und 4, Wertebereich 0&nbsp;–&nbsp;8)
+
+Es wurde eine Risikogruppe für erhöhte Stressbelastung gebildet. Eine Person weist eine erhöhte Stressbelastung auf, wenn ihre Werte in beiden Dimensionen zu den höchsten 25&nbsp;% der Stichprobe basierend auf dem Panel 2024 gehören (≥ 75. Perzentil, vgl. [Carle et al. 2021](https://doi.org/10.1007/s11136-020-02700-5 "Externer Link&nbsp;zur Publikation: Using nationally representative percentiles to interpret PROMIS pediatric measures")). Dies entspricht jeweils einem Schwellenwert von ≥&nbsp;4.
 
 #### Bezugspopulation
 
-Deutschsprachige Wohnbevölkerung von 18 bis 79 Jahren in Privathaushalten ohne bekannten Herzinfarkt oder Schlaganfall in Deutschland.
+Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschland.
 
 #### Datenquelle und Fallzahl
 
 Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert Koch-Instituts:
 
-* GEDA 2022:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen; N = 33.149 (relevante Teilstichprobe Welle 4 bis 10, Modul 2, N = 4.783 18- bis 79-Jährige ohne bisherige Herzinfarkt- oder Schlaganfalldiagnose)
-	+ gültige Werte für den Indikator: n = 4.430
+* RKI-Panel 2024:
+  + webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe mit vier Fragebogenmodule (A&nbsp;–&nbsp;D), N&nbsp;= 41.376 (relevante Teilstichprobe Fragebogen C: n&nbsp;=&nbsp;27.102)
+  + gültige Werte für den Indikator: n&nbsp;=&nbsp;26.721
+  + [Datensatzversion v3](https://doi.org/10.25646/12202.2 "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
+Die Befragungssurveys des RKI liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Die Daten beruhen auf zufälligen Stichproben aus der Bevölkerung, was die Aussagekraft der Ergebnisse deutlich erhöht. Wie bei allen bevölkerungsbezogenen Studien ist jedoch davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Andererseits könnten Personen mit einem starken Interesse an Gesundheitsthemen überrepräsentiert sein. Diese Effekte werden teilweise durch die unten beschriebenen Gewichtungsverfahren ausgeglichen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
 
 #### Berechnung
 
-* **Beschreibung und Stratifizierung**: Für den Indikator werden die Kennzahlen für Gesamt sowie nach Geschlecht, Alter und Bildung ausgewiesen. Seit GEDA 2019/2020-EHIS werden das Geburtsgeschlecht und die geschlechtliche Identität erhoben ([Pöge et al. 2022](https://doi.org/10.25646/9957 "Externer Link&nbsp;zur Publikation: Erhebung geschlechtlicher Diversität in der Studie GEDA 2019/2020-EHIS – Ziele, Vorgehen und Erfahrungen")). In den Analysen nach Geschlecht werden Personen ausgewiesen, die sich als weiblich oder männlich identifizieren. Genderdiverse Menschen, die sich diesen Kategorien nicht zuordnen, werden aufgrund der geringen Fallzahl in den Analysen nach Geschlecht nicht gesondert ausgewiesen. Der Bildungsstatus wird anhand des CASMIN-Indexes bestimmt ([Brauns et al. 2003](https://link.springer.com/chapter/10.1007/978-1-4419-9186-7_11 "Externer Link&nbsp;zum Buchbeitrag: The CASMIN educational classification in international comparative research")). Dieser verwendet Angaben zu schulischer und beruflicher Bildung und ermöglicht die Einteilung in eine niedrige, mittlere und hohe Bildungsgruppe.
-* **Umgang mit unsicheren Werten**: Voraussetzung für die stratifizierte Darstellung eines Indikators ist, dass die Fallzahl in der Gruppe mindestens 5 beträgt und die statistische Unsicherheit in der Schätzung der Kennziffer als akzeptabel angesehen wird (Konfidenzintervall schmaler als 25 Prozentpunkte und Variationskoeffizient ≤ 33,5 %). Letzteres bedeutet, dass die untere Grenze des Konfidenzintervalls mindestens die Hälfte des Schätzers betragen muss. Sind diese Kriterien nicht erfüllt, werden die Werte nicht berichtet („zu wenige Daten“). Berichtet, jedoch als unsicher markiert, werden Werte, die auf weniger als 10 Fällen basieren, deren Konfidenzintervall breiter als 20 Prozentpunkte ist oder wenn die Untergrenze weniger als ⅔ des Schätzers beträgt (Variationskoeffizient ≤ 16,6 %). Aufgrund der Unsicherheit sollten diese Werte mit Vorsicht interpretiert werden.
-* **Gewichtung**: Um Abweichungen der Surveys von der zugrundeliegenden Bezugspopulation durch unterschiedliche Teilnahmebereitschaft oder das Stichprobendesign zu korrigieren, wurde bei den Berechnungen in jedem Survey ein Gewichtungsfaktor verwendet. Diese Gewichtungen passen die Surveys an die Bevölkerungsstruktur Deutschlands hinsichtlich Geschlecht, Alter, Bundesland und Bildung an. Beginnend mit GEDA 2014/2015-EHIS wurde zusätzlich die regionale Siedlungsstruktur (Kreis- oder Gemeindetyp) berücksichtigt. Dabei wurden die Daten des Statistischen Bundesamts zum Stichtag 31.12.2020 (GEDA 2022) verwendet. Die Bildungsverteilung wurde dem Mikrozensus 2018 (GEDA 2022) entnommen. Die Bildungsgruppen wurden auf Basis der ISCED-Klassifikation bestimmt ([Schroedter et al. 2006](https://www.ssoar.info/ssoar/bitstream/handle/document/26239/ssoar-2006-schroedter_et_al-die_umsetzung_der_bildungsskala_isced-1997.pdf?sequence=1 "Externer Link&nbsp;zur Publikation: Die Umsetzung der Bildungsskala ISCED-1997 für die Volkszählung 1970, die Mikrozensus-Zusatzerhebung 1971 und die Mikrozensen 1976-2004 (Version 1)"), beginnend mit GEDA 2014/2015-EHIS: [UNESCO 2012](https://unesdoc.unesco.org/ark:/48223/pf0000219109 "Externer Link&nbsp;zur Publikation: International Standard Classification of Education 2011")).
-* **Alters- und Geschlechtsstandardisierung**: Die Ergebnisse werden in zwei Versionen gezeigt: auf das jeweilige Erhebungsjahr gewichtet, wie oben beschrieben (‚beobachtet’), sowie standardisiert nach Alter und Geschlecht entsprechend der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/isgbe.i?i=1000:55515 "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Standardbevölkerungen - Europastandardbevölkerung 2013") (‚altersstandardisiert‘). Für Darstellungen nach Bildungsgruppe wurde die Standardisierung innerhalb der jeweiligen Bildungsgruppe durchgeführt. Die ‚beobachteten‘ Ergebnisse bilden die tatsächliche Alters- und Geschlechtsverteilung innerhalb der Erhebungsjahre und Bildungsgruppen ab. Sie sind damit zum Beispiel zur Analyse von Fragen des Versorgungsbedarfs und dessen Veränderung über die Zeit geeignet. Bei den ‚altersstandardisierten‘ Ergebnissen sind die Erhebungsjahre und Bildungsgruppen hinsichtlich Alter und Geschlecht vergleichbar. Dies erleichtert das Aufzeigen von Unterschieden, die sich nicht allein durch Alter und Geschlecht erklären lassen.
-* **Konfidenzintervalle**: Die zufallsbedingte Variabilität der Ergebnisse kann den 95 %-Konfidenzintervallen in den Tabellen und Abbildungen entnommen werden. Die Konfidenzintervalle wurden mit der Logit-Methode berechnet. Dabei wurde die Streuung der Gewichtungsfaktoren berücksichtigt.
+* **Beschreibung und Stratifizierung**: Für den Indikator werden die Kennzahlen für Gesamt sowie nach Geschlecht, Alter, Bundesland und Bildung ausgewiesen. Im RKI-Panel werden das Geburtsgeschlecht und die geschlechtliche Identität erhoben ([Pöge et al. 2022](https://doi.org/10.25646/9957 "Externer Link&nbsp;zur Publikation: Erhebung geschlechtlicher Diversität in der Studie GEDA 2019/2020-EHIS – Ziele, Vorgehen und Erfahrungen")). In den Analysen nach Geschlecht werden Personen ausgewiesen, die sich als weiblich oder männlich identifizieren. Genderdiverse Menschen, die sich diesen Kategorien nicht zuordnen, werden aufgrund der geringen Fallzahl nicht gesondert ausgewiesen. Die Darstellung nach Bundesland basiert auf dem Wohnort der Befragten. Der Bildungsstatus wird anhand des CASMIN-Indexes bestimmt ([Brauns et al. 2003](https://link.springer.com/chapter/10.1007/978-1-4419-9186-7_11 "Externer Link&nbsp;zum Buchbeitrag: The CASMIN educational classification in international comparative research")). Dieser verwendet Angaben zu schulischer und beruflicher Bildung und ermöglicht die Einteilung in eine niedrige, mittlere und hohe Bildungsgruppe.
+* **Umgang mit unsicheren Werten**: Voraussetzung für die stratifizierte Darstellung eines Indikators ist, dass die Fallzahl in der Gruppe mindestens 5 beträgt und die statistische Unsicherheit in der Schätzung der Kennziffer als akzeptabel angesehen wird (Konfidenzintervall schmaler als 25 Prozentpunkte und Variationskoeffizient ≤&nbsp;33,5&nbsp;%). Letzteres bedeutet, dass die untere Grenze des Konfidenzintervalls mindestens die Hälfte des Schätzers betragen muss. Sind diese Kriterien nicht erfüllt, werden die Werte nicht berichtet („zu wenige Daten“). Berichtet, jedoch als unsicher markiert, werden Werte, die auf weniger als 10 Fällen basieren, deren Konfidenzintervall breiter als 20 Prozentpunkte ist oder wenn die Untergrenze weniger als ⅔ des Schätzers beträgt (Variationskoeffizient ≤&nbsp;16,6&nbsp;%). Aufgrund der Unsicherheit sollten diese Werte mit Vorsicht interpretiert werden.
+* **Gewichtung**: Um Abweichungen des Surveys von der zugrundeliegenden Bezugspopulation durch unterschiedliche Teilnahmebereitschaft oder das Stichprobendesign zu korrigieren, wurde bei den Berechnungen ein Gewichtungsfaktor verwendet. Diese Gewichtung passt den Survey an die Bevölkerungsstruktur Deutschlands hinsichtlich Geschlecht, Alter, Bundesland, Bildung, regionale Siedlungsstruktur (Kreis- oder Gemeindetyp) sowie Ein-Personen- vs. Mehr-Personen-Haushalte an. Außerdem wurde ein Korrekturfaktor auf Basis der Angaben in der Rekrutierungsstudie für das RKI-Panel 2024 berücksichtigt, der die Nicht-Teilnahme an einzelnen Teilwellen bei der wiederholten Befragung im RKI-Panel ausgleicht. Es wurden die Daten des Statistischen Bundesamts zum Stichtag 31.12.2023 (RKI-Panel 2024) verwendet. Die Informationen zu Haushalten und zur Bildungsverteilung wurden dem Mikrozensus 2021 (RKI-Panel 2024) entnommen. Die Bildung wurde entsprechend dem CASMIN-Index klassifiziert ([Brauns et al. 2003](https://link.springer.com/chapter/10.1007/978-1-4419-9186-7_11 "Externer Link&nbsp;zum Buchbeitrag: The CASMIN educational classification in international comparative research")).
+* **Alters- und Geschlechtsstandardisierung**: Die Ergebnisse werden in zwei Versionen gezeigt: auf das jeweilige Erhebungsjahr gewichtet, wie oben beschrieben (‚beobachtet’), sowie standardisiert nach Alter und Geschlecht entsprechend der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/isgbe.i?i=1000:55515 "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Standardbevölkerungen - Europastandardbevölkerung 2013") (‚altersstandardisiert‘). Für Darstellungen nach Bundesland oder Bildungsgruppe wurde die Standardisierung innerhalb des jeweiligen Bundeslands bzw. der jeweiligen Bildungsgruppe durchgeführt. Die ‚beobachteten‘ Ergebnisse bilden die tatsächliche Alters- und Geschlechtsverteilung innerhalb der Erhebungsjahre, Bundesländer bzw. Bildungsgruppen ab. Sie sind damit zum Beispiel zur Analyse von Fragen des Versorgungsbedarfs und dessen Veränderung über die Zeit geeignet. Bei den ‚altersstandardisierten‘ Ergebnissen sind die Erhebungsjahre, Bundesländer bzw. Bildungsgruppen hinsichtlich Alter und Geschlecht vergleichbar. Dies erleichtert das Aufzeigen von Unterschieden, die sich nicht allein durch Alter und Geschlecht erklären lassen.
+* **Konfidenzintervalle**: Die zufallsbedingte Variabilität der Ergebnisse kann den 95&nbsp;%-Konfidenzintervallen in den Tabellen und Abbildungen entnommen werden. Die Konfidenzintervalle wurden mit der Logit-Methode berechnet. Dabei wurde die Streuung der Gewichtungsfaktoren berücksichtigt.
+* **Regionale Unterschiede**: Statistisch signifikante Unterschiede zwischen den Bundesländern und dem Bundesdurchschnitt wurden mittels Chi-Quadrat-Test unter Adjustierung für multiples Testen ermittelt. Jedes Bundesland wurde im Vergleich zu den übrigen Bundesländern (zusammengefasst) getestet. Die Einteilung in der Karte erfolgt anhand von fünf äquidistanten Kategorien.
 
 #### Weiterführende Links
 
-* [GEDA: Gesundheit in Deutschland aktuell](https://www.rki.de/geda "Externer Link&nbsp;zur Webseite des RKI: GEDA: Gesundheit in Deutschland aktuell")
-* [DIfE: Deutscher Herz-Kreislauf-Erkrankungs-Risiko-Test](https://www.dife.de/news/herz-kreislauf-erkrankungs-risiko-test/ "Externer Link&nbsp;zur Webseite des DIfE: Herz-Kreislauf-Erkrankungs-Risiko-Test")
+* [RKI-Panel „Gesundheit in Deutschland“](https://www.rki.de/DE/Themen/Forschung-und-Forschungsdaten/Sentinels-Surveillance-Panel/Panel/panel-gesundheit-in-deutschland-node.html "Externer Link&nbsp;zur Webseite des RKI-Panels „Gesundheit in Deutschland“")
 
 
 <br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
@@ -1304,45 +1262,45 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert Koch-Instituts:
 
 * GSTel03:
-	+ telefonische Befragungen mit Festnetz, N = 8.318
-	+ gültige Werte für den Indikator: n = 8.313
+  + telefonische Befragungen mit Festnetz, N = 8.318
+  + gültige Werte für den Indikator: n = 8.313
 
 * GSTel06:
-	+ telefonische Befragungen mit Festnetz, N = 5.542
-	+ gültige Werte für den Indikator: n = 5.538
+  + telefonische Befragungen mit Festnetz, N = 5.542
+  + gültige Werte für den Indikator: n = 5.538
 
 * GEDA 2009:
-	+ telefonische Befragungen mit Festnetz, N = 21.262
-	+ gültige Werte für den Indikator: n = 21.230
+  + telefonische Befragungen mit Festnetz, N = 21.262
+  + gültige Werte für den Indikator: n = 21.230
 
 * GEDA 2010:
-	+ telefonische Befragungen mit Festnetz, N = 22.050
-	+ gültige Werte für den Indikator: n = 22.029
+  + telefonische Befragungen mit Festnetz, N = 22.050
+  + gültige Werte für den Indikator: n = 22.029
 
 * GEDA 2012:
-	+ telefonische Befragungen mit Festnetz, N = 19.294
-	+ gültige Werte für den Indikator: n = 19.285
+  + telefonische Befragungen mit Festnetz, N = 19.294
+  + gültige Werte für den Indikator: n = 19.285
 
 * GEDA 2014/2015-EHIS:
-	+ webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
-	+ gültige Werte für den Indikator: n = 23.906
+  + webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
+  + gültige Werte für den Indikator: n = 23.906
 
 * GEDA 2019/2020-EHIS:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
-	+ gültige Werte für den Indikator: n = 22.696
+  + telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
+  + gültige Werte für den Indikator: n = 22.696
 
 * GEDA 2022:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen, N = 33.149
-	+ gültige Werte für den Indikator aus Welle 1 bis 10, Basismodul: n = 33.123
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen, N = 33.149
+  + gültige Werte für den Indikator aus Welle 1 bis 10, Basismodul: n = 33.123
 
 * GEDA 2023:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 11 bis 20 mit einem Basismodul und bis zu vier Fragebogenmodulen; N = 30.002
-	+ gültige Werte für den Indikator aus Welle 11 bis 22, Basismodul: n = 29.969
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 11 bis 20 mit einem Basismodul und bis zu vier Fragebogenmodulen; N = 30.002
+  + gültige Werte für den Indikator aus Welle 11 bis 22, Basismodul: n = 29.969
 
 * RKI-Panel 2024:
-	+ webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe mit vier Fragebogenmodulen (A&nbsp;–&nbsp;D), N&nbsp;=&nbsp;47.676 (relevante Teilstichprobe Fragebogen A: n = 27.199)
-	+ gültige Werte für den Indikator: n = 27.084
-	+ [Datensatzversion v3](https://edoc.rki.de/handle/176904/13068.2 "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
+  + webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe mit vier Fragebogenmodulen (A&nbsp;–&nbsp;D), N&nbsp;=&nbsp;41.376 (relevante Teilstichprobe Fragebogen A: n = 27.199)
+  + gültige Werte für den Indikator: n = 27.084
+  + [Datensatzversion v3](https://doi.org/10.25646/12202.2 "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
 
 #### Datenqualität
 
@@ -1400,12 +1358,12 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert Koch-Instituts:
 
 * GEDA 2022:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in ein Basismodul und bis zu vier Fragebogenmodulen, Welle 1 bis 10; N = 33.149
-	+ gültige Werte für den Indikator Welle 1 bis 10, Basismodul: n = 33.067
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in ein Basismodul und bis zu vier Fragebogenmodulen, Welle 1 bis 10; N = 33.149
+  + gültige Werte für den Indikator Welle 1 bis 10, Basismodul: n = 33.067
 
 * GEDA 2023:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 11 bis 22 mit einem Basismodul und bis zu vier Fragebogenmodulen; N = 30.002 (relevante Teilstichprobe Welle 11 bis 13, Basismodul und Welle 14 bis 22, Modul 3 N = 20.969)
-	+ gültige Werte für den Indikator: n = 20.929
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 11 bis 22 mit einem Basismodul und bis zu vier Fragebogenmodulen; N = 30.002 (relevante Teilstichprobe Welle 11 bis 13, Basismodul und Welle 14 bis 22, Modul 3 N = 20.969)
+  + gültige Werte für den Indikator: n = 20.929
 
 #### Datenqualität
 
@@ -1469,7 +1427,7 @@ Psychisches Wohlbefinden setzt sich aus den folgenden drei Komponenten zusammen 
 * *Persönliches Gelingen* (eudaimonisches Wohlbefinden; SWEMWBS Fragen 4, 5 und 7; Mittelwert 4,0 von 5) und
 * *Zwischenmenschliche Beziehungen* (soziales Wohlbefinden; beinhaltet SWEMWBS Fragen 2 und 6; Mittelwert 3,7 von 5).
 
-Daten zu den Komponenten werden nicht dargestellt. Sie sind enthalten im Datensatz [„Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen“](https://doi.org/10.5281/zenodo.18465908 "Externer Link&nbsp;zur Webseite von Gesundheitsberichterstattung – Daten zu nichtübertragbaren Erkrankungen’ (German only)").
+Daten zu den Komponenten werden nicht dargestellt. Sie sind enthalten im Datensatz [„Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen“](https://doi.org/10.5281/zenodo.13736663 "Externer Link&nbsp;zur Webseite von Gesundheitsberichterstattung – Daten zu nichtübertragbaren Erkrankungen’ (German only)").
 
 #### Bezugspopulation
 
@@ -1480,9 +1438,9 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert Koch-Instituts:
 
 * RKI-Panel 2024:
-	+ webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe mit vier Fragebogenmodulen (A – D), N =&nbsp; 47.676 (relevante Teilstichprobe aus Fragebogen C: n = 27.102)
-	+ gültige Werte für den Indikator: n = 26.712
-	+ [Datensatzversion v3](https://edoc.rki.de/handle/176904/13068.2 "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
+  + webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe mit vier Fragebogenmodulen (A – D), N =&nbsp; 41.376 (relevante Teilstichprobe aus Fragebogen C: n = 27.102)
+  + gültige Werte für den Indikator: n = 26.712
+  + [Datensatzversion v3](https://doi.org/10.25646/12202.2 "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
 
 #### Weiterführende Links
 
@@ -1511,7 +1469,7 @@ Indikator_ID: `2020101`
 Stand: 20. November 2024  
 Link: [https://www.gbe.rki.de/khk-praevalenz](https://www.gbe.rki.de/khk-praevalenz)
 
-Die koronare oder auch ischämische Herzkrankheit ist eine chronische Erkrankung des Herzens, die durch eine zunehmende Verengung von meist arteriosklerotisch veränderten Herzkranzgefäßen zur Mangeldurchblutung des Herzmuskelgewebes führt. Zur koronaren Herzkrankheit zählt auch die sogenannte Angina pectoris (Brustenge) und auch der Herzinfarkt. Wesentliche Risikofaktoren für die koronare Herzkrankheit sind [Rauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)"), [Adipositas](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Koerpergewicht/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)"), Bewegungsarmut, Fettstoffwechselstörungen, Bluthochdruck und [Diabetes](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/DiabetesMellitus/DiabetesPraevalenz18Plus/diabetesPraevalenz_node.html "Diabetes mellitus: Prävalenz (ab&nbsp;18&nbsp;Jahre)"). Das Risiko einer koronaren Herzerkrankung kann durch Verhaltens- und Verhältnisänderungen sowie durch Therapien vorbestehender Erkrankungen entscheidend beeinflusst werden. Die koronare Herzerkrankung ist die führende Ursache für Morbidität und [Mortalität](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/HerzKreislaufErkrankungen/KoronareHerzerkrankungSterblichkeit/koronareHerzerkrankungSterblichkeit_node.html "Koronare Herzkrankheit: Sterblichkeit") in Deutschland und verursacht die höchsten Krankheitskosten ([Porst et al. 2022](https://doi.org/10.3238/arztebl.m2022.0314 "Externer Link&nbsp;zur Publikation: The Burden of Disease in Germany at the National and Regional Level - Results in Terms of Disability-adjusted Life Years (DALY) from the BURDEN 2020 Study"), [Statistisches Bundesamt 2024](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Krankheitskosten/_inhalt.html "Externer Link&nbsp;zur Webseite von Destatis zum Thema Krankheitskosten")).
+Die koronare oder auch ischämische Herzkrankheit ist eine chronische Erkrankung des Herzens, die durch eine zunehmende Verengung von meist arteriosklerotisch veränderten Herzkranzgefäßen zur Mangeldurchblutung des Herzmuskelgewebes führt. Zur koronaren Herzkrankheit (KHK) zählt auch die sogenannte Angina pectoris (Brustenge) und auch der Herzinfarkt. Wesentliche Risikofaktoren für die KHK sind [Rauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)"), [Adipositas](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KrankheitsnaheRisikofaktorenUndSymptome/KrankheitsnaheRisikofaktoren/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)"), Bewegungsarmut, Fettstoffwechselstörungen, Bluthochdruck und [Diabetes](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/DiabetesMellitus/DiabetesPraevalenz18Plus/diabetesPraevalenz_node.html "Diabetes mellitus: Prävalenz (ab&nbsp;18&nbsp;Jahre)"). Das Risiko einer KHK kann durch Verhaltens- und Verhältnisänderungen sowie durch Therapien vorbestehender Erkrankungen entscheidend beeinflusst werden. Die KHK ist die führende Ursache für Morbidität und [Mortalität](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/HerzKreislaufErkrankungen/KoronareHerzerkrankungSterblichkeit/koronareHerzerkrankungSterblichkeit_node.html "Koronare Herzkrankheit: Sterblichkeit") in Deutschland und verursacht die höchsten Krankheitskosten ([Porst et al. 2022](https://doi.org/10.3238/arztebl.m2022.0314 "Externer Link&nbsp;zur Publikation: The Burden of Disease in Germany at the National and Regional Level - Results in Terms of Disability-adjusted Life Years (DALY) from the BURDEN 2020 Study"), [Statistisches Bundesamt 2024](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Krankheitskosten/_inhalt.html "Externer Link&nbsp;zur Webseite von Destatis zum Thema Krankheitskosten")).
 
 #### Definition
 
@@ -1548,28 +1506,28 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert Koch-Instituts:
 
 * GSTel03:
-	+ telefonische Befragungen mit Festnetz, N = 8.318
-	+ gültige Werte für den Indikator: n = 8.244
+  + telefonische Befragungen mit Festnetz, N = 8.318
+  + gültige Werte für den Indikator: n = 8.244
 
 * GSTel06:
-	+ telefonische Befragungen mit Festnetz, N = 5.542
-	+ gültige Werte für den Indikator: n = 5.516
+  + telefonische Befragungen mit Festnetz, N = 5.542
+  + gültige Werte für den Indikator: n = 5.516
 
 * GEDA 2009:
-	+ telefonische Befragungen mit Festnetz, N = 21.262
-	+ gültige Werte für den Indikator: n = 21.165
+  + telefonische Befragungen mit Festnetz, N = 21.262
+  + gültige Werte für den Indikator: n = 21.165
 
 * GEDA 2010:
-	+ telefonische Befragungen mit Festnetz, N = 22. 050
-	+ gültige Werte für den Indikator: n = 21.946
+  + telefonische Befragungen mit Festnetz, N = 22. 050
+  + gültige Werte für den Indikator: n = 21.946
 
 * GEDA 2012:
-	+ telefonische Befragungen mit Festnetz, N = 19.294
-	+ gültige Werte für den Indikator: n = 19.206
+  + telefonische Befragungen mit Festnetz, N = 19.294
+  + gültige Werte für den Indikator: n = 19.206
 
 * GEDA 2014/2015-EHIS:
-	+ webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
-	+ gültige Werte für den Indikator: n = 21.064
+  + webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
+  + gültige Werte für den Indikator: n = 21.064
 
 #### Datenqualität
 
@@ -1599,7 +1557,7 @@ Indikator_ID: `2020102`
 Stand: 17. Dezember 2025  
 Link: [https://www.gbe.rki.de/khk-sterblichkeit](https://www.gbe.rki.de/khk-sterblichkeit)
 
-Die koronare Herzkrankheit (KHK) ist die häufigste Todesursache in Deutschland. Im internationalen Vergleich liegt die Mortalität für KHK in Deutschland über dem europäischen Durchschnitt ([OECD 2022](https://www.oecd.org/en/publications/health-at-a-glance-europe-2022_507433b0-en.html "Externer Link&nbsp;zur Publikation: Health at a Glance 2022 - OECD Indicators")). Die KHK ist eine chronische Erkrankung, bei der es zu einer Verengung der Herzkranzgefäße kommt ([Koronare Herzkrankheit: Prävalenz](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/HerzKreislaufErkrankungen/KoronareHerzerkrankungPraevalenz/koronareHerzerkrankungPraevalenz_node.html "Koronare Herzkrankheit: Prävalenz (ab&nbsp;18&nbsp;Jahre)")). Die Folge ist eine Minderdurchblutung des Herzens. Der Herzinfarkt stellt eine lebensbedrohliche Akutkomplikation der KHK dar. Durch die Minderdurchblutung des Herzmuskels kann es hierbei zu dauerhaften Schäden am Herzmuskelgewebe kommen. Als weitere Krankheitsfolgen tragen vor allem Herzinsuffizienz (Herzschwäche) und Herzrhythmusstörungen zur hohen Sterblichkeit der KHK bei. In den letzten Jahrzehnten ist die KHK-Sterblichkeit in den meisten Industrieländern deutlich gesunken. Die Gründe für diese Trendentwicklung werden auf einen Rückgang in der Häufigkeit wichtiger Risikofaktoren und auf Verbesserungen in der medizinischen Versorgung zurückgeführt ([Ahmadi and Lanphear 2022](https://doi.org/10.1186/s12889-021-12421-0 "Externer Link&nbsp;zur Publikation: The impact of clinical and population strategies on coronary heart disease mortality: an assessment of Rose’s big idea")).
+Die koronare Herzkrankheit (KHK) ist die häufigste Todesursache in Deutschland. Im internationalen Vergleich liegt die Mortalität für KHK in Deutschland über dem europäischen Durchschnitt ([OECD 2022](https://www.oecd.org/en/publications/health-at-a-glance-europe-2022_507433b0-en.html "Externer Link&nbsp;zur Publikation: Health at a Glance 2022 - OECD Indicators")). Die KHK ist eine chronische Erkrankung, bei der es zu einer Verengung der Herzkranzgefäße kommt ([Koronare Herzkrankheit: Prävalenz](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/HerzKreislaufErkrankungen/KoronareHerzerkrankungPraevalenz/koronareHerzerkrankungPraevalenz_node.html "Koronare Herzkrankheit: Prävalenz (ab&nbsp;18&nbsp;Jahre)")). Die Folge ist eine Minderdurchblutung des Herzens. Der Herzinfarkt stellt eine lebensbedrohliche Akutkomplikation der KHK dar. Durch die Minderdurchblutung des Herzmuskels kann es hierbei zu dauerhaften Schäden am Herzmuskelgewebe kommen. Als weitere Krankheitsfolgen tragen vor allem Herzinsuffizienz (Herzschwäche) und Herzrhythmusstörungen zur hohen Sterblichkeit der KHK bei. In den letzten Jahrzehnten ist die KHK-Sterblichkeit in den meisten Industrieländern deutlich gesunken. Die Gründe für diese Trendentwicklung werden auf einen Rückgang in der Häufigkeit wichtiger Risikofaktoren und auf Verbesserungen in der medizinischen Versorgung zurückgeführt ([Ahmadi und Lanphear 2022](https://doi.org/10.1186/s12889-021-12421-0 "Externer Link&nbsp;zur Publikation: The impact of clinical and population strategies on coronary heart disease mortality: an assessment of Rose’s big idea")).
 
 #### Definition
 
@@ -1624,7 +1582,7 @@ In der unikausalen Todesursachenstatistik wird für jeden Todesfall das zum Tode
 * **Beschreibung:** Quotient aus der Anzahl aller Sterbefälle an einer KHK (ICD-Code: I20&nbsp;–&nbsp;I25) und der Anzahl aller Personen mit ständigem Wohnsitz in Deutschland.
 * **Stratifizierung**: Die Darstellung nach Bundesland basiert auf dem Wohnort der verstorbenen Person. Die Stratifizierung nach regionaler sozioökonomischer Deprivation erfolgt auf Grundlage des German Index of Socioeconomic Deprivation (GISD) (Jahre 2003 – 2019: GISD Release 2022 v1.1, Jahre 2020 – 2023: GISD Release 2022 v1.2 Fortschreibung) ([Michalski et al. 2022](https://doi.org/10.25646/10640 "Externer Link&nbsp;zur Publikation: German Index of Socioeconomic Deprivation (GISD): Revision, Aktualisierung und Anwendungsbeispiele")). Der GISD fasst Merkmale der Erwerbs-, Bildungs- und Einkommenssituation für jeden Kreis und jede kreisfreie Stadt in einer Kennzahl zusammen. Die Kreise werden entlang ihrer GISD-Werte in Quintile von niedriger bis hoher sozioökonomischer Deprivation eingeteilt, die über den Wohnort der verstorbenen Person mit den Mortalitätsdaten verknüpft werden. Die Berechnung der Mortalitätsraten erfolgt stratifiziert nach niedriger (1. Quintil), mittlerer (2. – 4. Quintil) und hoher (5. Quintil) Deprivation. Unterschiede in der Mortalität nach sozioökonomischer Deprivation beziehen sich auf die räumliche Ebene.
 * **Altersstandardisierung**: Mit der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/isgbe.i?i=1000:55515 "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Standardbevölkerungen - Europastandardbevölkerung 2013") als Bezugspopulation erfolgte eine Altersstandardisierung unter Verwendung von 5-Jahres-Altersgruppen mit Ausnahme von < 1, 1 – 4 Jahre und ≥ 90 Jahre. Für die Auswertungen nach GISD wird die Altersgruppe ≥ 85 Jahre als höchste Altersgruppe verwendet.
-* **Berechnungen**: Für die Berechnung der Sterberaten insgesamt sowie nach Geschlecht, Altersgruppen und Bundesland wurde die Durchschnittsbevölkerung als Bezugspopulation verwendet ([Statistisches Bundesamt 2024b](https://www.gbe-bund.de/gbe/isgbe.archiv?p_indnr=6&p_archiv_id=7292029&p_sprache=D&p_action=A "Externer Link&nbsp;zum IS-GBE: Sterbefälle, Sterbeziffern (ab 1998) mit Filterung KHK I20-I25 (Tabelle)")). Für die Auswertung nach GISD wurde der Bevölkerungsdurchschnitt eines Jahres (Mittelwert der Bevölkerung zum 31.12. des Vorjahres und des dargestellten Jahres) verwendet und die Berechnung erfolgte im [Forschungsdatenzentrum](https://www.forschungsdatenzentrum.de/de/gesundheit/todesursachen "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachenstatistik") der Statistischen Ämter des Bundes und der Länder ([Todesursachenstatistik 2003](https://doi.org/10.21242/23211.2003.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2003") - [Todesursachenstatistik 2023](https://doi.org/10.21242/23211.2023.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2023")).
+* **Berechnungen**: Für die Berechnung der Sterberaten insgesamt sowie nach Geschlecht, Altersgruppen und Bundesland wurde die Durchschnittsbevölkerung als Bezugspopulation verwendet ([Statistisches Bundesamt 2024b](https://www.gbe-bund.de/gbe/isgbe.archiv?p_indnr=6&p_archiv_id=7292029&p_sprache=D&p_action=A "Externer Link&nbsp;zum IS-GBE: Sterbefälle, Sterbeziffern (ab 1998) mit Filterung KHK I20-I25 (Tabelle)")). Für die Auswertung nach regionaler sozioökonomischer Deprivation wurde der Bevölkerungsdurchschnitt eines Jahres (Mittelwert der Bevölkerung zum 31.12. des Vorjahres und des dargestellten Jahres) verwendet und die Berechnung erfolgte im [Forschungsdatenzentrum](https://www.forschungsdatenzentrum.de/de/gesundheit/todesursachen "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachenstatistik") der Statistischen Ämter des Bundes und der Länder ([Todesursachenstatistik 2003](https://doi.org/10.21242/23211.2003.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2003") - [Todesursachenstatistik 2023](https://doi.org/10.21242/23211.2023.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2023")).
 
 #### Weiterführende Links
 
@@ -1641,7 +1599,7 @@ Indikator_ID: `2020103`
 Stand: 20. November 2024  
 Link: [https://www.gbe.rki.de/schlaganfall-praevalenz](https://www.gbe.rki.de/schlaganfall-praevalenz)
 
-Bei einem Schlaganfall handelt es sich um eine plötzlich auftretende Schädigung von Hirnarealen, die infolge eines Gefäßverschlusses (ischämischer Schlaganfall) oder durch eine Hirnblutung (hämorrhagischer Schlaganfall) entsteht. Das Risiko von Gefäßverschlüssen ist insbesondere bei arteriosklerotisch geschädigten Hals- oder Hirnschlagadern erhöht. Hirnblutungen treten hingegen häufig bei Hirnarterien auf, welche durch einen langjährigen Bluthochdruck geschädigt wurden. In Folge eines Schlaganfalls wird die Funktion des Gehirns beeinträchtigt. Schlagartig treten vor allem Lähmungen (meist in einer Körperhälfte), Sprach-, Seh- und Gleichgewichtsstörungen auf. Wie bei der koronaren Herzkrankheit sind [Rauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)"), [Adipositas](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Koerpergewicht/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)"), Bewegungsarmut, Fettstoffwechselstörungen, Bluthochdruck und [Diabetes](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/DiabetesMellitus/DiabetesPraevalenz18Plus/diabetesPraevalenz_node.html "Diabetes mellitus: Prävalenz (ab&nbsp;18&nbsp;Jahre)") zentrale Risikofaktoren für einen Schlaganfall. Schlaganfälle sind eine Hauptursache einer bleibenden Behinderung im Erwachsenenalter und zählen zu den häufigsten [Todesursachen](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/HerzKreislaufErkrankungen/SchlaganfallSterblichkeit/schlaganfallSterblichkeit_node.html "Schlaganfall: Sterblichkeit") ([Statistisches Bundesamt 2024](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Todesursachen/_inhalt.html "Externer Link&nbsp;zur Webseite von Destatis: Statistik zu Todesursachen")).
+Bei einem Schlaganfall handelt es sich um eine plötzlich auftretende Schädigung von Hirnarealen, die infolge eines Gefäßverschlusses (ischämischer Schlaganfall) oder durch eine Hirnblutung (hämorrhagischer Schlaganfall) entsteht. Das Risiko von Gefäßverschlüssen ist insbesondere bei arteriosklerotisch geschädigten Hals- oder Hirnschlagadern erhöht. Hirnblutungen treten hingegen häufig bei Hirnarterien auf, welche durch einen langjährigen Bluthochdruck geschädigt wurden. In Folge eines Schlaganfalls wird die Funktion des Gehirns beeinträchtigt. Schlagartig treten vor allem Lähmungen (meist in einer Körperhälfte), Sprach-, Seh- und Gleichgewichtsstörungen auf. Wie bei der koronaren Herzkrankheit sind [Rauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)"), [Adipositas](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KrankheitsnaheRisikofaktorenUndSymptome/KrankheitsnaheRisikofaktoren/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)"), Bewegungsarmut, Fettstoffwechselstörungen, Bluthochdruck und [Diabetes](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/DiabetesMellitus/DiabetesPraevalenz18Plus/diabetesPraevalenz_node.html "Diabetes mellitus: Prävalenz (ab&nbsp;18&nbsp;Jahre)") zentrale Risikofaktoren für einen Schlaganfall. Schlaganfälle sind eine Hauptursache einer bleibenden Behinderung im Erwachsenenalter und zählen zu den häufigsten [Todesursachen](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/HerzKreislaufErkrankungen/SchlaganfallSterblichkeit/schlaganfallSterblichkeit_node.html "Schlaganfall: Sterblichkeit") ([Statistisches Bundesamt 2024](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Todesursachen/_inhalt.html "Externer Link&nbsp;zur Webseite von Destatis: Statistik zu Todesursachen")).
 
 #### Definition
 
@@ -1676,28 +1634,28 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert Koch-Instituts:
 
 * GSTel03:
-	+ telefonische Befragungen mit Festnetz, N = 8.318
-	+ gültige Werte für den Indikator: n = 8.311
+  + telefonische Befragungen mit Festnetz, N = 8.318
+  + gültige Werte für den Indikator: n = 8.311
 
 * GSTel06:
-	+ telefonische Befragungen mit Festnetz, N = 5.542
-	+ gültige Werte für den Indikator: n = 5.535
+  + telefonische Befragungen mit Festnetz, N = 5.542
+  + gültige Werte für den Indikator: n = 5.535
 
 * GEDA 2009:
-	+ telefonische Befragungen mit Festnetz, N = 21.262
-	+ gültige Werte für den Indikator: n = 21.239
+  + telefonische Befragungen mit Festnetz, N = 21.262
+  + gültige Werte für den Indikator: n = 21.239
 
 * GEDA 2010:
-	+ telefonische Befragungen mit Festnetz, N = 22. 050
-	+ gültige Werte für den Indikator: n = 22.023
+  + telefonische Befragungen mit Festnetz, N = 22. 050
+  + gültige Werte für den Indikator: n = 22.023
 
 * GEDA 2012:
-	+ telefonische Befragungen mit Festnetz, N = 19.294
-	+ gültige Werte für den Indikator: n = 19.282
+  + telefonische Befragungen mit Festnetz, N = 19.294
+  + gültige Werte für den Indikator: n = 19.282
 
 * GEDA 2014/2015-EHIS:
-	+ webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
-	+ gültige Werte für den Indikator: n = 20.920
+  + webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
+  + gültige Werte für den Indikator: n = 20.920
 
 #### Datenqualität
 
@@ -1752,13 +1710,109 @@ In der unikausalen Todesursachenstatistik wird für jeden Todesfall das zum Tode
 * **Beschreibung:** Quotient aus der Anzahl aller Sterbefälle an einem Schlaganfall (ICD-Code I60&nbsp;–&nbsp;I64) und der Anzahl aller Personen mit ständigem Wohnsitz in Deutschland.
 * **Stratifizierung**: Die Darstellung nach Bundesland basiert auf dem Wohnort der verstorbenen Person. Die Stratifizierung nach regionaler sozioökonomischer Deprivation erfolgt auf Grundlage des German Index of Socioeconomic Deprivation (GISD) (Jahre 2003 – 2019: GISD Release 2022 v1.1, Jahre 2020 – 2023: GISD Release 2022 v1.2 Fortschreibung) ([Michalski et al. 2022](https://doi.org/10.25646/10640 "Externer Link&nbsp;zur Publikation: German Index of Socioeconomic Deprivation (GISD): Revision, Aktualisierung und Anwendungsbeispiele")). Der GISD fasst Merkmale der Erwerbs-, Bildungs- und Einkommenssituation für jeden Kreis und jede kreisfreie Stadt in einer Kennzahl zusammen. Die Kreise werden entlang ihrer GISD-Werte in Quintile von niedriger bis hoher sozioökonomischer Deprivation eingeteilt, die über den Wohnort der verstorbenen Person mit den Mortalitätsdaten verknüpft werden. Die Berechnung der Mortalitätsraten erfolgt stratifiziert nach niedriger (1. Quintil), mittlerer (2. – 4. Quintil) und hoher (5. Quintil) Deprivation. Unterschiede in der Mortalität nach sozioökonomischer Deprivation beziehen sich auf die räumliche Ebene.
 * **Altersstandardisierung**: Mit der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/isgbe.i?i=1000:55515 "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Standardbevölkerungen - Europastandardbevölkerung 2013") als Bezugspopulation erfolgte eine Altersstandardisierung unter Verwendung von 5-Jahres-Altersgruppen mit Ausnahme von < 1, 1 – 4 Jahre und ≥ 90 Jahre. Für die Auswertungen nach GISD wird die Altersgruppe ≥ 85 Jahre als höchste Altersgruppe verwendet.
-* **Berechnungen**: Für die Berechnung der Sterberaten insgesamt sowie nach Geschlecht, Altersgruppen und Bundesland wurde die Durchschnittsbevölkerung als Bezugspopulation verwendet ([Statistisches Bundesamt 2024b](https://www.gbe-bund.de/gbe/isgbe.i?i=6:55526 "Externer Link&nbsp;zum IS-GBE: Sterbefälle, Sterbeziffern (ab 1998) mit Filterung Zerebrovaskuläre Krankheiten I60-I69 (Tabelle)")). Da Daten in Altersgruppen mit Fallzahlen zwischen 1 und 3 aus datenschutzrechtlichen Gründen nicht bereitgestellt werden, wurde für diese Gruppen eine Fallzahl von 1 und eine Sterberate von 0 angenommen. Für die Auswertung nach GISD wurde der Bevölkerungsdurchschnitt eines Jahres (Mittelwert der Bevölkerung zum 31.12. des Vorjahres und des dargestellten Jahres) verwendet und die Berechnung erfolgte im [Forschungsdatenzentrum](https://www.forschungsdatenzentrum.de/de/gesundheit/todesursachen "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachenstatistik") der Statistischen Ämter des Bundes und der Länder ([Todesursachenstatistik 2003](https://doi.org/10.21242/23211.2003.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2003") - [Todesursachenstatistik 2023](https://doi.org/10.21242/23211.2023.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2023")).
+* **Berechnungen**: Für die Berechnung der Sterberaten insgesamt sowie nach Geschlecht, Altersgruppen und Bundesland wurde die Durchschnittsbevölkerung als Bezugspopulation verwendet ([Statistisches Bundesamt 2024b](https://www.gbe-bund.de/gbe/isgbe.i?i=6:55526 "Externer Link&nbsp;zum IS-GBE: Sterbefälle, Sterbeziffern (ab 1998) mit Filterung Zerebrovaskuläre Krankheiten I60-I69 (Tabelle)")). Da Daten in Altersgruppen mit Fallzahlen zwischen 1 und 3 aus datenschutzrechtlichen Gründen nicht bereitgestellt werden, wurde für diese Gruppen eine Fallzahl von 1 und eine Sterberate von 0 angenommen. Für die Auswertung nach regionaler sozioökonomischer Deprivation wurde der Bevölkerungsdurchschnitt eines Jahres (Mittelwert der Bevölkerung zum 31.12. des Vorjahres und des dargestellten Jahres) verwendet und die Berechnung erfolgte im [Forschungsdatenzentrum](https://www.forschungsdatenzentrum.de/de/gesundheit/todesursachen "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachenstatistik") der Statistischen Ämter des Bundes und der Länder ([Todesursachenstatistik 2003](https://doi.org/10.21242/23211.2003.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2003") - [Todesursachenstatistik 2023](https://doi.org/10.21242/23211.2023.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2023")).
 
 #### Weiterführende Links
 
 * [ICD-10-WHO-Version](https://klassifikationen.bfarm.de/icd-10-who/kode-suche/htmlamtl2016/index.htm "Externer Link&nbsp;zur Webseite des BfArM: ICD-10-WHO Version 2016 - Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme")
 * [Todesursachenstatistik](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Todesursachen/_inhalt.html "Externer Link&nbsp;zur Webseite von Destatis: Statistik zu Todesursachen")
 * [Daten zur Sterblichkeit an zerebrovaskulären Erkrankungen im IS-GBE](https://www.gbe-bund.de/gbe/isgbe.i?i=6:55526 "Externer Link&nbsp;zum IS-GBE: Sterbefälle, Sterbeziffern (ab 1998) mit Filterung Zerebrovaskuläre Krankheiten I60-I69 (Tabelle)")
+
+
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
+
+### Indikator 'Schlaganfall: DALY'
+
+Indikator_ID: `2020105`  
+Stand: 19. Mai 2026  
+Link: [https://www.gbe.rki.de/schlaganfall-daly](https://www.gbe.rki.de/schlaganfall-daly)
+
+Bei einem [Schlaganfall](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/HerzKreislaufErkrankungen/SchlaganfallPraevalenz/schlaganfallPraevalenz_node.html "Schlaganfall: Prävalenz (ab 18 Jahre)") handelt es sich um eine plötzlich auftretende Schädigung von Hirnarealen, die infolge eines Gefäßverschlusses (ischämischer Schlaganfall) oder durch eine Hirnblutung (hämorrhagischer Schlaganfall) entsteht. In Folge eines Schlaganfalls wird die Funktion des Gehirns beeinträchtigt. Schlagartig treten vor allem Lähmungen (meist in einer Körperhälfte), Sprach-, Seh- und Gleichgewichtsstörungen auf.
+
+Die Krankheitslast durch Schlaganfall leitet sich aus den gesundheitlichen Beeinträchtigungen (Morbidität) und der Sterblichkeit (Mortalität) ab. Um Auswirkungen von beiden Aspekten zu messen, kann das Summenmaß DALY (Disability-adjusted life years) verwendet werden. DALY setzen sich aus der Anzahl der durch gesundheitliche Einschränkung verlorenen Lebensjahre (Years lived with disability, YLD) sowie der Anzahl der durch Tod verlorenen Lebensjahre (Years of life lost, YLL) zusammen und ermöglichen einen Vergleich der Krankheitslast zwischen Erkrankungen ([Diabetes: DALY](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/DiabetesMellitus/DiabetesDALY/diabetesDALY_node.html "Diabetes mellitus: DALY"), [Koronare Herzkrankheit: DALY](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/HerzKreislaufErkrankungen/KoronareHerzerkrankungDALY/koronareHerzerkrankungDALY_node.html "Koronare Herzkrankheit: DALY")) ([Porst et al. 2022](https://doi.org/10.3238/arztebl.m2022.0314 "Externer Link&nbsp;zur Publikation: The Burden of Disease in Germany at the National and Regional Level - Results in Terms of Disability-adjusted Life Years (DALY) from the BURDEN 2020 Study")) und über die Zeit.
+
+Informationen zum Vergleich der Krankheitslast zwischen Erkrankungen finden sich auf der [Übersichtsseite zu Burden of Disease](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/Krankheitsfolgen/BurdenOfDisease/BurdenOfDisease_node.html "Burden of Disease").
+
+#### Definition
+
+Der Indikator *Schlaganfall: DALY* ist definiert als die Summe der durch Tod (YLL) und gesundheitliche Einschränkung (YLD) verlorenen Lebensjahre in der Bevölkerung in einem Jahr.
+
+#### Bezugspopulation
+
+Bevölkerung mit ständigem Wohnsitz in Deutschland.
+
+#### Datenquelle und Fallzahl
+
+Ergebnisdaten der Krankheitslast-Studie am RKI ([daly.rki.de](https://www.daly.rki.de/ "Externer Link&nbsp;zur Webseite der&nbsp;Burden-of-Disease-Studie am RKI")): Die Daten für Schlaganfall im Berichtszeitraum 2017 bis 2022 basieren für den Morbiditätsteil (YLD) auf Schätzungen von Daten aller AOK-Versicherten (Abrechnungsdaten). Die „Disability weights“ (Schweregrade der Erkrankungen) wurden aus der Studie Global Burden of Disease übernommen ([James et al. 2018](https://doi.org/10.1016/S0140-6736(18)32279-7 "Externer Link&nbsp;zur Publikation:&nbsp;Global, regional, and national incidence, prevalence, and years lived with disability for 354 diseases and injuries for 195 countries and territories, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017")). Für die Berechnung der Mortalitätskomponente (YLL) wurde die [Todesursachenstatistik](https://www.forschungsdatenzentrum.de/de/10-21242-23211-2022-00-00-1-1-0 "Externer Link&nbsp;zur Webseite: Todesursachenstatistik 2022") der Statistischen Ämter des Bundes und der Länder genutzt. Der Ergebnisdatensatz wird etwa ab August 2026 über die [Webseite](https://www.daly.rki.de/ "Externer Link&nbsp;zur Webseite der&nbsp;Burden-of-Disease-Studie am RKI") verfügbar sein.
+
+#### Datenqualität
+
+Die für die Berechnung der YLD verwendeten AOK-Abrechnungsdaten bilden nur die diagnostizierte Krankheitslast ab. Die Schätzung der Prävalenz kann durch nicht-diagnostizierte Erkrankungen und durch Abrechnungsaspekte verzerrt sein. Da die AOK-Versicherten nicht repräsentativ für die deutsche Bevölkerung sind, wurde eine morbiditätsadjustierte Hochrechnung durchgeführt, um Aussagen über die gesamte Bevölkerung treffen zu können ([Breitkreuz et al. 2019](https://doi.org/10.1007/s11943-019-00241-z "Externer Link&nbsp;zur Publikation: Schätzung kleinräumiger Krankheitshäufigkeiten für die deutsche Bevölkerung anhand von Routinedaten am Beispiel von Typ-2-Diabetes")).
+
+Die YLL werden auf Basis der unikausalen Todesursachenstatistik berechnet. Diese umfasst alle Sterbefälle in der Wohnbevölkerung Deutschlands, unabhängig vom Sterbeort. Für jeden Todesfall wird das zum Tode führende Grundleiden kodiert, auch wenn mehrere Erkrankungen zum Tod geführt haben könnten. Weitere Angaben aus der Todesbescheinigung werden in der amtlichen Todesursachenstatistik nicht berücksichtigt. Die Qualität der kodierten Todesursachen variiert in Abhängigkeit der Dokumentation eines validen Grundleidens und wird gemäß einer Studie der WHO in Deutschland als „mittel“ eingestuft ([WHO 2005](https://iris.who.int/handle/10665/269355 "Externer Link&nbsp;zur Webseite der WHO: Counting the dead and what they died from: an assessment of the global status of cause of death data"), [Zack et al. 2017](https://doi.org/10.1007/s00194-017-0193-7 "Externer Link&nbsp;zur Publikation: Fehler bei der Ausstellung der Todesbescheinigung")). Todesfälle, deren ICD-Codes für die Identifikation des Grundleidens nicht informativ sind (ungültige Codes), wurden umverteilt ([Wengler et al. 2021](https://doi.org/10.1186/s13690-021-00535-1 "Externer Link&nbsp;zur Publikation:&nbsp;Redistributing ill-defined causes of death – a case study from the BURDEN 2020-project in Germany")). Dies betrifft etwa 25&nbsp;% der Sterbefälle in Deutschland und resultiert in einer verbesserten Datenvalidität.
+
+#### Berechnung
+
+* **Beschreibung und Stratifizierung**: Die durch gesundheitliche Einschränkung und Tod verlorenen Lebensjahre (DALY, engl. „Disability-adjusted life years“) als Maß für die Krankheitslast sind die Summe aus den durch gesundheitliche Einschränkung verlorenen Lebensjahren (YLD, engl. „Years lived with disability“) und den durch Tod verlorenen Lebensjahren (YLL, engl. „Years of life lost“). Die YLD basieren auf Informationen zu Prävalenz, Erkrankungsschwere und -dauer. Die YLL beruhen auf Informationen zu Sterbealter und statistischer Restlebenserwartung.
+* **Altersstandardisierung**: Die Ergebnisse werden auf Basis der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/isgbe.i?i=1000:55515 "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Standardbevölkerungen - Europastandardbevölkerung 2013") standardisiert.
+* **Berechnungen:**
+  + YLD: Die Berechnung der YLD erfolgt in mehreren Schritten: (1) alters-, geschlechts- und morbiditätsadjustierte Schätzung der Prävalenz von Schlaganfall auf Basis der AOK-Abrechnungsdaten, (2) Schätzung der Schweregradverteilung (Folgeerkrankungen), (3) Anwendung der schweregradspezifischen Krankheitsgewichte, (4) Schätzung der YLD und (5) Adjustierung für Multimorbidität. Die YLD errechnen sich aus dem Produkt der prävalenten Fälle und einem über die Schweregrade gemittelten Gewicht der Beeinträchtigung. Diese Berechnung erfolgt getrennt nach Alter und Geschlecht und kann zu Gesamtwerten aufsummiert werden ([Porst et al. 2023](https://doi.org/10.25646/10022.2 "Externer Link&nbsp;zur Publikation:&nbsp;Methodenbericht zur Quantifizierung der Krankheitslastindikatoren im Projekt BURDEN 2020 – Krankheitshäufigkeiten, Schweregrade, Dauern, Disability weights sowie Sensitivitätsanalysen")).
+  + YLL: Die Anzahl der verlorenen Lebensjahre durch Schlaganfall wird berechnet, indem die Summe der Todesfälle mit dem Grundleiden Schlaganfall (ICD-Codes: G45, G46, I60&nbsp;–&nbsp;I63, I65, I66, I67.0&nbsp;–&nbsp;I67.3, I67.5, I67.6, I68.1, I68.2, I69.0 –&nbsp;I69.3) in einer bestimmten Altersgruppe mit der ferneren Lebenserwartung in dieser Altersgruppe multipliziert wird ([Wengler et al. 2021](https://doi.org/10.1186/s13690-021-00535-1 "Externer Link&nbsp;zur Publikation:&nbsp;Redistributing ill-defined causes of death – a case study from the BURDEN 2020-project in Germany")). Diese altersspezifisch verlorenen Lebensjahre werden getrennt nach Geschlecht berechnet und können zu Gesamtwerten aufsummiert werden.
+  + DALY: Die Anzahl der DALY ergibt sich aus der Summe der durch Tod verlorenen Lebensjahre (YLL) und der durch gesundheitliche Einschränkungen verlorenen Lebensjahre (YLD).
+  + YLD, YLL und DALY werden bezogen auf 100.000 Personen in der Bevölkerung des jeweiligen Berichtsjahres ([Jahresdurchschnittsbevölkerung](https://www-genesis.destatis.de/datenbank/online/url/b11a8ccc "Externer Link&nbsp;zur Tabelle des Statistischen Bundesamts:&nbsp;Bevölkerung: Bundesländer, Stichtag, Geschlecht, Altersjahre")) angegeben.
+
+#### Weiterführende Links
+
+* [Studie Burden of Disease am RKI](https://www.daly.rki.de/ "Externer Link&nbsp;zur Webseite der&nbsp;Burden-of-Disease-Studie am RKI")
+* [Ergebnisdatensatz BURDEN 2020](https://robert-koch-institut.github.io/BURDEN_2020_-_Krankheitslast_in_Deutschland_und_seinen_Regionen/ "Externer Link&nbsp;zur Publikation:&nbsp;Ergebnisdatensatz BURDEN 2020 – Krankheitslast in Deutschland und seinen Regionen")
+
+
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
+
+### Indikator 'Koronare Herzkrankheit: DALY'
+
+Indikator_ID: `2020106`  
+Stand: 19. Mai 2026  
+Link: [https://www.gbe.rki.de/khk-daly](https://www.gbe.rki.de/khk-daly)
+
+Die [koronare oder auch ischämische Herzkrankheit](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/HerzKreislaufErkrankungen/KoronareHerzerkrankungPraevalenz/koronareHerzerkrankungPraevalenz_node.html "Koronare Herzkrankheit: Prävalenz (ab&nbsp;18&nbsp;Jahre)") ist eine chronische Erkrankung des Herzens, die durch eine zunehmende Verengung von meist arteriosklerotisch veränderten Herzkranzgefäßen zur Mangeldurchblutung des Herzmuskelgewebes führt. Zur koronaren Herzkrankheit (KHK) zählt auch die sogenannte Angina pectoris (Brustenge) und auch der Herzinfarkt. Wesentliche Risikofaktoren für KHK sind [Rauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)"), [Adipositas](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KrankheitsnaheRisikofaktorenUndSymptome/KrankheitsnaheRisikofaktoren/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)"), Bewegungsarmut, Fettstoffwechselstörungen, [Bluthochdruck](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KrankheitsnaheRisikofaktorenUndSymptome/KrankheitsnaheRisikofaktoren/BluthochdruckPraevalenz/bluthochdruckPraevalenz_node.html "Bluthochdruck: Prävalenz (ab 18 Jahre)") und [Diabetes](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/DiabetesMellitus/DiabetesPraevalenz18Plus/diabetesPraevalenz_node.html "Diabetes mellitus: Prävalenz (ab&nbsp;18&nbsp;Jahre)"). Das Risiko einer KHK kann durch Verhaltens- und Verhältnisänderungen sowie durch Therapien vorbestehender Erkrankungen entscheidend beeinflusst werden. KHK ist die führende Ursache für Morbidität und [Mortalität](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/HerzKreislaufErkrankungen/KoronareHerzerkrankungSterblichkeit/koronareHerzerkrankungSterblichkeit_node.html "Koronare Herzkrankheit: Sterblichkeit") in Deutschland und verursacht die höchsten Krankheitskosten ([Porst et al. 2022](https://doi.org/10.3238/arztebl.m2022.0314 "Externer Link&nbsp;zur Publikation: The Burden of Disease in Germany at the National and Regional Level - Results in Terms of Disability-adjusted Life Years (DALY) from the BURDEN 2020 Study"), [Statistisches Bundesamt 2024](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Krankheitskosten/_inhalt.html "Externer Link&nbsp;zur Webseite von Destatis zum Thema Krankheitskosten")).
+
+Die Krankheitslast durch KHK leitet sich aus den gesundheitlichen Beeinträchtigungen (Morbidität) und der Sterblichkeit (Mortalität) ab. Um Auswirkungen von beiden Aspekten zu messen, kann das Summenmaß DALY (Disability-adjusted life years) verwendet werden. DALY setzen sich aus der Anzahl der durch gesundheitliche Einschränkung verlorenen Lebensjahre (Years lived with disability, YLD) sowie der Anzahl der durch Tod verlorenen Lebensjahre (Years of life lost, YLL) zusammen und ermöglichen einen Vergleich der Krankheitslast zwischen Erkrankungen ([Diabetes: DALY](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/DiabetesMellitus/DiabetesDALY/diabetesDALY_node.html "Diabetes mellitus: DALY"), [Schlaganfall: DALY](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/HerzKreislaufErkrankungen/SchlaganfallDALY/schlaganfallDALY_node.html "Schlaganfall: DALY")) ([Porst et al. 2022](https://doi.org/10.3238/arztebl.m2022.0314 "Externer Link&nbsp;zur Publikation: The Burden of Disease in Germany at the National and Regional Level - Results in Terms of Disability-adjusted Life Years (DALY) from the BURDEN 2020 Study")) und über die Zeit.
+
+Informationen zum Vergleich der Krankheitslast zwischen Erkrankungen finden sich auf der [Übersichtsseite zu Burden of Disease](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/Krankheitsfolgen/BurdenOfDisease/BurdenOfDisease_node.html "Burden of Disease").
+
+#### Definition
+
+Der Indikator *Koronare Herzkrankheit: DALY* ist definiert als die Summe der durch Tod (YLL) und gesundheitliche Einschränkung (YLD) verlorenen Lebensjahre in der Bevölkerung in einem Jahr.
+
+#### Bezugspopulation
+
+Die Bevölkerung mit ständigem Wohnsitz in Deutschland.
+
+#### Datenquelle und Fallzahl
+
+Ergebnisdaten der Krankheitslast-Studie am RKI ([daly.rki.de](https://www.daly.rki.de/ "Externer Link&nbsp;zur Webseite der&nbsp;Burden-of-Disease-Studie am RKI")): Die Daten für KHK im Berichtszeitraum 2017 bis 2022 basieren für den Morbiditätsteil (YLD) auf Schätzungen von Daten aller AOK-Versicherten (Abrechnungsdaten). Die „Disability weights“ (Schweregrade der Erkrankungen) wurden aus der Studie Global Burden of Disease übernommen ([James et al. 2018](https://doi.org/10.1016/S0140-6736(18)32279-7 "Externer Link&nbsp;zur Publikation:&nbsp;Global, regional, and national incidence, prevalence, and years lived with disability for 354 diseases and injuries for 195 countries and territories, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017")). Für die Berechnung der Mortalitätskomponente (YLL) wurde die [Todesursachenstatistik](https://www.forschungsdatenzentrum.de/de/10-21242-23211-2022-00-00-1-1-0 "Externer Link&nbsp;zur Webseite: Todesursachenstatistik 2022") der Statistischen Ämter des Bundes und der Länder genutzt. Der Ergebnisdatensatz wird etwa ab August 2026 über die [Webseite](https://www.daly.rki.de/ "Externer Link&nbsp;zur Webseite der&nbsp;Burden-of-Disease-Studie am RKI") verfügbar sein.
+
+#### Datenqualität
+
+Die für die Berechnung der YLD verwendeten AOK-Abrechnungsdaten bilden nur die diagnostizierte Krankheitslast ab. Die Schätzung der Prävalenz kann durch nicht-diagnostizierte Erkrankungen und durch Abrechnungsaspekte verzerrt sein. Da die AOK-Versicherten nicht repräsentativ für die deutsche Bevölkerung sind, wurde eine morbiditätsadjustierte Hochrechnung durchgeführt, um Aussagen über die gesamte Bevölkerung treffen zu können ([Breitkreuz et al. 2019](https://doi.org/10.1007/s11943-019-00241-z "Externer Link&nbsp;zur Publikation: Schätzung kleinräumiger Krankheitshäufigkeiten für die deutsche Bevölkerung anhand von Routinedaten am Beispiel von Typ-2-Diabetes")).
+
+Die YLL werden auf Basis der unikausalen Todesursachenstatistik berechnet. Diese umfasst alle Sterbefälle in der Wohnbevölkerung Deutschlands, unabhängig vom Sterbeort. Für jeden Todesfall wird das zum Tode führende Grundleiden kodiert, auch wenn mehrere Erkrankungen zum Tod geführt haben könnten. Weitere Angaben aus der Todesbescheinigung werden in der amtlichen Todesursachenstatistik nicht berücksichtigt. Die Qualität der kodierten Todesursachen variiert in Abhängigkeit der Dokumentation eines validen Grundleidens und wird gemäß einer Studie der WHO in Deutschland als „mittel“ eingestuft ([WHO 2005](https://iris.who.int/handle/10665/269355 "Externer Link&nbsp;zur Webseite der WHO: Counting the dead and what they died from: an assessment of the global status of cause of death data"), [Zack et al. 2017](https://doi.org/10.1007/s00194-017-0193-7 "Externer Link&nbsp;zur Publikation: Fehler bei der Ausstellung der Todesbescheinigung")). Todesfälle, deren ICD-Codes für die Identifikation des Grundleidens nicht informativ sind (ungültige Codes), wurden umverteilt ([Wengler et al. 2021](https://doi.org/10.1186/s13690-021-00535-1 "Externer Link&nbsp;zur Publikation:&nbsp;Redistributing ill-defined causes of death – a case study from the BURDEN 2020-project in Germany")). Dies betrifft etwa 25&nbsp;% der Sterbefälle in Deutschland und resultiert in einer verbesserten Datenvalidität.
+
+#### Berechnung
+
+* **Beschreibung und Stratifizierung**: Die durch gesundheitliche Einschränkung und Tod verlorenen Lebensjahre (DALY, engl. „Disability-adjusted life years“) als Maß für die Krankheitslast sind die Summe aus den durch gesundheitliche Einschränkung verlorenen Lebensjahren (YLD, engl. „Years lived with disability“) und den durch Tod verlorenen Lebensjahren (YLL, engl. „Years of life lost“). Die YLD basieren auf Informationen zu Prävalenz, Erkrankungsschwere und -dauer. Die YLL beruhen auf Informationen zu Sterbealter und statistischer Restlebenserwartung.
+* **Altersstandardisierung**: Die Ergebnisse werden auf Basis der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/isgbe.i?i=1000:55515 "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Standardbevölkerungen - Europastandardbevölkerung 2013") standardisiert.
+* **Berechnungen:**
+  + YLD: Die Berechnung der YLD erfolgt in mehreren Schritten: (1) alters-, geschlechts- und morbiditätsadjustierte Schätzung der Prävalenz von KHK auf Basis der AOK-Abrechnungsdaten, (2) Schätzung der Schweregradverteilung (Folgeerkrankungen), (3) Anwendung der schweregradspezifischen Krankheitsgewichte, (4) Schätzung der YLD und (5) Adjustierung für Multimorbidität. Die YLD errechnen sich aus dem Produkt der prävalenten Fälle und einem über die Schweregrade gemittelten Gewicht der Beeinträchtigung. Diese Berechnung erfolgt getrennt nach Alter und Geschlecht und kann zu Gesamtwerten aufsummiert werden ([Porst et al. 2023](https://doi.org/10.25646/10022.2 "Externer Link&nbsp;zur Publikation:&nbsp;Methodenbericht zur Quantifizierung der Krankheitslastindikatoren im Projekt BURDEN 2020 – Krankheitshäufigkeiten, Schweregrade, Dauern, Disability weights sowie Sensitivitätsanalysen")).
+  + YLL: Die Anzahl der verlorenen Lebensjahre durch KHK wird berechnet, indem die Summe der Todesfälle mit dem Grundleiden KHK (ICD-Code: I20&nbsp;–&nbsp;I25) in einer bestimmten Altersgruppe mit der ferneren Lebenserwartung in dieser Altersgruppe multipliziert wird ([Wengler et al. 2021](https://doi.org/10.1186/s13690-021-00535-1 "Externer Link&nbsp;zur Publikation:&nbsp;Redistributing ill-defined causes of death – a case study from the BURDEN 2020-project in Germany")). Diese altersspezifisch verlorenen Lebensjahre werden getrennt nach Geschlecht berechnet und können zu Gesamtwerten aufsummiert werden.
+  + DALY: Die Anzahl der DALY ergibt sich aus der Summe der durch Tod verlorenen Lebensjahre (YLL) und der durch gesundheitliche Einschränkungen verlorenen Lebensjahre (YLD).
+  + YLD, YLL und DALY werden bezogen auf 100.000 Personen in der Bevölkerung des jeweiligen Berichtsjahres ([Jahresdurchschnittsbevölkerung](https://www-genesis.destatis.de/datenbank/online/url/b11a8ccc "Externer Link&nbsp;zur Tabelle des Statistischen Bundesamts:&nbsp;Bevölkerung: Bundesländer, Stichtag, Geschlecht, Altersjahre")) angegeben.
+
+#### Weiterführende Links
+
+* [Studie Burden of Disease am RKI](https://www.daly.rki.de/ "Externer Link&nbsp;zur Webseite der&nbsp;Burden-of-Disease-Studie am RKI")
+* [Ergebnisdatensatz BURDEN 2020](https://robert-koch-institut.github.io/BURDEN_2020_-_Krankheitslast_in_Deutschland_und_seinen_Regionen/ "Externer Link&nbsp;zur Publikation:&nbsp;Ergebnisdatensatz BURDEN 2020 – Krankheitslast in Deutschland und seinen Regionen")
 
 
 <br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
@@ -1809,7 +1863,7 @@ Indikator_ID: `2020202`
 Stand: 20. November 2024  
 Link: [https://www.gbe.rki.de/t2d-inzidenz-unter-18](https://www.gbe.rki.de/t2d-inzidenz-unter-18)
 
-Diabetes mellitus bezeichnet eine Gruppe chronischer Stoffwechselerkrankungen, die durch einen erhöhten Blutzuckerspiegel gekennzeichnet sind. Im Gegensatz zu Typ-1-Diabetes ist Typ-2-Diabetes durch einen relativen Insulinmangel gekennzeichnet und steht meist mit einem ungünstigen Lebensstil in Zusammenhang. [Übergewicht](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Koerpergewicht/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)"), Bewegungsmangel und [Rauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)") zählen hierbei zu den wichtigsten Risikofaktoren. Über Schädigungen von großen und kleinen Blutgefäßen und Nervenfasern erhöht Diabetes das Risiko für Herz-Kreislauf-Erkrankungen, Erkrankungen der Augen und der Nieren sowie [Amputationen](https://www.gbe.rki.de/DE/Themen/GesundheitsfoerderungPraeventionUndVersorgung/Gesundheitsversorgung/QualitaetDerVersorgung/DiabetesbedingteAmputationen/diabetesbedingteAmputationen_node.html "Diabetesbedingte Amputationen (ab 15 Jahre)"). Die Erkrankung vermindert sowohl die Lebensqualität als auch die Lebenserwartung der Betroffenen. Wenngleich sich Typ-2-Diabetes am häufigsten erst im mittleren und höheren Erwachsenenalter manifestiert, können auch Kinder und Jugendliche davon betroffen sein ([van Dieren et al. 2010](https://doi.org/10.1097/01.hjr.0000368191.86614.5a "Externer Link&nbsp;zur Publikation \"The global burden of diabetes and its complications: an emerging pandemic\"")).
+Diabetes mellitus bezeichnet eine Gruppe chronischer Stoffwechselerkrankungen, die durch einen erhöhten Blutzuckerspiegel gekennzeichnet sind. Im Gegensatz zu Typ-1-Diabetes ist Typ-2-Diabetes durch einen relativen Insulinmangel gekennzeichnet und steht meist mit einem ungünstigen Lebensstil in Zusammenhang. [Übergewicht](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KrankheitsnaheRisikofaktorenUndSymptome/KrankheitsnaheRisikofaktoren/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)"), Bewegungsmangel und [Rauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)") zählen hierbei zu den wichtigsten Risikofaktoren. Über Schädigungen von großen und kleinen Blutgefäßen und Nervenfasern erhöht Diabetes das Risiko für Herz-Kreislauf-Erkrankungen, Erkrankungen der Augen und der Nieren sowie [Amputationen](https://www.gbe.rki.de/DE/Themen/GesundheitsfoerderungPraeventionUndVersorgung/Gesundheitsversorgung/QualitaetDerVersorgung/DiabetesbedingteAmputationen/diabetesbedingteAmputationen_node.html "Diabetesbedingte Amputationen (ab 15 Jahre)"). Die Erkrankung vermindert sowohl die Lebensqualität als auch die Lebenserwartung der Betroffenen. Wenngleich sich Typ-2-Diabetes am häufigsten erst im mittleren und höheren Erwachsenenalter manifestiert, können auch Kinder und Jugendliche davon betroffen sein ([van Dieren et al. 2010](https://doi.org/10.1097/01.hjr.0000368191.86614.5a "Externer Link&nbsp;zur Publikation \"The global burden of diabetes and its complications: an emerging pandemic\"")).
 
 #### Definition
 
@@ -1889,7 +1943,7 @@ Indikator_ID: `2020204`
 Stand: 20. November 2024  
 Link: [https://www.gbe.rki.de/t2d-praevalenz-unter-18](https://www.gbe.rki.de/t2d-praevalenz-unter-18)
 
-Diabetes mellitus bezeichnet eine Gruppe chronischer Stoffwechselerkrankungen, die durch einen erhöhten Blutzuckerspiegel gekennzeichnet sind. Im Gegensatz zu Typ-1-Diabetes ist Typ-2-Diabetes durch einen relativen Insulinmangel gekennzeichnet und steht meist mit einem ungünstigen Lebensstil in Zusammenhang. [Übergewicht](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Koerpergewicht/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)"), Bewegungsmangel und [Rauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)") zählen hierbei zu den wichtigsten Risikofaktoren. Über Schädigungen von großen und kleinen Blutgefäßen und Nervenfasern erhöht Diabetes das Risiko für Herz-Kreislauf-Erkrankungen, Erkrankungen der Augen und der Nieren sowie [Amputationen](https://www.gbe.rki.de/DE/Themen/GesundheitsfoerderungPraeventionUndVersorgung/Gesundheitsversorgung/QualitaetDerVersorgung/DiabetesbedingteAmputationen/diabetesbedingteAmputationen_node.html "Diabetesbedingte Amputationen (ab 15 Jahre)"). Die Erkrankung vermindert sowohl die Lebensqualität als auch die Lebenserwartung der Betroffenen. Wenngleich sich Typ-2-Diabetes am häufigsten erst im mittleren und höheren Erwachsenenalter manifestiert, können auch Kinder und Jugendliche davon betroffen sein ([van Dieren et al. 2010](https://doi.org/10.1097/01.hjr.0000368191.86614.5a "Externer Link&nbsp;zur Publikation \"The global burden of diabetes and its complications: an emerging pandemic\"")).
+Diabetes mellitus bezeichnet eine Gruppe chronischer Stoffwechselerkrankungen, die durch einen erhöhten Blutzuckerspiegel gekennzeichnet sind. Im Gegensatz zu Typ-1-Diabetes ist Typ-2-Diabetes durch einen relativen Insulinmangel gekennzeichnet und steht meist mit einem ungünstigen Lebensstil in Zusammenhang. [Übergewicht](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KrankheitsnaheRisikofaktorenUndSymptome/KrankheitsnaheRisikofaktoren/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)"), Bewegungsmangel und [Rauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)") zählen hierbei zu den wichtigsten Risikofaktoren. Über Schädigungen von großen und kleinen Blutgefäßen und Nervenfasern erhöht Diabetes das Risiko für Herz-Kreislauf-Erkrankungen, Erkrankungen der Augen und der Nieren sowie [Amputationen](https://www.gbe.rki.de/DE/Themen/GesundheitsfoerderungPraeventionUndVersorgung/Gesundheitsversorgung/QualitaetDerVersorgung/DiabetesbedingteAmputationen/diabetesbedingteAmputationen_node.html "Diabetesbedingte Amputationen (ab 15 Jahre)"). Die Erkrankung vermindert sowohl die Lebensqualität als auch die Lebenserwartung der Betroffenen. Wenngleich sich Typ-2-Diabetes am häufigsten erst im mittleren und höheren Erwachsenenalter manifestiert, können auch Kinder und Jugendliche davon betroffen sein ([van Dieren et al. 2010](https://doi.org/10.1097/01.hjr.0000368191.86614.5a "Externer Link&nbsp;zur Publikation \"The global burden of diabetes and its complications: an emerging pandemic\"")).
 
 #### Definition
 
@@ -1937,36 +1991,35 @@ Der Indikator *Diabetes mellitus: Prävalenz* ist definiert als der Anteil der E
 
 ##### Operationalisierung
 
-Die Erfassung des Diabetes basiert auf Selbstangaben der Befragten: 
+Die Erfassung des Diabetes basiert auf Selbstangaben der Befragten:
 
 * GSTel03, GSTel06, GEDA 2010 und GEDA 2012:
-	+ „Wurde bei Ihnen jemals von einem Arzt eine Zuckerkrankheit oder Diabetes festgestellt?“
-	+ Antwortmöglichkeiten: „Ja“, „Nein“
+  + „Wurde bei Ihnen jemals von einem Arzt eine Zuckerkrankheit oder Diabetes festgestellt?“
+  + Antwortmöglichkeiten: „Ja“, „Nein“
 * GEDA 2022:
-	+ „Hat ein Arzt oder eine Ärztin jemals eine Zuckerkrankheit oder einen Diabetes bei Ihnen festgestellt?“
-	+ Antwortmöglichkeiten: „Ja“, „Nein“
+  + „Hat ein Arzt oder eine Ärztin jemals eine Zuckerkrankheit oder einen Diabetes bei Ihnen festgestellt?“
+  + Antwortmöglichkeiten: „Ja“, „Nein“
 * RKI-Panel 2024:
-	+ „Hat eine Ärztin/ein Arzt jemals eine Zuckerkrankheit oder einen Diabetes bei Ihnen festgestellt?”
-	+ Antwortmöglichkeiten: „Ja”, „Nein”
+  + „Hat eine Ärztin/ein Arzt jemals eine Zuckerkrankheit oder einen Diabetes bei Ihnen festgestellt?”
+  + Antwortmöglichkeiten: „Ja”, „Nein”
 
-Die Erfassung eines ausschließlichen Schwangerschaftsdiabetes basiert auf Selbstangaben der Befragten: 
+Die Erfassung eines ausschließlichen Schwangerschaftsdiabetes basiert auf Selbstangaben der Befragten:
 
 * GSTel03 und GSTel06  
-
-	+ Wurde die obere Frage zum Vorliegen eines Diabetes bejaht, wurde bei Frauen gefragt: „War das während einer Schwangerschaft?“
-	+ Antwortmöglichkeiten: „Ja“, „Nein“
-	+ Um einen ausschließlichen Schwangerschaftsdiabetes annehmen zu können, wurde anschließend die folgende Frage herangezogen: „Haben Sie auch jetzt Diabetes?“
-	+ Antwortmöglichkeiten: „Ja“, „Nein“
+  + Wurde die obere Frage zum Vorliegen eines Diabetes bejaht, wurde bei Frauen gefragt: „War das während einer Schwangerschaft?“
+  + Antwortmöglichkeiten: „Ja“, „Nein“
+  + Um einen ausschließlichen Schwangerschaftsdiabetes annehmen zu können, wurde anschließend die folgende Frage herangezogen: „Haben Sie auch jetzt Diabetes?“
+  + Antwortmöglichkeiten: „Ja“, „Nein“
 * GEDA 2010 und GEDA 2012:
-	+ Wurde die obere Frage zum Vorliegen eines Diabetes bejaht, wurde bei Frauen gefragt: „War das während einer Schwangerschaft?“
-	+ Antwortmöglichkeiten: „Ja“, „Nein“
-	+ Um einen ausschließlichen Schwangerschaftsdiabetes annehmen zu können, wurde anschließend die folgende Frage herangezogen: „Bestand die Zuckerkrankheit bei Ihnen auch in den letzten 12 Monaten?“
-	+ Antwortmöglichkeiten: „Ja“, „Nein“
+  + Wurde die obere Frage zum Vorliegen eines Diabetes bejaht, wurde bei Frauen gefragt: „War das während einer Schwangerschaft?“
+  + Antwortmöglichkeiten: „Ja“, „Nein“
+  + Um einen ausschließlichen Schwangerschaftsdiabetes annehmen zu können, wurde anschließend die folgende Frage herangezogen: „Bestand die Zuckerkrankheit bei Ihnen auch in den letzten 12 Monaten?“
+  + Antwortmöglichkeiten: „Ja“, „Nein“
 * GEDA 2022 und RKI-Panel 2024:
-	+ Wurde die obere Frage zum Vorliegen eines Diabetes bejaht, wurde bei Frauen gefragt: „Waren Sie zum Zeitpunkt der Diagnose schwanger?“
-	+ Antwortmöglichkeiten: „Ja“, „Nein“
-	+ Um einen ausschließlichen Schwangerschaftsdiabetes annehmen zu können, wurde anschließend die folgende Frage herangezogen: „Bestand der Diabetes auch in den letzten 12 Monaten?“
-	+ Antwortmöglichkeiten: „Ja“, „Nein“
+  + Wurde die obere Frage zum Vorliegen eines Diabetes bejaht, wurde bei Frauen gefragt: „Waren Sie zum Zeitpunkt der Diagnose schwanger?“
+  + Antwortmöglichkeiten: „Ja“, „Nein“
+  + Um einen ausschließlichen Schwangerschaftsdiabetes annehmen zu können, wurde anschließend die folgende Frage herangezogen: „Bestand der Diabetes auch in den letzten 12 Monaten?“
+  + Antwortmöglichkeiten: „Ja“, „Nein“
 
 ##### Bezugspopulation
 
@@ -1974,26 +2027,26 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 
 ##### Datenquelle
 
-Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert Koch-Instituts 
+Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert Koch-Instituts
 
 * GSTel03:
-	+ telefonische Befragungen mit Festnetz, N = 8.318
-	+ gültige Werte für den Indikator: n = 8.283
+  + telefonische Befragungen mit Festnetz, N = 8.318
+  + gültige Werte für den Indikator: n = 8.283
 * GSTel06:
-	+ telefonische Befragungen mit Festnetz, N = 5.542
-	+ gültige Werte für den Indikator: n = 5.513
+  + telefonische Befragungen mit Festnetz, N = 5.542
+  + gültige Werte für den Indikator: n = 5.513
 * GEDA 2010:
-	+ telefonische Befragungen mit Festnetz, N = 22.050
-	+ gültige Werte für den Indikator: n = 21.918
+  + telefonische Befragungen mit Festnetz, N = 22.050
+  + gültige Werte für den Indikator: n = 21.918
 * GEDA 2012:
-	+ telefonische Befragungen mit Festnetz, N = 19.294
-	+ gültige Werte für den Indikator: n = 19.210
+  + telefonische Befragungen mit Festnetz, N = 19.294
+  + gültige Werte für den Indikator: n = 19.210
 * GEDA 2022:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen, N = 33.149 (relevante Teilstichprobe aus Welle 1 bis 3, Basismodul und Welle 4 bis 10, Modul 2: n = 15.763)
-	+ gültige Werte für den Indikator: n&nbsp;=&nbsp;15.670
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen, N = 33.149 (relevante Teilstichprobe aus Welle 1 bis 3, Basismodul und Welle 4 bis 10, Modul 2: n = 15.763)
+  + gültige Werte für den Indikator: n&nbsp;=&nbsp;15.670
 * RKI-Panel 2024:
-	+ webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe mit vier Fragebogenmodulen (A&nbsp;–&nbsp;D), N&nbsp;=&nbsp;47.676 (relevante Teilstichprobe Fragebogen A: n = 27.199)
-	+ [Datensatzversion v3](https://edoc.rki.de/handle/176904/13068.2 "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
+  + webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe mit vier Fragebogenmodulen (A&nbsp;–&nbsp;D), N&nbsp;=&nbsp;41.376 (relevante Teilstichprobe Fragebogen A: n = 27.199)
+  + [Datensatzversion v3](https://doi.org/10.25646/12202.2 "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
 
 #### Datenqualität
 
@@ -2050,7 +2103,7 @@ In der unikausalen Todesursachenstatistik wird für jeden Todesfall das zum Tode
 * **Beschreibung:** Quotient aus der Anzahl aller Sterbefälle an Diabetes mellitus (ICD-Code: E10 – E14) und der Anzahl aller Personen mit ständigem Wohnsitz in Deutschland.
 * **Stratifizierung**: Die Darstellung nach Bundesland basiert auf dem Wohnort der verstorbenen Person. Die Stratifizierung nach regionaler sozioökonomischer Deprivation erfolgt auf Grundlage des German Index of Socioeconomic Deprivation (GISD) (Jahre 2003 – 2019: GISD Release 2022 v1.1, Jahre 2020 – 2023: GISD Release 2022 v1.2 Fortschreibung) ([Michalski et al. 2022](https://doi.org/10.25646/10640 "Externer Link&nbsp;zur Publikation: German Index of Socioeconomic Deprivation (GISD): Revision, Aktualisierung und Anwendungsbeispiele")). Der GISD fasst Merkmale der Erwerbs-, Bildungs- und Einkommenssituation für jeden Kreis und jede kreisfreie Stadt in einer Kennzahl zusammen. Die Kreise werden entlang ihrer GISD-Werte in Quintile von niedriger bis hoher sozioökonomischer Deprivation eingeteilt, die über den Wohnort der verstorbenen Person mit den Mortalitätsdaten verknüpft werden. Die Berechnung der Mortalitätsraten erfolgt stratifiziert nach niedriger (1. Quintil), mittlerer (2. – 4. Quintil) und hoher (5. Quintil) Deprivation. Unterschiede in der Mortalität nach sozioökonomischer Deprivation beziehen sich auf die räumliche Ebene.
 * **Altersstandardisierung**: Mit der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/isgbe.i?i=1000:55515 "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Standardbevölkerungen - Europastandardbevölkerung 2013") als Bezugspopulation erfolgte eine Altersstandardisierung unter Verwendung von 5-Jahres-Altersgruppen mit Ausnahme von < 1, 1 – 4 Jahre und ≥ 90 Jahre. Für die Auswertungen nach GISD wird die Altersgruppe ≥ 85 Jahre als höchste Altersgruppe verwendet.
-* **Berechnungen**: Für die Berechnung der Sterberaten insgesamt sowie nach Geschlecht, Altersgruppen und Bundesland wurde die Durchschnittsbevölkerung als Bezugspopulation verwendet ([Statistisches Bundesamt 2024b](https://www.gbe-bund.de/gbe/isgbe.i?i=6:55523 "Externer Link&nbsp;zum IS-GBE: Sterbefälle, Sterbeziffern (ab 1998) mit Filterung Diabetes E10-E14 (Tabelle)")). Für die Auswertung nach GISD wurde der Bevölkerungsdurchschnitt eines Jahres (Mittelwert der Bevölkerung zum 31.12. des Vorjahres und des dargestellten Jahres) verwendet und die Berechnung erfolgte im [Forschungsdatenzentrum](https://www.forschungsdatenzentrum.de/de/gesundheit/todesursachen "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachenstatistik") der Statistischen Ämter des Bundes und der Länder ([Todesursachenstatistik 2003](https://doi.org/10.21242/23211.2003.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2003") - [Todesursachenstatistik 2023](https://doi.org/10.21242/23211.2023.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2023")).
+* **Berechnungen**: Für die Berechnung der Sterberaten insgesamt sowie nach Geschlecht, Altersgruppen und Bundesland wurde die Durchschnittsbevölkerung als Bezugspopulation verwendet ([Statistisches Bundesamt 2024b](https://www.gbe-bund.de/gbe/isgbe.i?i=6:55523 "Externer Link&nbsp;zum IS-GBE: Sterbefälle, Sterbeziffern (ab 1998) mit Filterung Diabetes E10-E14 (Tabelle)")). Für die Auswertung nach regionaler sozioökonomischer Deprivation wurde der Bevölkerungsdurchschnitt eines Jahres (Mittelwert der Bevölkerung zum 31.12. des Vorjahres und des dargestellten Jahres) verwendet und die Berechnung erfolgte im [Forschungsdatenzentrum](https://www.forschungsdatenzentrum.de/de/gesundheit/todesursachen "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachenstatistik") der Statistischen Ämter des Bundes und der Länder ([Todesursachenstatistik 2003](https://doi.org/10.21242/23211.2003.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2003") - [Todesursachenstatistik 2023](https://doi.org/10.21242/23211.2023.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2023")).
 
 #### Weiterführende Links
 
@@ -2098,13 +2151,61 @@ Der Datensatz enthält ausschließlich Informationen zu Klinikgeburten, da die D
 
 <br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
+### Indikator 'Diabetes mellitus: DALY'
+
+Indikator_ID: `2020209`  
+Stand: 19. Mai 2026  
+Link: [https://www.gbe.rki.de/diabetes-daly](https://www.gbe.rki.de/diabetes-daly)
+
+[Diabetes mellitus](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/DiabetesMellitus/DiabetesPraevalenz18Plus/diabetesPraevalenz_node.html "Diabetes mellitus: Prävalenz (ab 18 Jahre)") bezeichnet eine Gruppe chronischer Stoffwechselerkrankungen, die durch einen erhöhten Blutzuckerspiegel gekennzeichnet sind. Die gesundheitspolitische Relevanz des Diabetes ergibt sich aus seiner weltweit zunehmenden Verbreitung und den gesundheitlichen Folgen.
+
+Die Krankheitslast durch Diabetes leitet sich aus den gesundheitlichen Beeinträchtigungen (Morbidität) und der Sterblichkeit (Mortalität) ab. Um Auswirkungen von beiden Aspekten zu messen, kann das Summenmaß DALY (Disability-adjusted life years) verwendet werden. DALY setzen sich aus der Anzahl der durch gesundheitliche Einschränkung verlorenen Lebensjahre (Years lived with disability, YLD) sowie der Anzahl der durch Tod verlorenen Lebensjahre (Years of life lost, YLL) zusammen und ermöglichen einen Vergleich der Krankheitslast zwischen Erkrankungen ([Koronare Herzkrankheit: DALY](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/HerzKreislaufErkrankungen/KoronareHerzerkrankungDALY/koronareHerzerkrankungDALY_node.html "Koronare Herzkrankheit: DALY"), [Schlaganfall: DALY](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/HerzKreislaufErkrankungen/SchlaganfallDALY/schlaganfallDALY_node.html "Schlaganfall: DALY")) ([Porst et al. 2022](https://doi.org/10.3238/arztebl.m2022.0314 "Externer Link&nbsp;zur Publikation: The Burden of Disease in Germany at the National and Regional Level - Results in Terms of Disability-adjusted Life Years (DALY) from the BURDEN 2020 Study")) und über die Zeit.
+
+Informationen zum Vergleich der Krankheitslast zwischen Erkrankungen finden sich auf der [Übersichtsseite zu Burden of Disease](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/Krankheitsfolgen/BurdenOfDisease/BurdenOfDisease_node.html "Burden of Disease").
+
+#### Definition
+
+Der Indikator *Diabetes mellitus: DALY* ist definiert als die Summe der durch Tod (YLL) und gesundheitliche Einschränkung (YLD) verlorenen Lebensjahre in der Bevölkerung in einem Jahr.
+
+#### Bezugspopulation
+
+Die Bevölkerung mit ständigem Wohnsitz in Deutschland.
+
+#### Datenquelle und Fallzahl
+
+Ergebnisdaten der Krankheitslast-Studie am RKI ([daly.rki.de](https://www.daly.rki.de/ "Externer Link&nbsp;zur Webseite der&nbsp;Burden-of-Disease-Studie am RKI")): Die Daten für Diabetes mellitus im Berichtszeitraum 2017 bis 2022 basieren für den Morbiditätsteil (YLD) auf Schätzungen von Daten aller AOK-Versicherten (Abrechnungsdaten). Die „Disability weights“ (Schweregrade der Erkrankungen) wurden aus der Studie Global Burden of Disease übernommen ([James et al. 2018](https://doi.org/10.1016/S0140-6736(18)32279-7 "Externer Link&nbsp;zur Publikation:&nbsp;Global, regional, and national incidence, prevalence, and years lived with disability for 354 diseases and injuries for 195 countries and territories, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017")). Für die Berechnung der Mortalitätskomponente (YLL) wurde die [Todesursachenstatistik](https://www.forschungsdatenzentrum.de/de/10-21242-23211-2022-00-00-1-1-0 "Externer Link&nbsp;zur Webseite: Todesursachenstatistik 2022") der Statistischen Ämter des Bundes und der Länder genutzt. Der Ergebnisdatensatz wird etwa ab August 2026 über die [Webseite](https://www.daly.rki.de/ "Externer Link&nbsp;zur Webseite der&nbsp;Burden-of-Disease-Studie am RKI") verfügbar sein.
+
+#### Datenqualität
+
+Die für die Berechnung der YLD verwendeten AOK-Abrechnungsdaten bilden nur die diagnostizierte Krankheitslast ab. Die Schätzung der Prävalenz kann durch nicht-diagnostizierte Erkrankungen und durch Abrechnungsaspekte verzerrt sein. Da die AOK-Versicherten nicht repräsentativ für die deutsche Bevölkerung sind, wurde eine morbiditätsadjustierte Hochrechnung durchgeführt, um Aussagen über die gesamte Bevölkerung treffen zu können ([Breitkreuz et al. 2019](https://doi.org/10.1007/s11943-019-00241-z "Externer Link&nbsp;zur Publikation: Schätzung kleinräumiger Krankheitshäufigkeiten für die deutsche Bevölkerung anhand von Routinedaten am Beispiel von Typ-2-Diabetes")).
+
+Die YLL werden auf Basis der unikausalen Todesursachenstatistik berechnet. Diese umfasst alle Sterbefälle in der Wohnbevölkerung Deutschlands, unabhängig vom Sterbeort. Für jeden Todesfall wird das zum Tode führende Grundleiden kodiert, auch wenn mehrere Erkrankungen zum Tod geführt haben könnten. Weitere Angaben aus der Todesbescheinigung werden in der amtlichen Todesursachenstatistik nicht berücksichtigt. Die Qualität der kodierten Todesursachen variiert in Abhängigkeit der Dokumentation eines validen Grundleidens und wird gemäß einer Studie der WHO in Deutschland als „mittel“ eingestuft ([WHO 2005](https://iris.who.int/handle/10665/269355 "Externer Link&nbsp;zur Webseite der WHO: Counting the dead and what they died from: an assessment of the global status of cause of death data"), [Zack et al. 2017](https://doi.org/10.1007/s00194-017-0193-7 "Externer Link&nbsp;zur Publikation: Fehler bei der Ausstellung der Todesbescheinigung")). Todesfälle, deren ICD-Codes für die Identifikation des Grundleidens nicht informativ sind (ungültige Codes), wurden umverteilt ([Wengler et al. 2021](https://doi.org/10.1186/s13690-021-00535-1 "Externer Link&nbsp;zur Publikation:&nbsp;Redistributing ill-defined causes of death – a case study from the BURDEN 2020-project in Germany")). Dies betrifft etwa 25&nbsp;% der Sterbefälle in Deutschland und resultiert in einer verbesserten Datenvalidität.
+
+#### Berechnung
+
+* **Beschreibung und Stratifizierung**: Die durch gesundheitliche Einschränkung und Tod verlorenen Lebensjahre (DALY, engl. „Disability-adjusted life years“) als Maß für die Krankheitslast sind die Summe aus den durch gesundheitliche Einschränkung verlorenen Lebensjahren (YLD, engl. „Years lived with disability“) und den durch Tod verlorenen Lebensjahren (YLL, engl. „Years of life lost“). Die YLD basieren auf Informationen zu Prävalenz, Erkrankungsschwere und -dauer. Die YLL beruhen auf Informationen zu Sterbealter und statistischer Restlebenserwartung.
+* **Altersstandardisierung**: Die Ergebnisse werden auf Basis der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/isgbe.i?i=1000:55515 "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Standardbevölkerungen - Europastandardbevölkerung 2013") standardisiert.
+* **Berechnungen:**
+  + YLD: Die Berechnung der YLD erfolgt in mehreren Schritten: (1) alters-, geschlechts- und morbiditätsadjustierte Schätzung der Prävalenz von Diabetes mellitus auf Basis der AOK-Abrechnungsdaten, (2) Schätzung der Schweregradverteilung (Folgeerkrankungen), (3) Anwendung der schweregradspezifischen Krankheitsgewichte, (4) Schätzung der YLD und (5) Adjustierung für Multimorbidität. Die YLD errechnen sich aus dem Produkt der prävalenten Fälle und einem über die Schweregrade gemittelten Gewicht der Beeinträchtigung. Diese Berechnung erfolgt getrennt nach Alter und Geschlecht und kann zu Gesamtwerten aufsummiert werden ([Porst et al. 2023](https://doi.org/10.25646/10022.2 "Externer Link&nbsp;zur Publikation:&nbsp;Methodenbericht zur Quantifizierung der Krankheitslastindikatoren im Projekt BURDEN 2020 – Krankheitshäufigkeiten, Schweregrade, Dauern, Disability weights sowie Sensitivitätsanalysen")).
+  + YLL: Die Anzahl der verlorenen Lebensjahre durch Diabetes wird berechnet, indem die Summe der Todesfälle mit dem Grundleiden Diabetes (ICD-Codes: E10 (E10.0, E10.1, E10.3&nbsp;–&nbsp;E10.9), E11 (E11.0, E11.1, E11.3&nbsp;–&nbsp;E11.9), P70.2) in einer bestimmten Altersgruppe mit der ferneren Lebenserwartung in dieser Altersgruppe multipliziert wird ([Wengler et al. 2021](https://doi.org/10.1186/s13690-021-00535-1 "Externer Link&nbsp;zur Publikation:&nbsp;Redistributing ill-defined causes of death – a case study from the BURDEN 2020-project in Germany")). Diese altersspezifisch verlorenen Lebensjahre werden getrennt nach Geschlecht berechnet und können zu Gesamtwerten aufsummiert werden.
+  + DALY: Die Anzahl der DALY ergibt sich aus der Summe der durch Tod verlorenen Lebensjahre (YLL) und der durch gesundheitliche Einschränkungen verlorenen Lebensjahre (YLD).
+  + YLD, YLL und DALY werden bezogen auf 100.000 Personen in der Bevölkerung des jeweiligen Berichtsjahres ([Jahresdurchschnittsbevölkerung](https://www-genesis.destatis.de/datenbank/online/url/b11a8ccc "Externer Link&nbsp;zur Tabelle des Statistischen Bundesamts:&nbsp;Bevölkerung: Bundesländer, Stichtag, Geschlecht, Altersjahre")) angegeben.
+
+#### Weiterführende Links
+
+* [Studie Burden of Disease am RKI](https://www.daly.rki.de/ "Externer Link&nbsp;zur Webseite der&nbsp;Burden-of-Disease-Studie am RKI")
+* [Ergebnisdatensatz BURDEN 2020](https://robert-koch-institut.github.io/BURDEN_2020_-_Krankheitslast_in_Deutschland_und_seinen_Regionen/ "Externer Link&nbsp;zur Publikation:&nbsp;Ergebnisdatensatz BURDEN 2020 – Krankheitslast in Deutschland und seinen Regionen")
+
+
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
+
 ### Indikator 'Brustkrebs: Inzidenz'
 
 Indikator_ID: `2020301`  
 Stand: 5. Dezember 2025  
 Link: [https://www.gbe.rki.de/brustkrebs-inzidenz](https://www.gbe.rki.de/brustkrebs-inzidenz)
 
-Brustkrebs ist die mit Abstand häufigste Krebserkrankung der Frau. Auf Basis der aktuellen Inzidenzraten erkrankt etwa eine von acht Frauen im Laufe ihres Lebens an Brustkrebs. Brustkrebs bei Männern ist dagegen sehr selten. Risikofaktoren für Brustkrebs sind unter anderem höheres Alter, dichtes oder verändertes Brustgewebe, bestimmte Vorerkrankungen und Vortherapien, erbliche Veranlagungen, hormonelle Risikofaktoren sowie gewisse Lebensgewohnheiten wie [Übergewicht](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Koerpergewicht/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)"), [Alkoholkonsum](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Alkoholkonsum/RiskanterAlkoholkonsum/riskanterAlkoholkonsum_node.html "Alkoholkonsum in Risikostufen (ab 18 Jahre)") und [Rauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)"). Das gesetzliche Krebsfrüherkennungsprogramm bietet Frauen verschiedene Untersuchungen an. Dazu gehört auch das Mammographie-Screening, an dem Frauen im Alter zwischen 50 und 75 Jahren alle zwei Jahre teilnehmen können ([RKI 2025](https://www.krebsdaten.de/kid "Externer Link&nbsp;zur Publikation: Krebs in Deutschland für 2021-2023")). Weitere Informationen zum Krebsgeschehen in Deutschland finden sich unter [www.krebsdaten.de](https://www.krebsdaten.de/ "Externer Link&nbsp;zur Webseite des Zentrums für Krebsregisterdaten").
+Brustkrebs ist die mit Abstand häufigste Krebserkrankung der Frau. Auf Basis der aktuellen Inzidenzraten erkrankt etwa eine von acht Frauen im Laufe ihres Lebens an Brustkrebs. Brustkrebs bei Männern ist dagegen sehr selten. Risikofaktoren für Brustkrebs sind unter anderem höheres Alter, dichtes oder verändertes Brustgewebe, bestimmte Vorerkrankungen und Vortherapien, erbliche Veranlagungen, hormonelle Risikofaktoren sowie gewisse Lebensgewohnheiten wie [Übergewicht](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KrankheitsnaheRisikofaktorenUndSymptome/KrankheitsnaheRisikofaktoren/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)"), [Alkoholkonsum](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Alkoholkonsum/RiskanterAlkoholkonsum/riskanterAlkoholkonsum_node.html "Alkoholkonsum in Risikostufen (ab 18 Jahre)") und [Rauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)"). Das gesetzliche Krebsfrüherkennungsprogramm bietet Frauen verschiedene Untersuchungen an. Dazu gehört auch das Mammographie-Screening, an dem Frauen im Alter zwischen 50 und 75 Jahren alle zwei Jahre teilnehmen können ([RKI 2025](https://www.krebsdaten.de/kid "Externer Link&nbsp;zur Publikation: Krebs in Deutschland für 2021-2023")). Weitere Informationen zum Krebsgeschehen in Deutschland finden sich unter [www.krebsdaten.de](https://www.krebsdaten.de/ "Externer Link&nbsp;zur Webseite des Zentrums für Krebsregisterdaten").
 
 #### Definition
 
@@ -2141,7 +2242,7 @@ Indikator_ID: `2020302`
 Stand: 30. Januar 2026  
 Link: [https://www.gbe.rki.de/brustkrebs-sterblichkeit](https://www.gbe.rki.de/brustkrebs-sterblichkeit)
 
-Brustkrebs ist die häufigste Todesursache unter den Krebserkrankungen bei Frauen. Dennoch haben die meisten Patientinnen eine gute Prognose, da die Tumore häufig in frühen Stadien erkannt werden. Die Überlebensaussichten sind für Frauen mit Brustkrebs in einem frühen Stadium (Stadium I) ähnlich wie für in-situ Karzinome nicht eingeschränkt. Im fortgeschrittenen Stadium (Stadium III und IV) sinken die Überlebensaussichten, liegen aber immer noch höher, als bei den meisten Krebsarten in vergleichbaren Stadien ([RKI 2016](https://doi.org/10.17886/rkipubl-2016-014 "Externer Link&nbsp;zur Publikation: Bericht zum Krebsgeschehen in Deutschland 2016")). Durch Verbesserungen in der Versorgung und Therapie von Brustkrebs ist die Sterblichkeit über die letzten Jahrzehnte kontinuierlich gesunken ([RKI 2025](https://www.krebsdaten.de/kid "Externer Link&nbsp;zur Publikation: Krebs in Deutschland für 2021-2023")). Weitere Informationen zum Krebsgeschehen in Deutschland finden sich unter [www.krebsdaten.de](https://www.krebsdaten.de/ "Externer Link&nbsp;zur Webseite des Zentrums für Krebsregisterdaten").&nbsp;
+Brustkrebs ist die häufigste Todesursache unter den Krebserkrankungen bei Frauen. Dennoch haben die meisten Patientinnen eine gute Prognose, da die Tumore häufig in frühen Stadien erkannt werden. Die Überlebensaussichten sind für Frauen mit Brustkrebs in einem frühen Stadium (Stadium I) ähnlich wie für in-situ Karzinome nicht eingeschränkt. Im fortgeschrittenen Stadium (Stadium III und IV) sinken die Überlebensaussichten, liegen aber immer noch höher, als bei den meisten Krebsarten in vergleichbaren Stadien ([RKI 2016](https://doi.org/10.17886/rkipubl-2016-014 "Externer Link&nbsp;zur Publikation: Bericht zum Krebsgeschehen in Deutschland 2016")). Durch Verbesserungen in der Versorgung und Therapie von Brustkrebs ist die Sterblichkeit über die letzten Jahrzehnte kontinuierlich gesunken ([RKI 2025](https://www.krebsdaten.de/kid "Externer Link&nbsp;zur Publikation: Krebs in Deutschland für 2021-2023")). Weitere Informationen zum Krebsgeschehen in Deutschland finden sich unter [www.krebsdaten.de](https://www.krebsdaten.de/ "Externer Link&nbsp;zur Webseite des Zentrums für Krebsregisterdaten").
 
 #### Definition
 
@@ -2166,7 +2267,7 @@ In der unikausalen Todesursachenstatistik wird für jeden Todesfall das zum Tode
 * **Beschreibung:** Quotient aus der Anzahl aller Sterbefälle an Brustkrebs (ICD-Code: C50) und der Anzahl aller Personen mit ständigem Wohnsitz in Deutschland.
 * **Stratifizierung**: Die Darstellung nach Bundesland basiert auf dem Wohnort der verstorbenen Person. Die Stratifizierung nach regionaler sozioökonomischer Deprivation erfolgt auf Grundlage des German Index of Socioeconomic Deprivation (GISD) (Jahre 2003 – 2019: GISD Release 2022 v1.1, Jahre 2020&nbsp;– 2023: GISD Release 2022 v1.2 Fortschreibung) ([Michalski et al. 2022](https://doi.org/10.25646/10640 "Externer Link&nbsp;zur Publikation: German Index of Socioeconomic Deprivation (GISD): Revision, Aktualisierung und Anwendungsbeispiele")). Der GISD fasst Merkmale der Erwerbs-, Bildungs- und Einkommenssituation für jeden Kreis und jede kreisfreie Stadt in einer Kennzahl zusammen. Die Kreise werden entlang ihrer GISD-Werte in Quintile von niedriger bis hoher sozioökonomischer Deprivation eingeteilt, die über den Wohnort der verstorbenen Person mit den Mortalitätsdaten verknüpft werden. Die Berechnung der Mortalitätsraten erfolgt stratifiziert nach niedriger (1. Quintil), mittlerer (2. – 4. Quintil) und hoher (5. Quintil) Deprivation. Unterschiede in der Mortalität nach sozioökonomischer Deprivation beziehen sich auf die räumliche Ebene.
 * **Altersstandardisierung**: Mit der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/isgbe.i?i=1000:55515 "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Standardbevölkerungen - Europastandardbevölkerung 2013") als Bezugspopulation erfolgte eine Altersstandardisierung unter Verwendung von 0 – 14 Jahre sowie anschließend von 5-Jahres-Altersgruppen ab 15 – 19 Jahre bis 80 – 84 Jahre sowie ≥ 85 Jahre.
-* **Berechnungen**: Für die Berechnung der Sterberaten insgesamt sowie nach Geschlecht, Altersgruppen und Bundesland wurde die Durchschnittsbevölkerung als Bezugspopulation verwendet ([Statistisches Bundesamt 2024](https://www.gbe-bund.de/gbe/isgbe.i?i=6:55524 "Externer Link&nbsp;zum IS-GBE: Sterbefälle, Sterbeziffern (ab 1998) mit Filterung Brustkrebs C50 (Tabelle)")). Für die Auswertung nach GISD wurde der Bevölkerungsdurchschnitt eines Jahres (Mittelwert der Bevölkerung zum 31.12. des Vorjahres und des dargestellten Jahres) verwendet und die Berechnung erfolgte im [Forschungsdatenzentrum](https://www.forschungsdatenzentrum.de/de/gesundheit/todesursachen "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachenstatistik") der Statistischen Ämter des Bundes und der Länder ([Todesursachenstatistik 2003](https://doi.org/10.21242/23211.2003.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2003") - [Todesursachenstatistik 2023](https://doi.org/10.21242/23211.2023.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2023")).
+* **Berechnungen**: Für die Berechnung der Sterberaten insgesamt sowie nach Geschlecht, Altersgruppen und Bundesland wurde die Durchschnittsbevölkerung als Bezugspopulation verwendet ([Statistisches Bundesamt 2024](https://www.gbe-bund.de/gbe/isgbe.i?i=6:55524 "Externer Link&nbsp;zum IS-GBE: Sterbefälle, Sterbeziffern (ab 1998) mit Filterung Brustkrebs C50 (Tabelle)")). Für die Auswertung nach regionaler sozioökonomischer Deprivation wurde der Bevölkerungsdurchschnitt eines Jahres (Mittelwert der Bevölkerung zum 31.12. des Vorjahres und des dargestellten Jahres) verwendet und die Berechnung erfolgte im [Forschungsdatenzentrum](https://www.forschungsdatenzentrum.de/de/gesundheit/todesursachen "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachenstatistik") der Statistischen Ämter des Bundes und der Länder ([Todesursachenstatistik 2003](https://doi.org/10.21242/23211.2003.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2003") - [Todesursachenstatistik 2023](https://doi.org/10.21242/23211.2023.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2023")).
 
 #### Weiterführende Links
 
@@ -2184,7 +2285,7 @@ Indikator_ID: `2020303`
 Stand: 5. Dezember 2025  
 Link: [https://www.gbe.rki.de/darmkrebs-inzidenz](https://www.gbe.rki.de/darmkrebs-inzidenz)
 
-Etwa jede neunte Krebserkrankung in Deutschland betrifft den Dickdarm (Kolon) beziehungsweise den Mastdarm (Rektum). Die Diagnose Darmkrebs wird im Laufe des Lebens bei einer von 19 Frauen und einem von 15 Männern gestellt. Etwa zwei Drittel der Erkrankung werden im Dickdarm entdeckt. Die wichtigsten Risikofaktoren für Darmkrebs sind [Rauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)"), [Übergewicht](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Koerpergewicht/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)"), [Bewegungsmangel](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/KoerperlicheAktivitaet/Sitzen/sitzen_node.html "Sitzen (ab 18 Jahre)"), eine ballaststoffarme Ernährung sowie [Alkoholkonsum](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Alkoholkonsum/RiskanterAlkoholkonsum/riskanterAlkoholkonsum_node.html "Alkoholkonsum in Risikostufen (ab&nbsp;18&nbsp;Jahre)"). Im Rahmen des gesetzlichen Früherkennungsprogramms kann im Alter von 50 bis 54 Jahren jährlich und ab 55 Jahren alle zwei Jahre ein immunologischer Test auf verstecktes Blut im Stuhl in Anspruch genommen werden. Alternativ sieht das Krebsfrüherkennungsprogramm für Männer ab 50 Jahren und Frauen ab 55 Jahren eine [Darmspiegelung](https://www.gbe.rki.de/DE/Themen/GesundheitsfoerderungPraeventionUndVersorgung/GesundheitsfoerderungundPraevention/VorsorgeUndFrueherkennung/Darmkrebsfrueherkennung/darmkrebsfrueherkennung_node.html "Darmkrebsfrüherkennung (ab 50/55 Jahre)") (Koloskopie) vor. Bei einer Darmspiegelung können Ärztinnen und Ärzte Krebsvorstufen entfernen und so Darmkrebs vorbeugen ([RKI 2025](https://www.krebsdaten.de/kid "Externer Link&nbsp;zur Publikation: Krebs in Deutschland für 2021-2023"), [RKI 2016](https://doi.org/10.17886/rkipubl-2016-014 "Externer Link&nbsp;zur Publikation: Bericht zum Krebsgeschehen in Deutschland 2016")). Weitere Informationen zum Krebsgeschehen in Deutschland finden sich unter [www.krebsdaten.de](https://www.krebsdaten.de/ "Externer Link&nbsp;zur Webseite des Zentrums für Krebsregisterdaten").&nbsp;
+Etwa jede neunte Krebserkrankung in Deutschland betrifft den Dickdarm (Kolon) beziehungsweise den Mastdarm (Rektum). Die Diagnose Darmkrebs wird im Laufe des Lebens bei einer von 19 Frauen und einem von 15 Männern gestellt. Etwa zwei Drittel der Erkrankung werden im Dickdarm entdeckt. Die wichtigsten Risikofaktoren für Darmkrebs sind [Rauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)"), [Übergewicht](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KrankheitsnaheRisikofaktorenUndSymptome/KrankheitsnaheRisikofaktoren/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)"), [Bewegungsmangel](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/KoerperlicheAktivitaet/Sitzen/sitzen_node.html "Sitzen (ab 18 Jahre)"), eine ballaststoffarme Ernährung sowie [Alkoholkonsum](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Alkoholkonsum/RiskanterAlkoholkonsum/riskanterAlkoholkonsum_node.html "Alkoholkonsum in Risikostufen (ab&nbsp;18&nbsp;Jahre)"). Im Rahmen des gesetzlichen Früherkennungsprogramms kann im Alter von 50 bis 54 Jahren jährlich und ab 55 Jahren alle zwei Jahre ein immunologischer Test auf verstecktes Blut im Stuhl in Anspruch genommen werden. Alternativ sieht das Krebsfrüherkennungsprogramm für Männer ab 50 Jahren und Frauen ab 55 Jahren eine [Darmspiegelung](https://www.gbe.rki.de/DE/Themen/GesundheitsfoerderungPraeventionUndVersorgung/GesundheitsfoerderungundPraevention/VorsorgeUndFrueherkennung/Darmkrebsfrueherkennung/darmkrebsfrueherkennung_node.html "Darmkrebsfrüherkennung (ab 50/55 Jahre)") (Koloskopie) vor. Bei einer Darmspiegelung können Ärztinnen und Ärzte Krebsvorstufen entfernen und so Darmkrebs vorbeugen ([RKI 2025](https://www.krebsdaten.de/kid "Externer Link&nbsp;zur Publikation: Krebs in Deutschland für 2021-2023"), [RKI 2016](https://doi.org/10.17886/rkipubl-2016-014 "Externer Link&nbsp;zur Publikation: Bericht zum Krebsgeschehen in Deutschland 2016")). Weitere Informationen zum Krebsgeschehen in Deutschland finden sich unter [www.krebsdaten.de](https://www.krebsdaten.de/ "Externer Link&nbsp;zur Webseite des Zentrums für Krebsregisterdaten").
 
 #### Definition
 
@@ -2246,7 +2347,7 @@ In der unikausalen Todesursachenstatistik wird für jeden Todesfall das zum Tode
 * **Beschreibung:** Quotient aus der Anzahl aller Sterbefälle an Darmkrebs (ICD-Code: C18&nbsp;–&nbsp;C20) und der Anzahl aller Personen mit ständigem Wohnsitz in Deutschland.
 * **Stratifizierung**: Die Darstellung nach Bundesland basiert auf dem Wohnort der verstorbenen Person. Die Stratifizierung nach regionaler sozioökonomischer Deprivation erfolgt auf Grundlage des German Index of Socioeconomic Deprivation (GISD) (Jahre 2003 – 2019: GISD Release 2022 v1.1, Jahr 2020&nbsp;– 2023: GISD Release 2022 v1.2 Fortschreibung) ([Michalski et al. 2022](https://doi.org/10.25646/10640 "Externer Link&nbsp;zur Publikation: German Index of Socioeconomic Deprivation (GISD): Revision, Aktualisierung und Anwendungsbeispiele")). Der GISD fasst Merkmale der Erwerbs-, Bildungs- und Einkommenssituation für jeden Kreis und jede kreisfreie Stadt in einer Kennzahl zusammen. Die Kreise werden entlang ihrer GISD-Werte in Quintile von niedriger bis hoher sozioökonomischer Deprivation eingeteilt, die über den Wohnort der verstorbenen Person mit den Mortalitätsdaten verknüpft werden. Die Berechnung der Mortalitätsraten erfolgt stratifiziert nach niedriger (1. Quintil), mittlerer (2. – 4. Quintil) und hoher (5. Quintil) Deprivation. Unterschiede in der Mortalität nach sozioökonomischer Deprivation beziehen sich auf die räumliche Ebene.
 * **Altersstandardisierung**: Mit der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/isgbe.i?i=1000:55515 "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Standardbevölkerungen - Europastandardbevölkerung 2013") als Bezugspopulation erfolgte eine Altersstandardisierung unter Verwendung von 0 – 14 Jahre sowie anschließend von 5-Jahres-Altersgruppen ab 15 – 19 Jahre bis 80 – 84 Jahre sowie ≥ 85 Jahre.
-* **Berechnungen**: Für die Berechnung der Sterberaten insgesamt sowie nach Geschlecht, Altersgruppen und Bundesland wurde die Durchschnittsbevölkerung als Bezugspopulation verwendet ([Statistisches Bundesamt 2024](https://www.gbe-bund.de/gbe/isgbe.i?i=6:55525 "Externer Link&nbsp;zum IS-GBE: Sterbefälle, Sterbeziffern (ab 1998) mit Filterung Darmkrebs C18-C20 (Tabelle)")). Für die Auswertung nach GISD wurde der Bevölkerungsdurchschnitt eines Jahres (Mittelwert der Bevölkerung zum 31.12. des Vorjahres und des dargestellten Jahres) verwendet und die Berechnung erfolgte im [Forschungsdatenzentrum](https://www.forschungsdatenzentrum.de/de/gesundheit/todesursachen "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachenstatistik") der Statistischen Ämter des Bundes und der Länder ([Todesursachenstatistik 2003](https://doi.org/10.21242/23211.2003.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2003") - [Todesursachenstatistik 2023](https://doi.org/10.21242/23211.2023.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2023")).
+* **Berechnungen**: Für die Berechnung der Sterberaten insgesamt sowie nach Geschlecht, Altersgruppen und Bundesland wurde die Durchschnittsbevölkerung als Bezugspopulation verwendet ([Statistisches Bundesamt 2024](https://www.gbe-bund.de/gbe/isgbe.i?i=6:55525 "Externer Link&nbsp;zum IS-GBE: Sterbefälle, Sterbeziffern (ab 1998) mit Filterung Darmkrebs C18-C20 (Tabelle)")). Für die Auswertung nach regionaler sozioökonomischer Deprivation wurde der Bevölkerungsdurchschnitt eines Jahres (Mittelwert der Bevölkerung zum 31.12. des Vorjahres und des dargestellten Jahres) verwendet und die Berechnung erfolgte im [Forschungsdatenzentrum](https://www.forschungsdatenzentrum.de/de/gesundheit/todesursachen "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachenstatistik") der Statistischen Ämter des Bundes und der Länder ([Todesursachenstatistik 2003](https://doi.org/10.21242/23211.2003.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2003") - [Todesursachenstatistik 2023](https://doi.org/10.21242/23211.2023.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2023")).
 
 #### Weiterführende Links
 
@@ -2258,13 +2359,94 @@ In der unikausalen Todesursachenstatistik wird für jeden Todesfall das zum Tode
 
 <br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
 
+### Indikator 'Krebs: Sterblichkeit'
+
+Indikator_ID: `2020305`  
+Stand: 19. Mai 2026  
+Link: [https://www.gbe.rki.de/krebs-sterblichkeit](https://www.gbe.rki.de/krebs-sterblichkeit)
+
+[Krebs](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/Krebs/krebs_node.html "Krebserkrankungen") ist die zweithäufigste Todesursache in Deutschland. Allerdings gehen die Sterberaten bei Frauen und Männern seit Mitte der 1990er-Jahre kontinuierlich zurück. Die Überlebensraten, ein Maß für die Überlebenschancen von Krebspatientinnen und -patienten, sind in den letzten Jahrzehnten gestiegen. Sie sind aber in hohem Maße von der Tumorart abhängig und reichen von Ergebnissen unter 10&nbsp;% für bösartige Tumore der Bauchspeicheldrüse bis hin zu über 95&nbsp;% für das maligne Melanom oder Hodenkrebs ([RKI 2025](https://www.krebsdaten.de/kid "Externer Link&nbsp;zur Publikation: Krebs in Deutschland für 2021-2023")). Mit Krebs sind hier alle bösartigen Neubildungen im Sinne der aktuell gültigen internationalen Klassifikation der Krankheiten der WHO (ICD-10) gemeint, mit Ausnahme der nicht-melanotischen Hautkrebsformen sowie der Sekundärtumore (ICD-10 C00&nbsp;–&nbsp;C97 ohne C44, C77, C78, C79). Bösartige Neubildungen können in den verschiedensten Organen des Körpers von unterschiedlichen Zellarten ausgehen, wobei Ausgangspunkt der meisten Krebskrankheiten die inneren und äußeren Körperoberflächen (Epithelien) sind.
+
+#### Definition
+
+Der Indikator *Krebs: Sterblichkeit* ist definiert als die Anzahl der Sterbefälle, bei denen eine Krebserkrankung (ICD-10-WHO-Code: C00 – C97 ohne C44, C77, C78, C79) als zum Tode führendes Grundleiden (Todesursache) kodiert wurde, pro 100.000 Personen in einem Jahr.
+
+#### Bezugspopulation
+
+Bevölkerung mit ständigem Wohnsitz in Deutschland.
+
+#### Datenquelle und Fallzahl
+
+Die Todesursachenstatistik der Statistischen Ämter des Bundes und der Länder umfasst alle Sterbefälle von Personen mit ständigem Wohnsitz in Deutschland mit Angaben zu Alter, Geschlecht, Wohnsitz und der zugrundeliegenden Todesursache (Grundleiden) – kodiert nach [ICD-10-WHO-Version](https://klassifikationen.bfarm.de/icd-10-who/kode-suche/htmlamtl2016/index.htm "Externer Link&nbsp;zur Webseite des BfArM: ICD-10-WHO Version 2016 - Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme").
+
+#### Datenqualität
+
+Die Statistik der Sterbefälle ist eine Vollerhebung mit Auskunftspflicht. Sie umfasst alle Sterbefälle in der Wohnbevölkerung, die in Deutschland standesamtlich registriert werden, unabhängig vom Sterbeort. Ist der Sterbeort im Ausland, wird der Sterbefall erfasst, sofern er nachträglich standesamtlich beurkundet wird. Es finden mehrstufige Vollständigkeit- und Plausibilitätskontrollen statt, sodass eine hohe Zuverlässigkeit gegeben ist ([Statistisches Bundesamt 2025](https://www.destatis.de/DE/Methoden/Qualitaet/Qualitaetsberichte/Bevoelkerung/sterbefaelle.pdf?__blob=publicationFile "Externer Link&nbsp;zur Webseite von Destatis: Qualitätsbericht zur Statistik der Sterbefälle")).
+
+In der unikausalen Todesursachenstatistik wird für jeden Todesfall das zum Tode führende Grundleiden kodiert, auch wenn mehrere Erkrankungen zum Tod geführt haben könnten. Weitere Angaben aus der Todesbescheinigung werden in der amtlichen Todesursachenstatistik nicht berücksichtigt. Die Qualität der kodierten Todesursachen variiert in Abhängigkeit der Dokumentation eines validen Grundleidens und wird gemäß einer Studie der Weltgesundheitsorganisation (WHO) in Deutschland als „mittel“ eingestuft ([WHO 2005](https://iris.who.int/handle/10665/269355 "Externer Link&nbsp;zur Webseite der WHO: Counting the dead and what they died from: an assessment of the global status of cause of death data"), [Zack et al. 2017](https://doi.org/10.1007/s00194-017-0193-7 "Externer Link&nbsp;zur Publikation: Fehler bei der Ausstellung der Todesbescheinigung")).
+
+#### Berechnung
+
+* **Beschreibung:** Quotient aus der Anzahl aller Sterbefälle an Krebs (ICD-Code: C00 – C97 ohne C44, C77, C78, C79) und der Anzahl aller Personen mit ständigem Wohnsitz in Deutschland.
+* **Stratifizierung**: Die Stratifizierung nach regionaler sozioökonomischer Deprivation erfolgt auf Grundlage des German Index of Socioeconomic Deprivation (GISD) (Jahre 2003&nbsp;–&nbsp;2019: GISD Release 2022 v1.1, Jahre 2020&nbsp;–&nbsp;2023: GISD Release 2022 v1.2 Fortschreibung) ([Michalski et al. 2022](https://doi.org/10.25646/10640 "Externer Link&nbsp;zur Publikation: German Index of Socioeconomic Deprivation (GISD): Revision, Aktualisierung und Anwendungsbeispiele")). Der GISD fasst Merkmale der Erwerbs-, Bildungs- und Einkommenssituation für jeden Kreis und jede kreisfreie Stadt in einer Kennzahl zusammen. Die Kreise werden entlang ihrer GISD-Werte in Quintile von niedriger bis hoher sozioökonomischer Deprivation eingeteilt, die über den Wohnort der verstorbenen Person mit den Mortalitätsdaten verknüpft werden. Die Berechnung der Mortalitätsraten erfolgt stratifiziert nach niedriger (1. Quintil), mittlerer (2.&nbsp;–&nbsp;4. Quintil) und hoher (5. Quintil) Deprivation. Unterschiede in der Mortalität nach sozioökonomischer Deprivation beziehen sich auf die räumliche Ebene.
+* **Altersstandardisierung**: Mit der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/isgbe.i?i=1000:55515 "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Standardbevölkerungen - Europastandardbevölkerung 2013") als Bezugspopulation erfolgte eine Altersstandardisierung unter Verwendung von 0 – 14 Jahre sowie anschließend von 5-Jahres-Altersgruppen ab 15&nbsp;–&nbsp;19 Jahre bis 80&nbsp;–&nbsp;84 Jahre sowie ≥&nbsp;85 Jahre.
+* **Berechnungen**: Für die Berechnung der Sterberaten insgesamt sowie nach Geschlecht, Altersgruppen, regionaler sozioökonomischer Deprivation und Bundesland wurde der Bevölkerungsdurchschnitt eines Jahres (Mittelwert der Bevölkerung zum 31.12. des Vorjahres und des dargestellten Jahres) verwendet und die Berechnung erfolgte im [Forschungsdatenzentrum](https://www.forschungsdatenzentrum.de/de/gesundheit/todesursachen "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachenstatistik") der Statistischen Ämter des Bundes und der Länder ([Todesursachenstatistik 2003](https://doi.org/10.21242/23211.2003.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2003") – [Todesursachenstatistik 2021](https://doi.org/10.21242/23211.2021.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2021")).
+
+#### Weiterführende Links
+
+* [Zentrum für Krebsregisterdaten](https://www.krebsdaten.de/ "Externer Link&nbsp;zur Webseite des Zentrums für Krebsregisterdaten")
+* [Krebsinformationsdienst am DKFZ](https://www.krebsinformationsdienst.de/ "Externer Link&nbsp;zur Webseite DKFZ: Krebsinformationsdienst")
+* [ICD-10-WHO-Version](https://klassifikationen.bfarm.de/icd-10-who/kode-suche/htmlamtl2016/index.htm "Externer Link&nbsp;zur Webseite des BfArM: ICD-10-WHO Version 2016 - Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme")
+* [Todesursachenstatistik](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Todesursachen/_inhalt.html "Externer Link&nbsp;zur Webseite von Destatis: Statistik zu Todesursachen")
+
+
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
+
+### Indikator 'Lungenkrebs: Inzidenz'
+
+Indikator_ID: `2020306`  
+Stand: 19. Mai 2026  
+Link: [https://www.gbe.rki.de/lungenkrebs-inzidenz](https://www.gbe.rki.de/lungenkrebs-inzidenz)
+
+Lungenkrebs ist eine der häufigsten Krebserkrankungen in Deutschland (dritthäufigste bei den Frauen, zweithäufigste bei den Männern). Etwa eine von 23 Frauen und einer von 15 Männern erkranken im Laufe ihres Lebens an Lungenkrebs. Krebserkrankungen der Lunge werden vor allem unterschieden in die am häufigsten vorkommenden Adenokarzinome, Plattenepithelkarzinome und kleinzellige Bronchialkarzinome. Der Hauptrisikofaktor für Lungenkrebs ist das [Tabakrauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)"). In Deutschland sind schätzungsweise acht von zehn Lungenkrebsfälle bei den Frauen und neun von zehn Lungenkrebserkrankungen bei den Männern auf aktives Rauchen zurückzuführen ([Mons et al. 2018](http://doi.org/10.3238/arztebl.2018.0571 "Externer Link&nbsp;zur Publikation:&nbsp;Cancers due to smoking and high alcohol consumption. Estimation of the attributable cancer burden in Germany.")). Auch [Passivrauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Passivrauchbelastung/passivrauchbelastung_node.html "Passivrauchbelastung (ab 18 Jahre)") steigert das Krebsrisiko. Eine geeignete Methode zur Früherkennung von Lungenkrebs für die gesamte Bevölkerung gibt es derzeit noch nicht. Definierte Risikogruppen haben allerdings seit April 2026 die Möglichkeit zur Teilnahme an der Lungenkrebsfrüherkennung mittels Niedrigdosis-Computertomographie ([G-BA 2026](https://www.g-ba.de/beschluesse/7628 "Externer Link&nbsp;zur Publikation: Krebsfrüherkennungs-Richtlinie: Versicherteninformation zur Lungenkrebsfrüherkennung mittels Niedrigdosis-Computertomografie bei Rauchern")).
+
+#### Definition
+
+Der Indikator *Lungenkrebs: Inzidenz* ist definiert als die absolute Anzahl der jährlichen Neuerkrankungen an Lungenkrebs (ICD-10: C33 –&nbsp;C34) pro 100.000 Personen in der Bevölkerung.
+
+#### Bezugspopulation
+
+Bevölkerung mit Wohnsitz in Deutschland.
+
+#### Datenquelle und Fallzahl
+
+Schätzung der Inzidenz von Krebs in Deutschland auf Basis der epidemiologischen Landeskrebsregisterdaten.
+
+#### Datenqualität
+
+Für Bundesländer, in denen für bestimmte Zeiträume noch keine oder nur unvollzählige Daten zu Neuerkrankungen vorlagen, wurde die Inzidenz auf Basis der Lungenkrebssterblichkeit im jeweiligen Bundesland geschätzt.
+
+#### Berechnung
+
+* **Beschreibung:** Auf der Grundlage der Daten der epidemiologischen Krebsregister in Deutschland schätzt das Zentrum für Krebsregisterdaten die Zahl aller jährlich in Deutschland neu aufgetretenen Krebserkrankungen. Die bundesweiten Neuerkrankungszahlen ergeben sich aus den Ergebnissen eines gemischten Poisson-Regressionsmodells. Das Modell berücksichtigt die jeweilige krebsspezifische Mortalität, die Bevölkerungsgröße und das Diagnosejahr. Außerdem werden Abweichungen in der Inzidenz zwischen den Registern durch zufällige Effekte modelliert. Zur Anwendung der Regression werden die Daten nach Geschlecht, Register, Diagnose und Altersgruppe stratifiziert ([RKI 2025b](https://www.krebsdaten.de/Krebs/DE/Content/Methoden/Inzidenzschaetzung/inzidenzschaetzung_node.html "Externer Link&nbsp;zur Webseite: Zentrum für Krebsregisterdaten am RKI - Inzidenzschätzung")). Für den Indikator werden die Kennzahlen für Gesamt sowie nach Geschlecht, Alter und Bundesland ausgewiesen.
+* **Stratifizierung**: Die Darstellung nach Bundesland basiert auf dem Wohnort bei Erstdiagnose.
+* **Altersstandardisierung**: Mit der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/isgbe.i?i=1000:55515 "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Standardbevölkerungen - Europastandardbevölkerung 2013") als Bezugspopulation erfolgte eine Altersstandardisierung unter Verwendung von 0 – 14 Jahre sowie anschließend von 5-Jahres-Altersgruppen ab 15 – 19 Jahre bis 80 – 84 Jahre sowie ≥ 85 Jahre.
+
+#### Weiterführende Links
+
+* [Zentrum für Krebsregisterdaten](https://www.krebsdaten.de/ "Externer Link&nbsp;zur Webseite des Zentrums für Krebsregisterdaten")
+* [Krebsinformationsdienst am DKFZ](https://www.krebsinformationsdienst.de/ "Externer Link&nbsp;zur Webseite DKFZ: Krebsinformationsdienst")
+
+
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
+
 ### Indikator 'COPD: Prävalenz (ab 45 Jahre)'
 
 Indikator_ID: `2020401`  
 Stand: 20. November 2024  
 Link: [https://www.gbe.rki.de/copd-praevalenz](https://www.gbe.rki.de/copd-praevalenz)
 
-Die chronisch obstruktive Lungenerkrankung (COPD, engl. „chronic obstructive pulmonary disease“) geht mit einer hohen Krankheitslast einher und zählt in Deutschland zu den führenden Todesursachen ([Porst et al. 2023](https://doi.org/10.3238/arztebl.m2022.0314 "Externer Link&nbsp;zur Publikation: The Burden of Disease in Germany at the National and Regional Level - Results in Terms of Disability-adjusted Life Years (DALY) from the BURDEN 2020 Study")). Die Erkrankung ist durch chronische Entzündung und oft fortschreitende Verengung der Atemwege sowie Zerstörung des Lungengewebes (Lungenparenchyms) gekennzeichnet. Charakteristisch ist das Bestehen von chronischem Husten und Auswurf (chronische Bronchitis) sowie von dauerhaften Erweiterungen der Lungenbläschen (Lungenemphysem), die oft in Kombination miteinander auftreten. COPD entsteht auf der Basis eines komplexen Zusammenspiels zwischen genetischen Faktoren und Umweltfaktoren. Tabakrauchen – sowohl aktiv als auch passiv – stellt den bedeutendsten Risikofaktor dar. Daneben können auch Störungen der Lungenentwicklung, wiederholte Atemwegsinfektionen in der frühen Kindheit oder Belastungen durch Luftschadstoffe zur Entwicklung einer COPD beitragen ([BÄK et al. o.J.](https://register.awmf.org/de/leitlinien/detail/nvl-003 "Externer Link&nbsp;zur Webseite: Nationale Versorgungsleitlinie  - COPD")).
+Die chronisch obstruktive Lungenerkrankung (COPD, engl. „chronic obstructive pulmonary disease“) geht mit einer hohen Krankheitslast einher und zählt in Deutschland zu den führenden Todesursachen ([Porst et al. 2023](https://doi.org/10.3238/arztebl.m2022.0314 "Externer Link&nbsp;zur Publikation: The Burden of Disease in Germany at the National and Regional Level - Results in Terms of Disability-adjusted Life Years (DALY) from the BURDEN 2020 Study")). Die Erkrankung ist durch chronische Entzündung und oft fortschreitende Verengung der Atemwege sowie Zerstörung des Lungengewebes (Lungenparenchyms) gekennzeichnet. Charakteristisch ist das Bestehen von chronischem Husten und Auswurf (chronische Bronchitis) sowie von dauerhaften Erweiterungen der Lungenbläschen (Lungenemphysem), die oft in Kombination miteinander auftreten. COPD entsteht auf der Basis eines komplexen Zusammenspiels zwischen genetischen Faktoren und Umweltfaktoren. Rauchen stellt den wichtigsten Risikofaktor in Deutschland dar. Daneben können auch Störungen der Lungenentwicklung, wiederholte Atemwegsinfektionen in der frühen Kindheit oder Belastungen durch Luftschadstoffe zur Entwicklung einer COPD beitragen ([BÄK et al. o.J.](https://register.awmf.org/de/leitlinien/detail/nvl-003 "Externer Link&nbsp;zur Webseite: Nationale Versorgungsleitlinie  - COPD")).
 
 #### Definition
 
@@ -2295,12 +2477,12 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 45 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert Koch-Instituts:
 
 * GEDA 2014/2015-EHIS:
-	+ webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
-	+ gültige Werte für den Indikator: n = 23.791 Personen ab 45 Jahren
+  + webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
+  + gültige Werte für den Indikator: n = 23.791 Personen ab 45 Jahren
 
 * GEDA 2019/2020-EHIS:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
-	+ gültige Werte für den Indikator: n = 22.414 Personen ab 45 Jahre
+  + telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
+  + gültige Werte für den Indikator: n = 22.414 Personen ab 45 Jahre
 
 #### Datenqualität
 
@@ -2319,6 +2501,48 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 
 * [GEDA: Gesundheit in Deutschland aktuell](https://www.rki.de/geda "Externer Link&nbsp;zur Webseite des RKI: GEDA: Gesundheit in Deutschland aktuell")
 * [EHIS: European Health Interview Survey](https://ec.europa.eu/eurostat/de/web/microdata/european-health-interview-survey "Externer Link&nbsp;zur Webseite von Eurostat:  Mikrodaten - Europäische Gesundheitsumfrage")
+
+
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
+
+### Indikator 'COPD: Sterblichkeit'
+
+Indikator_ID: `2020402`  
+Stand: 19. Mai 2026  
+Link: [https://www.gbe.rki.de/copd-sterblichkeit](https://www.gbe.rki.de/copd-sterblichkeit)
+
+Die chronisch obstruktive Lungenerkrankung (COPD, engl. „chronic obstructive pulmonary disease“) geht mit einer hohen [Krankheitslast](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/Krankheitsfolgen/BurdenOfDisease/BurdenOfDisease_node.html "Burden of Disease") einher und zählt sowohl in Deutschland als auch weltweit zu den führenden Todesursachen. Die Erkrankung ist durch chronische Entzündung und oft fortschreitende Verengung der Atemwege sowie Zerstörung des Lungengewebes gekennzeichnet. Charakteristisch ist das Bestehen von chronischem Husten und Auswurf (chronische Bronchitis) sowie von dauerhaften Erweiterungen der Lungenbläschen (Lungenemphysem), die oft in Kombination miteinander auftreten. [Rauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/tabakkonsum_node.html "Tabakkonsum") stellt den wichtigsten Risikofaktor für COPD in Deutschland dar. Bei Männern wird weltweit eine höhere COPD-Sterblichkeit als bei Frauen beobachtet. Diese geschlechterspezifischen Unterschiede haben sich jedoch über die Zeit in vielen Ländern verringert ([Mei et al. 2022](https://doi.org/10.1111/resp.14328 "Externer Link&nbsp;zur Publikation:&nbsp;Chronic obstructive pulmonary disease (COPD) mortality trends worldwide: An update to 2019"), [Marshall et al. 2022](https://doi.org/10.1186/s12890-022-02074-z "Externer Link&nbsp;zur Publikation:&nbsp;Trends in prevalence, mortality, and disability-adjusted life-years relating to chronic obstructive pulmonary disease in Europe: an observational study of the global burden of disease database, 2001–2019")).
+
+#### Definition
+
+Der Indikator *COPD: Sterblichkeit* ist definiert als die Anzahl der Sterbefälle, bei denen eine COPD (ICD-10-WHO-Code: J41&nbsp;–&nbsp;J44) als zum Tode führendes Grundleiden (Todesursache) kodiert wurde, pro 100.000 Personen in einem Jahr.
+
+#### Bezugspopulation
+
+Bevölkerung mit ständigem Wohnsitz in Deutschland.
+
+#### Datenquelle und Fallzahl
+
+Die Todesursachenstatistik der Statistischen Ämter des Bundes und der Länder umfasst alle Sterbefälle von Personen mit ständigem Wohnsitz in Deutschland mit Angaben zu Alter, Geschlecht, Wohnsitz und der zugrundeliegenden Todesursache (Grundleiden) – kodiert nach [ICD-10-WHO-Version](https://klassifikationen.bfarm.de/icd-10-who/kode-suche/htmlamtl2016/index.htm "Externer Link&nbsp;zur Webseite des BfArM: ICD-10-WHO Version 2016 - Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme").
+
+#### Datenqualität
+
+Die Statistik der Sterbefälle ist eine Vollerhebung mit Auskunftspflicht. Sie umfasst alle Sterbefälle in der Wohnbevölkerung, die in Deutschland standesamtlich registriert werden, unabhängig vom Sterbeort. Ist der Sterbeort im Ausland, wird der Sterbefall erfasst, sofern er nachträglich standesamtlich beurkundet wird. Es finden mehrstufige Vollständigkeit- und Plausibilitätskontrollen statt, sodass eine hohe Zuverlässigkeit gegeben ist ([Statistisches Bundesamt 2025](https://www.destatis.de/DE/Methoden/Qualitaet/Qualitaetsberichte/Bevoelkerung/sterbefaelle.pdf "Externer Link&nbsp;zur Publikation: Qualitätsbericht zur Statistik der Sterbefälle")).
+
+In der unikausalen Todesursachenstatistik wird für jeden Todesfall das zum Tode führende Grundleiden kodiert, auch wenn mehrere Erkrankungen zum Tod geführt haben könnten. Weitere Angaben aus der Todesbescheinigung werden in der amtlichen Todesursachenstatistik nicht berücksichtigt. Die Qualität der kodierten Todesursachen variiert in Abhängigkeit der Dokumentation eines validen Grundleidens und wird gemäß einer Studie der Weltgesundheitsorganisation (WHO) in Deutschland als „mittel“ eingestuft ([WHO 2005](https://iris.who.int/handle/10665/269355 "Externer Link&nbsp;zur Webseite der WHO: Counting the dead and what they died from: an assessment of the global status of cause of death data"), [Zack et al. 2017](https://doi.org/10.1007/s00194-017-0193-7 "Externer Link&nbsp;zur Publikation: Fehler bei der Ausstellung der Todesbescheinigung")).
+
+#### Berechnung
+
+* **Beschreibung:** Quotient aus der Anzahl aller Sterbefälle an einer COPD (ICD-Code: J41&nbsp;–&nbsp;J44) und der Anzahl aller Personen mit ständigem Wohnsitz in Deutschland.
+* **Stratifizierung**: Die Stratifizierung nach regionaler sozioökonomischer Deprivation erfolgt auf Grundlage des German Index of Socioeconomic Deprivation (GISD; Jahre 2003 – 2020: GISD Release 2022 v0.1; Jahr 2021: GISD Release 2022 v0.2) ([Michalski et al. 2022](https://doi.org/10.25646/10640 "Externer Link&nbsp;zur Publikation: German Index of Socioeconomic Deprivation (GISD): Revision, Aktualisierung und Anwendungsbeispiele")). Der GISD fasst Merkmale der Erwerbs-, Bildungs- und Einkommenssituation für jeden Kreis und jede kreisfreie Stadt in einer Kennzahl zusammen. Die Kreise werden entlang ihrer GISD-Werte in Quintile von niedriger bis hoher sozioökonomischer Deprivation eingeteilt, die über den Wohnort der verstorbenen Person mit den Mortalitätsdaten verknüpft werden. Die Berechnung der Mortalitätsraten erfolgt stratifiziert nach niedriger (1. Quintil), mittlerer (2.&nbsp;–&nbsp;4. Quintil) und hoher (5. Quintil) Deprivation. Unterschiede in der Mortalität nach sozioökonomischer Deprivation beziehen sich auf die räumliche Ebene.
+* **Altersstandardisierung**: Mit der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/isgbe.i?i=1000:55515 "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Standardbevölkerungen - Europastandardbevölkerung 2013") als Bezugspopulation erfolgte eine Altersstandardisierung unter Verwendung von 5-Jahres-Altersgruppen mit Ausnahme der Altersgruppen < 1, 1&nbsp;–&nbsp;4 und ≥&nbsp;90 Jahre. Für die Auswertungen nach GISD wird die Altersgruppe ≥ 85 Jahre als höchste Altersgruppe verwendet.
+* **Berechnungen**: Für die Berechnung der Sterberaten insgesamt sowie nach Geschlecht, Alter und Bundesland wurde die Durchschnittsbevölkerung als Bezugspopulation verwendet ([Statistisches Bundesamt 2026a](https://www.gbe-bund.de/gbe/isgbe.archiv?p_indnr=6&p_archiv_id=7877145&p_sprache=D&p_action=A "Externer Link&nbsp;zum IS-GBE: Sterbefälle, Sterbeziffern (ab 1998) mit Filterung COPD (Tabelle)"), [2026b](https://www.gbe-bund.de/gbe/isgbe.archiv?p_indnr=6&p_archiv_id=7877221&p_sprache=D&p_action=A "Externer Link&nbsp;zum IS-GBE: Sterbefälle, Sterbeziffern (ab 1998) mit Filterung COPD (Tabelle) nach Altersgruppe")). Für die Auswertung nach regionaler sozioökonomischer Deprivation wurde der Bevölkerungsdurchschnitt eines Jahres (Mittelwert der Bevölkerung zum 31.12. des Vorjahres und des dargestellten Jahres) verwendet und die Berechnung erfolgte im [Forschungsdatenzentrum](https://www.forschungsdatenzentrum.de/de/gesundheit/todesursachen "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachenstatistik") der Statistischen Ämter des Bundes und der Länder ([Todesursachenstatistik 2003](https://doi.org/10.21242/23211.2003.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2003") – [Todesursachenstatistik 2023](https://doi.org/10.21242/23211.2023.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2023")). Da Daten in Altersgruppen und Bundesländern mit Fallzahlen zwischen 1 und 3 aus datenschutzrechtlichen Gründen nicht bereitgestellt werden, wurde für diese Gruppen eine Fallzahl von 1 und eine Sterberate von 0 angenommen.
+
+#### Weiterführende Links
+
+* [ICD-10-WHO-Version](https://klassifikationen.bfarm.de/icd-10-who/kode-suche/htmlamtl2016/index.htm "Externer Link&nbsp;zur Webseite des BfArM: ICD-10-WHO Version 2016 - Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme")
+* [Sterbefälle und Lebenserwartung beim Statistischen Bundesamt](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Sterbefaelle-Lebenserwartung/_inhalt.html "Externer Link&nbsp;zur Webseite von Destatis: Bevölkerung - Sterbefälle und Lebenserwartung")
+* [Bevölkerungsstand beim Statistischen Bundesamt](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Bevoelkerungsstand/_inhalt.html "Externer Link&nbsp;zur Webseite:&nbsp;Statistisches Bundesamt: Bevölkerungsstand")
 
 
 <br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
@@ -2366,24 +2590,24 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert Koch-Instituts:
 
 * GEDA 2009:
-	+ telefonische Befragungen mit Festnetz, N = 21.262
-	+ gültige Werte für den Indikator: n = 21.189
+  + telefonische Befragungen mit Festnetz, N = 21.262
+  + gültige Werte für den Indikator: n = 21.189
 
 * GEDA 2010:
-	+ telefonische Befragungen mit Festnetz, N = 22.050
-	+ gültige Werte für den Indikator: n = 22.000
+  + telefonische Befragungen mit Festnetz, N = 22.050
+  + gültige Werte für den Indikator: n = 22.000
 
 * GEDA 2012:
-	+ telefonische Befragungen mit Festnetz, N = 19.294
-	+ gültige Werte für den Indikator: n = 19.261
+  + telefonische Befragungen mit Festnetz, N = 19.294
+  + gültige Werte für den Indikator: n = 19.261
 
 * GEDA 2014/2015-EHIS:
-	+ webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
-	+ gültige Werte für den Indikator: n = 22.671
+  + webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
+  + gültige Werte für den Indikator: n = 22.671
 
 * GEDA 2019/2020-EHIS:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
-	+ gültige Werte für den Indikator: n = 22.682
+  + telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
+  + gültige Werte für den Indikator: n = 22.682
 
 #### Datenqualität
 
@@ -2437,8 +2661,8 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert Koch-Instituts:
 
 * GEDA 2019/2020-EHIS:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
-	+ gültige Werte für den Indikator: n = 22.549
+  + telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
+  + gültige Werte für den Indikator: n = 22.549
 
 #### Datenqualität
 
@@ -2464,26 +2688,29 @@ Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschspr
 ### Indikator 'Unfallverletzungen (ab 18 Jahre)'
 
 Indikator_ID: `2030101`  
-Stand: 20. November 2024  
+Stand: 20. Mai 2026  
 Link: [https://www.gbe.rki.de/unfallverletzungen](https://www.gbe.rki.de/unfallverletzungen)
 
-Die Vermeidung von Unfällen hat große Bedeutung, sowohl für die Betroffenen und ihre Familien als auch gesamtgesellschaftlich. Nach Schätzungen der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin verletzen sich jährlich etwa 9 Millionen Menschen bei Unfällen (letzte Schätzung von 2015\). Im Jahr 2022 wurden in Deutschland mehr als 32.000 Menschen bei Unfällen getötet (ICD-10: V01 – X59\) ([Statistisches Bundesamt 2024](https://www.gbe-bund.de/gbe/isgbe.i?i=632 "Externer Link&nbsp;zur Webseite: Gesundheitsberichterstattung des Bundes - Tabelle: Sterbefälle durch Unfälle nach äußeren Ursachen und Unfallkategorien (ab 1998):")). Das Unfallgeschehen in Deutschland lässt sich auf der Basis amtlicher Statistiken nur unvollständig abbilden, eine gesetzliche Grundlage für die Erfassung gibt es nur für einige Bereiche, zum Beispiel Arbeits- und Verkehrsunfälle. Im Europäischen Gesundheitssurvey (European Health Interview Survey, EHIS) wird alle fünf Jahre erfragt, ob die Teilnehmenden in den letzten 12 Monaten Unfallverletzungen im Verkehr, zu Hause und in der Freizeit erlitten haben. Damit ergibt sich ein Überblick über die Situation in Deutschland. Hinweise auf gefährdete Personengruppen und Orte können abgeleitet werden, denn: Ein Unfall ist kein Zufall.
+Die Vermeidung von Unfällen hat große Bedeutung, sowohl für die Betroffenen und ihre Familien als auch gesamtgesellschaftlich. Im Jahr 2024 wurden in Deutschland mehr als 34.000 Menschen bei Unfällen getötet (ICD-10: V01&nbsp;–&nbsp;X59) ([Statistisches Bundesamt 2026)](https://www.gbe-bund.de/gbe/isgbe.i?i=632 "Externer Link&nbsp;zur Webseite: Gesundheitsberichterstattung des Bundes - Tabelle: Sterbefälle durch Unfälle nach äußeren Ursachen und Unfallkategorien (ab 1998):"). Das Unfallgeschehen in Deutschland lässt sich auf der Basis amtlicher Statistiken nur unvollständig abbilden, eine gesetzliche Grundlage für die Erfassung gibt es nur für einige Bereiche, z.&nbsp;B. Arbeits- und Verkehrsunfälle. Im Panel „Gesundheit in Deutschland“ des Robert Koch-Instituts (RKI) wird alle drei Jahre erfragt, ob die Teilnehmenden in den letzten 12 Monaten Unfallverletzungen im Verkehr, zu Hause, in der Freizeit oder auf der Arbeit erlitten haben, die medizinisch behandelt wurden ([RKI 2025](https://www.rki.de/DE/Themen/Nichtuebertragbare-Krankheiten/Lebensweise-und-Gesundheit/Unfaelle/rki-panel-2024-faktenblatt.pdf "Externer Link&nbsp;zur Publikation:&nbsp;Ergebnisse der Jahres­erhebung des Panels Gesund­heit in Deutschland (RKI-Panel 2024): Nicht-tödliche Unfall­verletzungen bei Erwachsenen"), [Saß und Kuhnert 2026](https://doi.org/10.25646/13661 "Externer Link&nbsp;zur Publikation:&nbsp;Das Unfallgeschehen bei Erwachsenen in Deutschland – Ergebnisse aus dem Unfallmodul des Panels „Gesundheit in Deutschland“ 2024")). Zum letzten Unfall wurden detaillierte Angaben erfasst. Damit ergibt sich ein Überblick über die Situation in Deutschland. Hinweise auf gefährdete Personengruppen und Orte können abgeleitet werden.
 
 #### Definition
 
-Der Indikator *Unfallverletzungen* ist definiert als Anteil der Erwachsenen mit mindestens einer Unfallverletzung im Verkehr, zu Hause oder in der Freizeit in den letzten 12 Monaten. Ob eine medizinische Versorgung erfolgte, spielt keine Rolle.
+Der Indikator *Unfallverletzungen* ist definiert als Anteil der Erwachsenen mit mindestens einer Unfallverletzung in den letzten 12 Monaten, die medizinisch versorgt wurde. Für Analysen zu den Unfallorten wurde die Angabe der Unfallbetroffenen zum Ort des letzten Unfalls verwendet: im Verkehr, zu Hause, in der Freizeit oder auf der Arbeit.
 
 #### Operationalisierung
 
-Die Erfassung von Unfallverletzungen basiert auf Selbstangaben der Befragten:
+Die Erfassung von Unfallverletzungen basiert auf Selbstangaben der Befragten zu folgenden drei Fragen:
 
-GEDA 2014/2015-EHIS und GEDA 2019/2020-EHIS
+RKI-Panel 2024
 
-* „Hatten Sie in den letzten 12 Monaten eine Verletzung aufgrund einer der folgenden Unfälle?“ (Interviewerhinweis: Auch gemeint sind Verletzungen verursacht durch Vergiftungen, durch Tiere, auch Insekten. Nicht gemeint sind willentliche Verletzungen durch andere Personen.)
-	+ „Verkehrsunfall“
-	+ „Unfall zu Hause“
-	+ „Freizeitunfall“
-* Antwortmöglichkeiten jeweils: „Ja“, „Nein“
+* „Hatten Sie in den letzten 12 Monaten eine Verletzung oder Vergiftung, die ärztlich versorgt werden musste?“
+  + Antwortmöglichkeiten: „Ja“, „Nein“ (>&nbsp;Ende der Befragung zu Unfällen)
+* „Waren Ihre Verletzungen bzw. Vergiftungen...“
+  + Antwortmöglichkeiten: „Unbeabsichtigt, also ein Unfall?“, „Folge eines tätlichen Angriffs?“ (>&nbsp;Ende der Befragung zu Unfällen), „Folge einer absichtlichen Selbstverletzung?“ (>&nbsp;Ende der Befragung zu Unfällen), „Sonstiges“ (>&nbsp;Ende der Befragung zu Unfällen)
+* „Bei Ihrer letzten unfallbedingten Verletzung oder Vergiftung, die ärztlich behandelt wurde, möchten wir nun etwas genauer erfahren, was passiert ist. Wo haben Sie diese letzte Verletzung oder Vergiftung erlitten?“
+  + Antwortmöglichkeiten: „Auf dem Weg von oder zur Arbeit, Schule bzw. Ausbildungsstätte“, „Am Arbeitsplatz“, „In der Schule bzw. Ausbildungsstätte“, „Zu Hause (im Haus oder in der unmittelbaren Umgebung, z.&nbsp;B. Garten oder Garage)“, „In der Freizeit auf öffentlichen Wegen, Plätzen oder Straßen“, „In der Freizeit an einem anderen Ort“
+
+Die Antwortmöglichkeiten wurden zu vier Unfallorten zusammengefasst: im Verkehr (auf dem Weg von oder zur Arbeit, Schule bzw. Ausbildungsstätte; in der Freizeit auf öffentlichen Wegen, Plätzen oder Straßen), zu Hause (im Haus oder in der unmittelbaren Umgebung, z.&nbsp;B. Garten oder Garage), in der Freizeit (in der Freizeit an einem anderen Ort) und am Arbeitsplatz (inkl. in der Schule bzw. Ausbildungsstätte).
 
 #### Bezugspopulation
 
@@ -2491,33 +2718,31 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 
 #### Datenquelle und Fallzahl
 
-Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert Koch-Instituts:
+Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert Koch-Instituts:
 
-* GEDA 2014/2015-EHIS:
-	+ webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
-	+ gültige Werte für den Indikator: n = 23.641 (Gesamt), n = 23.236 (Verkehrsunfall), n =23.317 (Unfall zu Hause), n =23.405 (Freizeitunfall)
-
-* GEDA 2019/2020-EHIS:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
-	+ gültige Werte für den Indikator: n = 22.700 (Gesamt), n = 22.704 (Verkehrsunfall), n = 22.701 (Unfall zu Hause), n = 22.702 (Freizeitunfall)
+* RKI-Panel 2024:
+  + webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe mit vier Fragebogenmodulen (A&nbsp;–&nbsp;D), N&nbsp;=&nbsp;41.376 (relevante Teilstichprobe Fragebogen D: n&nbsp;=&nbsp;27.306)
+  + gültige Werte für den Indikator: n&nbsp;=&nbsp;26.923
+  + [Datensatzversion v5](https://doi.org/10.25646/12202.2 "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews. Zeitvergleiche der Ergebnisse zwischen der GEDA-Welle 2014/2015-EHIS und den übrigen Wellen sollten aufgrund von Unterschieden in der Stichprobenziehung sowie Unterschieden im Erhebungsmodus vorsichtig interpretiert werden.
-
-#### Weiterführende Links
-
-* [GEDA: Gesundheit in Deutschland aktuell](https://www.rki.de/geda "Externer Link&nbsp;zur Webseite des RKI: GEDA: Gesundheit in Deutschland aktuell")
-* [EHIS: European Health Interview Survey](https://ec.europa.eu/eurostat/de/web/microdata/european-health-interview-survey "Externer Link&nbsp;zur Webseite von Eurostat:  Mikrodaten - Europäische Gesundheitsumfrage")
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Die Daten beruhen auf zufälligen Stichproben aus der Bevölkerung, was die Aussagekraft der Ergebnisse deutlich erhöht. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Andererseits könnten Personen mit einem starken Interesse an Gesundheitsthemen überrepräsentiert sein. Diese Effekte werden teilweise durch die unten beschriebenen Gewichtungsverfahren ausgeglichen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
 
 #### Berechnung
 
-* **Beschreibung und Stratifizierung**: Für den Indikator werden die Kennzahlen für Gesamt sowie nach Geschlecht, Alter, Bundesland und Bildung ausgewiesen. In der GEDA-Welle2014/2015-EHIS wurden die Teilnehmenden gefragt, ob sie männlich oder weiblich sind. Seit GEDA 2019/2020-EHIS werden das Geburtsgeschlecht und die geschlechtliche Identität erhoben ([Pöge et al. 2022](https://doi.org/10.25646/9957 "Externer Link&nbsp;zur Publikation: Erhebung geschlechtlicher Diversität in der Studie GEDA 2019/2020-EHIS – Ziele, Vorgehen und Erfahrungen")). In den Analysen nach Geschlecht werden Personen ausgewiesen, die sich als weiblich oder männlich identifizieren. Genderdiverse Menschen, die sich diesen Kategorien nicht zuordnen, werden aufgrund der geringen Fallzahl in den Analysen nach Geschlecht nicht gesondert ausgewiesen. Die Darstellung nach Bundesland basiert auf dem Wohnort der Befragten. Der Bildungsstatus wird anhand des CASMIN-Indexes bestimmt ([Brauns et al. 2003](https://link.springer.com/chapter/10.1007/978-1-4419-9186-7_11 "Externer Link&nbsp;zum Buchbeitrag: The CASMIN educational classification in international comparative research")). Dieser verwendet Angaben zu schulischer und beruflicher Bildung und ermöglicht die Einteilung in eine niedrige, mittlere und hohe Bildungsgruppe.
+* **Beschreibung und Stratifizierung**: Für den Indikator werden die Kennzahlen für Gesamt sowie nach Geschlecht, Alter, Bundesland und Bildung ausgewiesen. Im RKI-Panel werden das Geburtsgeschlecht und die geschlechtliche Identität erhoben ([Pöge et al. 2022](https://doi.org/10.25646/9957 "Externer Link&nbsp;zur Publikation: Erhebung geschlechtlicher Diversität in der Studie GEDA 2019/2020-EHIS – Ziele, Vorgehen und Erfahrungen")). In den Analysen nach Geschlecht werden Personen ausgewiesen, die sich als weiblich oder männlich identifizieren. Genderdiverse Menschen, die sich diesen Kategorien nicht zuordnen, werden aufgrund der geringen Fallzahl nicht gesondert ausgewiesen. Die Darstellung nach Bundesland basiert auf dem Wohnort der Befragten. Der Bildungsstatus wird anhand des CASMIN-Indexes bestimmt ([Brauns et al. 2003](https://link.springer.com/chapter/10.1007/978-1-4419-9186-7_11 "Externer Link&nbsp;zum Buchbeitrag: The CASMIN educational classification in international comparative research")). Dieser verwendet Angaben zu schulischer und beruflicher Bildung und ermöglicht die Einteilung in eine niedrige, mittlere und hohe Bildungsgruppe.
 * **Umgang mit unsicheren Werten**: Voraussetzung für die stratifizierte Darstellung eines Indikators ist, dass die Fallzahl in der Gruppe mindestens 5 beträgt und die statistische Unsicherheit in der Schätzung der Kennziffer als akzeptabel angesehen wird (Konfidenzintervall schmaler als 25 Prozentpunkte und Variationskoeffizient ≤ 33,5 %). Letzteres bedeutet, dass die untere Grenze des Konfidenzintervalls mindestens die Hälfte des Schätzers betragen muss. Sind diese Kriterien nicht erfüllt, werden die Werte nicht berichtet („zu wenige Daten“). Berichtet, jedoch als unsicher markiert, werden Werte, die auf weniger als 10 Fällen basieren, deren Konfidenzintervall breiter als 20 Prozentpunkte ist oder wenn die Untergrenze weniger als ⅔ des Schätzers beträgt (Variationskoeffizient ≤ 16,6 %). Aufgrund der Unsicherheit sollten diese Werte mit Vorsicht interpretiert werden.
-* **Gewichtung**: Um Abweichungen der Surveys von der zugrundeliegenden Bezugspopulation durch unterschiedliche Teilnahmebereitschaft oder das Stichprobendesign zu korrigieren, wurde bei den Berechnungen in jedem Survey ein Gewichtungsfaktor verwendet. Diese Gewichtungen passen die Surveys an die Bevölkerungsstruktur Deutschlands hinsichtlich Geschlecht, Alter, Bundesland und Bildung an. Beginnend mit GEDA 2014/2015-EHIS wurde zusätzlich die regionale Siedlungsstruktur (Kreis- oder Gemeindetyp) berücksichtigt. Dabei wurden die Daten des Statistischen Bundesamts zum Stichtag 31.12.2014 (GEDA 2014/2015-EHIS) und 31.12.2019 (GEDA 2019/2020-EHIS) verwendet. Die Informationen zu Haushalten und zur Bildungsverteilung wurden dem Mikrozensus 2013 (GEDA 2014/2015-EHIS) und 2017 (GEDA 2019/2020-EHIS) entnommen. Die Bildungsgruppen wurden auf Basis der ISCED-Klassifikation bestimmt ([Schroedter et al. 2006](https://www.ssoar.info/ssoar/bitstream/handle/document/26239/ssoar-2006-schroedter_et_al-die_umsetzung_der_bildungsskala_isced-1997.pdf?sequence=1 "Externer Link&nbsp;zur Publikation: Die Umsetzung der Bildungsskala ISCED-1997 für die Volkszählung 1970, die Mikrozensus-Zusatzerhebung 1971 und die Mikrozensen 1976-2004 (Version 1)"), beginnend mit GEDA 2014/2015-EHIS: [UNESCO 2012](https://unesdoc.unesco.org/ark:/48223/pf0000219109 "Externer Link&nbsp;zur Publikation: International Standard Classification of Education 2011")).
-* **Alters- und Geschlechtsstandardisierung**: Die Ergebnisse werden in zwei Versionen gezeigt: auf das jeweilige Erhebungsjahr gewichtet, wie oben beschrieben (‚beobachtet’), sowie standardisiert nach Alter und Geschlecht entsprechend der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/isgbe.i?i=1000:55515 "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Standardbevölkerungen - Europastandardbevölkerung 2013") (‚altersstandardisiert‘). Für Darstellungen nach Bundesland oder Bildungsgruppe wurde die Standardisierung innerhalb des jeweiligen Bundeslands beziehungsweise der jeweiligen Bildungsgruppe durchgeführt. Die ‚beobachteten‘ Ergebnisse bilden die tatsächliche Alters- und Geschlechtsverteilung innerhalb der Erhebungsjahre, Bundesländer beziehungsweise Bildungsgruppen ab. Sie sind damit zum Beispiel zur Analyse von Fragen des Versorgungsbedarfs und dessen Veränderung über die Zeit geeignet. Bei den ‚altersstandardisierten‘ Ergebnissen sind die Erhebungsjahre, Bundesländer beziehungsweise Bildungsgruppen hinsichtlich Alter und Geschlecht vergleichbar. Dies erleichtert das Aufzeigen von Unterschieden, die sich nicht allein durch Alter und Geschlecht erklären lassen.
+* **Gewichtung**: Um Abweichungen des Surveys von der zugrundeliegenden Bezugspopulation durch unterschiedliche Teilnahmebereitschaft oder das Stichprobendesign zu korrigieren, wurde bei den Berechnungen ein Gewichtungsfaktor verwendet. Diese Gewichtung passt den Survey an die Bevölkerungsstruktur Deutschlands hinsichtlich Geschlecht, Alter, Bundesland, Bildung, regionale Siedlungsstruktur (Kreis- oder Gemeindetyp) sowie Ein-Personen- vs. Mehr-Personen-Haushalte an. Außerdem wurde ein Korrekturfaktor auf Basis der Angaben in der Rekrutierungsstudie für das RKI-Panel 2024 berücksichtigt, der die Nicht-Teilnahme an einzelnen Teilwellen bei der wiederholten Befragung im RKI-Panel ausgleicht. Es wurden die Daten des Statistischen Bundesamts zum Stichtag 31.12.2023 (RKI-Panel 2024) verwendet. Die Informationen zu Haushalten und zur Bildungsverteilung wurden dem Mikrozensus 2021 (RKI-Panel 2024) entnommen. Die Bildung wurde entsprechend dem CASMIN-Index klassifiziert ([Brauns et al. 2003](https://link.springer.com/chapter/10.1007/978-1-4419-9186-7_11 "Externer Link&nbsp;zum Buchbeitrag: The CASMIN educational classification in international comparative research")).
+* **Alters- und Geschlechtsstandardisierung**: Die Ergebnisse werden in zwei Versionen gezeigt: auf das jeweilige Erhebungsjahr gewichtet, wie oben beschrieben (‚beobachtet’), sowie standardisiert nach Alter und Geschlecht entsprechend der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/isgbe.i?i=1000:55515 "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Standardbevölkerungen - Europastandardbevölkerung 2013") (‚altersstandardisiert‘). Für Darstellungen nach Bundesland oder Bildungsgruppe wurde die Standardisierung innerhalb des jeweiligen Bundeslands bzw. der jeweiligen Bildungsgruppe durchgeführt. Die ‚beobachteten‘ Ergebnisse bilden die tatsächliche Alters- und Geschlechtsverteilung innerhalb der Erhebungsjahre, Bundesländer bzw. Bildungsgruppen ab. Sie sind damit zum Beispiel zur Analyse von Fragen des Versorgungsbedarfs und dessen Veränderung über die Zeit geeignet. Bei den ‚altersstandardisierten‘ Ergebnissen sind die Erhebungsjahre, Bundesländer bzw. Bildungsgruppen hinsichtlich Alter und Geschlecht vergleichbar. Dies erleichtert das Aufzeigen von Unterschieden, die sich nicht allein durch Alter und Geschlecht erklären lassen.
 * **Konfidenzintervalle**: Die zufallsbedingte Variabilität der Ergebnisse kann den 95 %-Konfidenzintervallen in den Tabellen und Abbildungen entnommen werden. Die Konfidenzintervalle wurden mit der Logit-Methode berechnet. Dabei wurde die Streuung der Gewichtungsfaktoren berücksichtigt.
 * **Regionale Unterschiede**: Statistisch signifikante Unterschiede zwischen den Bundesländern und dem Bundesdurchschnitt wurden mittels Chi-Quadrat-Test unter Adjustierung für multiples Testen ermittelt. Jedes Bundesland wurde im Vergleich zu den übrigen Bundesländern (zusammengefasst) getestet. Die Einteilung in der Karte erfolgt anhand von fünf äquidistanten Kategorien.
+
+#### Weiterführende Links
+
+* [RKI-Panel „Gesundheit in Deutschland"](https://www.rki.de/DE/Themen/Forschung-und-Forschungsdaten/Sentinels-Surveillance-Panel/Panel/panel-gesundheit-in-deutschland-node.html "Externer Link&nbsp;zur Webseite des RKI-Panels „Gesundheit in Deutschland“")
+* [Bundesanstalt für Arbeitsschutz und Arbeitsmedizin: Unfallverhütungsbericht Arbeit](https://www.baua.de/DE/Angebote/Publikationen/Berichte/Suga-2024?nn=6942597e85ec843c1871aa1c "Externer Link&nbsp;zur Publikation:&nbsp;Sicherheit und Gesundheit bei der Arbeit - Berichtsjahr 2024")
+* [Statistisches Bundesamt: Straßenverkehrsunfallstatistik](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Verkehrsunfaelle/_inhalt.html "Externer Link&nbsp;zur Webseite:&nbsp;Statistisches Bundesamt: Verkehrsunfälle")
 
 
 <br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
@@ -2555,12 +2780,12 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 65 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert Koch-Instituts:
 
 * GEDA 2019/2020-EHIS:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
-	+ gültige Werte für den Indikator: n = 7.849 Personen ab 65 Jahren
+  + telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
+  + gültige Werte für den Indikator: n = 7.849 Personen ab 65 Jahren
 
 * GEDA 2022:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen, N = 33.149 (relevante Teilstichprobe Welle 1 bis 7, Modul 1: n = 12.937)
-	+ gültige Werte für den Indikator: n = 2.148 Personen ab 65 Jahren (Einfachstürze); n = 2.147 Personen ab 65 Jahren (Mehrfachstürze)
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen, N = 33.149 (relevante Teilstichprobe Welle 1 bis 7, Modul 1: n = 12.937)
+  + gültige Werte für den Indikator: n = 2.148 Personen ab 65 Jahren (Einfachstürze); n = 2.147 Personen ab 65 Jahren (Mehrfachstürze)
 
 #### Datenqualität
 
@@ -2687,14 +2912,14 @@ Die Erfassung von depressiven Symptomen in der Bevölkerung basiert auf Selbstan
 GEDA 2014/2015-EHIS, GEDA 2019/2020-EHIS, GEDA 2022, GEDA 2023
 
 * „Wie oft fühlten Sie sich im Verlauf der letzten 2 Wochen durch die folgenden Beschwerden beeinträchtigt?“
-	+ „Wenig Interesse oder Freude an Ihren Tätigkeiten“
-	+ „Niedergeschlagenheit, Schwermut oder Hoffnungslosigkeit“
-	+ „Schwierigkeiten, ein- oder durchzuschlafen, oder vermehrter Schlaf“
-	+ „Müdigkeit oder Gefühl, keine Energie zu haben“
-	+ „Verminderter Appetit oder übermäßiges Bedürfnis zu essen“
-	+ „Schlechte Meinung von sich selbst; Gefühl, ein Versager zu sein oder die Familie enttäuscht zu haben“
-	+ „Schwierigkeiten, sich auf etwas zu konzentrieren, zum Beispiel beim Zeitunglesen oder Fernsehen“
-	+ „Waren Ihre Bewegungen oder Ihre Sprache so verlangsamt, dass es auch anderen auffallen würde? Oder waren Sie im Gegenteil „zappelig“ oder ruhelos und hatten dadurch einen stärkeren Bewegungsdrang als sonst?“
+  + „Wenig Interesse oder Freude an Ihren Tätigkeiten“
+  + „Niedergeschlagenheit, Schwermut oder Hoffnungslosigkeit“
+  + „Schwierigkeiten, ein- oder durchzuschlafen, oder vermehrter Schlaf“
+  + „Müdigkeit oder Gefühl, keine Energie zu haben“
+  + „Verminderter Appetit oder übermäßiges Bedürfnis zu essen“
+  + „Schlechte Meinung von sich selbst; Gefühl, ein Versager zu sein oder die Familie enttäuscht zu haben“
+  + „Schwierigkeiten, sich auf etwas zu konzentrieren, zum Beispiel beim Zeitunglesen oder Fernsehen“
+  + „Waren Ihre Bewegungen oder Ihre Sprache so verlangsamt, dass es auch anderen auffallen würde? Oder waren Sie im Gegenteil „zappelig“ oder ruhelos und hatten dadurch einen stärkeren Bewegungsdrang als sonst?“
 * Antwortmöglichkeiten jeweils: „Überhaupt nicht“ (Wert 0), „An einzelnen Tagen“ (Wert 1), „An mehr als der Hälfte der Tage“ (Wert 2) und „Beinahe jeden Tag“ (Wert 3)
 * Die numerischen Werte der acht Antworten werden zu einem Skalensummenwert von 0 bis 24 addiert. Das Vorliegen einer depressiven Symptomatik wird ab einem Skalensummenwert von mindestens 10 angenommen.
 
@@ -2707,20 +2932,20 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert Koch-Instituts:
 
 * GEDA 2014/2015-EHIS:
-	+ webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
-	+ gültige Werte für den Indikator: n = 23.602
+  + webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
+  + gültige Werte für den Indikator: n = 23.602
 
 * GEDA 2019/2020-EHIS:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
-	+ gültige Werte für den Indikator: n = 22.261
+  + telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
+  + gültige Werte für den Indikator: n = 22.261
 
 * GEDA 2022:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen; N = 33.149 (relevante Teilstichprobe Welle 1 bis 10, Modul 3: n = 8.322)
-	+ gültige Werte für den Indikator: n = 7.986
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen; N = 33.149 (relevante Teilstichprobe Welle 1 bis 10, Modul 3: n = 8.322)
+  + gültige Werte für den Indikator: n = 7.986
 
 * GEDA 2023:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 11 bis 22 mit einem Basismodul und bis zu vier Fragebogenmodulen; N = 30.002 (relevante Teilstichprobe Welle 11 bis 22, Modul 3: n = 12.015)
-	+ gültige Werte für den Indikator: n = 11.606
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 11 bis 22 mit einem Basismodul und bis zu vier Fragebogenmodulen; N = 30.002 (relevante Teilstichprobe Welle 11 bis 22, Modul 3: n = 12.015)
+  + gültige Werte für den Indikator: n = 11.606
 
 #### Datenqualität
 
@@ -2808,8 +3033,8 @@ Die Erfassung von zwei Angstsymptomen in der Bevölkerung basiert auf Selbstanga
 GEDA 2022 und GEDA 2023
 
 * „Wie oft fühlten Sie sich im Verlauf der letzten 2 Wochen durch die folgenden Beschwerden beeinträchtigt?“
-	+ „Nervosität, Ängstlichkeit oder Anspannung“
-	+ „Nicht in der Lage sein, Sorgen zu stoppen oder zu kontrollieren“
+  + „Nervosität, Ängstlichkeit oder Anspannung“
+  + „Nicht in der Lage sein, Sorgen zu stoppen oder zu kontrollieren“
 * Antwortmöglichkeiten jeweils: „Überhaupt nicht“ (Wert 0), „An einzelnen Tagen“ (Wert 1), „An mehr als der Hälfte der Tage“ (Wert 2), „Beinahe jeden Tag“ (Wert 3)
 * Die numerischen Werte der zwei Antworten werden zu einem Skalensummerwert von 0 bis 6 addiert. Das Vorliegen einer auffälligen Belastung durch Angstsymptome wird ab einem Skalensummerwert von mindestens 3 angenommen.
 
@@ -2822,12 +3047,12 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert Koch-Instituts:
 
 * GEDA 2022:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen; N = 33.149
-	+ gültige Werte für den Indikatorl: n = 32.725
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen; N = 33.149
+  + gültige Werte für den Indikatorl: n = 32.725
 
 * GEDA 2023:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 11 bis 22 mit einem Basismodul und bis zu vier Fragebogenmodulen; N = 30.002 (relevante Teilstichprobe Welle 11 bis 13, Basismodul und Welle 14 bis 22, Modul 3: n = 20.969)
-	+ gültige Werte für den Indikator, Modul 3: n = 20.776
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 11 bis 22 mit einem Basismodul und bis zu vier Fragebogenmodulen; N = 30.002 (relevante Teilstichprobe Welle 11 bis 13, Basismodul und Welle 14 bis 22, Modul 3: n = 20.969)
+  + gültige Werte für den Indikator, Modul 3: n = 20.776
 
 #### Datenqualität
 
@@ -2885,7 +3110,7 @@ Die Statistik der Sterbefälle ist eine Vollerhebung mit Auskunftspflicht. Sie u
 * **Beschreibung:** Quotient aus der Anzahl aller Sterbefälle und der Anzahl aller Personen mit ständigem Wohnsitz in Deutschland.
 * **Stratifizierung**: Die Darstellung nach Bundesland basiert auf dem Wohnort der verstorbenen Person. Die Stratifizierung nach regionaler sozioökonomischer Deprivation erfolgt auf Grundlage des German Index of Socioeconomic Deprivation (GISD) (Jahre 2003 – 2019: GISD Release 2022 v1.1; Jahre 2020 – 2023: GISD Release 2022 v1.2 Fortschreibung) ([Michalski et al. 2022](https://doi.org/10.25646/10640 "Externer Link&nbsp;zur Publikation: German Index of Socioeconomic Deprivation (GISD): Revision, Aktualisierung und Anwendungsbeispiele")). Der GISD fasst Merkmale der Erwerbs-, Bildungs- und Einkommenssituation für jeden Kreis und jede kreisfreie Stadt in einer Kennzahl zusammen. Die Kreise werden entlang ihrer GISD-Werte in Quintile von niedriger bis hoher sozioökonomischer Deprivation eingeteilt, die über den Wohnort der verstorbenen Person mit den Mortalitätsdaten verknüpft werden. Die Berechnung der Mortalitätsraten erfolgt stratifiziert nach niedriger (1. Quintil), mittlerer (2. – 4. Quintil) und hoher (5. Quintil) Deprivation. Unterschiede in der Mortalität nach sozioökonomischer Deprivation beziehen sich auf die räumliche Ebene.
 * **Altersstandardisierung**: Mit der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/isgbe.archiv?p_indnr=1000&p_archiv_id=7285302&p_sprache=D&p_action=A "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Standardbevölkerungen - Europastandardbevölkerung 2013") als Bezugspopulation erfolgte eine Altersstandardisierung unter Verwendung von 5-Jahres-Altersgruppen mit Ausnahme von < 1, 1 – 4 Jahre und ≥ 90 Jahre. Für die Auswertungen nach GISD wird die Altersgruppe ≥ 85 Jahre als höchste Altersgruppe verwendet.
-* **Berechnungen**: Für die Berechnung der Sterberaten insgesamt sowie nach Geschlecht, Altersgruppen und Bundesland wurde die Durchschnittsbevölkerung als Bezugspopulation verwendet ([Statistisches Bundesamt 2025b­](https://www.gbe-bund.de/gbe/isgbe.archiv?p_indnr=5&p_archiv_id=7297036&p_sprache=D&p_action=A "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Bevölkerung im Jahresdurchschnitt ab 2011 (Grundlage Zensus 2011 und Zensus 2022)")). Für die Auswertung nach GISD wurde der Bevölkerungsdurchschnitt eines Jahres (Mittelwert der Bevölkerung zum 31.12. des Vorjahres und des dargestellten Jahres) verwendet und die Berechnung erfolgte im [Forschungsdatenzentrum](https://www.forschungsdatenzentrum.de/de/gesundheit/todesursachen "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachenstatistik") der Statistischen Ämter des Bundes und der Länder ([Todesursachenstatistik 2003](https://doi.org/10.21242/23211.2003.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2003") - [Todesursachenstatistik 2023](https://doi.org/10.21242/23211.2023.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2023")).
+* **Berechnungen**: Für die Berechnung der Sterberaten insgesamt sowie nach Geschlecht, Altersgruppen und Bundesland wurde die Durchschnittsbevölkerung als Bezugspopulation verwendet ([Statistisches Bundesamt 2025b­](https://www.gbe-bund.de/gbe/isgbe.archiv?p_indnr=5&p_archiv_id=7297036&p_sprache=D&p_action=A "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Bevölkerung im Jahresdurchschnitt ab 2011 (Grundlage Zensus 2011 und Zensus 2022)")). Für die Auswertung nach regionaler sozioökonomischer Deprivation wurde der Bevölkerungsdurchschnitt eines Jahres (Mittelwert der Bevölkerung zum 31.12. des Vorjahres und des dargestellten Jahres) verwendet und die Berechnung erfolgte im [Forschungsdatenzentrum](https://www.forschungsdatenzentrum.de/de/gesundheit/todesursachen "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachenstatistik") der Statistischen Ämter des Bundes und der Länder ([Todesursachenstatistik 2003](https://doi.org/10.21242/23211.2003.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2003") - [Todesursachenstatistik 2023](https://doi.org/10.21242/23211.2023.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2023")).
 
 
 <br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
@@ -2896,7 +3121,7 @@ Indikator_ID: `2050102`
 Stand: 30. Januar 2026  
 Link: [https://www.gbe.rki.de/sterblichkeit-an-ncd](https://www.gbe.rki.de/sterblichkeit-an-ncd)
 
-Weltweit versterben jährlich mindestens etwa 18 Millionen Menschen an nichtübertragbaren Erkrankungen (noncommunicable diseases, NCD) vor Erreichen des 70. Lebensjahres, wovon etwa 80&nbsp;% auf Krebserkrankungen, Herz-Kreislauf-Erkrankungen, Diabetes mellitus und Erkrankungen des Atmungssystems entfallen ([WHO 2025](https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases "Externer Link&nbsp;zur Webseite der WHO: Noncommunicable diseases")). Neben genetischer Prädisposition sind vor allem lebensstilbedingte Faktoren (z. B. Rauchen, körperliche Inaktivität, ungesunde Ernährung) sowie Umweltbedingungen (z. B.&nbsp; Luftverschmutzung) wichtige Risikofaktoren ([WHO 2025](https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases "Externer Link&nbsp;zur Webseite der WHO: Noncommunicable diseases")). Durch Vermeidung oder Verringerung der Risikofaktoren kann die Anzahl vorzeitiger Todesfälle deutlich gesenkt werden. Vor diesem Hintergrund hat sich die Weltgesundheitsorganisation (WHO) das Ziel (Nachhaltigkeitsziel 3.4\) gesetzt, zwischen 2015 und 2030 die Sterblichkeit an diesen vier häufigsten NCD bei Personen im Alter von 30 bis einschließlich 69 Jahren um ein Drittel zu verringern ([Bennett et al. 2020](https://doi.org/10.1016/S0140-6736(20)31761-X "Externer Link&nbsp;zur Publikation: NCD Countdown 2030: pathways to achieving Sustainable Development Goal target 3.4")).
+Weltweit versterben jährlich mindestens etwa 18 Millionen Menschen an nichtübertragbaren Erkrankungen (noncommunicable diseases, NCD) vor Erreichen des 70. Lebensjahres, wovon etwa 80&nbsp;% auf Krebserkrankungen, Herz-Kreislauf-Erkrankungen, Diabetes mellitus und Erkrankungen des Atmungssystems entfallen ([WHO 2025](https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases "Externer Link&nbsp;zur Webseite der WHO: Noncommunicable diseases")). Neben genetischer Prädisposition sind vor allem lebensstilbedingte Faktoren (z. B. Rauchen, körperliche Inaktivität, ungesunde Ernährung) sowie Umweltbedingungen (z. B.&nbsp; Luftverschmutzung) wichtige Risikofaktoren ([WHO 2025](https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases "Externer Link&nbsp;zur Webseite der WHO: Noncommunicable diseases")). Durch Vermeidung oder Verringerung der Risikofaktoren kann die Anzahl vorzeitiger Todesfälle deutlich gesenkt werden. Vor diesem Hintergrund hat sich die Weltgesundheitsorganisation (WHO) das Ziel (Nachhaltigkeitsziel 3.4) gesetzt, zwischen 2015 und 2030 die Sterblichkeit an diesen vier häufigsten NCD bei Personen im Alter von 30 bis einschließlich 69 Jahren um ein Drittel zu verringern ([Bennett et al. 2020](https://doi.org/10.1016/S0140-6736(20)31761-X "Externer Link&nbsp;zur Publikation: NCD Countdown 2030: pathways to achieving Sustainable Development Goal target 3.4")).
 
 #### Definition
 
@@ -2926,7 +3151,7 @@ In der unikausalen Todesursachenstatistik wird für jeden Todesfall das zum Tode
 * **Beschreibung:** Quotient aus der Anzahl aller Sterbefälle an Krebs- (ICD Code: C00&nbsp;–&nbsp;C97), Herz-Kreislauf-Erkrankungen (I00&nbsp;–&nbsp;I99), Diabetes mellitus (E10&nbsp;–&nbsp;E14) und Erkrankungen des Atmungssystems (J30&nbsp;–&nbsp;J98) und der Anzahl aller Personen mit ständigem Wohnsitz in Deutschland.
 * **Stratifizierung**: Die Darstellung nach Bundesland basiert auf dem Wohnort der verstorbenen Person. Die Stratifizierung nach regionaler sozioökonomischer Deprivation erfolgt auf Grundlage des German Index of Socioeconomic Deprivation (GISD) (Jahre 2003 – 2019: GISD Release 2022 v1.1, Jahre 2020 – 2023: GISD Release 2022 v1.2 Fortschreibung) ([Michalski et al. 2022](https://doi.org/10.25646/10640 "Externer Link&nbsp;zur Publikation: German Index of Socioeconomic Deprivation (GISD): Revision, Aktualisierung und Anwendungsbeispiele")). Der GISD fasst Merkmale der Erwerbs-, Bildungs- und Einkommenssituation für jeden Kreis und jede kreisfreie Stadt in einer Kennzahl zusammen. Die Kreise werden entlang ihrer GISD-Werte in Quintile von niedriger bis hoher sozioökonomischer Deprivation eingeteilt, die über den Wohnort der verstorbenen Person mit den Mortalitätsdaten verknüpft werden. Die Berechnung der Mortalitätsraten erfolgt stratifiziert nach niedriger (1. Quintil), mittlerer (2. – 4. Quintil) und hoher (5. Quintil) Deprivation. Unterschiede in der Mortalität nach sozioökonomischer Deprivation beziehen sich auf die räumliche Ebene.
 * **Altersstandardisierung**: Mit der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/isgbe.i?i=1000:55515 "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Standardbevölkerungen - Europastandardbevölkerung 2013") als Bezugspopulation erfolgte eine Altersstandardisierung unter Verwendung von 5-Jahres-Altersgruppen (30 – 34, ..., 65 – 69).
-* **Berechnungen**: Für die Berechnung der Sterberaten insgesamt sowie nach Geschlecht und Bundesland wurde die Durchschnittsbevölkerung als Bezugspopulation verwendet ([Statistisches Bundesamt 2013](https://www.gbe-bund.de/gbe//isgbe.i?i=131D "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Bevölkerung im Jahresdurchschnitt 1980 - 2012 (Grundlage Zensus BRD 1987, DDR 1990)"), [Statistisches Bundesamt 2025b](https://www.gbe-bund.de/gbe/isgbe.archiv?p_indnr=5&p_archiv_id=7297036&p_sprache=D&p_action=A "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Bevölkerung im Jahresdurchschnitt ab 2011 (Grundlage Zensus 2011 und Zensus 2022)")). Da Daten nach Bundesland mit Fallzahlen von 1 bis unter 3 aus datenschutzrechtlichen Gründen nicht bereitgestellt werden, wurde für diese Gruppen eine Fallzahl von 1 angenommen. Die Berechnungen erfolgten unter Verwendung der vom Statistischen Bundesamt auf Anfrage übermittelten aggregierten Fallzahlen und wurden am RKI durchgeführt. Für die Auswertung nach GISD wurde der Bevölkerungsdurchschnitt eines Jahres (Mittelwert der Bevölkerung zum 31.12. des Vorjahres und des dargestellten Jahres) verwendet und die Berechnung erfolgte im [Forschungsdatenzentrum](https://www.forschungsdatenzentrum.de/de/gesundheit/todesursachen "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachenstatistik") der Statistischen Ämter des Bundes und der Länder ([Todesursachenstatistik 2003](https://doi.org/10.21242/23211.2003.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2003") - [Todesursachenstatistik 2023](https://doi.org/10.21242/23211.2023.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2023")).
+* **Berechnungen**: Für die Berechnung der Sterberaten insgesamt sowie nach Geschlecht und Bundesland wurde die Durchschnittsbevölkerung als Bezugspopulation verwendet ([Statistisches Bundesamt 2013](https://www.gbe-bund.de/gbe//isgbe.i?i=131D "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Bevölkerung im Jahresdurchschnitt 1980 - 2012 (Grundlage Zensus BRD 1987, DDR 1990)"), [Statistisches Bundesamt 2025b](https://www.gbe-bund.de/gbe/isgbe.archiv?p_indnr=5&p_archiv_id=7297036&p_sprache=D&p_action=A "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Bevölkerung im Jahresdurchschnitt ab 2011 (Grundlage Zensus 2011 und Zensus 2022)")). Da Daten nach Bundesland mit Fallzahlen von 1 bis unter 3 aus datenschutzrechtlichen Gründen nicht bereitgestellt werden, wurde für diese Gruppen eine Fallzahl von 1 angenommen. Die Berechnungen erfolgten unter Verwendung der vom Statistischen Bundesamt auf Anfrage übermittelten aggregierten Fallzahlen und wurden am RKI durchgeführt. Für die Auswertung nach regionaler sozioökonomischer Deprivation wurde der Bevölkerungsdurchschnitt eines Jahres (Mittelwert der Bevölkerung zum 31.12. des Vorjahres und des dargestellten Jahres) verwendet und die Berechnung erfolgte im [Forschungsdatenzentrum](https://www.forschungsdatenzentrum.de/de/gesundheit/todesursachen "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachenstatistik") der Statistischen Ämter des Bundes und der Länder ([Todesursachenstatistik 2003](https://doi.org/10.21242/23211.2003.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2003") - [Todesursachenstatistik 2023](https://doi.org/10.21242/23211.2023.00.00.1.1.0 "Externer Link&nbsp;zur Webseite vom FDZ: Bevölkerung: Todesursachen Stand: 2023")).
 
 
 <br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
@@ -3101,17 +3326,17 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert Koch-Instituts:
 
 * GEDA 2014/2015-EHIS:
-	+ webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
-	+ gültige Werte für den Indikator: n = 23.899
+  + webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
+  + gültige Werte für den Indikator: n = 23.899
 
 * GEDA 2019/2020-EHIS:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
-	+ gültige Werte für den Indikator: n = 22.706
+  + telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
+  + gültige Werte für den Indikator: n = 22.706
 
 * RKI-Panel 2024:
-	+ webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe mit vier Fragebogenmodulen (A&nbsp;–&nbsp;D), N&nbsp;=&nbsp;47.676 (relevante Teilstichprobe Fragebogen A: n = 27.199)
-	+ gültige Werte für den Indikator: n = 27.095
-	+ [Datensatzversion v3](https://edoc.rki.de/handle/176904/13068.2 "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
+  + webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe mit vier Fragebogenmodulen (A&nbsp;–&nbsp;D), N&nbsp;=&nbsp;41.376 (relevante Teilstichprobe Fragebogen A: n = 27.199)
+  + gültige Werte für den Indikator: n = 27.095
+  + [Datensatzversion v3](https://doi.org/10.25646/12202.2 "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
 
 #### Weiterführende Links
 
@@ -3170,8 +3395,8 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert Koch-Instituts:
 
 * GEDA 2023:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 11 bis 22 mit einem Basismodul und bis zu vier Fragebogenmodulen; N = 30.002 (relevante Teilstichprobe Welle 13, Modul 1 und Welle 14 bis 22, Modul 2: n = 10.026)
-	+ gültige Werte für den Indikator: n = 9.941
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 11 bis 22 mit einem Basismodul und bis zu vier Fragebogenmodulen; N = 30.002 (relevante Teilstichprobe Welle 13, Modul 1 und Welle 14 bis 22, Modul 2: n = 10.026)
+  + gültige Werte für den Indikator: n = 9.941
 
 #### Datenqualität
 
@@ -3225,21 +3450,21 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert Koch-Instituts:
 
 * GEDA 2019/2020-EHIS:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
-	+ gültige Werte für den Indikator: n = 22.651
+  + telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
+  + gültige Werte für den Indikator: n = 22.651
 
 * GEDA 2022:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen, N = 33.149 (relevante Teilstichprobe Welle 1 bis 10, Modul 2: n = 8.288)
-	+ gültige Werte für den Indikator aus Welle 1 bis 10, Modul 2: n = 8.267
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen, N = 33.149 (relevante Teilstichprobe Welle 1 bis 10, Modul 2: n = 8.288)
+  + gültige Werte für den Indikator aus Welle 1 bis 10, Modul 2: n = 8.267
 
 * GEDA 2023:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 11 bis 22 mit einem Basismodul und bis zu vier Fragebogenmodulen, N = 30.002 (relevante Teilstichprobe Welle 11 bis 22, Modul 2: n = 12.017)
-	+ gültige Werte für den Indikator aus Welle 11 bis 22, Modul 2: n = 11.982
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 11 bis 22 mit einem Basismodul und bis zu vier Fragebogenmodulen, N = 30.002 (relevante Teilstichprobe Welle 11 bis 22, Modul 2: n = 12.017)
+  + gültige Werte für den Indikator aus Welle 11 bis 22, Modul 2: n = 11.982
 
 * RKI-Panel 2024:
-	+ webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe mit vier Fragebogenmodulen (A&nbsp;–&nbsp;D), N&nbsp;=&nbsp;47.676 (relevante Teilstichprobe Fragebogen A: n = 27.199)
-	+ gültige Werte für den Indikator: n = 26.795
-	+ [Datensatzversion v3](https://edoc.rki.de/handle/176904/13068.2 "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
+  + webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe mit vier Fragebogenmodulen (A&nbsp;–&nbsp;D), N&nbsp;=&nbsp;41.376 (relevante Teilstichprobe Fragebogen A: n = 27.199)
+  + gültige Werte für den Indikator: n = 26.795
+  + [Datensatzversion v3](https://doi.org/10.25646/12202.2 "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
 
 #### Datenqualität
 
@@ -3284,25 +3509,25 @@ Die Erfassung von Einschränkungen in instrumentellen Aktivitäten des tägliche
 GEDA 2014/2015-EHIS
 
 * „Wenn Sie 65 Jahre oder älter sind, denken Sie nun an Tätigkeiten bei der Erledigung des Haushalts. Bitte lassen Sie alle vorübergehenden Probleme außer Acht. Haben Sie normalerwiese Schwierigkeiten, eine dieser Tätigkeiten ohne Hilfe auszuführen?“
-	+ „Mahlzeiten zubereiten“
-	+ „Das Telefon benutzen“
-	+ „Einkäufe erledigen“
-	+ „Medikamenteneinnahme organisieren“
-	+ „Leichte Hausarbeit erledigen“
-	+ „Gelegentlich schwere Hausarbeit erledigen“
-	+ „Organisation finanzieller und alltäglicher Verwaltungsangelegenheiten“
+  + „Mahlzeiten zubereiten“
+  + „Das Telefon benutzen“
+  + „Einkäufe erledigen“
+  + „Medikamenteneinnahme organisieren“
+  + „Leichte Hausarbeit erledigen“
+  + „Gelegentlich schwere Hausarbeit erledigen“
+  + „Organisation finanzieller und alltäglicher Verwaltungsangelegenheiten“
 * Antwortmöglichkeiten jeweils: „Keine Schwierigkeiten“, „Einige Schwierigkeiten“, „Große Schwierigkeiten“, „Es ist mir nicht möglich/Ich bin dazu nicht in der Lage“, „Nicht zutreffend (habe ich nie versucht bzw. getan)“
 
 GEDA 2019/2020-EHIS
 
 * „Denken Sie nun an Tätigkeiten bei der Erledigung des Haushalts. Bitte lassen Sie alle vorübergehenden Probleme außer Acht. Haben Sie normalerwiese Schwierigkeiten, eine dieser Tätigkeiten ohne Hilfe auszuführen?“
-	+ „Mahlzeiten zubereiten“
-	+ „Das Telefon benutzen“
-	+ „Einkäufe erledigen“
-	+ „Medikamenteneinnahme organisieren“
-	+ „Leichte Hausarbeit erledigen“
-	+ „Gelegentlich schwere Hausarbeit erledigen“
-	+ „Organisation finanzieller und alltäglicher Verwaltungsangelegenheiten“
+  + „Mahlzeiten zubereiten“
+  + „Das Telefon benutzen“
+  + „Einkäufe erledigen“
+  + „Medikamenteneinnahme organisieren“
+  + „Leichte Hausarbeit erledigen“
+  + „Gelegentlich schwere Hausarbeit erledigen“
+  + „Organisation finanzieller und alltäglicher Verwaltungsangelegenheiten“
 * Antwortmöglichkeiten jeweils: „Keine“, „Einige“, „Große Schwierigkeiten“, „Es ist mir nicht möglich“, „Habe ich nie versucht bzw. getan.“
 
 Eine Einschränkung in den instrumentellen Aktivitäten des täglichen Lebens besteht, wenn bei mindestens einer der sieben Tätigkeiten große Schwierigkeiten bestehen, diese ohne Hilfe auszuführen oder eine Ausübung gar nicht möglich ist.
@@ -3316,16 +3541,16 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 65 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert Koch-Instituts:
 
 * GEDA 2014/2015-EHIS:
-	+ webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
-	+ gültige Werte für den Indikator: n = 5.618 Personen ab 65 Jahren
+  + webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
+  + gültige Werte für den Indikator: n = 5.618 Personen ab 65 Jahren
 
 * GEDA 2019/2020-EHIS:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
-	+ gültige Werte für den Indikator: n = 7.857 Personen ab 65 Jahren
+  + telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
+  + gültige Werte für den Indikator: n = 7.857 Personen ab 65 Jahren
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte und Menschen mit Beeinträchtigungen und Behinderungen, oder dass sie von der Teilnahme ausgeschlossen wurden, wie zum Beispiel Personen mit eingeschränkter Auskunfts- und Einwilligungsfähigkeit oder die in Pflegeheimen leben. Dadurch könnte die tatsächliche Verbreitung der iADL-Einschränkungen in Deutschland höher sein.&nbsp;
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte und Menschen mit Beeinträchtigungen und Behinderungen, oder dass sie von der Teilnahme ausgeschlossen wurden, wie zum Beispiel Personen mit eingeschränkter Auskunfts- und Einwilligungsfähigkeit oder die in Pflegeheimen leben. Dadurch könnte die tatsächliche Verbreitung der iADL-Einschränkungen in Deutschland höher sein.
 
 Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews. Zeitvergleiche der Ergebnisse zwischen GEDA 2014/2015-EHIS und den anderen Wellen sollten aufgrund von Unterschieden in der Stichprobenziehung sowie Unterschieden im Erhebungsmodus vorsichtig interpretiert werden. So war eine Teilnahme von Personen mit größeren Schwierigkeiten beim Telefonieren in GEDA 2014/2015-EHIS anhand des schriftlichen Fragebogens im Gegensatz zu GEDA 2019/2020-EHIS anhand des Telefoninterviews wahrscheinlich leichter möglich.
 
@@ -3376,25 +3601,25 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert Koch-Instituts:
 
 * GEDA 2014/2015-EHIS:
-	+ webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
-	+ gültige Werte für den Indikator: n = 23.841
+  + webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
+  + gültige Werte für den Indikator: n = 23.841
 
 * GEDA 2019/2020-EHIS:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
-	+ gültige Werte für den Indikator: n = 22.639
+  + telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
+  + gültige Werte für den Indikator: n = 22.639
 
 * GEDA 2022:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen, N = 33.149
-	+ gültige Werte für den Indikator aus Welle 1 bis 10, Basismodul: n = 33.032
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen, N = 33.149
+  + gültige Werte für den Indikator aus Welle 1 bis 10, Basismodul: n = 33.032
 
 * GEDA 2023:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 11 bis 22 mit einem Basismodul und bis zu vier Fragebogenmodulen, N = 30.002
-	+ gültige Werte für den Indikator aus Welle 11 bis 22, Basismodul: n = 29.903
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 11 bis 22 mit einem Basismodul und bis zu vier Fragebogenmodulen, N = 30.002
+  + gültige Werte für den Indikator aus Welle 11 bis 22, Basismodul: n = 29.903
 
 * RKI-Panel 2024:
-	+ webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe mit vier Fragebogenmodulen (A&nbsp;–&nbsp;D), N&nbsp;=&nbsp;47.676 (relevante Teilstichprobe Fragebogen A: n = 27.199)
-	+ gültige Werte für den Indikator: n = 27.087
-	+ [Datensatzversion v3](https://edoc.rki.de/handle/176904/13068.2 "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
+  + webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe mit vier Fragebogenmodulen (A&nbsp;–&nbsp;D), N&nbsp;=&nbsp;41.376 (relevante Teilstichprobe Fragebogen A: n = 27.199)
+  + gültige Werte für den Indikator: n = 27.087
+  + [Datensatzversion v3](https://doi.org/10.25646/12202.2 "Externer Link&nbsp;zu den Fragebögen aus dem RKI-Panel 2024")
 
 #### Datenqualität
 
@@ -3416,6 +3641,294 @@ Für das RKI-Panel „Gesundheit in Deutschland“ und für GEDA 2014/2015-EHIS 
 * [RKI-Panel „Gesundheit in Deutschland“](https://www.rki.de/DE/Themen/Forschung-und-Forschungsdaten/Sentinels-Surveillance-Panel/Panel/panel-gesundheit-in-deutschland-node.html "Externer Link&nbsp;zur Webseite des RKI-Panels „Gesundheit in Deutschland“")
 * [GEDA: Gesundheit in Deutschland aktuell](https://www.rki.de/geda "Externer Link&nbsp;zur Webseite des RKI: GEDA: Gesundheit in Deutschland aktuell")
 * [EHIS: European Health Interview Survey](https://ec.europa.eu/eurostat/de/web/microdata/european-health-interview-survey "Externer Link&nbsp;zur Webseite von Eurostat:  Mikrodaten - Europäische Gesundheitsumfrage")
+
+
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
+
+### Indikator 'Diabetes: 10-Jahres-Risiko (18 – 79 Jahre)'
+
+Indikator_ID: `2060101`  
+Stand: 30. Januar 2026  
+Link: [https://www.gbe.rki.de/diabetes-risiko](https://www.gbe.rki.de/diabetes-risiko)
+
+Über 90&nbsp;% der Personen mit einem Diabetes mellitus (Zuckerkrankheit) in Deutschland sind von einem Typ-2-Diabetes betroffen ([Reitzle et al. 2023](https://doi.org/10.1055/a-1791-0918 "Externer Link&nbsp;zur Publikation: Algorithmus zur Unterscheidung von Diabetes mellitus Typ 1 und Typ 2 bei der Analyse von Routinedaten")). Zu den Risikofaktoren für Typ-2-Diabetes zählen neben dem Alter und einer familiären Krankheitshäufung auch beeinflussbare Faktoren wie beispielsweise [Übergewicht](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KrankheitsnaheRisikofaktorenUndSymptome/KrankheitsnaheRisikofaktoren/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)") und körperliche Inaktivität. Das individuelle Risiko, in den nächsten zehn Jahren an einem Typ-2-Diabetes zu erkranken (absolutes 10-Jahres-Diabetesrisiko in Prozent), kann mit dem Deutschen Diabetes-Risiko-Test (DRT) bei Personen ohne bisherige Diabetesdiagnose bestimmt werden ([Schiborn et al. 2022](https://doi.org/10.3238/arztebl.m2022.0268 "Externer Link&nbsp;zur Publikation: German Diabetes Risk Score for the Determination of the Individual Type 2 Diabetes Risk - 10-year prediction and external validations")). Der Test fasst hierzu die Informationen zu verschiedenen Risikofaktoren des Typ-2-Diabetes zusammen. Die nicht-klinische Testversion beruht allein auf erfragten Informationen.
+
+#### Definition
+
+Der Indikator *Diabetes: 10-Jahres-Risiko* ist definiert als geometrischer Mittelwert des absoluten Risikos in der Bevölkerung ohne einen bereits bekannten Diabetes, innerhalb der nächsten 10 Jahre an einem Typ-2-Diabetes zu erkranken, geschätzt durch den DRT und angegeben in Prozent (%).
+
+#### Operationalisierung
+
+Die Erfassung der einzelnen Komponenten des DRT basiert auf Selbstangaben der Befragten. Die Berechnung der DRT-Punkte beruht auf folgenden Ausprägungen der DRT-Komponenten ([DIfE – Deutscher Diabetes-Risiko-Test](https://www.dife.de/news/diabetes-risiko-test/ "Externer Link&nbsp;zur Webseite: Deutscher Diabetes-Risiko-Test")):
+
+Krankheitswissen und Informationsbedarfe – Diabetes mellitus 2017, GEDA 2022 und RKI-Panel 2024
+
+* Alter (<&nbsp;35, 35 – 39, 40 – 44, 45 – 49, 50 – 54, 55 – 59, 60 – 64, 65 – 69, 70 – 74, ≥&nbsp;75 Jahre)
+* Körpergröße (<&nbsp;152, 152 – 159, 160 – 167, 168 – 175, 176 – 183, 184 – 191, ≥&nbsp;192 cm)
+* Taillenumfang (<&nbsp;75, 75-79, 80 – 84, 85 – 89, 90 – 94, 95 – 99, 100 – 104, 105 – 109, 110&nbsp;–&nbsp;114, 115&nbsp;–&nbsp;119, ≥&nbsp;120 cm), der berechnet wurde basierend auf Selbstangaben zu Körpergewicht (kg), Körpergröße (cm), Alter (Jahre) und Geschlecht ([Heidemann et al. 2019](https://doi.org/10.1136/bmjdrc-2019-000680 "Externer Link&nbsp;zur Publikation: Perceived diabetes risk and related determinants in individuals with high actual diabetes risk: results from a nationwide population-based survey"))
+* Rauchen (aktuell <&nbsp;20 oder ≥&nbsp;20 Zigaretten/Tag, ehemals <&nbsp;20 oder ≥&nbsp;20 Zigaretten/Tag, nie)
+* Körperliche Aktivität in der Freizeit (<&nbsp;5 vs. ≥&nbsp;5 h/Woche)
+* Verzehr von Vollkornbrot/Müsli (0, 1, 2, 3, 4, >&nbsp;4 Scheiben bzw. Portionen/Tag)
+* Verzehr von rotem Fleisch (nie oder selten, 1 – 2-mal/Woche, 3 – 4-mal/Woche, 5 – 6-mal/Woche, täglich, mehrmals täglich)
+* Kaffeekonsum (0 – 1, 2 – 5, >&nbsp;5 Tassen/Tag)
+* Diagnose Hypertonie (ja/nein)
+* Diabetes bei leiblichen Eltern (nein oder nicht bekannt, ja: ein Elternteil, ja: beide Elternteile)
+* Diabetes bei mindestens einem leiblichen Geschwisterkind (nein oder nicht bekannt, ja)
+
+Die Summe der DRT-Punkte wird zur Berechnung des absoluten 10-Jahres-Risiko für einen Typ-2-Diabetes in Prozent (%) herangezogen ([Schiborn et al. 2022](https://doi.org/10.3238/arztebl.m2022.0268 "Externer Link&nbsp;zur Publikation: German Diabetes Risk Score for the Determination of the Individual Type 2 Diabetes Risk - 10-year prediction and external validations")).
+
+#### Bezugspopulation
+
+Deutschsprachige Wohnbevölkerung in Privathaushalten von 18 bis 79 Jahren ohne bekannten Diabetes in Deutschland.
+
+#### Datenquelle und Fallzahl
+
+Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert Koch-Instituts (RKI):
+
+* Krankheitswissen und Informationsbedarfe – Diabetes mellitus 2017:
+  + telefonische Befragungen mit Festnetz und Mobilfunk, N = 2.127 18- bis 79-Jährige ohne bisherige Diabetesdiagnose
+  + gültige Werte für den Indikator: n = 2.066
+
+* GEDA 2022:
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen; N = 33.149 (relevante Teilstichprobe Welle 4 bis 10, Modul 2, n = 4.524 18- bis 79-Jährige ohne bisherige Diabetesdiagnose)
+  + gültige Werte für den Indikator: n = 4.405
+
+* RKI-Panel 2024:
+  + webbasierte und schriftliche Befragungen auf Basis einer Einwohnermeldeamtsstichprobe mit vier Fragebogenmodulen (A – D), N = 47.676 (relevante Teilstichprobe Fragebogen A „Selbstberichteter Gesundheitszustand und Versorgungsbedarfe“: n = 27.199)
+  + gültige Werte für den Indikator: n = 24.088
+
+#### Datenqualität
+
+Die Befragungssurveys des RKI liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Die Daten beruhen auf zufälligen Stichproben aus der Bevölkerung, was die Aussagekraft der Ergebnisse deutlich erhöht. Wie bei allen bevölkerungsbezogenen Studien ist jedoch davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Andererseits könnten Personen mit einem starken Interesse an Gesundheitsthemen überrepräsentiert sein. Diese Effekte werden teilweise durch die unten beschriebenen Gewichtungsverfahren ausgeglichen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
+
+Für das RKI-Panel beruhen die Stichproben auf Einwohnermeldeamtsstichproben anstelle von Telefonstichproben. Zudem wechselte der Erhebungsmodus von Telefoninterview zu webbasiertem oder schriftlichem Fragebogen. Der veränderte Stichprobenzugang führte zu einer höheren Beteiligung von Personen aus der niedrigen Bildungsgruppe und Personen mit gesundheitlichen Einschränkungen. Der Wechsel zu einem schriftlichen Fragebogen verbessert in der Regel die Datenqualität, da es am Telefon schwierig ist, komplexe Fragen zu beantworten, und müsste die Effekte sozialer Erwünschtheit verringern, sodass bei sensiblen Fragen mit offeneren Antworten gerechnet werden kann. Zeitvergleiche der Ergebnisse zwischen dem RKI-Panel mit anderen GEDA-Erhebungen sollten daher vorsichtig interpretiert werden.
+
+#### Berechnung
+
+* **Beschreibung und Stratifizierung**: Für den Indikator werden die Kennzahlen für Gesamt sowie nach Geschlecht, Alter, Bundesland und Bildung ausgewiesen. In der Studie Krankheitswissen und Informationsbedarfe – Diabetes mellitus 2017 wurden die Teilnehmenden gefragt, ob sie männlich oder weiblich sind. Seit GEDA 2019/2020-EHIS werden das Geburtsgeschlecht und die geschlechtliche Identität erhoben ([Pöge et al. 2022](https://doi.org/10.25646/9957 "Externer Link&nbsp;zur Publikation: Erhebung geschlechtlicher Diversität in der Studie GEDA 2019/2020-EHIS – Ziele, Vorgehen und Erfahrungen")). In den Analysen nach Geschlecht werden Personen ausgewiesen, die sich als weiblich oder männlich identifizieren. Genderdiverse Menschen, die sich diesen Kategorien nicht zuordnen, werden aufgrund der geringen Fallzahl in den Analysen nach Geschlecht nicht gesondert ausgewiesen. Die Darstellung nach Bundesland basiert auf dem Wohnort der Befragten. Der Bildungsstatus wird anhand des CASMIN-Indexes bestimmt ([Brauns et al. 2003](https://link.springer.com/chapter/10.1007/978-1-4419-9186-7_11 "Externer Link&nbsp;zum Buchbeitrag: The CASMIN educational classification in international comparative research")). Dieser verwendet Angaben zu schulischer und beruflicher Bildung und ermöglicht die Einteilung in eine niedrige, mittlere und hohe Bildungsgruppe.
+* **Umgang mit unsicheren Werten**: Voraussetzung für die stratifizierte Darstellung eines Indikators ist, dass die Fallzahl in der Gruppe mindestens 5 beträgt und die statistische Unsicherheit in der Schätzung der Kennziffer als akzeptabel angesehen wird (Konfidenzintervall schmaler als 25 Prozentpunkte und Variationskoeffizient ≤ 33,5 %). Letzteres bedeutet, dass die untere Grenze des Konfidenzintervalls mindestens die Hälfte des Schätzers betragen muss. Sind diese Kriterien nicht erfüllt, werden die Werte nicht berichtet („zu wenige Daten“). Berichtet, jedoch als unsicher markiert, werden Werte, die auf weniger als 10 Fällen basieren, deren Konfidenzintervall breiter als 20 Prozentpunkte ist oder wenn die Untergrenze weniger als ⅔ des Schätzers beträgt (Variationskoeffizient ≤ 16,6 %). Aufgrund der Unsicherheit sollten diese Werte mit Vorsicht interpretiert werden.
+* **Gewichtung**: Um Abweichungen der Surveys von der zugrundeliegenden Bezugspopulation durch unterschiedliche Teilnahmebereitschaft oder das Stichprobendesign zu korrigieren, wurde bei den Berechnungen in jedem Survey ein Gewichtungsfaktor verwendet. Diese Gewichtungen passen die Surveys an die Bevölkerungsstruktur Deutschlands hinsichtlich Geschlecht, Alter, Bundesland und Bildung an. Im RKI-Panel 2024 enthielt die Gewichtung auch eine Anpassung für Ein-Personen- vs. Mehr-Personen-Haushalte. Außerdem wurde ein Korrekturfaktor auf Basis der Angaben in der Rekrutierungsstudie für das RKI-Panel 2024 berücksichtigt, der die Nicht-Teilnahme an einzelnen Teilwellen bei der wiederholten Befragung im RKI-Panel ausgleicht. Dabei wurden die Daten des Statistischen Bundesamts zum Stichtag 31.12.2016 (Krankheitswissen und Informationsbedarfe – Diabetes mellitus 2017), 31.12.2020 (GEDA 2022) und 31.12.2023 (RKI-Panel 2024) verwendet. Die Informationen zu Haushalten und zur Bildungsverteilung wurden dem Mikrozensus 2016 (Krankheitswissen und Informationsbedarfe – Diabetes mellitus 2017), 2018 (GEDA 2022) und 2021 (RKI-Panel 2024) entnommen. Die Bildungsgruppen wurden auf Basis der ISCED-Klassifikation bestimmt ([Schroedter et al. 2006](https://www.ssoar.info/ssoar/bitstream/handle/document/26239/ssoar-2006-schroedter_et_al-die_umsetzung_der_bildungsskala_isced-1997.pdf?sequence=1 "Externer Link&nbsp;zur Publikation: Die Umsetzung der Bildungsskala ISCED-1997 für die Volkszählung 1970, die Mikrozensus-Zusatzerhebung 1971 und die Mikrozensen 1976-2004 (Version 1)"), [UNESCO 2012)](https://unesdoc.unesco.org/ark:/48223/pf0000219109 "Externer Link&nbsp;zur Publikation: International Standard Classification of Education 2011"). Im RKI-Panel 2024 wurde die Bildung entsprechend dem CASMIN-Index klassifiziert ([Brauns et al. 2003](https://link.springer.com/chapter/10.1007/978-1-4419-9186-7_11 "Externer Link&nbsp;zum Buchbeitrag: The CASMIN educational classification in international comparative research")).
+* **Alters- und Geschlechtsstandardisierung**: Die Ergebnisse werden in zwei Versionen gezeigt: auf das jeweilige Erhebungsjahr gewichtet, wie oben beschrieben (‚beobachtet’), sowie standardisiert nach Alter und Geschlecht entsprechend der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/isgbe.i?i=1000:55515 "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Standardbevölkerungen - Europastandardbevölkerung 2013") (‚altersstandardisiert‘). Für Darstellungen nach Bundesland oder Bildungsgruppe wurde die Standardisierung innerhalb des jeweiligen Bundeslandes bzw. der jeweiligen Bildungsgruppe durchgeführt. Die ‚beobachteten‘ Ergebnisse bilden die tatsächliche Alters- und Geschlechtsverteilung innerhalb der Erhebungsjahre und Bildungsgruppen ab. Sie sind damit zum Beispiel zur Analyse von Fragen des Versorgungsbedarfs und dessen Veränderung über die Zeit geeignet. Bei den ‚altersstandardisierten‘ Ergebnissen sind die Erhebungsjahre, Bundesländer bzw. Bildungsgruppen hinsichtlich Alter und Geschlecht vergleichbar. Dies erleichtert das Aufzeigen von Unterschieden, die sich nicht allein durch Alter und Geschlecht erklären lassen.
+* **Konfidenzintervalle**: Die zufallsbedingte Variabilität der Ergebnisse kann den 95 %-Konfidenzintervallen in den Tabellen und Abbildungen entnommen werden. Die Konfidenzintervalle wurden mit der Logit-Methode berechnet. Dabei wurde die Streuung der Gewichtungsfaktoren berücksichtigt.
+* **Regionale Unterschiede**: Statistisch signifikante Unterschiede zwischen den Bundesländern und dem Bundesdurchschnitt wurden mittels T-Test unter Adjustierung für multiples Testen ermittelt. Jedes Bundesland wurde im Vergleich zu den übrigen Bundesländern (zusammengefasst) getestet. Die Einteilung in der Karte erfolgt anhand von fünf äquidistanten Kategorien.
+
+#### Weiterführende Links
+
+* [RKI-Panel „Gesundheit in Deutschland“](https://www.rki.de/DE/Themen/Forschung-und-Forschungsdaten/Sentinels-Surveillance-Panel/Panel/panel-gesundheit-in-deutschland-node.html "Externer Link&nbsp;zur Webseite des RKI-Panels „Gesundheit in Deutschland“")
+* [GEDA: Gesundheit in Deutschland aktuell](https://www.rki.de/geda "Externer Link&nbsp;zur Webseite des RKI: GEDA: Gesundheit in Deutschland aktuell")
+* [Krankheitswissen und Informationsbedarfe – Diabetes mellitus 2017](https://doi.org/10.17886/RKI-GBE-2018-062 "Externer Link&nbsp;zur Publikation: Erste Ergebnisse der Studie „Krankheitswissen und Informationsbedarfe – Diabetes mellitus (2017)")
+
+
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
+
+### Indikator 'Herz-Kreislauf-Erkrankung: 10-Jahres-Risiko (18 – 79 Jahre)'
+
+Indikator_ID: `2060102`  
+Stand: 20. November 2024  
+Link: [https://www.gbe.rki.de/hke-risiko](https://www.gbe.rki.de/hke-risiko)
+
+Herz-Kreislauf-Erkrankungen sind verschiedene Erkrankungen des Herzens und der Blutgefäße. Bei gestörter Durchblutung des Herzens oder des Gehirns kann ein Herzinfarkt beziehungsweise ein Schlaganfall auftreten. Zahlreiche Faktoren beeinflussen das Risiko für Herz-Kreislauf-Erkrankungen, darunter das Alter oder die Ernährung. Das individuelle Risiko, in den nächsten 10 Jahren erstmals an einem Herzinfarkt oder Schlaganfall zu erkranken (absolutes 10-Jahres-Herz-Kreislauf-Erkrankungs-Risiko in Prozent), kann mit dem Herz-Kreislauf-Erkrankungs-Risiko-Test bei Personen ohne bekannten Herzinfarkt oder Schlaganfall bestimmt werden ([Schiborn et al. 2021](https://doi.org/10.1038/s41598-021-99103-4 "Externer Link&nbsp;zur Publikation: A newly developed and externally validated non-clinical score accurately predicts 10-year cardiovascular disease risk in the general adult population"), [DIfE 2024](https://www.dife.de/news/herz-kreislauf-erkrankungs-risiko-test/ "Externer Link&nbsp;zur Webseite des DIfE: Herz-Kreislauf-Erkrankungs-Risiko-Test")). Der Test fasst hierzu die Informationen zu verschiedenen Risikofaktoren für Herz-Kreislauf-Erkrankungen zusammen. Die nicht-klinische Testversion beruht allein auf erfragten Informationen.
+
+#### Definition
+
+Der Indikator *Herz-Kreislauf-Erkrankung: 10-Jahres-Risiko* ist definiert als geometrischer Mittelwert des absoluten Risikos in der Bevölkerung ohne einen bereits bekannten Herzinfarkt oder Schlaganfall, in den nächsten 10 Jahren an einem Herzinfarkt oder Schlaganfall zu erkranken, geschätzt durch den Deutschen Herz-Kreislauf-Erkrankungs-Risiko-Test und angegeben in Prozent (%).
+
+#### Operationalisierung
+
+Die Erfassung der Komponenten des Tests für das erstmalige Auftreten von Herzinfarkt oder Schlaganfall basiert auf Selbstangaben der Befragten. Die Berechnung der Punkte beruht auf folgenden Ausprägungen der Herz-Kreislauf-Erkrankungs-Risiko-Test-Komponenten:
+
+GEDA 2022:
+
+* Alter (<&nbsp;35, 35 – 39, 40 – 44, 45 – 49, 50 – 54, 55 – 59, 60 – 64, 65 – 69, 70 – 74, ≥&nbsp;75 Jahre)
+* Geschlecht (weiblich, männlich)
+* Taillenumfang (< 75, 75 – 79, 80 – 84, 85 – 89, 90 – 94, 95 – 99, 100 – 104, 105 – 109, 110 – 114, 115 – 119, ≥ 120 cm), der berechnet wurde basierend auf Selbstangaben zu Körpergewicht (kg), Körpergröße (cm), Alter (Jahre) und Geschlecht ([Heidemann et al. 2019](https://doi.org/10.1136/bmjdrc-2019-000680 "Externer Link&nbsp;zur Publikation: Perceived diabetes risk and related determinants in individuals with high actual diabetes risk: results from a nationwide population-based survey"))
+* Rauchen (aktuell <&nbsp;20 oder ≥&nbsp;20 Zigaretten/Tag, ehemals <&nbsp;20 oder ≥&nbsp;20 Zigaretten/Tag, nie)
+* Hypertoniediagnose (ja, nein)
+* Diabetesdiagnose (ja, nein)
+* Herz-Kreislauf-Erkrankung bei leiblichen Eltern (nein oder nicht bekannt, ja – ein Elternteil, ja – beide Elternteile)
+* Herz-Kreislauf-Erkrankung bei mindestens einem leiblichen Geschwisterkind (nein oder nicht bekannt, ja)
+* Verzehr von Vollkornbrot/Müsli (0, 1, 2, 3, 4, >&nbsp;4 Scheiben bzw. Portionen/Tag)
+* Verzehr von rotem Fleisch (nie oder selten, 1 – 2 mal/Woche, 3 – 4 mal/Woche, 5 – 6 mal/Woche, täglich, mehrmals täglich)
+* Kaffeekonsum (0 – 1, 2 – 5, >&nbsp;5 Tassen/Tag)
+* Konsum zuckerhaltiger Erfrischungsgetränke (nie oder nicht täglich, 1-2, 3, 4, >&nbsp;4 Gläser/Tag)
+* Verzehr von Pflanzenöl (0 – 0,5, >&nbsp;0,5-1, >&nbsp;1-2, >&nbsp;2 Esslöffel/Tag)
+
+Die Summe der Punkte wird zur Berechnung des absoluten 10-Jahres-Herz-Kreislauf-Erkrankungs-Risikos in Prozent herangezogen ([Schiborn et al. 2021](https://doi.org/10.1038/s41598-021-99103-4 "Externer Link&nbsp;zur Publikation: A newly developed and externally validated non-clinical score accurately predicts 10-year cardiovascular disease risk in the general adult population")).
+
+#### Bezugspopulation
+
+Deutschsprachige Wohnbevölkerung von 18 bis 79 Jahren in Privathaushalten ohne bekannten Herzinfarkt oder Schlaganfall in Deutschland.
+
+#### Datenquelle und Fallzahl
+
+Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert Koch-Instituts:
+
+* GEDA 2022:
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen; N = 33.149 (relevante Teilstichprobe Welle 4 bis 10, Modul 2, N = 4.783 18- bis 79-Jährige ohne bisherige Herzinfarkt- oder Schlaganfalldiagnose)
+  + gültige Werte für den Indikator: n = 4.430
+
+#### Datenqualität
+
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
+
+#### Berechnung
+
+* **Beschreibung und Stratifizierung**: Für den Indikator werden die Kennzahlen für Gesamt sowie nach Geschlecht, Alter und Bildung ausgewiesen. Seit GEDA 2019/2020-EHIS werden das Geburtsgeschlecht und die geschlechtliche Identität erhoben ([Pöge et al. 2022](https://doi.org/10.25646/9957 "Externer Link&nbsp;zur Publikation: Erhebung geschlechtlicher Diversität in der Studie GEDA 2019/2020-EHIS – Ziele, Vorgehen und Erfahrungen")). In den Analysen nach Geschlecht werden Personen ausgewiesen, die sich als weiblich oder männlich identifizieren. Genderdiverse Menschen, die sich diesen Kategorien nicht zuordnen, werden aufgrund der geringen Fallzahl in den Analysen nach Geschlecht nicht gesondert ausgewiesen. Der Bildungsstatus wird anhand des CASMIN-Indexes bestimmt ([Brauns et al. 2003](https://link.springer.com/chapter/10.1007/978-1-4419-9186-7_11 "Externer Link&nbsp;zum Buchbeitrag: The CASMIN educational classification in international comparative research")). Dieser verwendet Angaben zu schulischer und beruflicher Bildung und ermöglicht die Einteilung in eine niedrige, mittlere und hohe Bildungsgruppe.
+* **Umgang mit unsicheren Werten**: Voraussetzung für die stratifizierte Darstellung eines Indikators ist, dass die Fallzahl in der Gruppe mindestens 5 beträgt und die statistische Unsicherheit in der Schätzung der Kennziffer als akzeptabel angesehen wird (Konfidenzintervall schmaler als 25 Prozentpunkte und Variationskoeffizient ≤ 33,5 %). Letzteres bedeutet, dass die untere Grenze des Konfidenzintervalls mindestens die Hälfte des Schätzers betragen muss. Sind diese Kriterien nicht erfüllt, werden die Werte nicht berichtet („zu wenige Daten“). Berichtet, jedoch als unsicher markiert, werden Werte, die auf weniger als 10 Fällen basieren, deren Konfidenzintervall breiter als 20 Prozentpunkte ist oder wenn die Untergrenze weniger als ⅔ des Schätzers beträgt (Variationskoeffizient ≤ 16,6 %). Aufgrund der Unsicherheit sollten diese Werte mit Vorsicht interpretiert werden.
+* **Gewichtung**: Um Abweichungen der Surveys von der zugrundeliegenden Bezugspopulation durch unterschiedliche Teilnahmebereitschaft oder das Stichprobendesign zu korrigieren, wurde bei den Berechnungen in jedem Survey ein Gewichtungsfaktor verwendet. Diese Gewichtungen passen die Surveys an die Bevölkerungsstruktur Deutschlands hinsichtlich Geschlecht, Alter, Bundesland und Bildung an. Beginnend mit GEDA 2014/2015-EHIS wurde zusätzlich die regionale Siedlungsstruktur (Kreis- oder Gemeindetyp) berücksichtigt. Dabei wurden die Daten des Statistischen Bundesamts zum Stichtag 31.12.2020 (GEDA 2022) verwendet. Die Bildungsverteilung wurde dem Mikrozensus 2018 (GEDA 2022) entnommen. Die Bildungsgruppen wurden auf Basis der ISCED-Klassifikation bestimmt ([Schroedter et al. 2006](https://www.ssoar.info/ssoar/bitstream/handle/document/26239/ssoar-2006-schroedter_et_al-die_umsetzung_der_bildungsskala_isced-1997.pdf?sequence=1 "Externer Link&nbsp;zur Publikation: Die Umsetzung der Bildungsskala ISCED-1997 für die Volkszählung 1970, die Mikrozensus-Zusatzerhebung 1971 und die Mikrozensen 1976-2004 (Version 1)"), beginnend mit GEDA 2014/2015-EHIS: [UNESCO 2012](https://unesdoc.unesco.org/ark:/48223/pf0000219109 "Externer Link&nbsp;zur Publikation: International Standard Classification of Education 2011")).
+* **Alters- und Geschlechtsstandardisierung**: Die Ergebnisse werden in zwei Versionen gezeigt: auf das jeweilige Erhebungsjahr gewichtet, wie oben beschrieben (‚beobachtet’), sowie standardisiert nach Alter und Geschlecht entsprechend der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/isgbe.i?i=1000:55515 "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Standardbevölkerungen - Europastandardbevölkerung 2013") (‚altersstandardisiert‘). Für Darstellungen nach Bildungsgruppe wurde die Standardisierung innerhalb der jeweiligen Bildungsgruppe durchgeführt. Die ‚beobachteten‘ Ergebnisse bilden die tatsächliche Alters- und Geschlechtsverteilung innerhalb der Erhebungsjahre und Bildungsgruppen ab. Sie sind damit zum Beispiel zur Analyse von Fragen des Versorgungsbedarfs und dessen Veränderung über die Zeit geeignet. Bei den ‚altersstandardisierten‘ Ergebnissen sind die Erhebungsjahre und Bildungsgruppen hinsichtlich Alter und Geschlecht vergleichbar. Dies erleichtert das Aufzeigen von Unterschieden, die sich nicht allein durch Alter und Geschlecht erklären lassen.
+* **Konfidenzintervalle**: Die zufallsbedingte Variabilität der Ergebnisse kann den 95 %-Konfidenzintervallen in den Tabellen und Abbildungen entnommen werden. Die Konfidenzintervalle wurden mit der Logit-Methode berechnet. Dabei wurde die Streuung der Gewichtungsfaktoren berücksichtigt.
+
+#### Weiterführende Links
+
+* [GEDA: Gesundheit in Deutschland aktuell](https://www.rki.de/geda "Externer Link&nbsp;zur Webseite des RKI: GEDA: Gesundheit in Deutschland aktuell")
+* [DIfE: Deutscher Herz-Kreislauf-Erkrankungs-Risiko-Test](https://www.dife.de/news/herz-kreislauf-erkrankungs-risiko-test/ "Externer Link&nbsp;zur Webseite des DIfE: Herz-Kreislauf-Erkrankungs-Risiko-Test")
+
+
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
+
+### Indikator 'Adipositas und Übergewicht (ab 18 Jahre)'
+
+Indikator_ID: `2060201`  
+Stand: 20. November 2024  
+Link: [https://www.gbe.rki.de/adipositas-und-uebergewicht](https://www.gbe.rki.de/adipositas-und-uebergewicht)
+
+Übergewicht stellt ein über das Normalmaß hinausgehendes Körpergewicht bei einer gegebenen Körpergröße dar. Starkes Übergewicht wird als Adipositas bezeichnet und von der Weltgesundheitsorganisation (WHO) als eigenständige Krankheit eingestuft ([WHO 2000](https://iris.who.int/handle/10665/42330 "Externer Link&nbsp;zur Webseite der WHO: Obesity: preventing and managing the global epidemic: report of a WHO consultation")). Eine Adipositas ist ein zentraler Risikofaktor für die Entstehung von nichtübertragbaren chronischen Erkrankungen, wie zum Beispiel Typ-2-Diabetes, Herz-Kreislauf-Erkrankungen, Muskel- und Gelenkerkrankungen sowie verschiedenen Krebserkrankungen, und geht mit einem höheren Risiko, frühzeitig zu versterben einher.
+
+Adipositas und die Folgeerkrankungen sind ein bedeutendes Public-Health-Problem und stellen eine große wirtschaftliche Herausforderung dar. Laut Berechnungen der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD) wird Deutschland zwischen 2020 und 2050 rund 11 % der Gesundheitsausgaben für die Behandlung von Erkrankungen, die im Zusammenhang mit Adipositas stehen, ausgeben ([OECD 2019](https://doi.org/10.1787/67450d67-en "Externer Link&nbsp;zur Publikation: OECD Health Policy Studies")).
+
+#### Definition
+
+Der Indikator *Übergewicht* (einschließlich Adipositas) ist definiert als der Anteil der Erwachsenen mit einem Body Mass Index (BMI) von ≥&nbsp;25,0&nbsp;kg/m2, eine *Adipositas* liegt bei einem BMI von ≥&nbsp;30,0&nbsp;kg/m2 vor.
+
+#### Operationalisierung
+
+Die Erfassung von Körpergröße und Körpergewicht basiert auf Selbstangaben der Befragten:
+
+GEDA 2019/2020-EHIS:
+
+* „Wie groß sind Sie, wenn Sie keine Schuhe tragen? Bitte geben Sie Ihre Körpergröße in cm an.“
+* „Wie viel wiegen Sie, wenn Sie keine Kleidung und Schuhe tragen? Bitte geben Sie Ihr Körpergewicht in kg an. Interviewerhinweis: Schwangere Frauen geben bitte ihr Gewicht vor der Schwangerschaft an.“
+* Der BMI wird aus dem Verhältnis des Körpergewichts einer Person zum Quadrat der Körpergröße (kg/m2) berechnet.
+
+#### Bezugspopulation
+
+Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschland.
+
+#### Datenquelle und Fallzahl
+
+Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert Koch-Instituts:
+
+* GEDA 2019/2020-EHIS:
+  + telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
+  + gültige Werte für den Indikator: n = 22.414
+
+#### Datenqualität
+
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
+
+#### Weiterführende Links
+
+* [GEDA: Gesundheit in Deutschland aktuell](https://www.rki.de/geda "Externer Link&nbsp;zur Webseite des RKI: GEDA: Gesundheit in Deutschland aktuell")
+* [EHIS: European Health Interview Survey](https://ec.europa.eu/eurostat/de/web/microdata/european-health-interview-survey "Externer Link&nbsp;zur Webseite von Eurostat:  Mikrodaten - Europäische Gesundheitsumfrage")
+
+#### Berechnung
+
+* **Beschreibung und Stratifizierung**: Für den Indikator werden die Kennzahlen für Gesamt sowie nach Geschlecht, Alter, Bundesland und Bildung ausgewiesen. In GEDA 2019/2020-EHIS werden das Geburtsgeschlecht und die geschlechtliche Identität erhoben ([Pöge et al. 2022](https://doi.org/10.25646/9957 "Externer Link&nbsp;zur Publikation: Erhebung geschlechtlicher Diversität in der Studie GEDA 2019/2020-EHIS – Ziele, Vorgehen und Erfahrungen")). In den Analysen nach Geschlecht werden Personen ausgewiesen, die sich als weiblich oder männlich identifizieren. Genderdiverse Menschen, die sich diesen Kategorien nicht zuordnen, werden aufgrund der geringen Fallzahl in den Analysen nach Geschlecht nicht gesondert ausgewiesen. Die Darstellung nach Bundesland basiert auf dem Wohnort der Befragten. Der Bildungsstatus wird anhand des CASMIN-Indexes bestimmt ([Brauns et al. 2003](https://link.springer.com/chapter/10.1007/978-1-4419-9186-7_11 "Externer Link&nbsp;zum Buchbeitrag: The CASMIN educational classification in international comparative research")). Dieser verwendet Angaben zu schulischer und beruflicher Bildung und ermöglicht die Einteilung in eine niedrige, mittlere und hohe Bildungsgruppe.
+* **Umgang mit unsicheren Werten**: Voraussetzung für die stratifizierte Darstellung eines Indikators ist, dass die Fallzahl in der Gruppe mindestens 5 beträgt und die statistische Unsicherheit in der Schätzung der Kennziffer als akzeptabel angesehen wird (Konfidenzintervall schmaler als 25 Prozentpunkte und Variationskoeffizient ≤ 33,5 %). Letzteres bedeutet, dass die untere Grenze des Konfidenzintervalls mindestens die Hälfte des Schätzers betragen muss. Sind diese Kriterien nicht erfüllt, werden die Werte nicht berichtet („zu wenige Daten“). Berichtet, jedoch als unsicher markiert, werden Werte, die auf weniger als 10 Fällen basieren, deren Konfidenzintervall breiter als 20 Prozentpunkte ist oder wenn die Untergrenze weniger als ⅔ des Schätzers beträgt (Variationskoeffizient ≤ 16,6 %). Aufgrund der Unsicherheit sollten diese Werte mit Vorsicht interpretiert werden.
+* **Gewichtung**: Um Abweichungen der Surveys von der zugrundeliegenden Bezugspopulation durch unterschiedliche Teilnahmebereitschaft oder das Stichprobendesign zu korrigieren, wurde bei den Berechnungen in jedem Survey ein Gewichtungsfaktor verwendet. Diese Gewichtungen passen die Surveys an die Bevölkerungsstruktur Deutschlands hinsichtlich Geschlecht, Alter, Bundesland und Bildung an. Beginnend mit GEDA 2014/2015-EHIS wurde zusätzlich die regionale Siedlungsstruktur (Kreis- oder Gemeindetyp) berücksichtigt. Dabei wurden die Daten des Statistischen Bundesamts zum Stichtag 31.12.2019 (GEDA 2019/2020-EHIS) verwendet. Die Informationen zu Haushalten und zur Bildungsverteilung wurden dem Mikrozensus 2017 (GEDA 2019/2020-EHIS) entnommen. Die Bildungsgruppen wurden auf Basis der ISCED-Klassifikation bestimmt ([Schroedter et al. 2006](https://www.ssoar.info/ssoar/bitstream/handle/document/26239/ssoar-2006-schroedter_et_al-die_umsetzung_der_bildungsskala_isced-1997.pdf?sequence=1 "Externer Link&nbsp;zur Publikation: Die Umsetzung der Bildungsskala ISCED-1997 für die Volkszählung 1970, die Mikrozensus-Zusatzerhebung 1971 und die Mikrozensen 1976-2004 (Version 1)"), beginnend mit GEDA 2014/2015-EHIS: [UNESCO 2012](https://unesdoc.unesco.org/ark:/48223/pf0000219109 "Externer Link&nbsp;zur Publikation: International Standard Classification of Education 2011")).
+* **Alters- und Geschlechtsstandardisierung**: Die Ergebnisse werden in zwei Versionen gezeigt: auf das jeweilige Erhebungsjahr gewichtet, wie oben beschrieben (‚beobachtet’), sowie standardisiert nach Alter und Geschlecht entsprechend der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/isgbe.i?i=1000:55515 "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Standardbevölkerungen - Europastandardbevölkerung 2013") (‚altersstandardisiert‘). Für Darstellungen nach Bundesland oder Bildungsgruppe wurde die Standardisierung innerhalb des jeweiligen Bundeslands beziehungsweise der jeweiligen Bildungsgruppe durchgeführt. Die ‚beobachteten‘ Ergebnisse bilden die tatsächliche Alters- und Geschlechtsverteilung innerhalb der Erhebungsjahre, Bundesländer beziehungsweise Bildungsgruppen ab. Sie sind damit zum Beispiel zur Analyse von Fragen des Versorgungsbedarfs und dessen Veränderung über die Zeit geeignet. Bei den ‚altersstandardisierten‘ Ergebnissen sind die Erhebungsjahre, Bundesländer beziehungsweise Bildungsgruppen hinsichtlich Alter und Geschlecht vergleichbar. Dies erleichtert das Aufzeigen von Unterschieden, die sich nicht allein durch Alter und Geschlecht erklären lassen.
+* **Konfidenzintervalle**: Die zufallsbedingte Variabilität der Ergebnisse kann den 95 %-Konfidenzintervallen in den Tabellen und Abbildungen entnommen werden. Die Konfidenzintervalle wurden mit der Logit-Methode berechnet. Dabei wurde die Streuung der Gewichtungsfaktoren berücksichtigt.
+* **Regionale Unterschiede**: Statistisch signifikante Unterschiede zwischen den Bundesländern und dem Bundesdurchschnitt wurden mittels Chi-Quadrat-Test unter Adjustierung für multiples Testen ermittelt. Jedes Bundesland wurde im Vergleich zu den übrigen Bundesländern (zusammengefasst) getestet. Die Einteilung in der Karte erfolgt anhand von fünf äquidistanten Kategorien.
+
+
+<br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
+
+### Indikator 'Bluthochdruck: Prävalenz (ab 18 Jahre)'
+
+Indikator_ID: `2060202`  
+Stand: 19. Mai 2026  
+Link: [https://www.gbe.rki.de/bluthochdruck-praevalenz](https://www.gbe.rki.de/bluthochdruck-praevalenz)
+
+Bluthochdruck ist eine chronische Erkrankung des Herz-Kreislauf-Systems, die durch dauerhaft erhöhte Blutdruckwerte gekennzeichnet ist und überwiegend ab dem mittleren Erwachsenenalter auftritt. Bluthochdruck ist zu einem erheblichen Anteil präventabel. Zu den vermeidbaren Risikofaktoren zählen ungesunde Ernährung, [Alkoholkonsum](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Alkoholkonsum/alkoholkonsum_node.html "Alkoholkonsum"), Bewegungsmangel, [Übergewicht](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KrankheitsnaheRisikofaktorenUndSymptome/KrankheitsnaheRisikofaktoren/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)") und psychosoziale Faktoren wie [chronischer Stress](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/PsychosozialeEinflussfaktoren/PsychosozialeRisikofaktoren/WahrgenommenerStress/wahrgenommenerStress_node.html "Wahrgenommener Stress (ab 18 Jahre)"). Bluthochdruck ist ein wichtiger Risikofaktor für Herz-Kreislauf-Erkrankungen, Demenz, chronische Nierenerkrankungen sowie [Sterblichkeit](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/Krankheitsfolgen/LebenserwartungUndTodesursachen/Sterblichkeit/sterblichkeit_node.html "Sterblichkeit") im Allgemeinen ([Fuchs und Whelton 2020](https://doi.org/10.1161/HYPERTENSIONAHA.119.14240 "Externer Link&nbsp;zur Publikation:&nbsp;High Blood Pressure and Cardiovascular Disease")). Die frühzeitige Behandlung des Bluthochdrucks kann zudem maßgeblich dazu beitragen, Folgeerkrankungen zu vermeiden. Daten zu ärztlich diagnostizierten Fällen von Bluthochdruck aus Befragungssurveys oder administrativen Daten müssen periodisch durch Studien mit standardisierten Blutdruckmessungen ergänzt werden, um auch unerkannten Bluthochdruck sowie die Wirksamkeit von Screenings und Behandlungen zu erfassen.
+
+#### Definition
+
+Der Indikator *Bluthochdruck: Prävalenz* ist definiert als der Anteil der Erwachsenen mit einem jemals ärztlich diagnostizierten Bluthochdruck.
+
+#### Operationalisierung
+
+Die Erfassung des selbstberichteten Bluthochdrucks basiert auf Selbstangaben der Befragten:
+
+GSTel03, GSTel06, GEDA 2009, GEDA 2010 und GEDA 2012
+
+* „Wurden bei Ihnen jemals durch einen Arzt Bluthochdruck oder Hypertonie diagnostiziert?“
+* Antwortkategorien: „Ja“, „Nein“, „weiß nicht“
+
+GEDA 2014/2015-EHIS
+
+* „Wurde bei Ihnen jemals Bluthochdruck von einem Arzt diagnostiziert?“
+* Antwortkategorien: „Ja“, „Nein“
+
+GEDA 2022
+
+* "Hat ein Arzt oder eine Ärztin jemals einen Bluthochdruck bei Ihnen festgestellt?"
+* Antwortkategorien: „Ja“, „Nein“
+
+#### Bezugspopulation
+
+Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschland.
+
+#### Datenquelle und Fallzahl
+
+Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert Koch-Instituts:
+
+* GSTel03:
+  + telefonische Befragungen mit Festnetz, N = 8.318
+  + gültige Werte für den Indikator: n = 8.261
+
+* GSTel06:
+  + telefonische Befragungen mit Festnetz, N = 5.542
+  + gültige Werte für den Indikator: n = 5.523
+
+* GEDA 2009:
+  + telefonische Befragungen mit Festnetz, N = 21.262
+  + gültige Werte für den Indikator: n = 21.217
+
+* GEDA 2010:
+  + telefonische Befragungen mit Festnetz, N = 22.050
+  + gültige Werte für den Indikator: n = 22.009
+
+* GEDA 2012:
+  + telefonische Befragungen mit Festnetz, N = 19.294
+  + gültige Werte für den Indikator: n = 19.267
+
+* GEDA 2014/2015-EHIS:
+  + webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
+  + gültige Werte für den Indikator: n = 23.959
+
+* GEDA 2022:
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen, N&nbsp;=&nbsp;33.149 (relevante Teilstichprobe aus Welle 1 bis 10, Modul 2: n = 5.796)
+  + gültige Werte für den Indikator: n&nbsp;= 5.786
+
+#### Datenqualität
+
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews. Zeitvergleiche der Ergebnisse zwischen der GEDA-Welle 2014/2015-EHIS und den übrigen Wellen sollten aufgrund von Unterschieden in der Stichprobenziehung sowie Unterschieden im Erhebungsmodus vorsichtig interpretiert werden.
+
+#### Berechnung
+
+* **Beschreibung und Stratifizierung**: Für den Indikator werden die Kennzahlen für Gesamt sowie nach Geschlecht, Alter, Bildung und sofern möglich nach Bundesland ausgewiesen. In den Studien GSTel03, GSTel06 sowie den GEDA-Wellen 2009 bis 2014/2015-EHIS wurden die Teilnehmenden gefragt, ob sie männlich oder weiblich sind. Seit GEDA 2019/2020-EHIS werden das Geburtsgeschlecht und die geschlechtliche Identität erhoben ([Pöge et al. 2022](https://doi.org/10.25646/9957 "Externer Link&nbsp;zur Publikation: Erhebung geschlechtlicher Diversität in der Studie GEDA 2019/2020-EHIS – Ziele, Vorgehen und Erfahrungen")). In den Analysen nach Geschlecht werden Personen ausgewiesen, die sich als weiblich oder männlich identifizieren. Genderdiverse Menschen, die sich diesen Kategorien nicht zuordnen, werden aufgrund der geringen Fallzahl nicht gesondert ausgewiesen. Die Darstellung nach Bundesland basiert auf dem Wohnort der Befragten. Der Bildungsstatus wird anhand des CASMIN-Indexes bestimmt ([Brauns et al. 2003](https://link.springer.com/chapter/10.1007/978-1-4419-9186-7_11 "Externer Link&nbsp;zum Buchbeitrag: The CASMIN educational classification in international comparative research")). Dieser verwendet Angaben zu schulischer und beruflicher Bildung und ermöglicht die Einteilung in eine niedrige, mittlere und hohe Bildungsgruppe.
+* **Umgang mit unsicheren Werten**: Voraussetzung für die stratifizierte Darstellung eines Indikators ist, dass die Fallzahl in der Gruppe mindestens 5 beträgt und die statistische Unsicherheit in der Schätzung der Kennziffer als akzeptabel angesehen wird (Konfidenzintervall schmaler als 25 Prozentpunkte und Variationskoeffizient ≤ 33,5 %). Letzteres bedeutet, dass die untere Grenze des Konfidenzintervalls mindestens die Hälfte des Schätzers betragen muss. Sind diese Kriterien nicht erfüllt, werden die Werte nicht berichtet („zu wenige Daten“). Berichtet, jedoch als unsicher markiert, werden Werte, die auf weniger als 10 Fällen basieren, deren Konfidenzintervall breiter als 20 Prozentpunkte ist oder wenn die Untergrenze weniger als ⅔ des Schätzers beträgt (Variationskoeffizient ≤ 16,6 %). Aufgrund der Unsicherheit sollten diese Werte mit Vorsicht interpretiert werden.
+* **Gewichtung**: Um Abweichungen der Surveys von der zugrundeliegenden Bezugspopulation durch unterschiedliche Teilnahmebereitschaft oder das Stichprobendesign zu korrigieren, wurde bei den Berechnungen in jedem Survey ein Gewichtungsfaktor verwendet. Diese Gewichtungen passen die Surveys an die Bevölkerungsstruktur Deutschlands hinsichtlich Geschlecht, Alter, Bundesland und Bildung an. Im GSTel03 und GSTel06 basiert die Gewichtung auf sechs Regionen (Nord, Nordrhein-Westfalen, Mitte, Ost, Bayern und Baden-Württemberg) anstelle des Bundeslands. Beginnend mit GEDA 2014/2015-EHIS wurde zusätzlich die regionale Siedlungsstruktur (Kreistyp) berücksichtigt. Dabei wurden die Daten des Statistischen Bundesamts zum Stichtag 31.12.2002 (GSTel03), 31.12.2006 (GSTel06), 31.12.2007 (GEDA 2009), 31.12.2008 (GEDA 2010), 31.12.2011 (GEDA 2012), 31.12.2014 (GEDA 2014/2015-EHIS) und 31.12.2020 (GEDA 2022) verwendet. Die Informationen zu Haushalten und zur Bildungsverteilung wurden dem Mikrozensus 2003 (GSTel03), 2007 (GSTel06), 2007 (GEDA 2009), 2008 (GEDA 2010), 2010 (GEDA 2012), 2013 (GEDA 2014/2015-EHIS) und 2018 (GEDA 2022) entnommen. Die Bildungsgruppen wurden auf Basis der ISCED-Klassifikation bestimmt ([Schroedter et al. 2006](https://www.ssoar.info/ssoar/bitstream/handle/document/26239/ssoar-2006-schroedter_et_al-die_umsetzung_der_bildungsskala_isced-1997.pdf?sequence=1 "Externer Link&nbsp;zur Publikation: Die Umsetzung der Bildungsskala ISCED-1997 für die Volkszählung 1970, die Mikrozensus-Zusatzerhebung 1971 und die Mikrozensen 1976-2004 (Version 1)"), beginnend mit GEDA 2014/2015-EHIS: [UNESCO 2012](https://unesdoc.unesco.org/ark:/48223/pf0000219109 "Externer Link&nbsp;zur Publikation: International Standard Classification of Education 2011")).
+* **Alters- und Geschlechtsstandardisierung**: Die Ergebnisse werden in zwei Versionen gezeigt: auf das jeweilige Erhebungsjahr gewichtet, wie oben beschrieben (‚beobachtet’), sowie standardisiert nach Alter und Geschlecht entsprechend der [europäischen Standardbevölkerung 2013](https://www.gbe-bund.de/gbe/isgbe.i?i=1000:55515 "Externer Link&nbsp;zur Webseite der Gesundheitsberichterstattung des Bundes: Standardbevölkerungen - Europastandardbevölkerung 2013") (‚altersstandardisiert‘). Für Darstellungen nach Bundesland oder Bildungsgruppe wurde die Standardisierung innerhalb des jeweiligen Bundeslands bzw. der jeweiligen Bildungsgruppe durchgeführt. Die ‚beobachteten‘ Ergebnisse bilden die tatsächliche Alters- und Geschlechtsverteilung innerhalb der Erhebungsjahre, Bundesländer bzw. Bildungsgruppen ab. Sie sind damit zum Beispiel zur Analyse von Fragen des Versorgungsbedarfs und dessen Veränderung über die Zeit geeignet. Bei den ‚altersstandardisierten‘ Ergebnissen sind die Erhebungsjahre, Bundesländer bzw. Bildungsgruppen hinsichtlich Alter und Geschlecht vergleichbar. Dies erleichtert das Aufzeigen von Unterschieden, die sich nicht allein durch Alter und Geschlecht erklären lassen.
+* **Konfidenzintervalle**: Die zufallsbedingte Variabilität der Ergebnisse kann den 95&nbsp;%-Konfidenzintervallen in den Tabellen und Abbildungen entnommen werden. Die Konfidenzintervalle wurden mit der Logit-Methode berechnet. Dabei wurde die Streuung der Gewichtungsfaktoren berücksichtigt.
+* **Regionale Unterschiede**: Statistisch signifikante Unterschiede zwischen den Bundesländern und dem Bundesdurchschnitt wurden mittels Chi-Quadrat-Test unter Adjustierung für multiples Testen ermittelt. Jedes Bundesland wurde im Vergleich zu den übrigen Bundesländern (zusammengefasst) getestet. Die Einteilung in der Karte erfolgt anhand von fünf äquidistanten Kategorien.
+
+#### Weiterführende Links
+
+* [GEDA: Gesundheit in Deutschland aktuell](https://www.rki.de/geda "Externer Link&nbsp;zur Webseite des RKI: GEDA: Gesundheit in Deutschland aktuell")
+* [EHIS: European Health Interview Survey](https://ec.europa.eu/eurostat/de/web/microdata/european-health-interview-survey "Externer Link&nbsp;zur Webseite von Eurostat:  Mikrodaten - Europäische Gesundheitsumfrage")
+* [GSTel03: Telefonischer Gesundheitssurvey 2003](https://doi.org/10.1007/s00103-005-1159-6 "Externer Link&nbsp;zur Publikation: Der telefonische Gesundheitssurvey 2003 als Instrument der Gesundheitsberichterstattung des Bundes")
 
 
 <br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
@@ -3450,24 +3963,24 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert Koch-Instituts:
 
 * GEDA 2009:
-	+ telefonische Befragungen mit Festnetz, N = 21.262
-	+ gültige Werte für den Indikator: n = 21.216
+  + telefonische Befragungen mit Festnetz, N = 21.262
+  + gültige Werte für den Indikator: n = 21.216
 
 * GEDA 2010:
-	+ telefonische Befragungen mit Festnetz, N = 22.050
-	+ gültige Werte für den Indikator: n = 22.006
+  + telefonische Befragungen mit Festnetz, N = 22.050
+  + gültige Werte für den Indikator: n = 22.006
 
 * GEDA 2012:
-	+ telefonische Befragungen mit Festnetz, N = 19.294
-	+ gültige Werte für den Indikator: n = 19.273
+  + telefonische Befragungen mit Festnetz, N = 19.294
+  + gültige Werte für den Indikator: n = 19.273
 
 * GEDA 2022:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen; N = 33.149 (relevante Teilstichprobe Welle 1 bis 3, Modul 1: n = 2.472)
-	+ gültige Werte für den Indikator: n = 2.466
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen; N = 33.149 (relevante Teilstichprobe Welle 1 bis 3, Modul 1: n = 2.472)
+  + gültige Werte für den Indikator: n = 2.466
 
 * GEDA 2023:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 11 bis 22 mit einem Basismodul und bis zu vier Fragebogenmodulen, N = 30.002 (relevante Teilstichprobe Welle 13, Basismodul und Welle 14 bis 15, Modul 2 und 3: n = 7.976)
-	+ gültige Werte für den Indikator: n&nbsp;=&nbsp;7.960
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 11 bis 22 mit einem Basismodul und bis zu vier Fragebogenmodulen, N = 30.002 (relevante Teilstichprobe Welle 13, Basismodul und Welle 14 bis 15, Modul 2 und 3: n = 7.976)
+  + gültige Werte für den Indikator: n&nbsp;=&nbsp;7.960
 
 #### Datenqualität
 
@@ -3532,7 +4045,7 @@ Indikator_ID: `3010103`
 Stand: 20. November 2024  
 Link: [https://www.gbe.rki.de/darmkrebsfrueherkennung](https://www.gbe.rki.de/darmkrebsfrueherkennung)
 
-[Darmkrebs](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/Krebs/DarmkrebsInzidenz/darmkrebsInzidenz_node.html "Darmkrebs: Inzidenz") gehört zu den häufigsten Krebserkrankungen bei Erwachsenen in Deutschland, etwa jede neunte Krebsneuerkrankung betrifft den Dickdarm (Kolon) bzw. Mastdarm (Rektum). Das Erkrankungsrisiko steigt mit dem Alter, die Mehrzahl der Betroffenen erhält die Diagnose jenseits des 70. Lebensjahres. Darmkrebs ist bei beiden Geschlechtern die dritthäufigste [Krebstodesursache](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/Krebs/DarmkrebsSterblichkeit/darmkrebsSterblichkeit_node.html "Darmkrebs: Sterblichkeit") ([RKI 2023](https://doi.org/10.25646/11357 "Externer Link&nbsp;zur Publikation: Krebs in Deutschland für 2019/2020")). Zu den wichtigsten beeinflussbaren Risikofaktoren für Darmkrebs gehören [Rauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)") und [Adipositas](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Koerpergewicht/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)"), gefolgt von Bewegungsmangel, ballaststoffarmer Ernährung, Alkoholkonsum und häufiger Verzehr von rotem beziehungsweise verarbeitetem [Fleisch](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Ernaehrungsverhalten/Fleischkonsum/fleischkonsum_node.html "Fleischkonsum (ab 18 Jahre)"). Zur Früherkennung von Darmkrebs im Rahmen des gesetzlichen Darmkrebs-Screening-Programms können Personen im Alter von 50 bis 54 Jahren jährlich und ab 55 Jahren alle zwei Jahre einen immunologischen Test auf verstecktes Blut im Stuhl durchführen lassen. Ab 50 Jahren (Männer) beziehungsweise 55 Jahren (Frauen) sieht das Krebsfrüherkennungsprogramm eine Darmspiegelung (Koloskopie) vor, die bei unauffälligem Befund nach zehn Jahren wiederholt werden kann ([G-BA 2023](https://www.g-ba.de/richtlinien/104/ "Externer Link&nbsp;zur Webseite des Gemeinsamen Bundesausschusses: Richtlinie für organisierte Krebsfrüherkennungsprogramme")).
+[Darmkrebs](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/Krebs/DarmkrebsInzidenz/darmkrebsInzidenz_node.html "Darmkrebs: Inzidenz") gehört zu den häufigsten Krebserkrankungen bei Erwachsenen in Deutschland, etwa jede neunte Krebsneuerkrankung betrifft den Dickdarm (Kolon) bzw. Mastdarm (Rektum). Das Erkrankungsrisiko steigt mit dem Alter, die Mehrzahl der Betroffenen erhält die Diagnose jenseits des 70. Lebensjahres. Darmkrebs ist bei beiden Geschlechtern die dritthäufigste [Krebstodesursache](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KoerperlicheErkrankungen/Krebs/DarmkrebsSterblichkeit/darmkrebsSterblichkeit_node.html "Darmkrebs: Sterblichkeit") ([RKI 2023](https://doi.org/10.25646/11357 "Externer Link&nbsp;zur Publikation: Krebs in Deutschland für 2019/2020")). Zu den wichtigsten beeinflussbaren Risikofaktoren für Darmkrebs gehören [Rauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)") und [Adipositas](https://www.gbe.rki.de/DE/Themen/Gesundheitszustand/KrankheitsnaheRisikofaktorenUndSymptome/KrankheitsnaheRisikofaktoren/AdipositasUndUebergewicht/adipositasUndUebergewicht_node.html "Adipositas und Übergewicht (ab 18 Jahre)"), gefolgt von Bewegungsmangel, ballaststoffarmer Ernährung, Alkoholkonsum und häufiger Verzehr von rotem beziehungsweise verarbeitetem [Fleisch](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Ernaehrungsverhalten/Fleischkonsum/fleischkonsum_node.html "Fleischkonsum (ab 18 Jahre)"). Zur Früherkennung von Darmkrebs im Rahmen des gesetzlichen Darmkrebs-Screening-Programms können Personen im Alter von 50 bis 54 Jahren jährlich und ab 55 Jahren alle zwei Jahre einen immunologischen Test auf verstecktes Blut im Stuhl durchführen lassen. Ab 50 Jahren (Männer) beziehungsweise 55 Jahren (Frauen) sieht das Krebsfrüherkennungsprogramm eine Darmspiegelung (Koloskopie) vor, die bei unauffälligem Befund nach zehn Jahren wiederholt werden kann ([G-BA 2023](https://www.g-ba.de/richtlinien/104/ "Externer Link&nbsp;zur Webseite des Gemeinsamen Bundesausschusses: Richtlinie für organisierte Krebsfrüherkennungsprogramme")).
 
 Hinweis: Im Januar 2025 gab es eine Anpassung der Richtlinie für organisierte Krebsfrüherkennungsprogramme ([G-BA 2025](https://www.g-ba.de/beschluesse/7021/ "Externer Link&nbsp;zur Webseite des Gemeinsamen Bundesausschusses: Richtlinie für organisierte Krebsfrüherkennungsprogramme")). Danach haben&nbsp;Frauen und Männer ab 50 Jahren die gleiche Wahl zwischen einer Darmspiegelung (mit einer Wiederholung nach 10 Jahren) und einem alle zwei Jahre durchgeführten immunologischen Test auf verstecktes Blut im Stuhl.
 
@@ -3559,8 +4072,8 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 55 Jahren bei Frauen be
 Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert Koch-Instituts:
 
 * GEDA 2019/2020-EHIS:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
-	+ gültige Werte für den Indikator: n = 13.945 Frauen ab 55 Jahren und Männer ab 50 Jahren
+  + telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
+  + gültige Werte für den Indikator: n = 13.945 Frauen ab 55 Jahren und Männer ab 50 Jahren
 
 #### Datenqualität
 
@@ -3614,20 +4127,20 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert Koch-Instituts:
 
 * GEDA 2014/2015-EHIS:
-	+ webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
-	+ gültige Werte für den Indikator: n = 23.911
+  + webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
+  + gültige Werte für den Indikator: n = 23.911
 
 * GEDA 2019/2020-EHIS:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
-	+ gültige Werte für den Indikator: n = 22.681
+  + telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
+  + gültige Werte für den Indikator: n = 22.681
 
 * GEDA 2022:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen, N = 33.149 (relevante Teilstichprobe Welle 1 bis 10, Modul 2: n = 8.288)
-	+ gültige Werte für den Indikator: n = 8.265
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen, N = 33.149 (relevante Teilstichprobe Welle 1 bis 10, Modul 2: n = 8.288)
+  + gültige Werte für den Indikator: n = 8.265
 
 * GEDA 2023:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 11 bis 22 mit einem Basismodul und bis zu vier Fragebogenmodulen, N = 30.002 (relevante Teilstichprobe Welle 11 bis 22, Modul 2: n = 12.017)
-	+ gültige Werte für den Indikator: n = 11.994
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 11 bis 22 mit einem Basismodul und bis zu vier Fragebogenmodulen, N = 30.002 (relevante Teilstichprobe Welle 11 bis 22, Modul 2: n = 12.017)
+  + gültige Werte für den Indikator: n = 11.994
 
 #### Datenqualität
 
@@ -3681,20 +4194,20 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert Koch-Instituts:
 
 * GEDA 2014/2015-EHIS:
-	+ webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
-	+ gültige Werte für den Indikator: n = 23.861
+  + webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
+  + gültige Werte für den Indikator: n = 23.861
 
 * GEDA 2019/2020-EHIS:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
-	+ gültige Werte für den Indikator: n = 22.648
+  + telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
+  + gültige Werte für den Indikator: n = 22.648
 
 * GEDA 2022:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen, N = 33.149 (relevante Teilstichprobe Welle 1 bis 10, Modul 2: n = 8.288)
-	+ gültige Werte für den Indikator: n = 8.252
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 1 bis 10 mit einem Basismodul und bis zu vier Fragebogenmodulen, N = 33.149 (relevante Teilstichprobe Welle 1 bis 10, Modul 2: n = 8.288)
+  + gültige Werte für den Indikator: n = 8.252
 
 * GEDA 2023:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 11 bis 22 mit einem Basismodul und bis zu vier Fragebogenmodulen, N = 30.002 (relevante Teilstichprobe Welle 11 bis 22, Modul 2: n = 12.017)
-	+ gültige Werte für den Indikator: n = 11.998
+  + telefonische Befragungen mit Festnetz und Mobilfunk, Erhebung unterteilt in Welle 11 bis 22 mit einem Basismodul und bis zu vier Fragebogenmodulen, N = 30.002 (relevante Teilstichprobe Welle 11 bis 22, Modul 2: n = 12.017)
+  + gültige Werte für den Indikator: n = 11.998
 
 #### Datenqualität
 
@@ -3757,24 +4270,24 @@ Deutschsprachige Wohnbevölkerung in Privathaushalten ab 18 Jahren in Deutschlan
 Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert Koch-Instituts:
 
 * GEDA 2009:
-	+ telefonische Befragungen mit Festnetz, N = 21.262
-	+ gültige Werte für den Indikator: n = 20.221
+  + telefonische Befragungen mit Festnetz, N = 21.262
+  + gültige Werte für den Indikator: n = 20.221
 
 * GEDA 2010:
-	+ telefonische Befragungen mit Festnetz, N = 22.050
-	+ gültige Werte für den Indikator: n = 22.021
+  + telefonische Befragungen mit Festnetz, N = 22.050
+  + gültige Werte für den Indikator: n = 22.021
 
 * GEDA 2012:
-	+ telefonische Befragungen mit Festnetz, N = 19.294
-	+ gültige Werte für den Indikator: n = 19.273
+  + telefonische Befragungen mit Festnetz, N = 19.294
+  + gültige Werte für den Indikator: n = 19.273
 
 * GEDA 2014/2015-EHIS:
-	+ webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
-	+ gültige Werte für den Indikator: n = 23.901
+  + webbasierte und schriftliche Befragungen auf der Basis einer Einwohnermeldeamtsstichprobe, N = 24.016
+  + gültige Werte für den Indikator: n = 23.901
 
 * GEDA 2019/2020-EHIS:
-	+ telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
-	+ gültige Werte für den Indikator: n = 22.704
+  + telefonische Befragungen mit Festnetz und Mobilfunk, N = 23.001
+  + gültige Werte für den Indikator: n = 22.704
 
 #### Datenqualität
 
@@ -3916,15 +4429,15 @@ Indikator_ID: `4010101`
 Stand: 20. November 2024  
 Link: [https://www.gbe.rki.de/tabakkontrolle](https://www.gbe.rki.de/tabakkontrolle)
 
-Das [Rauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)") von Zigaretten und anderen Tabakprodukten ist einer der wichtigsten Risikofaktoren für die Entstehung von nichtübertragbaren Erkrankungen wie Lungenkrebs, chronisch-obstruktive Lungenerkrankung (COPD), Herz-Kreislauf-Erkrankung und Typ-2-Diabetes ([HHS 2014](https://www.ncbi.nlm.nih.gov/books/NBK179276/pdf/Bookshelf_NBK179276.pdf "Externer Link&nbsp;zur Webseite des U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: The Health Consequences of Smoking—50 Years of Progress")). Maßnahmen zur Senkung des Anteils an Rauchenden in der Bevölkerung können einen wesentlichen Beitrag zur Verminderung der Krankheitslast liefern. Die europäische Tabakkontrollskala quantifiziert die Umsetzung von gesetzlichen Maßnahmen mit dem Ziel der Reduktion des Tabakkonsums und [Passivrauchens](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Passivrauchbelastung/passivrauchbelastung_node.html "Passivrauchbelastung (ab 18 Jahre)") auf der Ebene der einzelnen europäischen Länder und ermöglicht damit einen internationalen Vergleich ([TCS 2021](https://www.tobaccocontrolscale.org/wp-content/uploads/2022/12/TCS-Report-2021-Interactive-V4.pdf "Externer Link&nbsp;zur Publikation: The Tobacco Control Scale 2021 in Europe")). 
+Das [Rauchen](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Rauchen/rauchen_node.html "Rauchen (ab 18 Jahre)") von Zigaretten und anderen Tabakprodukten ist einer der wichtigsten Risikofaktoren für die Entstehung von nichtübertragbaren Erkrankungen wie Lungenkrebs, chronisch-obstruktive Lungenerkrankung (COPD), Herz-Kreislauf-Erkrankung und Typ-2-Diabetes ([HHS 2014](https://www.ncbi.nlm.nih.gov/books/NBK179276/pdf/Bookshelf_NBK179276.pdf "Externer Link&nbsp;zur Webseite des U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: The Health Consequences of Smoking—50 Years of Progress")). Maßnahmen zur Senkung des Anteils an Rauchenden in der Bevölkerung können einen wesentlichen Beitrag zur Verminderung der Krankheitslast liefern. Die europäische Tabakkontrollskala quantifiziert die Umsetzung von gesetzlichen Maßnahmen mit dem Ziel der Reduktion des Tabakkonsums und [Passivrauchens](https://www.gbe.rki.de/DE/Themen/EinflussfaktorenAufDieGesundheit/GesundheitsUndRisikoverhalten/Tabakkonsum/Passivrauchbelastung/passivrauchbelastung_node.html "Passivrauchbelastung (ab 18 Jahre)") auf der Ebene der einzelnen europäischen Länder und ermöglicht damit einen internationalen Vergleich ([TCS 2021](https://www.tobaccocontrolscale.org/wp-content/uploads/2022/12/TCS-Report-2021-Interactive-V4.pdf "Externer Link&nbsp;zur Publikation: The Tobacco Control Scale 2021 in Europe")).
 
 #### Definition
 
-Der Indikator *Tabakkontrolle* ist definiert über die Tabakkontrollskala nach [Joossens et al. 2006](http://doi.org/10.1136/tc.2005.015347 "Externer Link&nbsp;zur Publikation: The Tobacco Control Scale: a new scale to measure country activity"), welche die Umsetzung von Maßnahmen zur Tabakkontrolle auf Länderebene anhand eines Punktesystems misst. 
+Der Indikator *Tabakkontrolle* ist definiert über die Tabakkontrollskala nach [Joossens et al. 2006](http://doi.org/10.1136/tc.2005.015347 "Externer Link&nbsp;zur Publikation: The Tobacco Control Scale: a new scale to measure country activity"), welche die Umsetzung von Maßnahmen zur Tabakkontrolle auf Länderebene anhand eines Punktesystems misst.
 
 #### Datenquelle
 
-Berichte der Tabakkontrollskala, die regelmäßig unter [https://www.tobaccocontrolscale.org/](https://www.tobaccocontrolscale.org/ "Externer Link&nbsp;zur Webseite: https://www.tobaccocontrolscale.org/") veröffentlicht und durch Gesundheitsprogramme der Europäischen Union unter Schirmherrschaft der Association of European Cancer Leagues (ECL) und des Institut Catala d’Oncologia (ICO) gefördert werden. 
+Berichte der Tabakkontrollskala, die regelmäßig unter [https://www.tobaccocontrolscale.org/](https://www.tobaccocontrolscale.org/ "Externer Link&nbsp;zur Webseite: https://www.tobaccocontrolscale.org/") veröffentlicht und durch Gesundheitsprogramme der Europäischen Union unter Schirmherrschaft der Association of European Cancer Leagues (ECL) und des Institut Catala d’Oncologia (ICO) gefördert werden.
 
 #### Datenqualität
 
@@ -3934,14 +4447,14 @@ Die Tabakkontrollskala ist ein Bewertungsinstrument zur Evaluation der Tabakkont
 
 * **Beschreibung:** Gesamtpunktzahl der Bewertung der sechs (2003 bis 2016) beziehungsweise acht Maßnahmenbereiche (seit 2019) der Tabakkontrollskala nach [Joossens et al. 2006](http://doi.org/10.1136/tc.2005.015347 "Externer Link&nbsp;zur Publikation: The Tobacco Control Scale: a new scale to measure country activity") entsprechend ihrer Wertigkeit für die jeweilige Effektivität. Die maximale Gesamtpunktzahl beträgt 100 Punkte. Eine höhere Gesamtpunktzahl entspricht einer höheren Tabakkontrolle. Zu beachten ist, dass sich die Gewichtung der Komponenten seit 2019 leicht verändert hat, da 2019 die Komponenten „Bekämpfung des illegalen Tabakhandels“ und „Beschränkung des Einflusses der Tabakindustrie“ neu hinzugefügt wurden ([Joossens et al. 2020](https://tobaccocontrolscale.org/2019-edition/ "Externer Link&nbsp;zur Publikation: Tobacco Control Scale - Report 2019")).
 * Die Maßnahmenbereiche sind aktuell:
-	+ „Preis“ (maximal 30 Punkte),
-	+ „Konsumverbot im öffentlichen Raum“ (maximal 22 Punkte),
-	+ „Ausgaben für öffentliche Informationskampagnen“ (maximal 10 Punkte),
-	+ „Werbeverbote“ (maximal 13 Punkte),
-	+ „Gesundheitswarnungen“ (maximal 10 Punkte),
-	+ „Behandlung und Rauchentwöhnung“ (maximal 10 Punkte),
-	+ „Bekämpfung des illegalen Tabakhandels“ (maximal 3 Punkte),
-	+ „Beschränkung des Einflusses der Tabakindustrie“ (maximal 2 Punkte).
+  + „Preis“ (maximal 30 Punkte),
+  + „Konsumverbot im öffentlichen Raum“ (maximal 22 Punkte),
+  + „Ausgaben für öffentliche Informationskampagnen“ (maximal 10 Punkte),
+  + „Werbeverbote“ (maximal 13 Punkte),
+  + „Gesundheitswarnungen“ (maximal 10 Punkte),
+  + „Behandlung und Rauchentwöhnung“ (maximal 10 Punkte),
+  + „Bekämpfung des illegalen Tabakhandels“ (maximal 3 Punkte),
+  + „Beschränkung des Einflusses der Tabakindustrie“ (maximal 2 Punkte).
 
 #### Weiterführende Links
 
@@ -3996,7 +4509,7 @@ Prävention zielt darauf ab, die Krankheitslast durch gezielte Maßnahmen zu ver
 
 #### Definition
 
-Der Indikator *Präventionsausgaben* ist definiert als der Anteil der Präventionsausgaben an den Gesundheitsausgaben pro Person in Deutschland. 
+Der Indikator *Präventionsausgaben* ist definiert als der Anteil der Präventionsausgaben an den Gesundheitsausgaben pro Person in Deutschland.
 
 #### Datenquelle
 
@@ -4010,8 +4523,8 @@ Die Berechnung der Gesundheitsausgaben erfolgt auf Basis von 35 Datenquellen. Da
 
 * **Beschreibung:** Unter den Ausgaben für Prävention/Gesundheitsschutz in der Gesundheitsausgabenrechnung werden alle Leistungen zusammengefasst, die das Entstehen oder die Verbreitung von Krankheiten im Vorfeld oder Frühstadium verhindern sollen. Dabei werden auch die von den Ministerien, den Gesundheitsämtern und sonstigen Institutionen erbrachten Überwachungs- und Aufsichtsfunktionen berücksichtigt ([Statistisches Bundesamt 2025](https://www.destatis.de/DE/Methoden/Qualitaet/Qualitaetsberichte/Gesundheit/gesundheitsausgabenrechnung.html "Externer Link&nbsp;zum Bericht: Qualitätsbericht - Gesundheitsausgabenrechnung")).
 * **Berechnungen:**
-	+ Beobachtete relative Werte: Quotient aus den Ausgaben für Prävention pro Person und den Gesundheitsausgaben pro Person
-	+ Beobachtete absolute Werte: Summe der Ausgaben für Prävention pro Person.
+  + Beobachtete relative Werte: Quotient aus den Ausgaben für Prävention pro Person und den Gesundheitsausgaben pro Person
+  + Beobachtete absolute Werte: Summe der Ausgaben für Prävention pro Person.
 
 #### Weiterführende Links
 
@@ -4030,7 +4543,7 @@ Der Verbraucherpreisindex misst die „durchschnittliche Preisentwicklung aller 
 
 #### Definition
 
-Der Indikator *Verbraucherpreisindex* ist definiert als durchschnittliche prozentuale Preisveränderung in einem bestimmten Jahr mit Bezug zu einem Basisjahr; berichtet für Fleisch und Fleischwaren, Fertiggerichte, Süßwaren, Obst, Gemüse, Erfrischungsgetränke (ohne Mineralwasser), Mineralwasser sowie zusammenfassend für Nahrungsmittel und alkoholfreie Getränke insgesamt. 
+Der Indikator *Verbraucherpreisindex* ist definiert als durchschnittliche prozentuale Preisveränderung in einem bestimmten Jahr mit Bezug zu einem Basisjahr; berichtet für Fleisch und Fleischwaren, Fertiggerichte, Süßwaren, Obst, Gemüse, Erfrischungsgetränke (ohne Mineralwasser), Mineralwasser sowie zusammenfassend für Nahrungsmittel und alkoholfreie Getränke insgesamt.
 
 #### Bezug
 
@@ -4061,11 +4574,11 @@ Indikator_ID: `4020102`
 Stand: 17. Dezember 2025  
 Link: [https://www.gbe.rki.de/armutsrisikoquote](https://www.gbe.rki.de/armutsrisikoquote)
 
-Menschen, die aufgrund eines geringen Einkommens von Armut betroffen oder bedroht sind, erfahren materielle und strukturelle Benachteiligung, haben verminderte Chancen auf gesellschaftliche Teilhabe und haben erhöhte Risiken für gesundheitliche Beeinträchtigungen, chronische Erkrankungen und vorzeitige Sterblichkeit. Die Armutsrisikoquote, auch Armutsgefährdungsquote genannt, beschreibt den Anteil in der Bevölkerung, der unter der Armutsrisikogrenze lebt. Die Armutsrisikogrenze wird dann unterschritten, wenn das anhand von Anzahl und Alter der Haushaltsmitglieder bedarfsgewichtete Haushaltseinkommen (Netto-Äquivalenzeinkommen) weniger als 60&nbsp;% des mittleren Einkommens der Gesamtbevölkerung beträgt (relative Armut) ([Lampert et al. 2019](https://doi.org/10.25646/5868 "Externer Link&nbsp;zur Publikation: Soziale Unterschiede in der Mortalität und Lebenserwartung in Deutschland. Aktuelle Situation und Trends"), [Lampert et al. 2017](https://doi.org/10.17886/RKI-GBE-2017-003 "Externer Link&nbsp;zur Publikation: Gesundheitliche Ungleichheit in verschiedenen Lebensphasen")). 
+Menschen, die aufgrund eines geringen Einkommens von Armut betroffen oder bedroht sind, erfahren materielle und strukturelle Benachteiligung, haben verminderte Chancen auf gesellschaftliche Teilhabe und haben erhöhte Risiken für gesundheitliche Beeinträchtigungen, chronische Erkrankungen und vorzeitige Sterblichkeit. Die Armutsrisikoquote, auch Armutsgefährdungsquote genannt, beschreibt den Anteil in der Bevölkerung, der unter der Armutsrisikogrenze lebt. Die Armutsrisikogrenze wird dann unterschritten, wenn das anhand von Anzahl und Alter der Haushaltsmitglieder bedarfsgewichtete Haushaltseinkommen (Netto-Äquivalenzeinkommen) weniger als 60&nbsp;% des mittleren Einkommens der Gesamtbevölkerung beträgt (relative Armut) ([Lampert et al. 2019](https://doi.org/10.25646/5868 "Externer Link&nbsp;zur Publikation: Soziale Unterschiede in der Mortalität und Lebenserwartung in Deutschland. Aktuelle Situation und Trends"), [Lampert et al. 2017](https://doi.org/10.17886/RKI-GBE-2017-003 "Externer Link&nbsp;zur Publikation: Gesundheitliche Ungleichheit in verschiedenen Lebensphasen")).
 
 #### Definition
 
-Der Indikator *Armutsrisikoquote* ist definiert als Anteil der Bevölkerung mit einem Netto-Äquivalenzeinkommen von weniger als 60&nbsp;% des mittleren Netto-Äquivalenzeinkommens der Bevölkerung in Hauptwohnsitzhaushalten. 
+Der Indikator *Armutsrisikoquote* ist definiert als Anteil der Bevölkerung mit einem Netto-Äquivalenzeinkommen von weniger als 60&nbsp;% des mittleren Netto-Äquivalenzeinkommens der Bevölkerung in Hauptwohnsitzhaushalten.
 
 #### Bezugspopulation
 
@@ -4073,7 +4586,7 @@ Personen in Hauptwohnsitzhaushalten in Deutschland.
 
 #### Datenquelle
 
-Der Mikrozensus ([www.mikrozensus.de](https://erhebungsportal.estatistik.de/Erhebungsportal/informationen/informationen-zum-mikrozensus-3629 "Externer Link&nbsp;zur Webseite der statistischen Ämter: Informationen zum Mikrozensus")) ist die größte jährliche Haushaltsbefragung, die von den Statistischen Ämtern des Bundes und der Länder gemeinschaftlich durchgeführt wird. Es wird rund 1&nbsp;% der Bevölkerung in Deutschland, die in privaten Haushalten und Gemeinschaftsunterkünften lebt, zu ihren Arbeits- und Lebensbedingungen befragt. 
+Der Mikrozensus ([www.mikrozensus.de](https://erhebungsportal.estatistik.de/Erhebungsportal/informationen/informationen-zum-mikrozensus-3629 "Externer Link&nbsp;zur Webseite der statistischen Ämter: Informationen zum Mikrozensus")) ist die größte jährliche Haushaltsbefragung, die von den Statistischen Ämtern des Bundes und der Länder gemeinschaftlich durchgeführt wird. Es wird rund 1&nbsp;% der Bevölkerung in Deutschland, die in privaten Haushalten und Gemeinschaftsunterkünften lebt, zu ihren Arbeits- und Lebensbedingungen befragt.
 
 #### Datenqualität
 
@@ -4103,7 +4616,7 @@ In einer Vielzahl von nationalen und internationalen Studien wurde nachgewiesen,
 
 #### Definition
 
-Der Indikator *Arbeitslosenquote* ist definiert als Anteil der Arbeitslosen an allen zivilen Erwerbspersonen mit Wohnsitz in Deutschland. 
+Der Indikator *Arbeitslosenquote* ist definiert als Anteil der Arbeitslosen an allen zivilen Erwerbspersonen mit Wohnsitz in Deutschland.
 
 #### Bezugspopulation
 
@@ -4111,11 +4624,11 @@ Alle zivilen Erwerbspersonen mit Hauptwohnsitz in Deutschland.
 
 #### Datenquelle
 
-Statistik der Bundesagentur für Arbeit ([https://statistik.arbeitsagentur.de/](https://statistik.arbeitsagentur.de/DE/Statischer-Content/Grundlagen/Definitionen/Generische-Publikationen/Kurzinformation-Arbeitsmarktstatistik.pdf?__blob=publicationFile&v=12 "Externer Link&nbsp;zur Webseite der Arbeitsagentur: Statistik über Arbeitslosigkeit")) zur Arbeitslosigkeit im Zeitverlauf und zur qualifikationsspezifischen Arbeitslosenquote.&nbsp; 
+Statistik der Bundesagentur für Arbeit ([https://statistik.arbeitsagentur.de/](https://statistik.arbeitsagentur.de/DE/Statischer-Content/Grundlagen/Definitionen/Generische-Publikationen/Kurzinformation-Arbeitsmarktstatistik.pdf?__blob=publicationFile&v=12 "Externer Link&nbsp;zur Webseite der Arbeitsagentur: Statistik über Arbeitslosigkeit")) zur Arbeitslosigkeit im Zeitverlauf und zur qualifikationsspezifischen Arbeitslosenquote.
 
 #### Datenqualität
 
-Für die Ermittlung qualifikationsspezifischer Arbeitslosenquoten entsteht aus methodischen Gründen eine Zeitverzögerung in den Bezugsgrößen, sodass die Bezugsgröße (Anzahl der Beschäftigten) etwa ein Jahr älter ist als die Arbeitslosenzahl im Nenner. Zudem müssen für fehlende Angaben zum Qualifikationsniveau Schätzverfahren verwendet werden ([Bundesagentur für Arbeit 2017](https://statistik.arbeitsagentur.de/DE/Statischer-Content/Grundlagen/Methodik-Qualitaet/Methodenberichte/Arbeitsmarktstatistik/Generische-Publikationen/Methodenbericht-qualifikationsspezifische-Arbeitslosenquoten.pdf?__blob=publicationFile&v=9 "Externer Link&nbsp;zur Webseite der Arbeitsagentur: Einführung qualifikationsspezifischer Arbeitslosenquoten in der Statistik der BA")). 
+Für die Ermittlung qualifikationsspezifischer Arbeitslosenquoten entsteht aus methodischen Gründen eine Zeitverzögerung in den Bezugsgrößen, sodass die Bezugsgröße (Anzahl der Beschäftigten) etwa ein Jahr älter ist als die Arbeitslosenzahl im Nenner. Zudem müssen für fehlende Angaben zum Qualifikationsniveau Schätzverfahren verwendet werden ([Bundesagentur für Arbeit 2017](https://statistik.arbeitsagentur.de/DE/Statischer-Content/Grundlagen/Methodik-Qualitaet/Methodenberichte/Arbeitsmarktstatistik/Generische-Publikationen/Methodenbericht-qualifikationsspezifische-Arbeitslosenquoten.pdf?__blob=publicationFile&v=9 "Externer Link&nbsp;zur Webseite der Arbeitsagentur: Einführung qualifikationsspezifischer Arbeitslosenquoten in der Statistik der BA")).
 
 Aufgrund der Neukonzeption des Mikrozensus im Jahr 2020 sind Vergleiche mit Vorjahresergebnissen nach beruflicher Qualifikation ab dem Jahr 2022 nur noch eingeschränkt möglich ([Statistisches Bundesamt - Neuregelung ab 2020](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Haushalte-Familien/Methoden/mikrozensus-2020.html# "Externer Link&nbsp;zur Webseite: Destatis - Die Neuregelung des Mikrozensus ab 2020")).
 
@@ -4150,7 +4663,7 @@ Bevölkerung Deutschlands im Alter ab 25 Jahren, die in Privathaushalten oder Ge
 
 #### Datenquelle
 
-Der Mikrozensus ([www.mikrozensus.de](https://erhebungsportal.estatistik.de/Erhebungsportal/informationen/informationen-zum-mikrozensus-3629 "Externer Link&nbsp;zur Webseite der statistischen Ämter: Informationen zum Mikrozensus")) ist die größte jährliche Haushaltsbefragung, die von den Statistischen Ämtern des Bundes und der Länder gemeinschaftlich durchgeführt wird. Es wird rund 1&nbsp;% der Bevölkerung in Deutschland, die in privaten Haushalten und Gemeinschaftsunterkünften lebt, zu ihren Arbeits- und Lebensbedingungen befragt.&nbsp;
+Der Mikrozensus ([www.mikrozensus.de](https://erhebungsportal.estatistik.de/Erhebungsportal/informationen/informationen-zum-mikrozensus-3629 "Externer Link&nbsp;zur Webseite der statistischen Ämter: Informationen zum Mikrozensus")) ist die größte jährliche Haushaltsbefragung, die von den Statistischen Ämtern des Bundes und der Länder gemeinschaftlich durchgeführt wird. Es wird rund 1&nbsp;% der Bevölkerung in Deutschland, die in privaten Haushalten und Gemeinschaftsunterkünften lebt, zu ihren Arbeits- und Lebensbedingungen befragt.
 
 #### Datenqualität
 
@@ -4184,11 +4697,11 @@ Der Indikator *Verkehrsmittelnutzung* ist definiert als prozentuale Aufteilung (
 
 #### Bezugspopulation
 
-Wohnbevölkerung in Deutschland (ohne Alterseinschränkung) basierend auf einer Einwohnermeldestichprobe (2002, 2008, 2017, 2023) und einer zusätzlichen Telefonstichprobe (2017, 2023). 
+Wohnbevölkerung in Deutschland (ohne Alterseinschränkung) basierend auf einer Einwohnermeldestichprobe (2002, 2008, 2017, 2023) und einer zusätzlichen Telefonstichprobe (2017, 2023).
 
 #### Datenquelle
 
-Mobilität in Deutschland (MiD) ist eine bundesweite Befragung von Haushalten zu ihrem Verkehrsverhalten. Sie wird im Auftrag des Bundesministeriums für Verkehr und digitale Infrastruktur (BMVI) durchgeführt. Angaben von 420.979 befragten Personen liegen vor. Im Rahmen der Befragung wurden fast eine Million Wege erhoben ([infas 2025a](https://www.mobilitaet-in-deutschland.de/pdf/infas_Methodenbericht_MiD2023_7555.pdf "Externer Link&nbsp;zur Publikation: Mobilität in Deutschland - MiD 2023")). In den Grafiken werden die Fallzahlen für die zurückgelegten Wege angezeigt. Für Kinder unter 10 Jahren erfolgte das Interview mit einer stellvertretenden Person. Für Kinder und Jugendliche ab 10 Jahren war sowohl eine Selbstbefragung als auch ein Interview mit einem anderen Haushaltsmitglied möglich ([infas 2025a](https://www.mobilitaet-in-deutschland.de/pdf/infas_Methodenbericht_MiD2023_7555.pdf "Externer Link&nbsp;zur Publikation: Mobilität in Deutschland - MiD 2023")).&nbsp; 
+Mobilität in Deutschland (MiD) ist eine bundesweite Befragung von Haushalten zu ihrem Verkehrsverhalten. Sie wird im Auftrag des Bundesministeriums für Verkehr und digitale Infrastruktur (BMVI) durchgeführt. Angaben von 420.979 befragten Personen liegen vor. Im Rahmen der Befragung wurden fast eine Million Wege erhoben ([infas 2025a](https://www.mobilitaet-in-deutschland.de/pdf/infas_Methodenbericht_MiD2023_7555.pdf "Externer Link&nbsp;zur Publikation: Mobilität in Deutschland - MiD 2023")). In den Grafiken werden die Fallzahlen für die zurückgelegten Wege angezeigt. Für Kinder unter 10 Jahren erfolgte das Interview mit einer stellvertretenden Person. Für Kinder und Jugendliche ab 10 Jahren war sowohl eine Selbstbefragung als auch ein Interview mit einem anderen Haushaltsmitglied möglich ([infas 2025a](https://www.mobilitaet-in-deutschland.de/pdf/infas_Methodenbericht_MiD2023_7555.pdf "Externer Link&nbsp;zur Publikation: Mobilität in Deutschland - MiD 2023")).
 
 #### Datenqualität
 
@@ -4201,13 +4714,15 @@ Die veröffentlichten Tabellen geben alle Anteile ohne Nachkommastelle an. Dadur
 #### Berechnung
 
 * **Beschreibung:** Modal Split des genutzten Hauptverkehrsmittels: Für jeden von den Befragten zurückgelegten Weg wurden alle genutzten Verkehrsmittel erfasst. Bei der Nennung von nur einem Verkehrsmittel war dieses das Hauptverkehrsmittel ([infas 2025b](https://www.mobilitaet-in-deutschland.de/pdf/infas_MiD2023_7555_Bund.pdf "Externer Link&nbsp;zur tabellarischen Grundauswertung - Mobilität in Deutschland − MiD 2023")). Für Wege, die aus mehreren Etappen bestanden und für die unterschiedliche Verkehrsmittel genutzt wurden, wurde das Verkehrsmittel, mit dem wahrscheinlich die längste Teilstrecke zurückgelegt wurde, als Hauptverkehrsmittel klassifiziert ([infas 2025b](https://www.mobilitaet-in-deutschland.de/pdf/infas_MiD2023_7555_Bund.pdf "Externer Link&nbsp;zur tabellarischen Grundauswertung - Mobilität in Deutschland − MiD 2023")). Aufgrund von geringeren Anteilen werden die Ergebnisse für Moped/Mofa/Motorrad auf dieser Seite nicht grafisch dargestellt.
-	+ „Welche Verkehrsmittel haben Sie im Laufe des Weges alle genutzt?“ (Mehrfachnennungen möglich)
-	+ Antwortmöglichkeiten: „Zu Fuß“, „Elektrofahrrad/Pedelec“, „Fahrrad“, „Moped/Mofa“, „Motorrad“, „Moped/Mofa/Motorrad“, „Eigener oder anderer privater PKW“, „Carsharing-Fahrzeug“, „LKW“, „Stadtbus/Regionalbus“, „ U-Bahn/Stadtbahn“, „Straßenbahn“, „S-Bahn/Nahverkehrszug“, „Anrufsammeltaxi/Rufbus o.ä.“, „Taxi“, „Schiff/Fähre“, „Fernzug (z.B. ICE, InterCity, EuroCity)“, „Fernbus im Linienverkehr“, „Reisebus nicht im Linienverkehr“, „Flugzeug“, „Anderes Verkehrsmittel"
-	+ Anschließend wurde gefragt: „Bei Wegen mit PKW, Motorrad oder LKW: Waren Sie auf diesem Weg Fahrer oder Mitfahrer?“
-	+ Antwortmöglichkeiten: „Fahrer“, „Mitfahrer“, „Beides (Fahrerwechsel)“
+  + „Welche Verkehrsmittel haben Sie im Laufe des Weges alle genutzt?“ (Mehrfachnennungen möglich)
+  + Antwortmöglichkeiten: „Zu Fuß“, „Elektrofahrrad/Pedelec“, „Fahrrad“, „Moped/Mofa“, „Motorrad“, „Moped/Mofa/Motorrad“, „Eigener oder anderer privater PKW“, „Carsharing-Fahrzeug“, „LKW“, „Stadtbus/Regionalbus“, „ U-Bahn/Stadtbahn“, „Straßenbahn“, „S-Bahn/Nahverkehrszug“, „Anrufsammeltaxi/Rufbus o.ä.“, „Taxi“, „Schiff/Fähre“, „Fernzug (z.B. ICE, InterCity, EuroCity)“, „Fernbus im Linienverkehr“, „Reisebus nicht im Linienverkehr“, „Flugzeug“, „Anderes Verkehrsmittel"
+  + Anschließend wurde gefragt: „Bei Wegen mit PKW, Motorrad oder LKW: Waren Sie auf diesem Weg Fahrer oder Mitfahrer?“
+  + Antwortmöglichkeiten: „Fahrer“, „Mitfahrer“, „Beides (Fahrerwechsel)“
 * **Stratifizierung**: Für den Indikator sind die Anteile nach Geschlecht (weiblich und männlich), Alter und Bundesland ausgewiesen. Die Darstellung nach Bundesland basiert auf den Wohnorten der Befragten.
 * **Gewichtung**: Um repräsentative Ergebnisse für die Grundgesamtheit zu erhalten, wurden Gewichtungsfaktoren (z.B. Alter, Geschlecht, Haushaltsgröße, Bildung) verwendet. Die Gewichte sind fallzahlnormiert. Des Weiteren wurden zur Hochrechnung auf die gesamtdeutsche Bevölkerung Hochrechnungsfaktoren verwendet. Weitere Informationen sind im Handbuch zur Datennutzung MiD zusammengefasst ([infas 2025c](https://www.mobilitaet-in-deutschland.de/pdf/infas_HandbuchZurDatennutzung_MiD2023_7555.pdf "Externer Link&nbsp;zum&nbsp;Handbuch zur Datennutzung - Mobilität in Deutschland - MiD 2023")).
 
 
 <br>[→ Zur Übersicht über alle Indikatoren](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#indikatoren)<br><br><br>
+
+
 <!-- CUSTOM_MARKDOWN_END -->

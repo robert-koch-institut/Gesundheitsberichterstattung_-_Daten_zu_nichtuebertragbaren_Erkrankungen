@@ -4,6 +4,9 @@
       "name": "Indikator_ID",
       "type": "integer",
       "description": "7-stellige ID des Indikators",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "required": true,
         "minimum": 1000000,
@@ -14,6 +17,9 @@
       "name": "Indikator_Name",
       "type": "string",
       "description": "Name des Indikators",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "required": true
       },
@@ -23,6 +29,9 @@
       "name": "Kennzahl_ID",
       "type": "integer",
       "description": "ID der Kennzahl bei mehreren Kennzahlen innerhalb des Indikators",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "required": true,
         "minimum": 0
@@ -32,6 +41,9 @@
       "name": "Kennzahl_Name",
       "type": "string",
       "description": "Name der Kennzahl bei mehreren Kennzahlen innerhalb des Indikators",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "required": true
       },
@@ -41,6 +53,9 @@
       "name": "Kennzahl_Definition",
       "type": "string",
       "description": "Definition der Kennzahl inklusive der Maßeinheit",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "required": true
       },
@@ -50,6 +65,9 @@
       "name": "Zeitraum_ISO",
       "type": "string",
       "description": "Zeitraum im ISO-Format (JJJJ-MM-TT--JJJJ-MM-TT: Anfangs- und Enddatum des Bezugszeitraums), auf den sich der Wert bezieht ",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "required": true
       },
@@ -59,6 +77,9 @@
       "name": "Zeitraum_Name",
       "type": "string",
       "description": "Textliche Bezeichnung des Zeitraums, z.B. `JJJJ` = Zeitraum eines kompletten Jahres oder `JJJJ/JJ` für den Zeitraum einer Grippe-Saison ",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "required": true
       },
@@ -69,6 +90,7 @@
       "type": "integer",
       "description": "ID des Geschlechts (Definition siehe Beschreibung des jeweiligen Indikators): `0` = Gesamt, `1` = Weiblich, `2` = Männlich. Enthält `NA`, wenn der Indikator nicht auf Geschlecht bezogen ist.",
       "missingValues": [
+        "",
         "NA"
       ],
       "constraints": {
@@ -84,6 +106,7 @@
       "type": "string",
       "description": "Textliche Bezeichnung des Geschlechts. Enthält `NA`, wenn der Indikator nicht auf Geschlecht bezogen ist.",
       "missingValues": [
+        "",
         "NA"
       ],
       "constraints": {
@@ -99,6 +122,7 @@
       "type": "string",
       "description": "Altersgruppen in Jahren in der Form \"von-bis\", z.B. `30-39`= 30-39 Jahre, oder in der Form \"von+\", z.B. `75+` = >=75 Jahre. Der Wert `00+` beinhaltet alle Altersgruppen. Enthält `NA`, wenn der Indikator nicht altersbezogen ist.",
       "missingValues": [
+        "",
         "NA"
       ],
       "constraints": {
@@ -163,6 +187,7 @@
       "type": "string",
       "description": "Textliche Bezeichnung der Altersgruppe. Enthält `NA`, wenn der Indikator nicht altersbezogen ist.",
       "missingValues": [
+        "",
         "NA"
       ],
       "constraints": {
@@ -225,7 +250,10 @@
     {
       "name": "Region_ID",
       "type": "string",
-      "description": "Land, Bundesland bzw. Region: `00` = Deutschland, `01`-`16` = Bundesländer, `21`-`25` = Zusammenfassung der Bundesländer in fünf Regionen (siehe [Regionalcodes](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#regionalcodes)), `AT`-`UA` = europäische Länder nach ISO 3166-1-ALPHA-2",
+      "description": "Land, Bundesland bzw. Region: `00` = Deutschland, `01`-`16` = Bundesländer, `21`-`25` = Zusammenfassung der Bundesländer in fünf Regionen und `31`-`32` =  in West/Ost (siehe [Regionalcodes](https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen/blob/main/Readme.md#regionalcodes)), `AT`-`UA` = europäische Länder nach ISO 3166-1-ALPHA-2",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "required": true,
         "enum": [
@@ -297,6 +325,9 @@
       "name": "Region_Name",
       "type": "string",
       "description": "Textliche Bezeichnung der Region",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "required": true,
         "enum": [
@@ -368,6 +399,7 @@
       "type": "integer",
       "description": "Bildungsstatus anhand des CASMIN-Indexes ([Brauns et al. 2003](https://doi.org/10.1007/978-1-4419-9186-7_11)). Dieser verwendet Angaben zu schulischer und beruflicher Bildung und ermöglicht die Einteilung des Bildungsstatus in `1` = niedrig, `2` = mittel und `3` = hoch. Die Ausprägung `0` = Gesamt beinhaltet alle Bildungsgruppen. Enthält `NA`, wenn der Indikator nicht nach Bildung stratifiziert wurde.",
       "missingValues": [
+        "",
         "NA"
       ],
       "constraints": {
@@ -380,6 +412,7 @@
       "type": "string",
       "description": "Textliche Bezeichnung der Bildung. Enthält `NA`, wenn der Indikator nicht nach Bildung stratifiziert wurde.",
       "missingValues": [
+        "",
         "NA"
       ],
       "constraints": {
@@ -396,6 +429,7 @@
       "type": "integer",
       "description": "Regionale sozioökonomische Deprivation auf Grundlage des German Index of Socioeconomic Deprivation (GISD) ([Michalski et al. 2022](https://doi.org/10.25646/10640)). Der GISD fasst Merkmale der Erwerbs-, Bildungs- und Einkommenssituation für jeden Kreis und jede kreisfreie Stadt in einer Kennzahl zusammen. Die Kreise werden entlang ihrer GISD-Werte in Quintile von niedriger bis hoher sozioökonomischer Deprivation eingeteilt, die über den Wohnort verknüpft werden: Einteilung der Deprivation in `1` = hoch (5. Quintil), `2` = mittel (2. – 4. Quintil) und `3` = niedrig (1. Quintil). Die Ausprägung `0` = Gesamt beinhaltet alle Quintile. Unterschiede in den Werten nach sozioökonomischer Deprivation beziehen sich auf die räumliche Ebene.\nEnthält `NA`, wenn der Indikator nicht nach GISD stratifiziert wurde.",
       "missingValues": [
+        "",
         "NA"
       ],
       "constraints": {
@@ -408,6 +442,7 @@
       "type": "string",
       "description": "Textliche Bezeichnung der regionalen sozioökonomische Deprivation. Enthält `NA`, wenn der Indikator nicht nach GISD stratifiziert wurde.",
       "missingValues": [
+        "",
         "NA"
       ],
       "constraints": {
@@ -424,6 +459,7 @@
       "type": "integer",
       "description": "Berufliches Qualifikationsniveau. Unterscheidung in `1` = ohne abgeschlossene Berufsausbildung, `2` = betrieblich/schulische Ausbildung und `3` = akademische Ausbildung. Die Ausprägung `0` = Gesamt beinhaltet alle beruflichen Qualifikationsniveaus.\nEnthält `NA`, wenn der Indikator nicht nach beruflicher Qualifikation stratifiziert wurde.",
       "missingValues": [
+        "",
         "NA"
       ],
       "constraints": {
@@ -436,6 +472,7 @@
       "type": "string",
       "description": "Textliche Bezeichnung der beruflichen Qualifikation. Enthält `NA`, wenn der Indikator nicht nach beruflicher Qualifikation stratifiziert wurde.",
       "missingValues": [
+        "",
         "NA"
       ],
       "constraints": {
@@ -451,6 +488,9 @@
       "name": "Standardisierung_ID",
       "type": "integer",
       "description": "Art der Standardisierung für die Berechnung des Wertes:\n`0` = beobachtet\n`3` = altersstandardisiert",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "required": true,
         "enum": [
@@ -463,6 +503,9 @@
       "name": "Standardisierung_Name",
       "type": "string",
       "description": "Textliche Bezeichnung der Standardisierung",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "required": true,
         "enum": [
@@ -476,6 +519,7 @@
       "type": "number",
       "description": "Wert der Kennzahl. Enthält `NA`, wenn wegen zu hoher Unsicherheit (Unsicherheit = `2`) der errechnete Wert nicht veröffentlicht wird.",
       "missingValues": [
+        "",
         "NA"
       ],
       "example": "59.1"
@@ -485,6 +529,7 @@
       "type": "number",
       "description": "Untere Grenze des 95%-Konfidenzintervalls. \nEnthält `NA`, wenn wegen zu hoher Unsicherheit (Unsicherheit = `2`) der errechnete Wert nicht veröffentlicht wird oder für den Wert kein Konfidenzintervall berechnet wurde.",
       "missingValues": [
+        "",
         "NA"
       ],
       "example": "57.3"
@@ -494,6 +539,7 @@
       "type": "number",
       "description": "Obere Grenze des 95%-Konfidenzintervalls. \nEnthält `NA`, wenn wegen zu hoher Unsicherheit (Unsicherheit = `2`) der errechnete Wert nicht veröffentlicht wird oder für den Wert kein Konfidenzintervall berechnet wurde.",
       "missingValues": [
+        "",
         "NA"
       ],
       "example": "60.8"
@@ -503,6 +549,7 @@
       "type": "integer",
       "description": "Anzahl der Fälle (Zähler), auf der die Berechnung des Wertes beruht, für Indikatoren aus Sekundärdatenquellen. \nEnthält `NA`, wenn die Datenquelle des Indikators Befragungsstudien sind oder eine Angabe der Fallzahl nicht möglich oder sinnvoll ist.",
       "missingValues": [
+        "",
         "NA"
       ],
       "constraints": {
@@ -514,6 +561,7 @@
       "type": "integer",
       "description": "Umfang der Stichprobe (ungewichtet) (Nenner), auf der die Berechnung des Wertes beruht, für Indikatoren aus Befragungsstudien. Enthält `NA`, wenn der Indikator nicht auf Befragungsstudien basiert.",
       "missingValues": [
+        "",
         "NA"
       ],
       "constraints": {
@@ -525,6 +573,7 @@
       "type": "integer",
       "description": "Voraussetzung für die stratifizierte Darstellung eines Indikators ist, dass die Fallzahl in der Gruppe mindestens 5 beträgt und die statistische Unsicherheit in der Schätzung der Kennziffer als akzeptabel angesehen wird (Konfidenzintervall schmaler als 25 Prozentpunkte und Variationskoeffizient ≤ 33,5 %). Letzteres bedeutet, dass die untere Grenze des Konfidenzintervalls mindestens die Hälfte des Schätzers betragen muss. Sind diese Kriterien nicht erfüllt, werden die Werte nicht berichtet („zu wenige Daten“). Berichtet, jedoch als unsicher markiert, werden Werte, die auf weniger als 10 Fällen basieren, deren Konfidenzintervall breiter als 20 Prozentpunkte ist oder wenn die Untergrenze weniger als ⅔ des Schätzers beträgt (Variationskoeffizient ≤ 16,6 %). Aufgrund der Unsicherheit sollten diese Werte mit Vorsicht interpretiert werden.\nKodierung der Werte ist wie folgt: `0` = verlässlich, `1` = unsicher, `2` = zu unsicher (Wert wird nicht veröffentlich)",
       "missingValues": [
+        "",
         "NA"
       ],
       "constraints": {
@@ -540,6 +589,7 @@
       "type": "string",
       "description": "Hinweise für die Verwendung und Interpretation der Daten",
       "missingValues": [
+        "",
         "NA"
       ],
       "example": "2024: Änderung der Erhebungsmethode"
@@ -549,6 +599,9 @@
       "type": "date",
       "description": "Datum im ISO-Format, an dem der Indikator zuletzt aktualisiert wurde",
       "format": "%Y-%m-%d",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "required": true
       }
