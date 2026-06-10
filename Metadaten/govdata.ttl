@@ -1,68 +1,280 @@
-@prefix dcat: <http://www.w3.org/ns/dcat#> .
-              @prefix dcatde: <http://dcat-ap.de/def/dcatde/> .
-              @prefix dct: <http://purl.org/dc/terms/> .
-              @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-              @prefix schema: <http://schema.org/> .
-              @prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
-              @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+PREFIX dcatde: <http://dcat-ap.de/def/dcatde/>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX vcard: <http://www.w3.org/2006/vcard/ns#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
-              <https://zenodo.org/record/13736663> a dcat:Dataset ;
-                  dcatde:contributorID <http://dcat-ap.de/def/contributors/robertKochInstitut> ;
-                  dcatde:maintainer [ a foaf:Agent ; foaf:mbox "opendata@rki.de" ; foaf:name "Robert Koch-Institut | Open Data Team"] ;
-                  dcatde:contributor [ a foaf:Organization; foaf:name "Robert Koch-Institut" ];
-                  dct:description "<p>Im Datensatz &quot;Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen&quot; des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 69 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel &quot;Gesundheit in Deutschland&quot; und die Studie &quot;Gesundheit in Deutschland aktuell&quot; (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten.</p>" ;
-                  dct:issued "2026-03-03T14:09:33+01:00"^^xsd:dateTime ;
-                  dct:modified "2026-03-03T14:09:42+01:00"^^xsd:dateTime ;
-                  dct:publisher [ a foaf:Organization ;
-                      foaf:mbox "opendata@rki.de" ;
-                      foaf:name "Robert Koch Institut"
-                  ] ;
-                  dct:title "Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen" ;
-                   dcat:contactPoint [ a vcard:Organization ;
-                        vcard:fn "Robert Koch-Institut | Open Data Projektteam" ;
-                        vcard:hasCountryName "Deutschland" ;
-                        vcard:hasEmail "opendata@rki.de";
-                        vcard:hasLocality "Berlin" ;
-                        vcard:hasPostalCode "13353" ;
-                        vcard:hasStreetAddress "Nordufer 20"
-                  ];
-                  dcat:landingPage <https://robert-koch-institut.github.io/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen>;
-                  dcat:theme    <http://publications.europa.eu/resource/authority/data-theme/HEAL>,
-                                <http://publications.europa.eu/resource/authority/data-theme/SOCI>,
-                                <http://publications.europa.eu/resource/authority/data-theme/TECH>;
-                  dcat:keyword "Bevölkerungsgesundheit","Chronische Krankheit","Diabetes mellitus","Diät, Lebensmittel und Ernährung","Gesundheitsverhalten","Gesundheitsversorgung","Gesundheitszustand","Gesundheitsberichterstattung","Herz-Kreislauf-Krankheiten","Körpergewicht","Krebs","Nichtübertragbare Krankheiten","Psychische Störungen","Rauchen","Soziale Gesundheitsdeterminanten","Todesursache","Öffentliche Berichterstattung über Gesundheitsdaten","RKI","Open Data","Public Health","Adipositas","Aktivitäten des täglichen Lebens","Alkoholkonsum","Ambulante Behandlung","Amputation","Angst","Angststörungen","Arbeitslosigkeit","Armut","Asthma","Deutschland","Atemwegskrankheiten","Ausbildungsstand","Bewegungsarme Lebensweise","Krebserkrankungen","Brustkrebs","Mobility Limitation","Chronisch obstruktive Lungenerkrankung","Mobilitätseinschränkung","Depression","Healthy Aging","Depressive Störung","Gesundes Altern","Diabeteskomplikationen","Social Deprivation","Erziehung und Ausbildung","Soziale Deprivation","Fleisch","Früchte","Früherkennung von Krebs","Gedächtnisstörungen","Gemüse","Gesundheitsausgaben","Gesundheitsförderung","Gesundheitspolitik","Gesundheitszustandsindikatoren","Grippevakzine","Hauspflegedienste","Impfung","Kognitive Dysfunktion","Kolorektale Tumoren","Koronararterienerkrankung","Krankenhauseinweisung","Krankenpflegewesen","Krankheiten des Bewegungsapparates","Körperliches Training","Langzeitbehandlung","Lebenserwartung","Lungenkrankheiten, obstruktive","Medizinische Grundversorgung","Mortalität","Nahrungsaufnahmeverhalten","Osteoarthrose","Primärprävention","Qualität des Gesundheitswesens","Rauschtrinken","Risikofaktoren","Risikofaktoren für Herzkrankheiten","Schlaganfall","Sekundärprävention","Soziale Faktoren","Soziale Unterstützung","Soziales Umfeld","Sozialökonomische Faktoren","Steuern","Tabak rauchen","Tumoren","Umwelthygiene","Unfallbedingte Stürze","Unfälle","Verhalten bei Gesundheitsrisiken","Verschmutzung mit Tabakrauch","Wohnung","Zahnmedizinische Versorgung","Zuckergesüßte Getränke","Öffentliches Gesundheitswesen","Ökonomie","Übergewicht","Offene Daten","Accidents","Activities of Daily Living","Alcohol Drinking","Ambulatory Care","Amputation","Anxiety","Anxiety Disorders","Asthma","Binge Drinking","Body Weight","Breast Neoplasms","Cardiovascular Diseases","Cause of Death","Chronic Disease","Cognitive Dysfunction","Colorectal Neoplasms","Consumer Price Index","Coronary Artery Disease","Delivery of Health Care","Dental Care","Depression","Depressive Disorder","Diabetes Complications","Diabetes Mellitus","Diet, Food, and Nutrition","Dietary Behavior","Early Detection of Cancer","Education","Educational status","Environmental Health","Falls","Fruit","Gestational Diabetes Mellitus","Schwangerschaftsdiabetes","Health Behavior","Health Expenditures","Health Inequities","Health Policy","Health Promotion","Health Risk Behaviors","Health Status","Health Status Indicators","Heart Disease Risk Factors","Home Care Services","Hospitalization","Housing","Influenza Vaccines","Life Expectancy","Long-Term Care","Meat","Memory Disorders","Mental Disorders","Mortality","Musculoskeletal Diseases","Neoplasms","Noncommunicable diseases","Nursing","Obesity","Obstructive Lung Disease","Osteoarthritis","Overweight","Physical Activity","Population Health","Poverty","Primary Health Care","Primary Prevention","Public Health Surveillance","Public Reporting of Healthcare Data","Pulmonary Disease, Chronic Obstructive","Quality of Health Care","Respiratory Tract Diseases","Risk Factors","Secondary Prevention","Secondhand Smoke","Sedentary Behavior","Smoking","Social Determinants of Health","Social Environment","Social Factors","Social Support","Socioeconomic Factors","Stroke","Sugar-Sweetened Beverages","Taxes","Tobacco Control","Tobacco Smoking","Unemployment","Vaccination","Vegetables","Germany","Cancer","Neoplasm","Krebserkrankungen","Mobility Limitation","Mobilitätseinschränkung","Healthy Aging","Gesundes Altern","Social Deprivation","Soziale Deprivation";
-                  dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0>;
-                  dcat:distribution [
-                    a dcat:Distribution ;
-                    dcatde:licenseAttributionByText "Robert Koch-Institut (2026): Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen, Berlin: Zenodo. DOI:10.5281/zenodo.18465908" ;
-                    dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
-                    dct:description "GitHub ist eine soziales Netzwerk und Plattform, die es ermöglicht, Code-Repositories und Datensätze zu hosten, zu verwalten und zu teilen. Es bietet eine Vielzahl von Funktionen wie Versionskontrolle, Fehlerverfolgung, Zusammenarbeit und Teammanagement. GitHub ist eine der bekanntesten und am häufigsten verwendeten Plattformen für die gemeinsame Entwicklung von Software und Code, insbesondere für Open-Source-Projekte.";
-                    dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
-                    dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
-                    dct:title "Github - Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen" ;
-                    dcat:accessURL <https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen>;
-                    dct:modified "2026-03-03T14:09:33+01:00"^^xsd:dateTime;
-                  ],
-                  [
-                    a dcat:Distribution ;
-                    dcatde:licenseAttributionByText "Robert Koch-Institut (2026): Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen, Berlin: Zenodo. DOI:10.5281/zenodo.18465908" ;
-                    dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
-                    dct:description "Zenodo ist eine europäische Plattform, die es Forschern, Wissenschaftlern und anderen Personen ermöglicht, Forschungsdaten, Publikationen, Präsentationen und andere wissenschaftliche Inhalte kostenlos zu teilen und zu veröffentlichen. Eine der Hauptstärken von Zenodo ist die Bereitstellung der Daten nach den FAIR Prinzipien, Daten sind langzeitarchiviert und wissenschaftlich zitierbar, um den Datenaustausch und die Zusammenarbeit zwischen Forschern zu erleichtern.";
-                    dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
-                    dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
-                    dct:title "Zenodo - Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen" ;
-                    dcat:accessURL <https://zenodo.org/record/13736663>;
-                    dct:modified "2026-03-03T14:09:33+01:00"^^xsd:dateTime;
-                  ],
-                  [
-                    a dcat:Distribution ;
-                    dct:title "[Dokumentation] Gesundheitsberichterstattung_-_Daten_zu_nichtübertragbaren_Erkrankungen.pdf" ;
-                    dcatde:licenseAttributionByText "Robert Koch-Institut (2026): Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen, Berlin: Zenodo. DOI:10.5281/zenodo.18465908" ;
-                    dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
-                    dct:description "Die Datensatzdokumentation enthält Informationen und Hinweise zum Entstehungskontext, dem Aufbau und der Nachnutzung der im Datensatz 'Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen' bereitgestellten Daten" ;
-                    dct:format <http://publications.europa.eu/resource/authority/file-type/PDF> ;
-                    dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
-                    dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
-                    dcat:accessURL <https://zenodo.org/record/13736663/files/%5BDokumentation%5D_Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen.pdf>;
-                    dct:modified "2026-03-03T14:09:33+01:00"^^xsd:dateTime;
-                  ].
+<https://zenodo.org/record/20393248>
+    a dcat:Dataset ;
+    dcatde:contributor <https://zenodo.org/record/20393248#author-1> ;
+    dcatde:contributorID <http://dcat-ap.de/def/contributors/robertKochInstitut> ;
+    dct:description "<p>Im Datensatz \"Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen\" des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 78 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel \"Gesundheit in Deutschland\" und die Studie \"Gesundheit in Deutschland aktuell\" (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten.</p>" ;
+    dct:issued "2026-06-10T10:48:31+02:00"^^xsd:dateTime ;
+    dct:modified "2026-06-10T10:48:31+02:00"^^xsd:dateTime ;
+    dct:publisher
+        [
+            a foaf:Organization ;
+            foaf:mbox "opendata@rki.de" ;
+            foaf:name "Robert Koch-Institut" ;
+        ] ;
+    dct:title "Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen" ;
+    dcat:contactPoint
+        [
+            a vcard:Organization ;
+            vcard:fn "Robert Koch-Institut | Open Data Team" ;
+            vcard:hasCountryName "Deutschland" ;
+            vcard:hasEmail <mailto:opendata@rki.de> ;
+            vcard:hasLocality "Berlin" ;
+            vcard:hasPostalCode "13353" ;
+            vcard:hasStreetAddress "Nordufer 20" ;
+        ] ;
+    dcat:distribution
+        <https://zenodo.org/record/20393248#dist-01-github> ,
+        <https://zenodo.org/record/20393248#dist-02-zenodo> ,
+        <https://zenodo.org/record/20393248#dist-03-zenodo-documentation> ;
+    dcat:keyword
+        "Accidents" ,
+        "Activities of Daily Living" ,
+        "Adipositas" ,
+        "Aktivitäten des täglichen Lebens" ,
+        "Alcohol Drinking" ,
+        "Alkoholkonsum" ,
+        "Ambulante Behandlung" ,
+        "Ambulatory Care" ,
+        "Amputation" ,
+        "Angst" ,
+        "Angststörungen" ,
+        "Anxiety" ,
+        "Anxiety Disorders" ,
+        "Arbeitslosigkeit" ,
+        "Armut" ,
+        "Asthma" ,
+        "Atemwegskrankheiten" ,
+        "Ausbildungsstand" ,
+        "Bevölkerungsgesundheit" ,
+        "Bewegungsarme Lebensweise" ,
+        "Binge Drinking" ,
+        "Bluthochdruck" ,
+        "Body Weight" ,
+        "Breast Neoplasms" ,
+        "Brustkrebs" ,
+        "Cancer" ,
+        "Cardiovascular Diseases" ,
+        "Cause of Death" ,
+        "Chronic Disease" ,
+        "Chronisch obstruktive Lungenerkrankung" ,
+        "Chronische Krankheit" ,
+        "Cognitive Dysfunction" ,
+        "Colorectal Neoplasms" ,
+        "Consumer Price Index" ,
+        "Coronary Artery Disease" ,
+        "Delivery of Health Care" ,
+        "Dental Care" ,
+        "Depression" ,
+        "Depressive Disorder" ,
+        "Depressive Störung" ,
+        "Deutschland" ,
+        "Diabetes Complications" ,
+        "Diabetes Mellitus" ,
+        "Diabetes mellitus" ,
+        "Diabeteskomplikationen" ,
+        "Diet, Food, and Nutrition" ,
+        "Dietary Behavior" ,
+        "Diät, Lebensmittel und Ernährung" ,
+        "Early Detection of Cancer" ,
+        "Education" ,
+        "Educational status" ,
+        "Environmental Health" ,
+        "Erziehung und Ausbildung" ,
+        "Falls" ,
+        "Fleisch" ,
+        "Fruit" ,
+        "Früchte" ,
+        "Früherkennung von Krebs" ,
+        "Gedächtnisstörungen" ,
+        "Gemüse" ,
+        "Germany" ,
+        "Gestational Diabetes Mellitus" ,
+        "Gesundes Altern" ,
+        "Gesundheitsausgaben" ,
+        "Gesundheitsberichterstattung" ,
+        "Gesundheitsförderung" ,
+        "Gesundheitskompetenz" ,
+        "Gesundheitspolitik" ,
+        "Gesundheitsverhalten" ,
+        "Gesundheitsversorgung" ,
+        "Gesundheitszustand" ,
+        "Gesundheitszustandsindikatoren" ,
+        "Grippevakzine" ,
+        "Hauspflegedienste" ,
+        "Health Behavior" ,
+        "Health Expenditures" ,
+        "Health Inequities" ,
+        "Health Literacy" ,
+        "Health Policy" ,
+        "Health Promotion" ,
+        "Health Risk Behaviors" ,
+        "Health Status" ,
+        "Health Status Indicators" ,
+        "Healthy Aging" ,
+        "Heart Disease Risk Factors" ,
+        "Herz-Kreislauf-Krankheiten" ,
+        "Home Care Services" ,
+        "Hospitalization" ,
+        "Housing" ,
+        "Hypertension" ,
+        "Impfung" ,
+        "Influenza Vaccines" ,
+        "Kognitive Dysfunktion" ,
+        "Kolorektale Tumoren" ,
+        "Koronararterienerkrankung" ,
+        "Krankenhauseinweisung" ,
+        "Krankenpflegewesen" ,
+        "Krankheiten des Bewegungsapparates" ,
+        "Krebs" ,
+        "Krebserkrankungen" ,
+        "Körpergewicht" ,
+        "Körperliches Training" ,
+        "Langzeitbehandlung" ,
+        "Lebenserwartung" ,
+        "Life Expectancy" ,
+        "Long-Term Care" ,
+        "Lung Neoplasms" ,
+        "Lungenkrankheiten, obstruktive" ,
+        "Lungenkrebs" ,
+        "Meat" ,
+        "Medizinische Grundversorgung" ,
+        "Memory Disorders" ,
+        "Mental Disorders" ,
+        "Mobility Limitation" ,
+        "Mobilitätseinschränkung" ,
+        "Mortality" ,
+        "Mortalität" ,
+        "Musculoskeletal Diseases" ,
+        "Nahrungsaufnahmeverhalten" ,
+        "Neoplasm" ,
+        "Neoplasms" ,
+        "Nichtübertragbare Krankheiten" ,
+        "Noncommunicable diseases" ,
+        "Nursing" ,
+        "Obesity" ,
+        "Obstructive Lung Disease" ,
+        "Offene Daten" ,
+        "Open Data" ,
+        "Osteoarthritis" ,
+        "Osteoarthrose" ,
+        "Overweight" ,
+        "Physical Activity" ,
+        "Population Health" ,
+        "Poverty" ,
+        "Primary Health Care" ,
+        "Primary Prevention" ,
+        "Primärprävention" ,
+        "Psychische Störungen" ,
+        "Public Health" ,
+        "Public Health Surveillance" ,
+        "Public Reporting of Healthcare Data" ,
+        "Pulmonary Disease, Chronic Obstructive" ,
+        "Quality of Health Care" ,
+        "Qualität des Gesundheitswesens" ,
+        "RKI" ,
+        "Rauchen" ,
+        "Rauschtrinken" ,
+        "Respiratory Tract Diseases" ,
+        "Risikofaktoren" ,
+        "Risikofaktoren für Herzkrankheiten" ,
+        "Risk Factors" ,
+        "Schlaganfall" ,
+        "Schwangerschaftsdiabetes" ,
+        "Secondary Prevention" ,
+        "Secondhand Smoke" ,
+        "Sedentary Behavior" ,
+        "Sekundärprävention" ,
+        "Smoking" ,
+        "Social Deprivation" ,
+        "Social Determinants of Health" ,
+        "Social Environment" ,
+        "Social Factors" ,
+        "Social Support" ,
+        "Socioeconomic Factors" ,
+        "Soziale Deprivation" ,
+        "Soziale Faktoren" ,
+        "Soziale Gesundheitsdeterminanten" ,
+        "Soziale Unterstützung" ,
+        "Soziales Umfeld" ,
+        "Sozialökonomische Faktoren" ,
+        "Steuern" ,
+        "Stroke" ,
+        "Subjective Stress" ,
+        "Subjektiver Stress" ,
+        "Sugar-Sweetened Beverages" ,
+        "Tabak rauchen" ,
+        "Taxes" ,
+        "Tobacco Control" ,
+        "Tobacco Smoking" ,
+        "Todesursache" ,
+        "Tumoren" ,
+        "Umwelthygiene" ,
+        "Unemployment" ,
+        "Unfallbedingte Stürze" ,
+        "Unfälle" ,
+        "Vaccination" ,
+        "Vegetables" ,
+        "Verhalten bei Gesundheitsrisiken" ,
+        "Verschmutzung mit Tabakrauch" ,
+        "Wohnung" ,
+        "Zahnmedizinische Versorgung" ,
+        "Zuckergesüßte Getränke" ,
+        "Öffentliche Berichterstattung über Gesundheitsdaten" ,
+        "Öffentliches Gesundheitswesen" ,
+        "Ökonomie" ,
+        "Übergewicht" ;
+    dcat:landingPage <https://robert-koch-institut.github.io/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen> ;
+    dcat:theme
+        <http://publications.europa.eu/resource/authority/data-theme/HEAL> ,
+        <http://publications.europa.eu/resource/authority/data-theme/SOCI> ,
+        <http://publications.europa.eu/resource/authority/data-theme/TECH> ;
+.
+
+<https://zenodo.org/record/20393248#author-1>
+    a foaf:Organization ;
+    foaf:name "Robert Koch-Institut" ;
+.
+
+<https://zenodo.org/record/20393248#dist-01-github>
+    a dcat:Distribution ;
+    dcatde:licenseAttributionByText "Robert Koch-Institut. (2026). Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20393248" ;
+    dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
+    dct:description "GitHub ist eine soziales Netzwerk und Plattform, die es ermöglicht, Code-Repositories und Datensätze zu hosten, zu verwalten und zu teilen. Es bietet eine Vielzahl von Funktionen wie Versionskontrolle, Fehlerverfolgung, Zusammenarbeit und Teammanagement. GitHub ist eine der bekanntesten und am häufigsten verwendeten Plattformen für die gemeinsame Entwicklung von Software und Code, insbesondere für Open-Source-Projekte." ;
+    dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
+    dct:license <https://dcat-ap.de/def/licenses/cc-by/4.0> ;
+    dct:modified "2026-06-10T10:48:31+02:00"^^xsd:dateTime ;
+    dct:title "Github - Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen" ;
+    dcat:accessURL <https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen> ;
+.
+
+<https://zenodo.org/record/20393248#dist-02-zenodo>
+    a dcat:Distribution ;
+    dcatde:licenseAttributionByText "Robert Koch-Institut. (2026). Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20393248" ;
+    dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
+    dct:description "Zenodo ist eine europäische Plattform, die es Forschern, Wissenschaftlern und anderen Personen ermöglicht, Forschungsdaten, Publikationen, Präsentationen und andere wissenschaftliche Inhalte kostenlos zu teilen und zu veröffentlichen. Eine der Hauptstärken von Zenodo ist die Bereitstellung der Daten nach den FAIR Prinzipien, Daten sind langzeitarchiviert und wissenschaftlich zitierbar, um den Datenaustausch und die Zusammenarbeit zwischen Forschern zu erleichtern." ;
+    dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
+    dct:license <https://dcat-ap.de/def/licenses/cc-by/4.0> ;
+    dct:modified "2026-06-10T10:48:31+02:00"^^xsd:dateTime ;
+    dct:title "Zenodo - Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen" ;
+    dcat:accessURL <https://zenodo.org/record/20393248> ;
+.
+
+<https://zenodo.org/record/20393248#dist-03-zenodo-documentation>
+    a dcat:Distribution ;
+    dcatde:licenseAttributionByText "Robert Koch-Institut. (2026). Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20393248" ;
+    dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
+    dct:description "Die Datensatzdokumentation enthält Informationen und Hinweise zum Entstehungskontext, dem Aufbau und der Nachnutzung der im Datensatz 'Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen' bereitgestellten Daten" ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/PDF> ;
+    dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
+    dct:license <https://dcat-ap.de/def/licenses/cc-by/4.0> ;
+    dct:modified "2026-06-10T10:48:31+02:00"^^xsd:dateTime ;
+    dct:title "[Dokumentation]_Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen.pdf" ;
+    dcat:accessURL <https://zenodo.org/record/20393248/files/[Dokumentation]_Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen.pdf> ;
+.

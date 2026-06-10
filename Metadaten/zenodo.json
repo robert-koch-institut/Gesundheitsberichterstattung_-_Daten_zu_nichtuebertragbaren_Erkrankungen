@@ -1,6 +1,15 @@
 {
   "title": "Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen",
-  "description": "<p>Im Datensatz &quot;Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen&quot; des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 69 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel &quot;Gesundheit in Deutschland&quot; und die Studie &quot;Gesundheit in Deutschland aktuell&quot; (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten.</p>\n",
+  "description": "<p>Im Datensatz \"Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen\" des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 78 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel \"Gesundheit in Deutschland\" und die Studie \"Gesundheit in Deutschland aktuell\" (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten.</p>",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "language": "deu",
+  "communities": [
+    {
+      "identifier": "robertkochinstitut"
+    }
+  ],
   "creators": [
     {
       "name": "Robert Koch-Institut",
@@ -30,6 +39,12 @@
       "affiliation": "Robert Koch-Institut",
       "type": "Researcher",
       "orcid": "0009-0008-7780-1937"
+    },
+    {
+      "name": "Lange, Michael",
+      "affiliation": "Robert Koch-Institut",
+      "type": "Researcher",
+      "orcid": "0009-0008-8932-7566"
     }
   ],
   "keywords": [
@@ -225,6 +240,14 @@
     "Cancer",
     "Neoplasm",
     "Krebserkrankungen",
+    "Hypertension",
+    "Bluthochdruck",
+    "Subjective Stress",
+    "Subjektiver Stress",
+    "Health Literacy",
+    "Gesundheitskompetenz",
+    "Lung Neoplasms",
+    "Lungenkrebs",
     "Mobility Limitation",
     "Mobilitätseinschränkung",
     "Healthy Aging",
@@ -232,36 +255,27 @@
     "Social Deprivation",
     "Soziale Deprivation"
   ],
-  "publication_date": "2026-03-03",
-  "version": "2026-03-03",
-  "upload_type": "dataset",
-  "access_right": "open",
-  "license": "CC-BY-4.0",
-  "language": "deu",
-  "communities": [
-    {
-      "identifier": "robertkochinstitut"
-    }
-  ],
   "subjects": [],
-  "dates": [
-    {
-      "start": "2026-03-03T14:09:42+01:00",
-      "end": "2026-03-03T14:09:42+01:00",
-      "type": "Created",
-      "description": "Date when the published data was created"
-    }
-  ],
+  "publication_date": "2026-06-10",
+  "version": "2026-06-10",
   "related_identifiers": [
     {
-      "relation": "isSupplementTo",
       "identifier": "https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen",
+      "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "relation": "isDescribedBy",
       "identifier": "https://robert-koch-institut.github.io/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen",
+      "relation": "isDescribedBy",
       "resource_type": "other"
+    }
+  ],
+  "dates": [
+    {
+      "start": "2026-06-10T10:48:31+02:00",
+      "end": "2026-06-10T10:48:31+02:00",
+      "type": "Created",
+      "description": "Date when the published data was created"
     }
   ]
 }

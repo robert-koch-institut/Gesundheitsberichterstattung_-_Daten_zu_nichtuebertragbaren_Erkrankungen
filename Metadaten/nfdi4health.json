@@ -3,13 +3,10 @@
     "classification": {
       "type": "Dataset"
     },
-    "collection": [
-      "Robert Koch Institute"
-    ],
     "descriptions": [
       {
         "language": "DE (German)",
-        "text": "Im Datensatz \"Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen\" des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 69 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel \"Gesundheit in Deutschland\" und die Studie \"Gesundheit in Deutschland aktuell\" (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten."
+        "text": "Im Datensatz \"Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen\" des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 78 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel \"Gesundheit in Deutschland\" und die Studie \"Gesundheit in Deutschland aktuell\" (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten."
       }
     ],
     "titles": [
@@ -20,15 +17,15 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.18465908",
+        "identifier": "10.5281/zenodo.20393248",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
       },
       {
         "identifier": "https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen",
-        "relationType": "A references B",
         "typeGeneral": "Dataset",
+        "relationType": "A references B",
         "scheme": "URL"
       }
     ],
@@ -802,6 +799,38 @@
         "code": "http://id.nlm.nih.gov/mesh/D009369"
       },
       {
+        "label": "Hypertension",
+        "code": "http://id.nlm.nih.gov/mesh/D006973"
+      },
+      {
+        "label": "Bluthochdruck",
+        "code": "http://id.nlm.nih.gov/mesh/D006973"
+      },
+      {
+        "label": "Subjective Stress",
+        "code": "http://id.nlm.nih.gov/mesh/D000097844"
+      },
+      {
+        "label": "Subjektiver Stress",
+        "code": "http://id.nlm.nih.gov/mesh/D000097844"
+      },
+      {
+        "label": "Health Literacy",
+        "code": "http://id.nlm.nih.gov/mesh/D057220"
+      },
+      {
+        "label": "Gesundheitskompetenz",
+        "code": "http://id.nlm.nih.gov/mesh/D057220"
+      },
+      {
+        "label": "Lung Neoplasms",
+        "code": "http://id.nlm.nih.gov/mesh/D008175"
+      },
+      {
+        "label": "Lungenkrebs",
+        "code": "http://id.nlm.nih.gov/mesh/D008175"
+      },
+      {
         "label": "Mobility Limitation",
         "code": "http://id.nlm.nih.gov/mesh/D051346"
       },
@@ -839,11 +868,12 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2026-03-03"
+      "version": "2026-06-10"
     },
     "webpage": "https://robert-koch-institut.github.io/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen",
     "contributors": [
       {
+        "nameType": "Organisational",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -855,13 +885,13 @@
             ]
           }
         ],
-        "nameType": "Organisational",
         "organisational": {
           "name": "Robert Koch-Institut",
           "type": "Creator/Author"
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -873,7 +903,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Data manager",
           "givenName": "Ramona",
@@ -881,6 +910,7 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -892,7 +922,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Data curator",
           "givenName": "Lukas",
@@ -906,6 +935,7 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -917,7 +947,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Data curator",
           "givenName": "Laura",
@@ -931,6 +960,7 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -942,7 +972,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Researcher",
           "givenName": "Annett",
@@ -950,6 +979,31 @@
           "identifiers": [
             {
               "identifier": "0009-0008-7780-1937",
+              "scheme": "ORCID"
+            }
+          ]
+        }
+      },
+      {
+        "nameType": "Personal",
+        "affiliations": [
+          {
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
+          }
+        ],
+        "personal": {
+          "type": "Researcher",
+          "givenName": "Michael",
+          "familyName": "Lange",
+          "identifiers": [
+            {
+              "identifier": "0009-0008-8932-7566",
               "scheme": "ORCID"
             }
           ]

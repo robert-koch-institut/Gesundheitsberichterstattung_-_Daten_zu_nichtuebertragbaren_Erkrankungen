@@ -456,7 +456,7 @@ Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert 
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews. Zeitvergleiche der Ergebnisse zwischen der GEDA-Welle 2014/2015-EHIS und den übrigen Wellen sollten aufgrund von Unterschieden in der Stichprobenziehung sowie Unterschieden im Erhebungsmodus vorsichtig interpretiert werden.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews. Zeitvergleiche der Ergebnisse zwischen der GEDA-Welle 2014/2015-EHIS und den übrigen Wellen sollten aufgrund von Unterschieden in der Stichprobenziehung sowie Unterschieden im Erhebungsmodus vorsichtig interpretiert werden.
 
 #### Berechnung
 
@@ -534,7 +534,7 @@ Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert K
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
 
 #### Berechnung
 
@@ -589,7 +589,7 @@ Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert K
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
 
 #### Weiterführende Links
 
@@ -657,7 +657,7 @@ Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert K
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
 
 #### Berechnung
 
@@ -712,7 +712,7 @@ Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert K
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
 
 #### Weiterführende Links
 
@@ -766,7 +766,7 @@ Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert K
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
 
 #### Weiterführende Links
 
@@ -821,7 +821,7 @@ Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert K
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
 
 #### Weiterführende Links
 
@@ -877,7 +877,7 @@ Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert K
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
 
 #### Weiterführende Links
 
@@ -932,7 +932,7 @@ Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert K
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
 
 #### Weiterführende Links
 
@@ -989,7 +989,7 @@ Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert K
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
 
 #### Weiterführende Links
 
@@ -1044,7 +1044,7 @@ Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert K
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
 
 #### Weiterführende Links
 
@@ -1367,7 +1367,7 @@ Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert 
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
 
 #### Weiterführende Links
 
@@ -1531,7 +1531,7 @@ Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert 
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews. Zeitvergleiche der Ergebnisse zwischen der GEDA-Welle 2014/2015-EHIS und den übrigen Wellen sollten aufgrund von Unterschieden in der Stichprobenziehung sowie Unterschieden im Erhebungsmodus vorsichtig interpretiert werden.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews. Zeitvergleiche der Ergebnisse zwischen der GEDA-Welle 2014/2015-EHIS und den übrigen Wellen sollten aufgrund von Unterschieden in der Stichprobenziehung sowie Unterschieden im Erhebungsmodus vorsichtig interpretiert werden.
 
 #### Berechnung
 
@@ -1659,7 +1659,7 @@ Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert 
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews. Zeitvergleiche der Ergebnisse zwischen der GEDA-Welle 2014/2015-EHIS und den übrigen Wellen sollten aufgrund von Unterschieden in der Stichprobenziehung sowie Unterschieden im Erhebungsmodus vorsichtig interpretiert werden.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews. Zeitvergleiche der Ergebnisse zwischen der GEDA-Welle 2014/2015-EHIS und den übrigen Wellen sollten aufgrund von Unterschieden in der Stichprobenziehung sowie Unterschieden im Erhebungsmodus vorsichtig interpretiert werden.
 
 #### Berechnung
 
@@ -2486,7 +2486,7 @@ Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert 
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews. Zeitvergleiche der Ergebnisse zwischen der GEDA-Welle 2014/2015-EHIS und den übrigen Wellen sollten aufgrund von Unterschieden in der Stichprobenziehung sowie Unterschieden im Erhebungsmodus vorsichtig interpretiert werden.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews. Zeitvergleiche der Ergebnisse zwischen der GEDA-Welle 2014/2015-EHIS und den übrigen Wellen sollten aufgrund von Unterschieden in der Stichprobenziehung sowie Unterschieden im Erhebungsmodus vorsichtig interpretiert werden.
 
 #### Berechnung
 
@@ -2611,7 +2611,7 @@ Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert 
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews. Zeitvergleiche der Ergebnisse zwischen der GEDA-Welle 2014/2015-EHIS und den übrigen Wellen sollten aufgrund von Unterschieden in der Stichprobenziehung sowie Unterschieden im Erhebungsmodus vorsichtig interpretiert werden.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews. Zeitvergleiche der Ergebnisse zwischen der GEDA-Welle 2014/2015-EHIS und den übrigen Wellen sollten aufgrund von Unterschieden in der Stichprobenziehung sowie Unterschieden im Erhebungsmodus vorsichtig interpretiert werden.
 
 #### Berechnung
 
@@ -2666,7 +2666,7 @@ Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert K
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
 
 #### Weiterführende Links
 
@@ -2789,7 +2789,7 @@ Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert 
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
 
 #### Berechnung
 
@@ -2949,7 +2949,7 @@ Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert 
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews. Zeitvergleiche der Ergebnisse zwischen der GEDA-Welle 2014/2015-EHIS und den übrigen Wellen sollten aufgrund von Unterschieden in der Stichprobenziehung sowie Unterschieden im Erhebungsmodus vorsichtig interpretiert werden.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews. Zeitvergleiche der Ergebnisse zwischen der GEDA-Welle 2014/2015-EHIS und den übrigen Wellen sollten aufgrund von Unterschieden in der Stichprobenziehung sowie Unterschieden im Erhebungsmodus vorsichtig interpretiert werden.
 
 #### Berechnung
 
@@ -3056,7 +3056,7 @@ Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert 
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
 
 #### Weiterführende Links
 
@@ -3400,7 +3400,7 @@ Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert K
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
 
 #### Weiterführende Links
 
@@ -3701,7 +3701,7 @@ Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert 
 
 Die Befragungssurveys des RKI liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Die Daten beruhen auf zufälligen Stichproben aus der Bevölkerung, was die Aussagekraft der Ergebnisse deutlich erhöht. Wie bei allen bevölkerungsbezogenen Studien ist jedoch davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Andererseits könnten Personen mit einem starken Interesse an Gesundheitsthemen überrepräsentiert sein. Diese Effekte werden teilweise durch die unten beschriebenen Gewichtungsverfahren ausgeglichen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
 
-Für das RKI-Panel beruhen die Stichproben auf Einwohnermeldeamtsstichproben anstelle von Telefonstichproben. Zudem wechselte der Erhebungsmodus von Telefoninterview zu webbasiertem oder schriftlichem Fragebogen. Der veränderte Stichprobenzugang führte zu einer höheren Beteiligung von Personen aus der niedrigen Bildungsgruppe und Personen mit gesundheitlichen Einschränkungen. Der Wechsel zu einem schriftlichen Fragebogen verbessert in der Regel die Datenqualität, da es am Telefon schwierig ist, komplexe Fragen zu beantworten, und müsste die Effekte sozialer Erwünschtheit verringern, sodass bei sensiblen Fragen mit offeneren Antworten gerechnet werden kann. Zeitvergleiche der Ergebnisse zwischen dem RKI-Panel mit anderen GEDA-Erhebungen sollten daher vorsichtig interpretiert werden.
+Für das RKI-Panel „Gesundheit in Deutschland“ beruht die Stichprobe auf einer Einwohnermeldeamtsstichprobe anstelle einer Telefonstichprobe. Zudem wechselte der Erhebungsmodus von Telefoninterview zu webbasiertem oder schriftlichem Fragebogen. Der veränderte Stichprobenzugang führte zu einer höheren Beteiligung von Personen aus der niedrigen Bildungsgruppe und Personen mit gesundheitlichen Einschränkungen. Der Wechsel zu einem schriftlichen Fragebogen verbessert in der Regel die Datenqualität, da es am Telefon schwierig ist, komplexe Fragen zu beantworten, und müsste die Effekte sozialer Erwünschtheit verringern, sodass bei sensiblen Fragen mit offeneren Antworten gerechnet werden kann. Zeitvergleiche der Ergebnisse zwischen dem RKI-Panel und anderen Erhebungen sollten daher vorsichtig interpretiert werden.
 
 #### Berechnung
 
@@ -3769,7 +3769,7 @@ Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert K
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
 
 #### Berechnung
 
@@ -3825,7 +3825,7 @@ Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert K
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
 
 #### Weiterführende Links
 
@@ -3913,7 +3913,7 @@ Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert 
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews. Zeitvergleiche der Ergebnisse zwischen der GEDA-Welle 2014/2015-EHIS und den übrigen Wellen sollten aufgrund von Unterschieden in der Stichprobenziehung sowie Unterschieden im Erhebungsmodus vorsichtig interpretiert werden.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews. Zeitvergleiche der Ergebnisse zwischen der GEDA-Welle 2014/2015-EHIS und den übrigen Wellen sollten aufgrund von Unterschieden in der Stichprobenziehung sowie Unterschieden im Erhebungsmodus vorsichtig interpretiert werden.
 
 #### Berechnung
 
@@ -3984,7 +3984,7 @@ Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert 
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
 
 #### Berechnung
 
@@ -4077,7 +4077,7 @@ Die Ergebnisse basieren auf folgendem bundesweiten Befragungssurvey des Robert K
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews.
 
 #### Weiterführende Links
 
@@ -4144,7 +4144,7 @@ Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert 
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews. Zeitvergleiche der Ergebnisse zwischen der GEDA-Welle 2014/2015-EHIS und den übrigen Wellen sollten aufgrund von Unterschieden in der Stichprobenziehung sowie Unterschieden im Erhebungsmodus vorsichtig interpretiert werden.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews. Zeitvergleiche der Ergebnisse zwischen der GEDA-Welle 2014/2015-EHIS und den übrigen Wellen sollten aufgrund von Unterschieden in der Stichprobenziehung sowie Unterschieden im Erhebungsmodus vorsichtig interpretiert werden.
 
 #### Berechnung
 
@@ -4211,7 +4211,7 @@ Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert 
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews. Zeitvergleiche der Ergebnisse zwischen der GEDA-Welle 2014/2015-EHIS und den übrigen Wellen sollten aufgrund von Unterschieden in der Stichprobenziehung sowie Unterschieden im Erhebungsmodus vorsichtig interpretiert werden.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews. Zeitvergleiche der Ergebnisse zwischen der GEDA-Welle 2014/2015-EHIS und den übrigen Wellen sollten aufgrund von Unterschieden in der Stichprobenziehung sowie Unterschieden im Erhebungsmodus vorsichtig interpretiert werden.
 
 #### Berechnung
 
@@ -4249,7 +4249,7 @@ Die Erfassung von Krankenhausaufenthalten basiert auf Selbstangaben der Befragte
 GEDA 2009, GEDA 2010, GEDA 2012:
 
 * „Wie viele Nächte haben Sie in den letzten 12 Monaten in Krankenhaus gelegen? Hinweis: Wir meinen als Patient, nicht als Begleitung.“
-* Alle Angaben >= 1 Nacht wurden als Krankenhausaufenthalt gezählt.
+* Alle Angaben ≥&nbsp;1 Nacht wurden als Krankenhausaufenthalt gezählt.
 
 GEDA 2014/2015-EHIS
 
@@ -4291,7 +4291,7 @@ Die Ergebnisse basieren auf folgenden bundesweiten Befragungssurveys des Robert 
 
 #### Datenqualität
 
-Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit Beeinträchtigungen und Behinderungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews. Zeitvergleiche der Ergebnisse zwischen der GEDA-Welle 2014/2015-EHIS und den übrigen Wellen sollten aufgrund von Unterschieden in der Stichprobenziehung sowie Unterschieden im Erhebungsmodus vorsichtig interpretiert werden.
+Die RKI-Befragungssurveys liefern repräsentative Ergebnisse für die deutschsprachige Wohnbevölkerung Deutschlands ab 18 Jahren in Privathaushalten. Wie bei allen bevölkerungsbezogenen Studien ist davon auszugehen, dass einige Personengruppen unterrepräsentiert sind, wie Personen der niedrigen Bildungsgruppe, Menschen mit Migrationsgeschichte oder Menschen mit gesundheitlichen Einschränkungen. Darüber hinaus basieren alle Informationen auf Selbstangaben und nicht auf ärztlichen Interviews. Zeitvergleiche der Ergebnisse zwischen der GEDA-Welle 2014/2015-EHIS und den übrigen Wellen sollten aufgrund von Unterschieden in der Stichprobenziehung sowie Unterschieden im Erhebungsmodus vorsichtig interpretiert werden.
 
 #### Berechnung
 

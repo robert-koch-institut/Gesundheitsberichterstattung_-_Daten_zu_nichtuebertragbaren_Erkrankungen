@@ -1,15 +1,21 @@
 {
   "title": "Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen",
-  "description": "<p>Im Datensatz &quot;Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen&quot; des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 69 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel &quot;Gesundheit in Deutschland&quot; und die Studie &quot;Gesundheit in Deutschland aktuell&quot; (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten.</p>\n",
+  "description": "<p>Im Datensatz \"Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen\" des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 78 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel \"Gesundheit in Deutschland\" und die Studie \"Gesundheit in Deutschland aktuell\" (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten.</p>",
   "resource_type": {
     "id": "dataset"
   },
-  "publication_date": "2026-03-03",
+  "publication_date": "2026-06-10",
   "creators": [
     {
       "person_or_org": {
         "type": "organizational",
-        "name": "Robert Koch-Institut"
+        "name": "Robert Koch-Institut",
+        "identifiers": [
+          {
+            "scheme": "ror",
+            "identifier": "01k5qnb77"
+          }
+        ]
       }
     }
   ],
@@ -95,13 +101,35 @@
       "role": {
         "id": "researcher"
       }
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Lange",
+        "given_name": "Michael",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0009-0008-8932-7566"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
+        }
+      ],
+      "role": {
+        "id": "researcher"
+      }
     }
   ],
   "publisher": "Zenodo",
-  "version": "2026-03-03",
+  "version": "2026-06-10",
   "dates": [
     {
-      "date": "2026-03-03T14:09:42+01:00",
+      "date": "2026-06-10T10:48:31+02:00",
       "type": {
         "id": "created"
       },
@@ -706,6 +734,30 @@
     },
     {
       "subject": "Krebserkrankungen"
+    },
+    {
+      "subject": "Hypertension"
+    },
+    {
+      "subject": "Bluthochdruck"
+    },
+    {
+      "subject": "Subjective Stress"
+    },
+    {
+      "subject": "Subjektiver Stress"
+    },
+    {
+      "subject": "Health Literacy"
+    },
+    {
+      "subject": "Gesundheitskompetenz"
+    },
+    {
+      "subject": "Lung Neoplasms"
+    },
+    {
+      "subject": "Lungenkrebs"
     },
     {
       "subject": "Mobility Limitation"
