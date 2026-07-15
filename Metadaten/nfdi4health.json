@@ -6,7 +6,7 @@
     "descriptions": [
       {
         "language": "DE (German)",
-        "text": "Im Datensatz \"Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen\" des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 78 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel \"Gesundheit in Deutschland\" und die Studie \"Gesundheit in Deutschland aktuell\" (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten."
+        "text": "Im Datensatz \"Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen\" des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 90 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel \"Gesundheit in Deutschland\" und die Studie \"Gesundheit in Deutschland aktuell\" (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten."
       }
     ],
     "titles": [
@@ -17,7 +17,7 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.20393248",
+        "identifier": "10.5281/zenodo.21242132",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
@@ -795,10 +795,6 @@
         "code": "http://id.nlm.nih.gov/mesh/D009369"
       },
       {
-        "label": "Krebserkrankungen",
-        "code": "http://id.nlm.nih.gov/mesh/D009369"
-      },
-      {
         "label": "Hypertension",
         "code": "http://id.nlm.nih.gov/mesh/D006973"
       },
@@ -853,6 +849,150 @@
       {
         "label": "Soziale Deprivation",
         "code": "http://id.nlm.nih.gov/mesh/D000091489"
+      },
+      {
+        "label": "Disability-adjusted life years",
+        "code": "http://id.nlm.nih.gov/mesh/D000087509"
+      },
+      {
+        "label": "DALY",
+        "code": "http://id.nlm.nih.gov/mesh/D000087509"
+      },
+      {
+        "label": "Global Burden of Disease",
+        "code": "http://id.nlm.nih.gov/mesh/D000071219"
+      },
+      {
+        "label": "Globale Krankheitslast",
+        "code": "http://id.nlm.nih.gov/mesh/D000071219"
+      },
+      {
+        "label": "Climate Change",
+        "code": "http://id.nlm.nih.gov/mesh/D057231"
+      },
+      {
+        "label": "Klimawandel",
+        "code": "http://id.nlm.nih.gov/mesh/D057231"
+      },
+      {
+        "label": "Ultraviolet Rays",
+        "code": "http://id.nlm.nih.gov/mesh/D014466"
+      },
+      {
+        "label": "UV-Strahlen",
+        "code": "http://id.nlm.nih.gov/mesh/D014466"
+      },
+      {
+        "label": "Extreme Weather",
+        "code": "http://id.nlm.nih.gov/mesh/D000080165"
+      },
+      {
+        "label": "Extremwetter",
+        "code": "http://id.nlm.nih.gov/mesh/D000080165"
+      },
+      {
+        "label": "Tick-Borne Diseases",
+        "code": "http://id.nlm.nih.gov/mesh/D017282"
+      },
+      {
+        "label": "Zeckenübertragene Erkrankungen",
+        "code": "http://id.nlm.nih.gov/mesh/D017282"
+      },
+      {
+        "label": "Mosquito-Borne Diseases",
+        "code": "http://id.nlm.nih.gov/mesh/D000096724"
+      },
+      {
+        "label": "Mückenübertragene Erkrankungen",
+        "code": "http://id.nlm.nih.gov/mesh/D000096724"
+      },
+      {
+        "label": "Vector Borne Diseases",
+        "code": "http://id.nlm.nih.gov/mesh/D000079426"
+      },
+      {
+        "label": "Vektorübertragene Erkrankungen",
+        "code": "http://id.nlm.nih.gov/mesh/D000079426"
+      },
+      {
+        "label": "Foodborne Diseases",
+        "code": "http://id.nlm.nih.gov/mesh/D005517"
+      },
+      {
+        "label": "Lebensmittelübertragene Erkrankungen",
+        "code": "http://id.nlm.nih.gov/mesh/D005517"
+      },
+      {
+        "label": "Waterborne Diseases",
+        "code": "http://id.nlm.nih.gov/mesh/D000069578"
+      },
+      {
+        "label": "Wasserbürtige Erkrankungen",
+        "code": "http://id.nlm.nih.gov/mesh/D000069578"
+      },
+      {
+        "label": "Allergens",
+        "code": "http://id.nlm.nih.gov/mesh/D000485"
+      },
+      {
+        "label": "Allergene",
+        "code": "http://id.nlm.nih.gov/mesh/D000485"
+      },
+      {
+        "label": "Extreme Heat",
+        "code": "http://id.nlm.nih.gov/mesh/D055874"
+      },
+      {
+        "label": "Extreme Hitze",
+        "code": "http://id.nlm.nih.gov/mesh/D055874"
+      },
+      {
+        "label": "Dyslipidemias",
+        "code": "http://id.nlm.nih.gov/mesh/D050171"
+      },
+      {
+        "label": "Fettstoffwechselstörungen",
+        "code": "http://id.nlm.nih.gov/mesh/D050171"
+      },
+      {
+        "label": "Pediatric Obesity",
+        "code": "http://id.nlm.nih.gov/mesh/D063766"
+      },
+      {
+        "label": "Adipositas bei Kindern",
+        "code": "http://id.nlm.nih.gov/mesh/D063766"
+      },
+      {
+        "label": "Social Discrimination",
+        "code": "http://id.nlm.nih.gov/mesh/D063508"
+      },
+      {
+        "label": "Soziale Diskriminierung",
+        "code": "http://id.nlm.nih.gov/mesh/D063508"
+      },
+      {
+        "label": "Work",
+        "code": "http://id.nlm.nih.gov/mesh/D014937"
+      },
+      {
+        "label": "Arbeit",
+        "code": "http://id.nlm.nih.gov/mesh/D014937"
+      },
+      {
+        "label": "Occupational Diseases",
+        "code": "http://id.nlm.nih.gov/mesh/D009784"
+      },
+      {
+        "label": "Berufskrankheiten",
+        "code": "http://id.nlm.nih.gov/mesh/D009784"
+      },
+      {
+        "label": "Gender Equity",
+        "code": "http://id.nlm.nih.gov/mesh/D000084803"
+      },
+      {
+        "label": "Geschlechtergerechtigkeit",
+        "code": "http://id.nlm.nih.gov/mesh/D000084803"
       }
     ],
     "languages": [
@@ -868,7 +1008,7 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2026-06-10"
+      "version": "2026-07-15"
     },
     "webpage": "https://robert-koch-institut.github.io/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen",
     "contributors": [

@@ -6,14 +6,14 @@ abstract: Im Datensatz "Gesundheitsberichterstattung - Daten zu nichtübertragba
   zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem
   besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus,
   Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren.
-  Der Datensatz umfasst aktuell 78 interaktiv visualisierte Indikatoren, die epidemiologische
+  Der Datensatz umfasst aktuell 90 interaktiv visualisierte Indikatoren, die epidemiologische
   Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen
   abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden.
   Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das
   Panel "Gesundheit in Deutschland" und die Studie "Gesundheit in Deutschland aktuell"
   (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte
   Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten.
-date-released: '2026-06-10'
+date-released: '2026-07-15'
 keywords:
   - Bevölkerungsgesundheit
   - Chronische Krankheit
@@ -206,7 +206,6 @@ keywords:
   - Germany
   - Cancer
   - Neoplasm
-  - Krebserkrankungen
   - Hypertension
   - Bluthochdruck
   - Subjective Stress
@@ -221,11 +220,47 @@ keywords:
   - Gesundes Altern
   - Social Deprivation
   - Soziale Deprivation
+  - Disability-adjusted life years
+  - DALY
+  - Global Burden of Disease
+  - Globale Krankheitslast
+  - Climate Change
+  - Klimawandel
+  - Ultraviolet Rays
+  - UV-Strahlen
+  - Extreme Weather
+  - Extremwetter
+  - Tick-Borne Diseases
+  - Zeckenübertragene Erkrankungen
+  - Mosquito-Borne Diseases
+  - Mückenübertragene Erkrankungen
+  - Vector Borne Diseases
+  - Vektorübertragene Erkrankungen
+  - Foodborne Diseases
+  - Lebensmittelübertragene Erkrankungen
+  - Waterborne Diseases
+  - Wasserbürtige Erkrankungen
+  - Allergens
+  - Allergene
+  - Extreme Heat
+  - Extreme Hitze
+  - Dyslipidemias
+  - Fettstoffwechselstörungen
+  - Pediatric Obesity
+  - Adipositas bei Kindern
+  - Social Discrimination
+  - Soziale Diskriminierung
+  - Work
+  - Arbeit
+  - Occupational Diseases
+  - Berufskrankheiten
+  - Gender Equity
+  - Geschlechtergerechtigkeit
 message: Cite me!
 url: https://robert-koch-institut.github.io/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen
 license: CC-BY-4.0
-doi: 10.5281/zenodo.20393248
-version: '2026-06-10T10:48:31+02:00'
+doi: 10.5281/zenodo.21242132
+version: '2026-07-15T15:30:14+02:00'
 authors:
   - name: Robert Koch-Institut
     email: info@rki.de

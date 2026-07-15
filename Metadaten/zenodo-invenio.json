@@ -1,10 +1,10 @@
 {
   "title": "Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen",
-  "description": "<p>Im Datensatz \"Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen\" des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 78 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel \"Gesundheit in Deutschland\" und die Studie \"Gesundheit in Deutschland aktuell\" (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten.</p>",
+  "description": "<p>Im Datensatz \"Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen\" des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 90 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel \"Gesundheit in Deutschland\" und die Studie \"Gesundheit in Deutschland aktuell\" (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten.</p>",
   "resource_type": {
     "id": "dataset"
   },
-  "publication_date": "2026-06-10",
+  "publication_date": "2026-07-15",
   "creators": [
     {
       "person_or_org": {
@@ -126,10 +126,10 @@
     }
   ],
   "publisher": "Zenodo",
-  "version": "2026-06-10",
+  "version": "2026-07-15",
   "dates": [
     {
-      "date": "2026-06-10T10:48:31+02:00",
+      "date": "2026-07-15T15:30:14+02:00",
       "type": {
         "id": "created"
       },
@@ -733,9 +733,6 @@
       "subject": "Neoplasm"
     },
     {
-      "subject": "Krebserkrankungen"
-    },
-    {
       "subject": "Hypertension"
     },
     {
@@ -776,6 +773,114 @@
     },
     {
       "subject": "Soziale Deprivation"
+    },
+    {
+      "subject": "Disability-adjusted life years"
+    },
+    {
+      "subject": "DALY"
+    },
+    {
+      "subject": "Global Burden of Disease"
+    },
+    {
+      "subject": "Globale Krankheitslast"
+    },
+    {
+      "subject": "Climate Change"
+    },
+    {
+      "subject": "Klimawandel"
+    },
+    {
+      "subject": "Ultraviolet Rays"
+    },
+    {
+      "subject": "UV-Strahlen"
+    },
+    {
+      "subject": "Extreme Weather"
+    },
+    {
+      "subject": "Extremwetter"
+    },
+    {
+      "subject": "Tick-Borne Diseases"
+    },
+    {
+      "subject": "Zeckenübertragene Erkrankungen"
+    },
+    {
+      "subject": "Mosquito-Borne Diseases"
+    },
+    {
+      "subject": "Mückenübertragene Erkrankungen"
+    },
+    {
+      "subject": "Vector Borne Diseases"
+    },
+    {
+      "subject": "Vektorübertragene Erkrankungen"
+    },
+    {
+      "subject": "Foodborne Diseases"
+    },
+    {
+      "subject": "Lebensmittelübertragene Erkrankungen"
+    },
+    {
+      "subject": "Waterborne Diseases"
+    },
+    {
+      "subject": "Wasserbürtige Erkrankungen"
+    },
+    {
+      "subject": "Allergens"
+    },
+    {
+      "subject": "Allergene"
+    },
+    {
+      "subject": "Extreme Heat"
+    },
+    {
+      "subject": "Extreme Hitze"
+    },
+    {
+      "subject": "Dyslipidemias"
+    },
+    {
+      "subject": "Fettstoffwechselstörungen"
+    },
+    {
+      "subject": "Pediatric Obesity"
+    },
+    {
+      "subject": "Adipositas bei Kindern"
+    },
+    {
+      "subject": "Social Discrimination"
+    },
+    {
+      "subject": "Soziale Diskriminierung"
+    },
+    {
+      "subject": "Work"
+    },
+    {
+      "subject": "Arbeit"
+    },
+    {
+      "subject": "Occupational Diseases"
+    },
+    {
+      "subject": "Berufskrankheiten"
+    },
+    {
+      "subject": "Gender Equity"
+    },
+    {
+      "subject": "Geschlechtergerechtigkeit"
     }
   ],
   "custom_fields": {
