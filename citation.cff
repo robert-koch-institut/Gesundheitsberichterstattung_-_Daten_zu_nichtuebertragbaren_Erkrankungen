@@ -1,19 +1,20 @@
 cff-version: 1.2.0
 type: dataset
 title: Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen
-abstract: Im Datensatz "Gesundheitsberichterstattung - Daten zu nichtübertragbaren
-  Erkrankungen" des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten
-  zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem
-  besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus,
-  Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren.
-  Der Datensatz umfasst aktuell 90 interaktiv visualisierte Indikatoren, die epidemiologische
-  Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen
-  abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden.
-  Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das
-  Panel "Gesundheit in Deutschland" und die Studie "Gesundheit in Deutschland aktuell"
-  (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte
-  Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten.
-date-released: '2026-07-15'
+abstract: >-
+  Im Datensatz "Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen"
+  des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen
+  Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf
+  nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen,
+  Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst
+  aktuell 90 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen
+  beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und
+  nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen
+  der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel "Gesundheit
+  in Deutschland" und die Studie "Gesundheit in Deutschland aktuell" (GEDA), sowie
+  auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage
+  für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten.
+date-released: '2026-09-23'
 keywords:
   - Bevölkerungsgesundheit
   - Chronische Krankheit
@@ -259,8 +260,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen
 license: CC-BY-4.0
-doi: 10.5281/zenodo.21242132
-version: '2026-07-15T15:30:14+02:00'
+doi: 10.5281/zenodo.22130208
+version: '2026-09-23'
 authors:
   - name: Robert Koch-Institut
     email: info@rki.de

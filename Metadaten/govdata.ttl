@@ -5,13 +5,13 @@ PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 PREFIX vcard: <http://www.w3.org/2006/vcard/ns#>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
-<https://zenodo.org/record/21242132>
+<https://zenodo.org/record/22130208>
     a dcat:Dataset ;
-    dcatde:contributor <https://zenodo.org/record/21242132#author-1> ;
+    dcatde:contributor <https://zenodo.org/record/22130208#author-1> ;
     dcatde:contributorID <http://dcat-ap.de/def/contributors/robertKochInstitut> ;
     dct:description "<p>Im Datensatz \"Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen\" des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 90 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel \"Gesundheit in Deutschland\" und die Studie \"Gesundheit in Deutschland aktuell\" (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten.</p>" ;
-    dct:issued "2026-07-15T15:30:14+02:00"^^xsd:dateTime ;
-    dct:modified "2026-07-15T15:30:14+02:00"^^xsd:dateTime ;
+    dct:issued "2026-09-23T11:48:19+02:00"^^xsd:dateTime ;
+    dct:modified "2026-09-23T11:48:19+02:00"^^xsd:dateTime ;
     dct:publisher
         [
             a foaf:Organization ;
@@ -30,9 +30,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
             vcard:hasStreetAddress "Nordufer 20" ;
         ] ;
     dcat:distribution
-        <https://zenodo.org/record/21242132#dist-01-github> ,
-        <https://zenodo.org/record/21242132#dist-02-zenodo> ,
-        <https://zenodo.org/record/21242132#dist-03-zenodo-documentation> ;
+        <https://zenodo.org/record/22130208#dist-01-github> ,
+        <https://zenodo.org/record/22130208#dist-02-zenodo> ,
+        <https://zenodo.org/record/22130208#dist-03-zenodo-documentation> ;
     dcat:keyword
         "Accidents" ,
         "Activities of Daily Living" ,
@@ -273,44 +273,44 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         <http://publications.europa.eu/resource/authority/data-theme/TECH> ;
 .
 
-<https://zenodo.org/record/21242132#author-1>
+<https://zenodo.org/record/22130208#author-1>
     a foaf:Organization ;
     foaf:name "Robert Koch-Institut" ;
 .
 
-<https://zenodo.org/record/21242132#dist-01-github>
+<https://zenodo.org/record/22130208#dist-01-github>
     a dcat:Distribution ;
-    dcatde:licenseAttributionByText "Robert Koch-Institut. (2026). Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21242132" ;
+    dcatde:licenseAttributionByText "Robert Koch-Institut. (2026). Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22130208" ;
     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
     dct:description "GitHub ist eine soziales Netzwerk und Plattform, die es ermöglicht, Code-Repositories und Datensätze zu hosten, zu verwalten und zu teilen. Es bietet eine Vielzahl von Funktionen wie Versionskontrolle, Fehlerverfolgung, Zusammenarbeit und Teammanagement. GitHub ist eine der bekanntesten und am häufigsten verwendeten Plattformen für die gemeinsame Entwicklung von Software und Code, insbesondere für Open-Source-Projekte." ;
     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
     dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
-    dct:modified "2026-07-15T15:30:14+02:00"^^xsd:dateTime ;
+    dct:modified "2026-09-23T11:48:19+02:00"^^xsd:dateTime ;
     dct:title "Github - Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen" ;
     dcat:accessURL <https://github.com/robert-koch-institut/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen> ;
 .
 
-<https://zenodo.org/record/21242132#dist-02-zenodo>
+<https://zenodo.org/record/22130208#dist-02-zenodo>
     a dcat:Distribution ;
-    dcatde:licenseAttributionByText "Robert Koch-Institut. (2026). Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21242132" ;
+    dcatde:licenseAttributionByText "Robert Koch-Institut. (2026). Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22130208" ;
     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
     dct:description "Zenodo ist eine europäische Plattform, die es Forschern, Wissenschaftlern und anderen Personen ermöglicht, Forschungsdaten, Publikationen, Präsentationen und andere wissenschaftliche Inhalte kostenlos zu teilen und zu veröffentlichen. Eine der Hauptstärken von Zenodo ist die Bereitstellung der Daten nach den FAIR Prinzipien, Daten sind langzeitarchiviert und wissenschaftlich zitierbar, um den Datenaustausch und die Zusammenarbeit zwischen Forschern zu erleichtern." ;
     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
     dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
-    dct:modified "2026-07-15T15:30:14+02:00"^^xsd:dateTime ;
+    dct:modified "2026-09-23T11:48:19+02:00"^^xsd:dateTime ;
     dct:title "Zenodo - Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen" ;
-    dcat:accessURL <https://zenodo.org/record/21242132> ;
+    dcat:accessURL <https://zenodo.org/record/22130208> ;
 .
 
-<https://zenodo.org/record/21242132#dist-03-zenodo-documentation>
+<https://zenodo.org/record/22130208#dist-03-zenodo-documentation>
     a dcat:Distribution ;
-    dcatde:licenseAttributionByText "Robert Koch-Institut. (2026). Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21242132" ;
+    dcatde:licenseAttributionByText "Robert Koch-Institut. (2026). Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22130208" ;
     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
     dct:description "Die Datensatzdokumentation enthält Informationen und Hinweise zum Entstehungskontext, dem Aufbau und der Nachnutzung der im Datensatz 'Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen' bereitgestellten Daten" ;
     dct:format <http://publications.europa.eu/resource/authority/file-type/PDF> ;
     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
     dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
-    dct:modified "2026-07-15T15:30:14+02:00"^^xsd:dateTime ;
+    dct:modified "2026-09-23T11:48:19+02:00"^^xsd:dateTime ;
     dct:title "[Dokumentation]_Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen.pdf" ;
-    dcat:accessURL <https://zenodo.org/record/21242132/files/[Dokumentation]_Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen.pdf> ;
+    dcat:accessURL <https://zenodo.org/record/22130208/files/[Dokumentation]_Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen.pdf> ;
 .

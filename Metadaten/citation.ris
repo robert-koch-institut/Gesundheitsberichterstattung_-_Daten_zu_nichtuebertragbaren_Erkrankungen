@@ -1,0 +1,252 @@
+TY  - DATA
+AB  - Im Datensatz "Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen" des Robert Koch-Instituts (RKI) werden regelmäßig umfassende Daten zur gesundheitlichen Lage der Bevölkerung in Deutschland bereitgestellt, mit einem besonderen Fokus auf nichtübertragbare Erkrankungen (NCD) wie Diabetes mellitus, Herz-Kreislauf-Erkrankungen, Krebs und psychische Störungen sowie deren Einflussfaktoren. Der Datensatz umfasst aktuell 90 interaktiv visualisierte Indikatoren, die epidemiologische Kennzahlen beispielsweise zur Häufigkeit von Erkrankungen oder Verhaltensweisen abbilden und nach verschiedenen soziodemografischen Kriterien ausgewertet werden. Datenquellen der Indikatoren sind die Gesundheitsstudien des RKI, zum Beispiel das Panel "Gesundheit in Deutschland" und die Studie "Gesundheit in Deutschland aktuell" (GEDA), sowie auch amtliche Statistiken. Ziel des Projekts ist es, eine evidenzbasierte Grundlage für Präventionsmaßnahmen und gesundheitspolitische Entscheidungen zu bieten.
+AU  - Robert Koch-Institut
+DA  - 2026-09-23
+DO  - 10.5281/zenodo.22130208
+KW  - Bevölkerungsgesundheit
+KW  - Chronische Krankheit
+KW  - Diabetes mellitus
+KW  - Diät, Lebensmittel und Ernährung
+KW  - Gesundheitsverhalten
+KW  - Gesundheitsversorgung
+KW  - Gesundheitszustand
+KW  - Gesundheitsberichterstattung
+KW  - Herz-Kreislauf-Krankheiten
+KW  - Körpergewicht
+KW  - Krebs
+KW  - Nichtübertragbare Krankheiten
+KW  - Psychische Störungen
+KW  - Rauchen
+KW  - Soziale Gesundheitsdeterminanten
+KW  - Todesursache
+KW  - Öffentliche Berichterstattung über Gesundheitsdaten
+KW  - RKI
+KW  - Open Data
+KW  - Public Health
+KW  - Adipositas
+KW  - Aktivitäten des täglichen Lebens
+KW  - Alkoholkonsum
+KW  - Ambulante Behandlung
+KW  - Amputation
+KW  - Angst
+KW  - Angststörungen
+KW  - Arbeitslosigkeit
+KW  - Armut
+KW  - Asthma
+KW  - Deutschland
+KW  - Atemwegskrankheiten
+KW  - Ausbildungsstand
+KW  - Bewegungsarme Lebensweise
+KW  - Krebserkrankungen
+KW  - Brustkrebs
+KW  - Mobility Limitation
+KW  - Chronisch obstruktive Lungenerkrankung
+KW  - Mobilitätseinschränkung
+KW  - Depression
+KW  - Healthy Aging
+KW  - Depressive Störung
+KW  - Gesundes Altern
+KW  - Diabeteskomplikationen
+KW  - Social Deprivation
+KW  - Erziehung und Ausbildung
+KW  - Soziale Deprivation
+KW  - Fleisch
+KW  - Früchte
+KW  - Früherkennung von Krebs
+KW  - Gedächtnisstörungen
+KW  - Gemüse
+KW  - Gesundheitsausgaben
+KW  - Gesundheitsförderung
+KW  - Gesundheitspolitik
+KW  - Gesundheitszustandsindikatoren
+KW  - Grippevakzine
+KW  - Hauspflegedienste
+KW  - Impfung
+KW  - Kognitive Dysfunktion
+KW  - Kolorektale Tumoren
+KW  - Koronararterienerkrankung
+KW  - Krankenhauseinweisung
+KW  - Krankenpflegewesen
+KW  - Krankheiten des Bewegungsapparates
+KW  - Körperliches Training
+KW  - Langzeitbehandlung
+KW  - Lebenserwartung
+KW  - Lungenkrankheiten, obstruktive
+KW  - Medizinische Grundversorgung
+KW  - Mortalität
+KW  - Nahrungsaufnahmeverhalten
+KW  - Osteoarthrose
+KW  - Primärprävention
+KW  - Qualität des Gesundheitswesens
+KW  - Rauschtrinken
+KW  - Risikofaktoren
+KW  - Risikofaktoren für Herzkrankheiten
+KW  - Schlaganfall
+KW  - Sekundärprävention
+KW  - Soziale Faktoren
+KW  - Soziale Unterstützung
+KW  - Soziales Umfeld
+KW  - Sozialökonomische Faktoren
+KW  - Steuern
+KW  - Tabak rauchen
+KW  - Tumoren
+KW  - Umwelthygiene
+KW  - Unfallbedingte Stürze
+KW  - Unfälle
+KW  - Verhalten bei Gesundheitsrisiken
+KW  - Verschmutzung mit Tabakrauch
+KW  - Wohnung
+KW  - Zahnmedizinische Versorgung
+KW  - Zuckergesüßte Getränke
+KW  - Öffentliches Gesundheitswesen
+KW  - Ökonomie
+KW  - Übergewicht
+KW  - Offene Daten
+KW  - Accidents
+KW  - Activities of Daily Living
+KW  - Alcohol Drinking
+KW  - Ambulatory Care
+KW  - Amputation
+KW  - Anxiety
+KW  - Anxiety Disorders
+KW  - Asthma
+KW  - Binge Drinking
+KW  - Body Weight
+KW  - Breast Neoplasms
+KW  - Cardiovascular Diseases
+KW  - Cause of Death
+KW  - Chronic Disease
+KW  - Cognitive Dysfunction
+KW  - Colorectal Neoplasms
+KW  - Consumer Price Index
+KW  - Coronary Artery Disease
+KW  - Delivery of Health Care
+KW  - Dental Care
+KW  - Depression
+KW  - Depressive Disorder
+KW  - Diabetes Complications
+KW  - Diabetes Mellitus
+KW  - Diet, Food, and Nutrition
+KW  - Dietary Behavior
+KW  - Early Detection of Cancer
+KW  - Education
+KW  - Educational status
+KW  - Environmental Health
+KW  - Falls
+KW  - Fruit
+KW  - Gestational Diabetes Mellitus
+KW  - Schwangerschaftsdiabetes
+KW  - Health Behavior
+KW  - Health Expenditures
+KW  - Health Inequities
+KW  - Health Policy
+KW  - Health Promotion
+KW  - Health Risk Behaviors
+KW  - Health Status
+KW  - Health Status Indicators
+KW  - Heart Disease Risk Factors
+KW  - Home Care Services
+KW  - Hospitalization
+KW  - Housing
+KW  - Influenza Vaccines
+KW  - Life Expectancy
+KW  - Long-Term Care
+KW  - Meat
+KW  - Memory Disorders
+KW  - Mental Disorders
+KW  - Mortality
+KW  - Musculoskeletal Diseases
+KW  - Neoplasms
+KW  - Noncommunicable diseases
+KW  - Nursing
+KW  - Obesity
+KW  - Obstructive Lung Disease
+KW  - Osteoarthritis
+KW  - Overweight
+KW  - Physical Activity
+KW  - Population Health
+KW  - Poverty
+KW  - Primary Health Care
+KW  - Primary Prevention
+KW  - Public Health Surveillance
+KW  - Public Reporting of Healthcare Data
+KW  - Pulmonary Disease, Chronic Obstructive
+KW  - Quality of Health Care
+KW  - Respiratory Tract Diseases
+KW  - Risk Factors
+KW  - Secondary Prevention
+KW  - Secondhand Smoke
+KW  - Sedentary Behavior
+KW  - Smoking
+KW  - Social Determinants of Health
+KW  - Social Environment
+KW  - Social Factors
+KW  - Social Support
+KW  - Socioeconomic Factors
+KW  - Stroke
+KW  - Sugar-Sweetened Beverages
+KW  - Taxes
+KW  - Tobacco Control
+KW  - Tobacco Smoking
+KW  - Unemployment
+KW  - Vaccination
+KW  - Vegetables
+KW  - Germany
+KW  - Cancer
+KW  - Neoplasm
+KW  - Hypertension
+KW  - Bluthochdruck
+KW  - Subjective Stress
+KW  - Subjektiver Stress
+KW  - Health Literacy
+KW  - Gesundheitskompetenz
+KW  - Lung Neoplasms
+KW  - Lungenkrebs
+KW  - Mobility Limitation
+KW  - Mobilitätseinschränkung
+KW  - Healthy Aging
+KW  - Gesundes Altern
+KW  - Social Deprivation
+KW  - Soziale Deprivation
+KW  - Disability-adjusted life years
+KW  - DALY
+KW  - Global Burden of Disease
+KW  - Globale Krankheitslast
+KW  - Climate Change
+KW  - Klimawandel
+KW  - Ultraviolet Rays
+KW  - UV-Strahlen
+KW  - Extreme Weather
+KW  - Extremwetter
+KW  - Tick-Borne Diseases
+KW  - Zeckenübertragene Erkrankungen
+KW  - Mosquito-Borne Diseases
+KW  - Mückenübertragene Erkrankungen
+KW  - Vector Borne Diseases
+KW  - Vektorübertragene Erkrankungen
+KW  - Foodborne Diseases
+KW  - Lebensmittelübertragene Erkrankungen
+KW  - Waterborne Diseases
+KW  - Wasserbürtige Erkrankungen
+KW  - Allergens
+KW  - Allergene
+KW  - Extreme Heat
+KW  - Extreme Hitze
+KW  - Dyslipidemias
+KW  - Fettstoffwechselstörungen
+KW  - Pediatric Obesity
+KW  - Adipositas bei Kindern
+KW  - Social Discrimination
+KW  - Soziale Diskriminierung
+KW  - Work
+KW  - Arbeit
+KW  - Occupational Diseases
+KW  - Berufskrankheiten
+KW  - Gender Equity
+KW  - Geschlechtergerechtigkeit
+PY  - 2026
+TI  - Gesundheitsberichterstattung - Daten zu nichtübertragbaren Erkrankungen
+UR  - https://robert-koch-institut.github.io/Gesundheitsberichterstattung_-_Daten_zu_nichtuebertragbaren_Erkrankungen
+ET  - 2026-09-23
+N1  - License: CC-BY-4.0
+ER  -
